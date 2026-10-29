@@ -179,7 +179,6 @@ Some modules may still be evolving; see per-folder READMEs for known limitations
 ## License / ownership
 
 Internship work produced in the context of **Addvocate**.  
-Confirm with the company before making this repository **public**. Private portfolio use is the safer default.
 
 ---
 
