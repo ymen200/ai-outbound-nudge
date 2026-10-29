@@ -1,0 +1,1463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outreach Project - Testing Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+
+        .tabs {
+            display: flex;
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+            overflow-x: auto;
+        }
+
+        .tab {
+            padding: 15px 25px;
+            cursor: pointer;
+            border: none;
+            background: none;
+            font-size: 14px;
+            font-weight: 600;
+            color: #6c757d;
+            transition: all 0.3s;
+            white-space: nowrap;
+        }
+
+        .tab:hover {
+            background: #e9ecef;
+            color: #495057;
+        }
+
+        .tab.active {
+            background: white;
+            color: #667eea;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .tab-content {
+            display: none;
+            padding: 30px;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .section-title {
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #667eea;
+        }
+
+        .card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid #e9ecef;
+        }
+
+        .card h3 {
+            color: #495057;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+
+        .status-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .status-item {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            border: 2px solid #e9ecef;
+        }
+
+        .status-item.online {
+            border-color: #28a745;
+            background: #d4edda;
+        }
+
+        .status-item.offline {
+            border-color: #dc3545;
+            background: #f8d7da;
+        }
+
+        .status-indicator {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: #dc3545;
+        }
+
+        .status-item.online .status-indicator {
+            background: #28a745;
+        }
+
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: #218838;
+        }
+
+        .btn-danger {
+            background: #dc3545;
+            color: white;
+        }
+
+        .btn-danger:hover {
+            background: #c82333;
+        }
+
+        .btn-warning {
+            background: #ffc107;
+            color: #212529;
+        }
+
+        .btn-warning:hover {
+            background: #e0a800;
+        }
+
+        .btn-info {
+            background: #17a2b8;
+            color: white;
+        }
+
+        .btn-info:hover {
+            background: #138496;
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 600;
+            color: #495057;
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #e9ecef;
+            border-radius: 6px;
+            font-size: 14px;
+            transition: border-color 0.3s;
+        }
+
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .form-group textarea {
+            min-height: 100px;
+            font-family: 'Courier New', monospace;
+            resize: vertical;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .link-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 15px;
+        }
+
+        .link-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            border: 2px solid #e9ecef;
+            text-decoration: none;
+            color: #333;
+            transition: all 0.3s;
+        }
+
+        .link-card:hover {
+            border-color: #667eea;
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+        }
+
+        .link-card h4 {
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+
+        .link-card p {
+            color: #6c757d;
+            font-size: 0.9em;
+        }
+
+        .response-area {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 20px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            max-height: 400px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            margin-top: 15px;
+        }
+
+        .response-area.success {
+            border: 2px solid #28a745;
+        }
+
+        .response-area.error {
+            border: 2px solid #dc3545;
+        }
+
+        .collapsible {
+            background: #e9ecef;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+
+        .collapsible-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .collapsible-content {
+            display: none;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #dee2e6;
+        }
+
+        .collapsible.open .collapsible-content {
+            display: block;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-right: 5px;
+        }
+
+        .badge-primary {
+            background: #667eea;
+            color: white;
+        }
+
+        .badge-success {
+            background: #28a745;
+            color: white;
+        }
+
+        .badge-warning {
+            background: #ffc107;
+            color: #212529;
+        }
+
+        .badge-danger {
+            background: #dc3545;
+            color: white;
+        }
+
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .metric-card {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            border: 2px solid #e9ecef;
+        }
+
+        .metric-card .value {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .metric-card .label {
+            color: #6c757d;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            padding: 15px 25px;
+            border-radius: 8px;
+            color: white;
+            font-weight: 600;
+            z-index: 1000;
+            animation: slideIn 0.3s ease;
+        }
+
+        .toast.success {
+            background: #28a745;
+        }
+
+        .toast.error {
+            background: #dc3545;
+        }
+
+        .toast.info {
+            background: #17a2b8;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        .quick-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .info-box {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            color: #0c5460;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .info-box h4 {
+            margin-bottom: 10px;
+        }
+
+        .thread-id-display {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            color: #856404;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .thread-id-display strong {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .thread-id-display code {
+            background: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 Outreach Project Testing Dashboard</h1>
+            <p>Complete testing interface for the full outreach pipeline</p>
+        </div>
+
+        <div class="tabs">
+            <button class="tab active" data-tab="services">Services</button>
+            <button class="tab" data-tab="orchestrator">Test Path A (Orchestrator)</button>
+            <button class="tab" data-tab="sequence">Test Path B (Sequence)</button>
+            <button class="tab" data-tab="observability">Observability</button>
+            <button class="tab" data-tab="temporal">Temporal</button>
+            <button class="tab" data-tab="debug">Debug Tools</button>
+        </div>
+
+        <!-- Services Tab -->
+        <div class="tab-content active" id="services">
+            <h2 class="section-title">Service Management</h2>
+            
+            <div class="info-box">
+                <h4>💡 Quick Start</h4>
+                <p>Use the batch file for automated startup, or manage services individually below. The batch file starts all services and opens browser interfaces automatically.</p>
+                <button class="btn btn-primary" onclick="window.open('start_full_testing.bat')">📄 Open start_full_testing.bat</button>
+            </div>
+
+            <div class="card">
+                <h3>Service Status</h3>
+                <div class="status-grid">
+                    <div class="status-item offline" id="status-temporal">
+                        <div class="status-indicator"></div>
+                        <div>
+                            <strong>Temporal Server</strong>
+                            <div>http://localhost:8233</div>
+                        </div>
+                    </div>
+                    <div class="status-item offline" id="status-message">
+                        <div class="status-indicator"></div>
+                        <div>
+                            <strong>Message Generator</strong>
+                            <div>http://localhost:8000</div>
+                        </div>
+                    </div>
+                    <div class="status-item offline" id="status-sequence">
+                        <div class="status-indicator"></div>
+                        <div>
+                            <strong>Sequence Generator</strong>
+                            <div>http://localhost:8001</div>
+                        </div>
+                    </div>
+                    <div class="status-item offline" id="status-orchestrator">
+                        <div class="status-indicator"></div>
+                        <div>
+                            <strong>Orchestrator</strong>
+                            <div>http://localhost:8002</div>
+                        </div>
+                    </div>
+                </div>
+                <button class="btn btn-primary" onclick="checkAllServices()">🔄 Check All Services</button>
+            </div>
+
+            <div class="card">
+                <h3>Browser Interfaces</h3>
+                <div class="link-grid">
+                    <a href="http://localhost:8233" target="_blank" class="link-card">
+                        <h4>Temporal Web UI</h4>
+                        <p>http://localhost:8233</p>
+                    </a>
+                    <a href="http://localhost:8000/docs" target="_blank" class="link-card">
+                        <h4>Message Generator Swagger</h4>
+                        <p>http://localhost:8000/docs</p>
+                    </a>
+                    <a href="http://localhost:8001/docs" target="_blank" class="link-card">
+                        <h4>Sequence Generator Swagger</h4>
+                        <p>http://localhost:8001/docs</p>
+                    </a>
+                    <a href="http://localhost:8002/docs" target="_blank" class="link-card">
+                        <h4>Orchestrator Swagger</h4>
+                        <p>http://localhost:8002/docs</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Manual Service Startup Commands</h3>
+                <div class="collapsible" onclick="toggleCollapsible(this)">
+                    <div class="collapsible-header">
+                        <strong>Temporal Dev Server</strong>
+                        <span>▼</span>
+                    </div>
+                    <div class="collapsible-content">
+                        <code>temporal server start-dev</code>
+                        <p style="margin-top: 10px; color: #6c757d;">Requires Temporal CLI: winget install temporalio.cli</p>
+                    </div>
+                </div>
+                <div class="collapsible" onclick="toggleCollapsible(this)">
+                    <div class="collapsible-header">
+                        <strong>Message Generator (port 8000)</strong>
+                        <span>▼</span>
+                    </div>
+                    <div class="collapsible-content">
+                        <pre>cd "message generator and sender"
+.\venv\Scripts\activate.bat
+python -m uvicorn app.main:app --host 0.0.0.0 --port 8000</pre>
+                    </div>
+                </div>
+                <div class="collapsible" onclick="toggleCollapsible(this)">
+                    <div class="collapsible-header">
+                        <strong>Sequence Generator (port 8001)</strong>
+                        <span>▼</span>
+                    </div>
+                    <div class="collapsible-content">
+                        <pre>cd "sequence generator"
+.\venv\Scripts\activate.bat
+python -m uvicorn scripts.api_server:app --host 0.0.0.0 --port 8001</pre>
+                    </div>
+                </div>
+                <div class="collapsible" onclick="toggleCollapsible(this)">
+                    <div class="collapsible-header">
+                        <strong>Outreach Orchestrator (port 8002)</strong>
+                        <span>▼</span>
+                    </div>
+                    <div class="collapsible-content">
+                        <pre>cd "outreach orchestrator"
+..\venv\Scripts\activate.bat
+python -m uvicorn app.main:app --host 0.0.0.0 --port 8002</pre>
+                    </div>
+                </div>
+                <div class="collapsible" onclick="toggleCollapsible(this)">
+                    <div class="collapsible-header">
+                        <strong>Temporal Worker</strong>
+                        <span>▼</span>
+                    </div>
+                    <div class="collapsible-content">
+                        <pre>cd "sequence generator"
+.\venv\Scripts\activate.bat
+python scripts/worker.py</pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Orchestrator Tab -->
+        <div class="tab-content" id="orchestrator">
+            <h2 class="section-title">Test Path A: Via Orchestrator</h2>
+            
+            <div class="info-box">
+                <h4>📋 About This Path</h4>
+                <p>This simulates what the global orchestrator would send. It exercises the full chain: Orchestrator → Sequence Generator → Message Generator.</p>
+            </div>
+
+            <div class="card">
+                <h3>Step 1: Send Full Pipeline Request</h3>
+                <div class="form-group">
+                    <label>Test Payload (JSON)</label>
+                    <textarea id="orchestrator-payload" rows="20">{
+  "lead_id": "test-lead-001",
+  "campaign_id": "campaign_q2_2026",
+  "entreprise": "Ramp",
+  "contact_info": {
+    "full_name": "Sarah Chen",
+    "nom": "Sarah Chen",
+    "job_title": "VP of Sales",
+    "titre": "VP of Sales",
+    "email": "sarah.chen@ramp.com",
+    "country": "United States",
+    "city": "New York",
+    "location": "New York, United States",
+    "linkedin": "https://linkedin.com/in/sarahchen",
+    "phone": ""
+  },
+  "contexte_web": {
+    "profil_brut": "Sarah is VP of Sales at Ramp, a fintech company. Recently posted about scaling outbound sales teams and experimenting with AI-powered prospecting tools. Active on LinkedIn, engages with sales methodology content.",
+    "offer_context": "AI-powered outreach automation platform that personalizes multi-channel sequences",
+    "icp_description": "B2B SaaS companies with 50-500 employees, sales teams doing outbound prospecting"
+  },
+  "research_signals": [
+    {
+      "type": "recent_post",
+      "content": "Posted about scaling SDR teams with AI tooling",
+      "strength": "high",
+      "why_relevant": "Directly related to our offer"
+    },
+    {
+      "type": "job_change",
+      "content": "Promoted to VP of Sales 3 months ago",
+      "strength": "medium",
+      "why_relevant": "New role likely means new budget and mandate to improve processes"
+    }
+  ],
+  "is_connected_on_linkedin": false,
+  "use_native_language": false,
+  "message_language": null,
+  "approval_mode": "per_sequence",
+  "sender_company": "OutreachAI",
+  "sender_elevator_pitch": "We help B2B sales teams automate personalized outreach across email and LinkedIn",
+  "offer_name": "OutreachAI Pro",
+  "solution_summary": "AI-powered multi-channel outreach sequences that write like your best SDR",
+  "cta": "Book a 15-min demo to see it in action",
+  "max_touches": 4,
+  "max_days": 14,
+  "preferred_first_channel": "linkedin_dm",
+  "sequence_options": {
+    "vary_tone": true,
+    "include_breakup": true,
+    "reference_previous": true,
+    "escalate_urgency": true,
+    "cross_channel": true
+  },
+  "stage_instructions": {
+    "first_touch": "Be casual, reference their recent LinkedIn post about AI tooling, don't pitch yet",
+    "second_touch": "Share a relevant insight about SDR team scaling, soft mention of our approach",
+    "third_touch": "Be more direct, propose the demo, show specific value metrics"
+  },
+  "personality_config": {
+    "base_template": "value_based",
+    "personality_traits": ["Data-driven", "Direct"],
+    "always_include_phrases": ["15-min demo", "AI-powered"],
+    "never_use_phrases": ["game-changer", "revolutionary", "synergy"],
+    "urgency_level": 4,
+    "humor_sarcasm": 3,
+    "touchdowns_per_message": 2
+  },
+  "debug_mode": true
+}</textarea>
+                </div>
+                <button class="btn btn-primary" onclick="sendOrchestratorRequest()">📤 Send to /api/run</button>
+                <button class="btn btn-secondary" onclick="loadOrchestratorTemplate('simple')">Load Simple Template</button>
+                <button class="btn btn-secondary" onclick="loadOrchestratorTemplate('full')">Load Full Template</button>
+            </div>
+
+            <div class="card hidden" id="orchestrator-response-card">
+                <h3>Step 2: Response</h3>
+                <div class="thread-id-display hidden" id="thread-id-display">
+                    <strong>🔑 Thread ID (save this!):</strong>
+                    <code id="thread-id-value"></code>
+                </div>
+                <div class="response-area" id="orchestrator-response"></div>
+            </div>
+
+            <div class="card hidden" id="orchestrator-approval-card">
+                <h3>Step 3: Human-in-the-Loop Approval</h3>
+                <div class="form-group">
+                    <label>Thread ID</label>
+                    <input type="text" id="approval-thread-id" placeholder="Enter thread ID from response">
+                </div>
+                <button class="btn btn-success" onclick="approveSequence('orchestrator')">✅ Approve Sequence</button>
+                <button class="btn btn-warning" onclick="injectFeedback('orchestrator')">💬 Inject Feedback</button>
+                <div class="response-area" id="approval-response"></div>
+            </div>
+        </div>
+
+        <!-- Sequence Generator Tab -->
+        <div class="tab-content" id="sequence">
+            <h2 class="section-title">Test Path B: Directly via Sequence Generator</h2>
+            
+            <div class="info-box">
+                <h4>📋 About This Path</h4>
+                <p>Skip the orchestrator and talk directly to the sequence generator. Useful for faster iteration and testing the sequence-level human-in-the-loop flow.</p>
+            </div>
+
+            <div class="card">
+                <h3>Step 1: Generate Sequence</h3>
+                <div class="form-group">
+                    <label>Test Payload (JSON)</label>
+                    <textarea id="sequence-payload" rows="20">{
+  "lead_id": "test-lead-002",
+  "campaign_id": "campaign_test",
+  "company": "Notion",
+  "contact": {
+    "full_name": "Alex Rivera",
+    "job_title": "Head of Growth",
+    "email": "alex@notion.so",
+    "country": "United States",
+    "city": "San Francisco",
+    "location": "San Francisco, United States",
+    "linkedin": "",
+    "is_connected_on_linkedin": true
+  },
+  "web_context": {
+    "profil_brut": "Alex leads growth at Notion. Recently launched a new AI features suite. Active on Twitter and LinkedIn.",
+    "offer_context": "AI outreach automation for B2B SaaS growth teams",
+    "icp_description": "B2B SaaS growth leaders at companies with 100+ employees"
+  },
+  "sender_info": {
+    "company_name": "OutreachAI",
+    "elevator_pitch": "Automated personalized multi-channel outreach",
+    "offer_name": "Growth Accelerator",
+    "solution_summary": "AI sequences that write like your best SDR",
+    "cta": "Grab 15 minutes to see the magic"
+  },
+  "approval_mode": "per_sequence",
+  "max_touches": 3,
+  "max_days": 10,
+  "preferred_first_channel": "email",
+  "sequence_options": {
+    "vary_tone": true,
+    "include_breakup": false,
+    "reference_previous": true,
+    "escalate_urgency": false,
+    "cross_channel": true
+  },
+  "stage_instructions": {
+    "first_touch": "Reference Notion's new AI features launch, be genuinely curious"
+  },
+  "personality_config": {
+    "base_template": "consultative",
+    "personality_traits": ["Storyteller", "Humble"],
+    "never_use_phrases": ["disruptive", "game-changer"],
+    "urgency_level": 2,
+    "humor_sarcasm": 5
+  },
+  "research_signals": [
+    {
+      "type": "company_news",
+      "content": "Notion launched AI-powered writing assistant",
+      "strength": "high",
+      "why_relevant": "Directly relevant to our AI outreach platform"
+    }
+  ]
+}</textarea>
+                </div>
+                <button class="btn btn-primary" onclick="sendSequenceRequest()">📤 Send to /api/generate/sequence</button>
+            </div>
+
+            <div class="card hidden" id="sequence-response-card">
+                <h3>Step 2: Response</h3>
+                <div class="thread-id-display hidden" id="seq-thread-id-display">
+                    <strong>🔑 Thread ID (save this!):</strong>
+                    <code id="seq-thread-id-value"></code>
+                </div>
+                <div class="response-area" id="sequence-response"></div>
+            </div>
+
+            <div class="card hidden" id="sequence-approval-card">
+                <h3>Step 3: Approve/Reject</h3>
+                <div class="form-group">
+                    <label>Thread ID</label>
+                    <input type="text" id="seq-approval-thread-id" placeholder="Enter thread ID from response">
+                </div>
+                <button class="btn btn-success" onclick="approveSequence('sequence')">✅ Approve Sequence</button>
+                <div class="response-area" id="seq-approval-response"></div>
+            </div>
+        </div>
+
+        <!-- Observability Tab -->
+        <div class="tab-content" id="observability">
+            <h2 class="section-title">Observability & Token Tracking</h2>
+
+            <div class="quick-actions">
+                <button class="btn btn-primary" onclick="getObservability('message')">📊 Message Generator Metrics</button>
+                <button class="btn btn-primary" onclick="getObservability('sequence')">📊 Sequence Generator Metrics</button>
+                <button class="btn btn-primary" onclick="getObservability('orchestrator')">📊 Orchestrator (Merged) Metrics</button>
+                <button class="btn btn-info" onclick="getPromptHistory('message')">📜 Message Generator Prompts</button>
+                <button class="btn btn-info" onclick="getPromptHistory('sequence')">📜 Sequence Generator Prompts</button>
+                <button class="btn btn-info" onclick="getPromptHistory('orchestrator')">📜 Orchestrator Prompts</button>
+                <button class="btn btn-warning" onclick="clearObservability('message')">🧹 Clear Message Generator Data</button>
+                <button class="btn btn-warning" onclick="clearObservability('sequence')">🧹 Clear Sequence Generator Data</button>
+            </div>
+
+            <div class="card hidden" id="observability-card">
+                <h3>Metrics</h3>
+                <div class="metrics-grid" id="metrics-grid"></div>
+                <div class="response-area" id="observability-response"></div>
+            </div>
+        </div>
+
+        <!-- Temporal Tab -->
+        <div class="tab-content" id="temporal">
+            <h2 class="section-title">Temporal Workflow Management</h2>
+
+            <div class="info-box">
+                <h4>📋 Temporal Signals</h4>
+                <p>Send signals to control workflow execution. These are sent via the Temporal client.</p>
+            </div>
+
+            <div class="card">
+                <h3>Available Signals</h3>
+                <div class="quick-actions">
+                    <button class="btn btn-success" onclick="showSignalForm('approve_sequence')">✅ approve_sequence</button>
+                    <button class="btn btn-info" onclick="showSignalForm('approve_step')">✅ approve_step</button>
+                    <button class="btn btn-primary" onclick="showSignalForm('send_step')">📤 send_step</button>
+                    <button class="btn btn-warning" onclick="showSignalForm('skip_step')">⏭️ skip_step</button>
+                    <button class="btn btn-secondary" onclick="showSignalForm('regenerate_step')">🔄 regenerate_step</button>
+                    <button class="btn btn-danger" onclick="showSignalForm('stop_sequence')">🛑 stop_sequence</button>
+                </div>
+            </div>
+
+            <div class="card hidden" id="signal-form-card">
+                <h3 id="signal-form-title">Send Signal</h3>
+                <div class="form-group">
+                    <label>Signal Type</label>
+                    <input type="text" id="signal-type" readonly>
+                </div>
+                <div class="form-group hidden" id="step-num-group">
+                    <label>Step Number</label>
+                    <input type="number" id="signal-step-num" placeholder="Enter step number">
+                </div>
+                <div class="form-group hidden" id="feedback-group">
+                    <label>Feedback (for regenerate_step)</label>
+                    <textarea id="signal-feedback" placeholder="Enter feedback for regeneration"></textarea>
+                </div>
+                <button class="btn btn-primary" onclick="sendTemporalSignal()">📤 Send Signal</button>
+                <div class="response-area" id="signal-response"></div>
+            </div>
+
+            <div class="card">
+                <h3>Temporal Activities Reference</h3>
+                <table style="width: 100%; border-collapse: collapse;">
+                    <thead>
+                        <tr style="background: #f8f9fa;">
+                            <th style="padding: 10px; text-align: left; border: 1px solid #dee2e6;">Activity</th>
+                            <th style="padding: 10px; text-align: left; border: 1px solid #dee2e6;">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;"><code>research_company_activity</code></td>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;">Company research and signal gathering</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;"><code>generate_strategy_activity</code></td>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;">LLM-powered strategy generation</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;"><code>parse_gemini_strategy_activity</code></td>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;">Parsing and validating the strategy</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;"><code>generate_message_activity</code></td>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;">Message generation per step</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;"><code>send_message_activity</code></td>
+                            <td style="padding: 10px; border: 1px solid #dee2e6;">Actual send (email/LinkedIn)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Debug Tools Tab -->
+        <div class="tab-content" id="debug">
+            <h2 class="section-title">Debug Tools</h2>
+
+            <div class="quick-actions">
+                <button class="btn btn-primary" onclick="checkHealth()">🏥 Check Health</button>
+                <button class="btn btn-warning" onclick="flushMemory()">🧹 Flush Memory</button>
+                <button class="btn btn-info" onclick="checkCapabilities()">🔍 Check Capabilities</button>
+            </div>
+
+            <div class="card">
+                <h3>Config Override</h3>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Module</label>
+                        <select id="config-module">
+                            <option value="sequence_generator">sequence_generator</option>
+                            <option value="message_generator">message_generator</option>
+                            <option value="orchestrator">orchestrator</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Config Key</label>
+                        <select id="config-key">
+                            <option value="LOG_LEVEL">LOG_LEVEL</option>
+                            <option value="GEMINI_TEMPERATURE">GEMINI_TEMPERATURE</option>
+                            <option value="DEBUG_MODE">DEBUG_MODE</option>
+                            <option value="ENABLE_LEARNING_LOOP">ENABLE_LEARNING_LOOP</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Value</label>
+                        <input type="text" id="config-value" placeholder="e.g., DEBUG, 0.3, false">
+                    </div>
+                </div>
+                <button class="btn btn-primary" onclick="overrideConfig()">⚙️ Override Config</button>
+                <div class="response-area" id="config-response"></div>
+            </div>
+
+            <div class="card hidden" id="health-card">
+                <h3>Health Status</h3>
+                <div class="response-area" id="health-response"></div>
+            </div>
+
+            <div class="card hidden" id="capabilities-card">
+                <h3>Capabilities (Agent Card)</h3>
+                <div class="response-area" id="capabilities-response"></div>
+            </div>
+
+            <div class="card">
+                <h3>DEBUG_MODE Information</h3>
+                <div class="info-box">
+                    <h4>DEBUG_MODE=true (default for testing)</h4>
+                    <ul>
+                        <li>Every message generation starts from a clean slate</li>
+                        <li>Test runs are deterministic and repeatable</li>
+                        <li>do_not_contact lists are still enforced</li>
+                    </ul>
+                </div>
+                <div class="info-box">
+                    <h4>DEBUG_MODE=false (production)</h4>
+                    <ul>
+                        <li>Full memory active - reads prospect history</li>
+                        <li>Avoids repeating hooks/angles</li>
+                        <li>Learning loop tracks quality scores over time</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Tab switching
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+                tab.classList.add('active');
+                document.getElementById(tab.dataset.tab).classList.add('active');
+            });
+        });
+
+        // Collapsible
+        function toggleCollapsible(element) {
+            element.classList.toggle('open');
+        }
+
+        // Toast notification
+        function showToast(message, type = 'info') {
+            const toast = document.createElement('div');
+            toast.className = `toast ${type}`;
+            toast.textContent = message;
+            document.body.appendChild(toast);
+            setTimeout(() => toast.remove(), 3000);
+        }
+
+        // Service status check
+        async function checkService(port, elementId) {
+            try {
+                const response = await fetch(`http://localhost:${port}/api/health`, {
+                    method: 'GET',
+                    signal: AbortSignal.timeout(2000)
+                });
+                const element = document.getElementById(elementId);
+                if (response.ok) {
+                    element.classList.remove('offline');
+                    element.classList.add('online');
+                } else {
+                    element.classList.remove('online');
+                    element.classList.add('offline');
+                }
+            } catch (error) {
+                const element = document.getElementById(elementId);
+                element.classList.remove('online');
+                element.classList.add('offline');
+            }
+        }
+
+        async function checkAllServices() {
+            await Promise.all([
+                checkService(8080, 'status-temporal'),
+                checkService(8000, 'status-message'),
+                checkService(8001, 'status-sequence'),
+                checkService(8002, 'status-orchestrator')
+            ]);
+            showToast('Service status updated', 'info');
+        }
+
+        // Initial check
+        checkAllServices();
+
+        // Orchestrator requests
+        async function sendOrchestratorRequest() {
+            const payload = document.getElementById('orchestrator-payload').value;
+            try {
+                const response = await fetch('http://localhost:8002/api/run', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: payload
+                });
+                const data = await response.json();
+                
+                document.getElementById('orchestrator-response-card').classList.remove('hidden');
+                document.getElementById('orchestrator-approval-card').classList.remove('hidden');
+                document.getElementById('orchestrator-response').textContent = JSON.stringify(data, null, 2);
+                document.getElementById('orchestrator-response').classList.remove('error');
+                document.getElementById('orchestrator-response').classList.add('success');
+
+                if (data.thread_id) {
+                    document.getElementById('thread-id-display').classList.remove('hidden');
+                    document.getElementById('thread-id-value').textContent = data.thread_id;
+                    document.getElementById('approval-thread-id').value = data.thread_id;
+                }
+
+                showToast('Request sent successfully', 'success');
+            } catch (error) {
+                document.getElementById('orchestrator-response-card').classList.remove('hidden');
+                document.getElementById('orchestrator-response').textContent = 'Error: ' + error.message;
+                document.getElementById('orchestrator-response').classList.remove('success');
+                document.getElementById('orchestrator-response').classList.add('error');
+                showToast('Request failed', 'error');
+            }
+        }
+
+        // Sequence generator requests
+        async function sendSequenceRequest() {
+            const payload = document.getElementById('sequence-payload').value;
+            try {
+                const response = await fetch('http://localhost:8001/api/generate/sequence', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: payload
+                });
+                const data = await response.json();
+                
+                document.getElementById('sequence-response-card').classList.remove('hidden');
+                document.getElementById('sequence-approval-card').classList.remove('hidden');
+                document.getElementById('sequence-response').textContent = JSON.stringify(data, null, 2);
+                document.getElementById('sequence-response').classList.remove('error');
+                document.getElementById('sequence-response').classList.add('success');
+
+                if (data.thread_id) {
+                    document.getElementById('seq-thread-id-display').classList.remove('hidden');
+                    document.getElementById('seq-thread-id-value').textContent = data.thread_id;
+                    document.getElementById('seq-approval-thread-id').value = data.thread_id;
+                }
+
+                showToast('Sequence generated successfully', 'success');
+            } catch (error) {
+                document.getElementById('sequence-response-card').classList.remove('hidden');
+                document.getElementById('sequence-response').textContent = 'Error: ' + error.message;
+                document.getElementById('sequence-response').classList.remove('success');
+                document.getElementById('sequence-response').classList.add('error');
+                showToast('Sequence generation failed', 'error');
+            }
+        }
+
+        // Approve sequence
+        async function approveSequence(source) {
+            const threadId = source === 'orchestrator' 
+                ? document.getElementById('approval-thread-id').value
+                : document.getElementById('seq-approval-thread-id').value;
+            const port = source === 'orchestrator' ? 8001 : 8001;
+            const responseArea = source === 'orchestrator' 
+                ? document.getElementById('approval-response')
+                : document.getElementById('seq-approval-response');
+
+            if (!threadId) {
+                showToast('Please enter a thread ID', 'error');
+                return;
+            }
+
+            try {
+                const response = await fetch(`http://localhost:${port}/api/approve/${threadId}`, {
+                    method: 'POST'
+                });
+                const data = await response.json();
+                responseArea.textContent = JSON.stringify(data, null, 2);
+                responseArea.classList.remove('error');
+                responseArea.classList.add('success');
+                showToast('Sequence approved', 'success');
+            } catch (error) {
+                responseArea.textContent = 'Error: ' + error.message;
+                responseArea.classList.remove('success');
+                responseArea.classList.add('error');
+                showToast('Approval failed', 'error');
+            }
+        }
+
+        // Inject feedback
+        async function injectFeedback(source) {
+            const feedback = prompt('Enter feedback:');
+            if (!feedback) return;
+
+            try {
+                const response = await fetch('http://localhost:8002/api/feedback', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        module: 'sequence_generator',
+                        feedback: feedback
+                    })
+                });
+                const data = await response.json();
+                document.getElementById('approval-response').textContent = JSON.stringify(data, null, 2);
+                showToast('Feedback injected', 'success');
+            } catch (error) {
+                document.getElementById('approval-response').textContent = 'Error: ' + error.message;
+                showToast('Feedback injection failed', 'error');
+            }
+        }
+
+        // Observability
+        async function getObservability(module) {
+            const ports = {
+                message: 8000,
+                sequence: 8001,
+                orchestrator: 8002
+            };
+            try {
+                const response = await fetch(`http://localhost:${ports[module]}/api/observability`);
+                const data = await response.json();
+                
+                document.getElementById('observability-card').classList.remove('hidden');
+                document.getElementById('observability-response').textContent = JSON.stringify(data, null, 2);
+                
+                // Display metrics
+                const metricsGrid = document.getElementById('metrics-grid');
+                metricsGrid.innerHTML = `
+                    <div class="metric-card">
+                        <div class="value">${data.total_tokens || 0}</div>
+                        <div class="label">Total Tokens</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="value">${data.total_tokens_in || 0}</div>
+                        <div class="label">Tokens In</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="value">${data.total_tokens_out || 0}</div>
+                        <div class="label">Tokens Out</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="value">${data.success_rate || 0}%</div>
+                        <div class="label">Success Rate</div>
+                    </div>
+                `;
+                
+                showToast('Metrics retrieved', 'success');
+            } catch (error) {
+                document.getElementById('observability-card').classList.remove('hidden');
+                document.getElementById('observability-response').textContent = 'Error: ' + error.message;
+                showToast('Failed to retrieve metrics', 'error');
+            }
+        }
+
+        async function getPromptHistory(module) {
+            const ports = {
+                message: 8000,
+                sequence: 8001,
+                orchestrator: 8002
+            };
+            try {
+                const response = await fetch(`http://localhost:${ports[module]}/api/observability/prompts`);
+                const data = await response.json();
+                
+                document.getElementById('observability-card').classList.remove('hidden');
+                document.getElementById('observability-response').textContent = JSON.stringify(data, null, 2);
+                showToast('Prompt history retrieved', 'success');
+            } catch (error) {
+                document.getElementById('observability-card').classList.remove('hidden');
+                document.getElementById('observability-response').textContent = 'Error: ' + error.message;
+                showToast('Failed to retrieve prompt history', 'error');
+            }
+        }
+
+        async function clearObservability(module) {
+            const ports = {
+                message: 8000,
+                sequence: 8001
+            };
+            try {
+                const response = await fetch(`http://localhost:${ports[module]}/api/observability/clear`, {
+                    method: 'POST'
+                });
+                showToast('Observability data cleared', 'success');
+            } catch (error) {
+                showToast('Failed to clear data', 'error');
+            }
+        }
+
+        // Temporal signals
+        function showSignalForm(signalType) {
+            document.getElementById('signal-form-card').classList.remove('hidden');
+            document.getElementById('signal-type').value = signalType;
+            document.getElementById('signal-form-title').textContent = `Send Signal: ${signalType}`;
+
+            const stepGroup = document.getElementById('step-num-group');
+            const feedbackGroup = document.getElementById('feedback-group');
+
+            stepGroup.classList.add('hidden');
+            feedbackGroup.classList.add('hidden');
+
+            if (['approve_step', 'send_step', 'skip_step', 'regenerate_step'].includes(signalType)) {
+                stepGroup.classList.remove('hidden');
+            }
+            if (signalType === 'regenerate_step') {
+                feedbackGroup.classList.remove('hidden');
+            }
+        }
+
+        async function sendTemporalSignal() {
+            const signalType = document.getElementById('signal-type').value;
+            const stepNum = document.getElementById('signal-step-num').value;
+            const feedback = document.getElementById('signal-feedback').value;
+
+            showToast('Note: Temporal signals are sent via the Temporal client. Use the Temporal Web UI or CLI to send signals.', 'info');
+            
+            document.getElementById('signal-response').textContent = `Signal: ${signalType}\nStep: ${stepNum || 'N/A'}\nFeedback: ${feedback || 'N/A'}\n\nTo send this signal, use the Temporal Web UI at http://localhost:8080 or the Temporal CLI.`;
+        }
+
+        // Debug tools
+        async function checkHealth() {
+            try {
+                const response = await fetch('http://localhost:8002/api/health');
+                const data = await response.json();
+                
+                document.getElementById('health-card').classList.remove('hidden');
+                document.getElementById('health-response').textContent = JSON.stringify(data, null, 2);
+                showToast('Health check complete', 'success');
+            } catch (error) {
+                document.getElementById('health-card').classList.remove('hidden');
+                document.getElementById('health-response').textContent = 'Error: ' + error.message;
+                showToast('Health check failed', 'error');
+            }
+        }
+
+        async function flushMemory() {
+            try {
+                const response = await fetch('http://localhost:8001/api/memory/flush', {
+                    method: 'POST'
+                });
+                showToast('Memory flushed', 'success');
+            } catch (error) {
+                showToast('Failed to flush memory', 'error');
+            }
+        }
+
+        async function checkCapabilities() {
+            try {
+                const response = await fetch('http://localhost:8002/api/capabilities');
+                const data = await response.json();
+                
+                document.getElementById('capabilities-card').classList.remove('hidden');
+                document.getElementById('capabilities-response').textContent = JSON.stringify(data, null, 2);
+                showToast('Capabilities retrieved', 'success');
+            } catch (error) {
+                document.getElementById('capabilities-card').classList.remove('hidden');
+                document.getElementById('capabilities-response').textContent = 'Error: ' + error.message;
+                showToast('Failed to retrieve capabilities', 'error');
+            }
+        }
+
+        async function overrideConfig() {
+            const module = document.getElementById('config-module').value;
+            const key = document.getElementById('config-key').value;
+            const value = document.getElementById('config-value').value;
+
+            try {
+                const response = await fetch('http://localhost:8002/api/config/override', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        module: module,
+                        overrides: { [key]: value }
+                    })
+                });
+                const data = await response.json();
+                document.getElementById('config-response').textContent = JSON.stringify(data, null, 2);
+                showToast('Config overridden', 'success');
+            } catch (error) {
+                document.getElementById('config-response').textContent = 'Error: ' + error.message;
+                showToast('Failed to override config', 'error');
+            }
+        }
+
+        // Load templates
+        function loadOrchestratorTemplate(type) {
+            if (type === 'simple') {
+                document.getElementById('orchestrator-payload').value = JSON.stringify({
+                    lead_id: "test-lead-simple",
+                    campaign_id: "campaign_simple",
+                    entreprise: "Test Company",
+                    contact_info: {
+                        full_name: "John Doe",
+                        nom: "John Doe",
+                        job_title: "CEO",
+                        titre: "CEO",
+                        email: "john@test.com",
+                        country: "United States",
+                        city: "San Francisco",
+                        location: "San Francisco, United States",
+                        linkedin: "",
+                        phone: ""
+                    },
+                    contexte_web: {
+                        profil_brut: "John is a CEO at a tech company.",
+                        offer_context: "AI outreach platform",
+                        icp_description: "Tech companies"
+                    },
+                    research_signals: [],
+                    is_connected_on_linkedin: false,
+                    use_native_language: false,
+                    approval_mode: "per_sequence",
+                    sender_company: "OutreachAI",
+                    sender_elevator_pitch: "AI outreach automation",
+                    offer_name: "OutreachAI",
+                    solution_summary: "AI-powered sequences",
+                    cta: "Book a demo",
+                    debug_mode: true
+                }, null, 2);
+            } else {
+                document.getElementById('orchestrator-payload').value = JSON.stringify({
+                    lead_id: "test-lead-001",
+                    campaign_id: "campaign_q2_2026",
+                    entreprise: "Ramp",
+                    contact_info: {
+                        full_name: "Sarah Chen",
+                        nom: "Sarah Chen",
+                        job_title: "VP of Sales",
+                        titre: "VP of Sales",
+                        email: "sarah.chen@ramp.com",
+                        country: "United States",
+                        city: "New York",
+                        location: "New York, United States",
+                        linkedin: "https://linkedin.com/in/sarahchen",
+                        phone: ""
+                    },
+                    contexte_web: {
+                        profil_brut: "Sarah is VP of Sales at Ramp, a fintech company. Recently posted about scaling outbound sales teams and experimenting with AI-powered prospecting tools. Active on LinkedIn, engages with sales methodology content.",
+                        offer_context: "AI-powered outreach automation platform that personalizes multi-channel sequences",
+                        icp_description: "B2B SaaS companies with 50-500 employees, sales teams doing outbound prospecting"
+                    },
+                    research_signals: [
+                        {
+                            type: "recent_post",
+                            content: "Posted about scaling SDR teams with AI tooling",
+                            strength: "high",
+                            why_relevant: "Directly related to our offer"
+                        },
+                        {
+                            type: "job_change",
+                            content: "Promoted to VP of Sales 3 months ago",
+                            strength: "medium",
+                            why_relevant: "New role likely means new budget and mandate to improve processes"
+                        }
+                    ],
+                    is_connected_on_linkedin: false,
+                    use_native_language: false,
+                    message_language: null,
+                    approval_mode: "per_sequence",
+                    sender_company: "OutreachAI",
+                    sender_elevator_pitch: "We help B2B sales teams automate personalized outreach across email and LinkedIn",
+                    offer_name: "OutreachAI Pro",
+                    solution_summary: "AI-powered multi-channel outreach sequences that write like your best SDR",
+                    cta: "Book a 15-min demo to see it in action",
+                    max_touches: 4,
+                    max_days: 14,
+                    preferred_first_channel: "linkedin_dm",
+                    sequence_options: {
+                        vary_tone: true,
+                        include_breakup: true,
+                        reference_previous: true,
+                        escalate_urgency: true,
+                        cross_channel: true
+                    },
+                    stage_instructions: {
+                        first_touch: "Be casual, reference their recent LinkedIn post about AI tooling, don't pitch yet",
+                        second_touch: "Share a relevant insight about SDR team scaling, soft mention of our approach",
+                        third_touch: "Be more direct, propose the demo, show specific value metrics"
+                    },
+                    personality_config: {
+                        base_template: "value_based",
+                        personality_traits: ["Data-driven", "Direct"],
+                        always_include_phrases: ["15-min demo", "AI-powered"],
+                        never_use_phrases: ["game-changer", "revolutionary", "synergy"],
+                        urgency_level: 4,
+                        humor_sarcasm: 3,
+                        touchdowns_per_message: 2
+                    },
+                    debug_mode: true
+                }, null, 2);
+            }
+        }
+    </script>
+</body>
+</html>

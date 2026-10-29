@@ -1,0 +1,28 @@
+{
+  "total_entries": 23,
+  "people": [
+    {
+      "id": "63ea148cbc50b500014887bc",
+      "first_name": "Gregoire",
+      "last_name_obfuscated": "Ni***e",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-06-04T13:06:44.622+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Ubisoft",
+        "has_industry": true,
+        "has_phone": false,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

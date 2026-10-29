@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Sharon Cross",
+        "clean_name_used": "Sharon Cross",
+        "linkedin_url": "https://www.linkedin.com/in/sharon-cross-5103bba",
+        "company": "Eurovia",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Edith Rosado, MAcc",
+        "clean_name_used": "Edith Rosado",
+        "linkedin_url": "https://www.linkedin.com/in/edith-rosado-macc-96888271",
+        "company": "Eurovia",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Jonny Miller",
+        "clean_name_used": "Jonny Miller",
+        "linkedin_url": "https://uk.linkedin.com/in/jonny-miller-668781138",
+        "company": "Eurovia",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "target_domain": "vermeg.com",
+    "target_country_filter": "France",
+    "organization_id": "6182fffb7bcc9300f6b4b60b",
+    "extracted_jobs": [
+        {
+            "id": "69098df479d31e0001672e51",
+            "title": "DBA & Cloud Systems Lead",
+            "url": "https://www.vermeg.com/job/dba-cloud-systems-lead",
+            "city": "Paris",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-04-05T18:40:41.000+00:00",
+            "posted_at": "2025-07-24T13:42:04.000+00:00"
+        },
+        {
+            "id": "69097619b0650b00011d788d",
+            "title": "Senior CLOUD Architect",
+            "url": "https://www.vermeg.com/job/senior-cloud-architect",
+            "city": "Paris",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-04-05T07:07:22.000+00:00",
+            "posted_at": "2025-04-30T22:41:38.000+00:00"
+        }
+    ],
+    "extracted_news": []
+}

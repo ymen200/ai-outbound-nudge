@@ -1,0 +1,74 @@
+{
+  "total_entries": 258,
+  "people": [
+    {
+      "id": "637c9cc43ff8b800014f2830",
+      "first_name": "Matthieu",
+      "last_name_obfuscated": "Sc***i",
+      "title": "Business Development",
+      "last_refreshed_at": "2026-06-10T15:49:30.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Allianz France",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "634a3a9fbd4696000160664a",
+      "first_name": "Vincent",
+      "last_name_obfuscated": "Ta***e",
+      "title": "Business Development",
+      "last_refreshed_at": "2026-06-10T22:19:29.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Allianz France",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "54eac11474686946684e9800",
+      "first_name": "Patrick",
+      "last_name_obfuscated": "Du***d",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-06-22T09:39:20.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Allianz France",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

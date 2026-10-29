@@ -1,0 +1,4738 @@
+{
+  "person": {
+    "id": "67afb3f9aa77370001bc4e17",
+    "first_name": "Cathy",
+    "last_name": "Souza",
+    "name": "Cathy Souza",
+    "linkedin_url": "http://www.linkedin.com/in/cathy-souza-73012a82",
+    "title": "Director, Sales Operations",
+    "photo_url": "https://media.licdn.com/dms/image/v2/D4D03AQGGU8Q-SrHJYg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713387688887?e=1758153600&v=beta&t=da6ixkhIp4-yZ_DFXx8S-2oy4acJfAdT0-w7K_I9iWM",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Director, Sales Operations at GitLab",
+    "organization_id": "5f58b0fe33d2ff00e2d127bd",
+    "employment_history": [
+      {
+        "_id": "68ece8904a2c9000017de3eb",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": null,
+        "organization_id": "5f58b0fe33d2ff00e2d127bd",
+        "organization_name": "GitLab",
+        "raw_address": null,
+        "start_date": "2021-08-01",
+        "title": "Director, Sales Operations",
+        "updated_at": null,
+        "id": "68ece8904a2c9000017de3eb",
+        "key": "68ece8904a2c9000017de3eb"
+      },
+      {
+        "_id": "68ece8904a2c9000017de3ec",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2021-08-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": null,
+        "organization_id": "615f41d3d3f4bb0130eca632",
+        "organization_name": "Digital.ai",
+        "raw_address": null,
+        "start_date": "2020-01-01",
+        "title": "Assoc. VP Sales Operations at Digital.ai - Creating a Digital World you can Trust.",
+        "updated_at": null,
+        "id": "68ece8904a2c9000017de3ec",
+        "key": "68ece8904a2c9000017de3ec"
+      },
+      {
+        "_id": "68ece8904a2c9000017de3ed",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2020-01-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": null,
+        "organization_id": "60f127687b88800001976ab8",
+        "organization_name": "CollabNet VersionOne (now Digital.ai)",
+        "raw_address": null,
+        "start_date": "2016-08-01",
+        "title": "Director of Sales Operations",
+        "updated_at": null,
+        "id": "68ece8904a2c9000017de3ed",
+        "key": "68ece8904a2c9000017de3ed"
+      },
+      {
+        "_id": "68ece8904a2c9000017de3ee",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2016-08-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": null,
+        "organization_id": "54a1accf746869401288eb06",
+        "organization_name": "Carestream Dental",
+        "raw_address": null,
+        "start_date": "2015-12-01",
+        "title": "Sales Operations Manager, US&C",
+        "updated_at": null,
+        "id": "68ece8904a2c9000017de3ee",
+        "key": "68ece8904a2c9000017de3ee"
+      }
+    ],
+    "street_address": "",
+    "city": null,
+    "state": null,
+    "country": "United States",
+    "postal_code": null,
+    "formatted_address": "United States",
+    "time_zone": null,
+    "email": null,
+    "email_status": "unavailable",
+    "organization": {
+      "id": "5f58b0fe33d2ff00e2d127bd",
+      "name": "GitLab",
+      "website_url": "http://www.gitlab.com",
+      "angellist_url": null,
+      "linkedin_url": "http://www.linkedin.com/company/gitlab-com",
+      "twitter_url": "https://twitter.com/gitlab",
+      "facebook_url": "https://www.facebook.com/gitlab",
+      "languages": [
+        "English",
+        "French"
+      ],
+      "alexa_ranking": 331,
+      "phone": "+1 800-927-9800",
+      "linkedin_uid": "5101804",
+      "founded_year": 2014,
+      "publicly_traded_symbol": "GTLB",
+      "publicly_traded_exchange": "nasdaq",
+      "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a6925e2a71c30001c6b590/picture",
+      "crunchbase_url": null,
+      "primary_domain": "gitlab.com",
+      "sic_codes": [
+        "7372"
+      ],
+      "naics_codes": [
+        "513210"
+      ],
+      "primary_phone": {
+        "number": "+1 800-927-9800",
+        "sanitized_number": "+18009279800"
+      },
+      "sanitized_phone": "+18009279800",
+      "market_cap": "5.5B",
+      "industry": "information technology & services",
+      "estimated_num_employees": 2400,
+      "keywords": [
+        "saas",
+        "web development",
+        "developer tools",
+        "open source",
+        "software",
+        "enterprise software",
+        "information technology",
+        "computer software: prepackaged software",
+        "technology",
+        "it services & it consulting",
+        "computer software",
+        "information technology & services",
+        "enterprises",
+        "b2b"
+      ],
+      "organization_revenue_printed": "955.2M",
+      "organization_revenue": 955224000.0,
+      "industries": [
+        "information technology & services",
+        "computer software"
+      ],
+      "secondary_industries": [
+        "computer software"
+      ],
+      "snippets_loaded": true,
+      "industry_tag_id": "5567cd4773696439b10b0000",
+      "industry_tag_hash": {
+        "information technology & services": "5567cd4773696439b10b0000",
+        "computer software": "5567cd4e7369643b70010000"
+      },
+      "retail_location_count": 0,
+      "raw_address": "268 Bush St, San Francisco, California, US",
+      "street_address": "268 Bush St",
+      "city": "San Francisco",
+      "state": "California",
+      "postal_code": "94104",
+      "country": "United States",
+      "owned_by_organization_id": null,
+      "short_description": "GitLab is a public company based in San Francisco, California, founded in 2014. It operates as the developer of GitLab, an all-remote platform designed for DevSecOps. This platform helps teams and their AI agents deliver secure software more efficiently throughout the software lifecycle. GitLab has approximately 2,375 employees and is publicly traded on NASDAQ under the ticker symbol GTLB, with a market capitalization of around $7.31 billion.\n\nGitLab offers a unified application that covers the entire DevSecOps lifecycle, including planning, building, securing, testing, deploying, and maintaining software. Key features include a core platform with version control, bug tracking, and task management, as well as integrated CI/CD, security scanners, and an AI solution called GitLab Duo Agent for automating tasks. The platform is available in both a free Community Edition and a proprietary Enterprise Edition, and can be deployed as self-managed software or as a SaaS solution. GitLab serves over 50 million registered users and more than 100,000 organizations globally, including many Fortune 100 companies.",
+      "suborganizations": [
+        {
+          "id": "54a122fa69702d88c4a9a602",
+          "name": "Smartstay.in",
+          "website_url": "http://www.smartstay.in",
+          "industries": [
+            "leisure, travel & tourism"
+          ],
+          "estimated_num_employees": 6,
+          "country": "India"
+        },
+        {
+          "id": "5b861d19324d447e0c654ee9",
+          "name": "Gemnasium (acquired by Gitlab)",
+          "website_url": "http://www.gemnasium.com",
+          "industries": [
+            "information technology & services",
+            "computer software"
+          ],
+          "estimated_num_employees": 1,
+          "country": "Canada"
+        },
+        {
+          "id": "5fce8b5c2ebed700a4447bd6",
+          "name": "Opstrace",
+          "website_url": "http://www.opstrace.com",
+          "industries": [
+            "information technology & services"
+          ],
+          "estimated_num_employees": 2,
+          "country": "United States"
+        },
+        {
+          "id": "60c460bb23d94000c1a3f488",
+          "name": "Oxeye (Part of GitLab)",
+          "website_url": null,
+          "industries": [
+            "computer & network security",
+            "computer software"
+          ],
+          "estimated_num_employees": 8,
+          "country": "Israel"
+        },
+        {
+          "id": "65423517a11ee400ba86eb5e",
+          "name": "Peach Tech",
+          "website_url": null,
+          "industries": [
+            "information technology & services"
+          ],
+          "estimated_num_employees": 1,
+          "country": null
+        },
+        {
+          "id": "693eb33c57c3060021f222c4",
+          "name": "Unreview",
+          "website_url": "http://www.unreview.com",
+          "industries": [
+            "marketing & advertising"
+          ],
+          "estimated_num_employees": 1,
+          "country": "United States"
+        },
+        {
+          "id": "55f6bea2f3e5bb191a0171ee",
+          "name": "Peach Tech (Acquired by GitLab)",
+          "website_url": "http://www.peach.tech",
+          "industries": [
+            "computer & network security"
+          ],
+          "estimated_num_employees": 2,
+          "country": "United States"
+        },
+        {
+          "id": "5f413c35a1527300017541d9",
+          "name": "Stackeer.io (Acquired by GitLab.com)",
+          "website_url": null,
+          "industries": [
+            "information technology & services"
+          ],
+          "estimated_num_employees": 1,
+          "country": "Russia"
+        },
+        {
+          "id": "6a55dda39fe41900016a22f7",
+          "name": "Oxeye Ltd.",
+          "website_url": "http://www.oxeye.io",
+          "industries": [],
+          "estimated_num_employees": 0,
+          "country": "Israel"
+        }
+      ],
+      "num_suborganizations": 9,
+      "annual_revenue_printed": "955.2M",
+      "annual_revenue": 955224000.0,
+      "technology_names": [
+        ".NET",
+        "ADP",
+        "ADP Applicant Tracking System",
+        "ADP SmartCompliance®",
+        "AI",
+        "AMP",
+        "AT&T",
+        "AWS Analytics",
+        "AWS Trusted Advisor",
+        "Ace",
+        "Act!",
+        "Ad Astra",
+        "Adobe Marketo Engage",
+        "Adobe Marketo Engage",
+        "Adobe Marketo Measure (formerly Bizible)",
+        "Adobe Marketo Measure (formerly Bizible)",
+        "Amazon AWS",
+        "Amazon AWS",
+        "Amazon Associates",
+        "Amazon Linux 2",
+        "Amazon Managed Workflows for Apache Airflow (MWAA)",
+        "Amazon SES",
+        "Amazon SES",
+        "Ansible",
+        "Anthropic Claude",
+        "Anthropic Claude",
+        "Apache Flink",
+        "Apex",
+        "Apple Business Manager",
+        "Apple School Manager",
+        "Argocd",
+        "Atlassian Bitbucket",
+        "Atlassian Bitbucket",
+        "Avalara",
+        "Azure Devops",
+        "Azure Key Vault",
+        "Azure Linux Virtual Machines",
+        "BIRT",
+        "Bash",
+        "BugHerd",
+        "C/C++",
+        "CAT",
+        "CSS",
+        "CallMiner Eureka",
+        "Chorus by ZoomInfo",
+        "Cisco Spaces",
+        "Cisco Spaces",
+        "Clari",
+        "ClickHouse",
+        "CloudFlare",
+        "CloudFlare CDN",
+        "CloudFlare CDN",
+        "Cloudflare DNS",
+        "Cloudinary",
+        "Cognism",
+        "ConnectWise Control",
+        "ConnectWise Control",
+        "Contentful",
+        "Conversica",
+        "Copado",
+        "Cornerstone HR",
+        "Cornerstone On Demand",
+        "Coupa Procurement",
+        "Coupa Procurement",
+        "Databricks",
+        "Dell EMC Disaster Recovery",
+        "Dell EMC PowerStore",
+        "DemandBase",
+        "Docker",
+        "DocuSign",
+        "Dreamdata",
+        "Drift",
+        "Duo Security",
+        "Duo Security",
+        "EFI",
+        "ELK Stack",
+        "ESET",
+        "EVS",
+        "Eaglestats",
+        "Elastic Stack",
+        "Elasticsearch",
+        "Envoy",
+        "Equity Edge Online",
+        "FACTS",
+        "Figma",
+        "Flow",
+        "Fusion ERP Analytics",
+        "GRPC",
+        "Gainsight",
+        "Gearset",
+        "Gem",
+        "Gemini",
+        "GenText AI Assistant for MS Word",
+        "Gist",
+        "Git",
+        "GitHub",
+        "GitLab",
+        "GitLab CI/CD",
+        "Gmail",
+        "Gong",
+        "Google Analytics",
+        "Google Cloud",
+        "Google Cloud",
+        "Google Cloud BigQuery",
+        "Google Cloud Storage",
+        "Google Cloud Vertex AI",
+        "Google Cloud Vertex AI",
+        "Google Drive",
+        "Google Kubernetes Engine (GKE)",
+        "Google Meet",
+        "Google Search Central",
+        "Google Search Console",
+        "Google Sheets",
+        "Google Tag Manager",
+        "Google Workspace",
+        "Google Workspace",
+        "Grafana",
+        "Grafana Loki",
+        "GraphQL",
+        "Greenhouse",
+        "HELM",
+        "HREF Lang",
+        "HSTS",
+        "HTML Pro",
+        "HTTP/3",
+        "HackerOne Pentest",
+        "Highspot",
+        "IBM Data Warehouse",
+        "IBM ILOG CPLEX Optimization Studio",
+        "IBM Tivoli NetCool/OMNIbus",
+        "ICE",
+        "IDC",
+        "ISO+™",
+        "Instagram",
+        "Intel Cloud Services",
+        "Ironclad",
+        "Javascript",
+        "Jenkins",
+        "JetBrains",
+        "Jira",
+        "Kantata",
+        "Kotlin",
+        "Kubernetes",
+        "LinkedIn Ads",
+        "LinkedIn Recruiter",
+        "LinkedIn Sales Navigator",
+        "Linkedin Marketing Solutions",
+        "Lytics",
+        "Macaron",
+        "Mailgun",
+        "Mailgun",
+        "Micro Focus LoadRunner",
+        "Microsoft 365",
+        "Microsoft 365",
+        "Microsoft Azure",
+        "Microsoft Azure Monitor",
+        "Microsoft Excel",
+        "Microsoft PowerShell",
+        "Mobile Friendly",
+        "Mode",
+        "Multilingual",
+        "Mutiny",
+        "MySQL",
+        "MySQL",
+        "NATS",
+        "NEC",
+        "Navan (Formerly TripActions)",
+        "NetSuite",
+        "NetSuite ERP",
+        "NetSuite SuiteBuilder",
+        "NetSuite SuiteFlow",
+        "NetSuite SuiteScript",
+        "NetSuite SuiteTalk",
+        "Ning",
+        "Node.js",
+        "Nuxtjs",
+        "Okta",
+        "OneTrust",
+        "OneTrust Tech Risk & Compliance",
+        "Open Graph",
+        "OpenAI",
+        "OpenLDAP",
+        "OpenTelemetry",
+        "Optimizely",
+        "Optimizely Personalization",
+        "Outreach.io",
+        "PCI Proxy",
+        "PROS",
+        "Pandora FMS",
+        "Pega Robotic Process Automation",
+        "Posit",
+        "PostgreSQL",
+        "PowerBI Tiles",
+        "PrimeGate",
+        "Priority Hints",
+        "Progress Chef",
+        "Prometheus",
+        "Ptengine",
+        "Python",
+        "REACH",
+        "REC",
+        "REST",
+        "RSS",
+        "Rails Assets",
+        "React",
+        "React Router",
+        "Redis",
+        "Remote",
+        "Rise",
+        "Ruby",
+        "Ruby On Rails",
+        "Rust",
+        "SAM",
+        "Salesforce",
+        "Salesforce CPQ",
+        "Salesforce Lightning Web Components",
+        "Salesforce Platform",
+        "Salesforce Sales Cloud",
+        "Salesforce Service Cloud",
+        "Salesforce VisualForce",
+        "Salon Ultimate",
+        "Security",
+        "SeekOut",
+        "ServiceNow",
+        "Sidekiq Pro",
+        "Siemens PROFIBUS",
+        "Slack",
+        "Snowflake",
+        "SparkPost",
+        "Sprout Social",
+        "Stripe",
+        "Tableau",
+        "Tableau Cloud",
+        "Tailwind",
+        "Temporal Cloud",
+        "Terraform",
+        "TimeTrade",
+        "Tint",
+        "Tor",
+        "TypeScript",
+        "Vena",
+        "Viewport Meta",
+        "Vimeo",
+        "Vscode",
+        "VueJS",
+        "Weibo",
+        "Workato",
+        "Workday",
+        "YouTube",
+        "ZTE",
+        "Zendesk",
+        "Zendesk Support Suite",
+        "Zendesk for Service",
+        "Zip",
+        "ZoomInfo",
+        "Zoomdata",
+        "Zuora",
+        "Zuora",
+        "Zuora Revenue (formerly RevPro)",
+        "dbt",
+        "go+"
+      ],
+      "current_technologies": [
+        {
+          "uid": "net",
+          "name": ".NET",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "adp",
+          "name": "ADP",
+          "category": "Recruitment"
+        },
+        {
+          "uid": "adp_applicant_tracking_system",
+          "name": "ADP Applicant Tracking System",
+          "category": "Recruitment"
+        },
+        {
+          "uid": "adp_smartcompliance",
+          "name": "ADP SmartCompliance®",
+          "category": "HR Solutions"
+        },
+        {
+          "uid": "ai",
+          "name": "AI",
+          "category": "Other"
+        },
+        {
+          "uid": "amp",
+          "name": "AMP",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "at&t",
+          "name": "AT&T",
+          "category": "Hosting"
+        },
+        {
+          "uid": "aws_analytics",
+          "name": "AWS Analytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "aws_trusted_advisor",
+          "name": "AWS Trusted Advisor",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "ace",
+          "name": "Ace",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "act",
+          "name": "Act!",
+          "category": "Other"
+        },
+        {
+          "uid": "ad_astra",
+          "name": "Ad Astra",
+          "category": "Other"
+        },
+        {
+          "uid": "adobe_marketo_engage",
+          "name": "Adobe Marketo Engage",
+          "category": "Marketing Automation"
+        },
+        {
+          "uid": "adobe_marketo_engage",
+          "name": "Adobe Marketo Engage",
+          "category": "Marketing Automation"
+        },
+        {
+          "uid": "adobe_marketo_measure_formerly_bizible",
+          "name": "Adobe Marketo Measure (formerly Bizible)",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "adobe_marketo_measure_formerly_bizible",
+          "name": "Adobe Marketo Measure (formerly Bizible)",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "amazon_aws",
+          "name": "Amazon AWS",
+          "category": "Hosting"
+        },
+        {
+          "uid": "amazon_aws",
+          "name": "Amazon AWS",
+          "category": "Hosting"
+        },
+        {
+          "uid": "amazon_associates",
+          "name": "Amazon Associates",
+          "category": "Affiliate Advertising Network"
+        },
+        {
+          "uid": "amazon_linux_2",
+          "name": "Amazon Linux 2",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "amazon_managed_workflows_for_apache_airflow_mwaa",
+          "name": "Amazon Managed Workflows for Apache Airflow (MWAA)",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "amazon_ses",
+          "name": "Amazon SES",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "amazon_ses",
+          "name": "Amazon SES",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "ansible",
+          "name": "Ansible",
+          "category": "Other"
+        },
+        {
+          "uid": "anthropic_claude",
+          "name": "Anthropic Claude",
+          "category": "Other"
+        },
+        {
+          "uid": "anthropic_claude",
+          "name": "Anthropic Claude",
+          "category": "Other"
+        },
+        {
+          "uid": "apache_flink",
+          "name": "Apache Flink",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "apex",
+          "name": "Apex",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "apple_business_manager",
+          "name": "Apple Business Manager",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "apple_school_manager",
+          "name": "Apple School Manager",
+          "category": "Education Management Software"
+        },
+        {
+          "uid": "argocd",
+          "name": "Argocd",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "atlassian_bitbucket",
+          "name": "Atlassian Bitbucket",
+          "category": "CMS"
+        },
+        {
+          "uid": "atlassian_bitbucket",
+          "name": "Atlassian Bitbucket",
+          "category": "CMS"
+        },
+        {
+          "uid": "avalara",
+          "name": "Avalara",
+          "category": "Other"
+        },
+        {
+          "uid": "azure devops",
+          "name": "Azure Devops",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "azure_key_vault",
+          "name": "Azure Key Vault",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_linux_virtual_machines",
+          "name": "Azure Linux Virtual Machines",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "birt",
+          "name": "BIRT",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "bash",
+          "name": "Bash",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "bugherd",
+          "name": "BugHerd",
+          "category": "Widgets"
+        },
+        {
+          "uid": "c_c++",
+          "name": "C/C++",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "cat",
+          "name": "CAT",
+          "category": "ERP"
+        },
+        {
+          "uid": "css",
+          "name": "CSS",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "callminer_eureka",
+          "name": "CallMiner Eureka",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "chorus_by_zoominfo",
+          "name": "Chorus by ZoomInfo",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "cisco_spaces",
+          "name": "Cisco Spaces",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "cisco_spaces",
+          "name": "Cisco Spaces",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "clari",
+          "name": "Clari",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "clickhouse",
+          "name": "ClickHouse",
+          "category": "Database"
+        },
+        {
+          "uid": "cloudflare",
+          "name": "CloudFlare",
+          "category": "Web Accelerators"
+        },
+        {
+          "uid": "cloudflare_cdn",
+          "name": "CloudFlare CDN",
+          "category": "Content Delivery Networks"
+        },
+        {
+          "uid": "cloudflare_cdn",
+          "name": "CloudFlare CDN",
+          "category": "Content Delivery Networks"
+        },
+        {
+          "uid": "cloudflare_dns",
+          "name": "Cloudflare DNS",
+          "category": "Domain Name Services"
+        },
+        {
+          "uid": "cloudinary",
+          "name": "Cloudinary",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "cognism",
+          "name": "Cognism",
+          "category": "Lead Generation Software"
+        },
+        {
+          "uid": "connectwise_control",
+          "name": "ConnectWise Control",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "connectwise_control",
+          "name": "ConnectWise Control",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "contentful",
+          "name": "Contentful",
+          "category": "Content Delivery Networks"
+        },
+        {
+          "uid": "conversica",
+          "name": "Conversica",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "copado",
+          "name": "Copado",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "cornerstone_hr",
+          "name": "Cornerstone HR",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "cornerstone_on_demand",
+          "name": "Cornerstone On Demand",
+          "category": "Recruitment"
+        },
+        {
+          "uid": "coupa_procurement",
+          "name": "Coupa Procurement",
+          "category": "ERP"
+        },
+        {
+          "uid": "coupa_procurement",
+          "name": "Coupa Procurement",
+          "category": "ERP"
+        },
+        {
+          "uid": "databricks",
+          "name": "Databricks",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "dell_emc_disaster_recovery",
+          "name": "Dell EMC Disaster Recovery",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "dell_emc_powerstore",
+          "name": "Dell EMC PowerStore",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "demandbase",
+          "name": "DemandBase",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "docker",
+          "name": "Docker",
+          "category": "Other"
+        },
+        {
+          "uid": "docusign",
+          "name": "DocuSign",
+          "category": "Other"
+        },
+        {
+          "uid": "dreamdata",
+          "name": "Dreamdata",
+          "category": "Marketing Automation"
+        },
+        {
+          "uid": "drift",
+          "name": "Drift",
+          "category": "Widgets"
+        },
+        {
+          "uid": "duo_security",
+          "name": "Duo Security",
+          "category": "Event Management"
+        },
+        {
+          "uid": "duo_security",
+          "name": "Duo Security",
+          "category": "Event Management"
+        },
+        {
+          "uid": "efi",
+          "name": "EFI",
+          "category": "Other"
+        },
+        {
+          "uid": "elk_stack",
+          "name": "ELK Stack",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "eset",
+          "name": "ESET",
+          "category": "Security"
+        },
+        {
+          "uid": "evs",
+          "name": "EVS",
+          "category": "Live Streaming Platforms"
+        },
+        {
+          "uid": "eaglestats",
+          "name": "Eaglestats",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "elastic_stack",
+          "name": "Elastic Stack",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "elasticsearch",
+          "name": "Elasticsearch",
+          "category": "Search Appliances"
+        },
+        {
+          "uid": "envoy",
+          "name": "Envoy",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "equity_edge_online",
+          "name": "Equity Edge Online",
+          "category": "Financial Software"
+        },
+        {
+          "uid": "facts",
+          "name": "FACTS",
+          "category": "ERP"
+        },
+        {
+          "uid": "figma",
+          "name": "Figma",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "flow",
+          "name": "Flow",
+          "category": "Other"
+        },
+        {
+          "uid": "fusion_erp_analytics",
+          "name": "Fusion ERP Analytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "grpc",
+          "name": "GRPC",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "gainsight",
+          "name": "Gainsight",
+          "category": "Customer Reviews"
+        },
+        {
+          "uid": "gearset",
+          "name": "Gearset",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "gem",
+          "name": "Gem",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "gemini",
+          "name": "Gemini",
+          "category": "Other"
+        },
+        {
+          "uid": "gentext_ai_assistant_for_ms_word",
+          "name": "GenText AI Assistant for MS Word",
+          "category": "Content Management Platform"
+        },
+        {
+          "uid": "gist",
+          "name": "Gist",
+          "category": "Chats"
+        },
+        {
+          "uid": "git",
+          "name": "Git",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "github",
+          "name": "GitHub",
+          "category": "Hosting"
+        },
+        {
+          "uid": "gitlab",
+          "name": "GitLab",
+          "category": "CMS"
+        },
+        {
+          "uid": "gitlab_ci/cd",
+          "name": "GitLab CI/CD",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "gmail",
+          "name": "Gmail",
+          "category": "Email Providers"
+        },
+        {
+          "uid": "gong",
+          "name": "Gong",
+          "category": "Other"
+        },
+        {
+          "uid": "google_analytics",
+          "name": "Google Analytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "google_cloud",
+          "name": "Google Cloud",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google_cloud",
+          "name": "Google Cloud",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google_cloud_bigquery",
+          "name": "Google Cloud BigQuery",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "google_cloud_storage",
+          "name": "Google Cloud Storage",
+          "category": "Content Delivery Networks"
+        },
+        {
+          "uid": "google_cloud_vertex_ai",
+          "name": "Google Cloud Vertex AI",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google_cloud_vertex_ai",
+          "name": "Google Cloud Vertex AI",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google_drive",
+          "name": "Google Drive",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google_kubernetes_engine_gke",
+          "name": "Google Kubernetes Engine (GKE)",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google_meet",
+          "name": "Google Meet",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "google_search_central",
+          "name": "Google Search Central",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "google_search_console",
+          "name": "Google Search Console",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "google_sheets",
+          "name": "Google Sheets",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "google_tag_manager",
+          "name": "Google Tag Manager",
+          "category": "Tag Management"
+        },
+        {
+          "uid": "google workspace",
+          "name": "Google Workspace",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google workspace",
+          "name": "Google Workspace",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "grafana",
+          "name": "Grafana",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "grafana_loki",
+          "name": "Grafana Loki",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "graphql",
+          "name": "GraphQL",
+          "category": "Database"
+        },
+        {
+          "uid": "greenhouse",
+          "name": "Greenhouse",
+          "category": "Other"
+        },
+        {
+          "uid": "helm",
+          "name": "HELM",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "href_lang",
+          "name": "HREF Lang",
+          "category": "Other"
+        },
+        {
+          "uid": "hsts",
+          "name": "HSTS",
+          "category": "Security"
+        },
+        {
+          "uid": "html_pro",
+          "name": "HTML Pro",
+          "category": "Web Presentation Tools"
+        },
+        {
+          "uid": "http/3",
+          "name": "HTTP/3",
+          "category": "Other"
+        },
+        {
+          "uid": "hackerone_pentest",
+          "name": "HackerOne Pentest",
+          "category": "Security"
+        },
+        {
+          "uid": "highspot",
+          "name": "Highspot",
+          "category": "Content Management Platform"
+        },
+        {
+          "uid": "ibm_data_warehouse",
+          "name": "IBM Data Warehouse",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "ibm_ilog_cplex_optimization_studio",
+          "name": "IBM ILOG CPLEX Optimization Studio",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "ibm_tivoli_netcoolomnibus",
+          "name": "IBM Tivoli NetCool/OMNIbus",
+          "category": "Other"
+        },
+        {
+          "uid": "ice",
+          "name": "ICE",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "idc",
+          "name": "IDC",
+          "category": "Other"
+        },
+        {
+          "uid": "iso",
+          "name": "ISO+™",
+          "category": "Other"
+        },
+        {
+          "uid": "instagram",
+          "name": "Instagram",
+          "category": "Social Sharing"
+        },
+        {
+          "uid": "intel",
+          "name": "Intel Cloud Services",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "ironclad",
+          "name": "Ironclad",
+          "category": "Case Management"
+        },
+        {
+          "uid": "javascript",
+          "name": "Javascript",
+          "category": "Other"
+        },
+        {
+          "uid": "jenkins",
+          "name": "Jenkins",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "jetbrains",
+          "name": "JetBrains",
+          "category": "Hosting"
+        },
+        {
+          "uid": "jira",
+          "name": "Jira",
+          "category": "CMS"
+        },
+        {
+          "uid": "kantata",
+          "name": "Kantata",
+          "category": "ERP"
+        },
+        {
+          "uid": "kotlin",
+          "name": "Kotlin",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "kubernetes",
+          "name": "Kubernetes",
+          "category": "Other"
+        },
+        {
+          "uid": "linkedin_ads",
+          "name": "LinkedIn Ads",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "linkedin_recruiter",
+          "name": "LinkedIn Recruiter",
+          "category": "Recruitment"
+        },
+        {
+          "uid": "linkedin_sales_navigator",
+          "name": "LinkedIn Sales Navigator",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "linkedin_display_ads__formerly_bizo",
+          "name": "Linkedin Marketing Solutions",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "lytics",
+          "name": "Lytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "macaron",
+          "name": "Macaron",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "mailgun",
+          "name": "Mailgun",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "mailgun",
+          "name": "Mailgun",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "micro_focus_loadrunner",
+          "name": "Micro Focus LoadRunner",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "microsoft_365",
+          "name": "Microsoft 365",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_365",
+          "name": "Microsoft 365",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_azure",
+          "name": "Microsoft Azure",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "microsoft_azure_monitor",
+          "name": "Microsoft Azure Monitor",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "microsoft_excel",
+          "name": "Microsoft Excel",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "microsoft_powershell",
+          "name": "Microsoft PowerShell",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "mobile_friendly",
+          "name": "Mobile Friendly",
+          "category": "Other"
+        },
+        {
+          "uid": "mode",
+          "name": "Mode",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "multilingual",
+          "name": "Multilingual",
+          "category": "Widgets"
+        },
+        {
+          "uid": "mutiny",
+          "name": "Mutiny",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "mysql",
+          "name": "MySQL",
+          "category": "Database"
+        },
+        {
+          "uid": "mysql",
+          "name": "MySQL",
+          "category": "Database"
+        },
+        {
+          "uid": "nats",
+          "name": "NATS",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "nec",
+          "name": "NEC",
+          "category": "Other"
+        },
+        {
+          "uid": "navan_formerly_tripactions",
+          "name": "Navan (Formerly TripActions)",
+          "category": "Other"
+        },
+        {
+          "uid": "netsuite",
+          "name": "NetSuite",
+          "category": "CMS"
+        },
+        {
+          "uid": "netsuite_erp",
+          "name": "NetSuite ERP",
+          "category": "ERP"
+        },
+        {
+          "uid": "netsuite_suitebuilder",
+          "name": "NetSuite SuiteBuilder",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "netsuite_suiteflow",
+          "name": "NetSuite SuiteFlow",
+          "category": "ERP"
+        },
+        {
+          "uid": "netsuite_suitescript",
+          "name": "NetSuite SuiteScript",
+          "category": "ERP"
+        },
+        {
+          "uid": "netsuite_suitetalk",
+          "name": "NetSuite SuiteTalk",
+          "category": "ERP"
+        },
+        {
+          "uid": "ning",
+          "name": "Ning",
+          "category": "CMS"
+        },
+        {
+          "uid": "node.js",
+          "name": "Node.js",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "nuxtjs",
+          "name": "Nuxtjs",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "okta",
+          "name": "Okta",
+          "category": "Security"
+        },
+        {
+          "uid": "onetrust",
+          "name": "OneTrust",
+          "category": "Widgets"
+        },
+        {
+          "uid": "onetrust_tech_risk_compliance",
+          "name": "OneTrust Tech Risk & Compliance",
+          "category": "ERP"
+        },
+        {
+          "uid": "open_graph",
+          "name": "Open Graph",
+          "category": "Other"
+        },
+        {
+          "uid": "openai",
+          "name": "OpenAI",
+          "category": "Other"
+        },
+        {
+          "uid": "openldap",
+          "name": "OpenLDAP",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "opentelemetry",
+          "name": "OpenTelemetry",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "optimizely",
+          "name": "Optimizely",
+          "category": "Online Testing Platforms"
+        },
+        {
+          "uid": "optimizely_personalization",
+          "name": "Optimizely Personalization",
+          "category": "Personalization"
+        },
+        {
+          "uid": "outreach.io",
+          "name": "Outreach.io",
+          "category": "Marketing Automation"
+        },
+        {
+          "uid": "pci_proxy",
+          "name": "PCI Proxy",
+          "category": "Payments"
+        },
+        {
+          "uid": "pros",
+          "name": "PROS",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "pandora_fms",
+          "name": "Pandora FMS",
+          "category": "ERP"
+        },
+        {
+          "uid": "pega_robotic_process_automation",
+          "name": "Pega Robotic Process Automation",
+          "category": "Robotic Process Automation"
+        },
+        {
+          "uid": "posit",
+          "name": "Posit",
+          "category": "Other"
+        },
+        {
+          "uid": "postgresql",
+          "name": "PostgreSQL",
+          "category": "Database"
+        },
+        {
+          "uid": "powerbi_tiles",
+          "name": "PowerBI Tiles",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "primegate",
+          "name": "PrimeGate",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "priority_hints",
+          "name": "Priority Hints",
+          "category": "Web Performance Monitoring"
+        },
+        {
+          "uid": "progress_chef",
+          "name": "Progress Chef",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "prometheus",
+          "name": "Prometheus",
+          "category": "Database"
+        },
+        {
+          "uid": "ptengine",
+          "name": "Ptengine",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "python",
+          "name": "Python",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "reach",
+          "name": "REACH",
+          "category": "Other"
+        },
+        {
+          "uid": "rec",
+          "name": "REC",
+          "category": "CMS"
+        },
+        {
+          "uid": "rest",
+          "name": "REST",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "rss",
+          "name": "RSS",
+          "category": "Other"
+        },
+        {
+          "uid": "rails_assets",
+          "name": "Rails Assets",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "react",
+          "name": "React",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "react_router",
+          "name": "React Router",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "redis",
+          "name": "Redis",
+          "category": "Database"
+        },
+        {
+          "uid": "remote",
+          "name": "Remote",
+          "category": "Other"
+        },
+        {
+          "uid": "rise",
+          "name": "Rise",
+          "category": "Other"
+        },
+        {
+          "uid": "ruby",
+          "name": "Ruby",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "ruby_on_rails",
+          "name": "Ruby On Rails",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "rust",
+          "name": "Rust",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "sam",
+          "name": "SAM",
+          "category": "Other"
+        },
+        {
+          "uid": "salesforce",
+          "name": "Salesforce",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "salesforce_cpq",
+          "name": "Salesforce CPQ",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "salesforce_lightning_web_components",
+          "name": "Salesforce Lightning Web Components",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "salesforce_platform",
+          "name": "Salesforce Platform",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "salesforce_sales_cloud",
+          "name": "Salesforce Sales Cloud",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "salesforce_service_cloud",
+          "name": "Salesforce Service Cloud",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "salesforce_visualforce",
+          "name": "Salesforce VisualForce",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "salon_ultimate",
+          "name": "Salon Ultimate",
+          "category": "Appointment Scheduling"
+        },
+        {
+          "uid": "security",
+          "name": "Security",
+          "category": "Security"
+        },
+        {
+          "uid": "seekout",
+          "name": "SeekOut",
+          "category": "Recruitment"
+        },
+        {
+          "uid": "service_now",
+          "name": "ServiceNow",
+          "category": "Case Management"
+        },
+        {
+          "uid": "sidekiq_pro",
+          "name": "Sidekiq Pro",
+          "category": "Other"
+        },
+        {
+          "uid": "siemens_profibus",
+          "name": "Siemens PROFIBUS",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "slack",
+          "name": "Slack",
+          "category": "Chats"
+        },
+        {
+          "uid": "snowflake",
+          "name": "Snowflake",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "sparkpost",
+          "name": "SparkPost",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "sprout_social",
+          "name": "Sprout Social",
+          "category": "Social Media Marketing"
+        },
+        {
+          "uid": "stripe",
+          "name": "Stripe",
+          "category": "Payments"
+        },
+        {
+          "uid": "tableau",
+          "name": "Tableau",
+          "category": "Widgets"
+        },
+        {
+          "uid": "tableau_cloud",
+          "name": "Tableau Cloud",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "tailwind",
+          "name": "Tailwind",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "temporal_cloud",
+          "name": "Temporal Cloud",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "terraform",
+          "name": "Terraform",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "timetrade",
+          "name": "TimeTrade",
+          "category": "Appointment Scheduling"
+        },
+        {
+          "uid": "tint",
+          "name": "Tint",
+          "category": "Social Media Marketing"
+        },
+        {
+          "uid": "tor",
+          "name": "Tor",
+          "category": "Security"
+        },
+        {
+          "uid": "typescript",
+          "name": "TypeScript",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "vena",
+          "name": "Vena",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "viewport_meta",
+          "name": "Viewport Meta",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "vimeo",
+          "name": "Vimeo",
+          "category": "Online Video Platforms"
+        },
+        {
+          "uid": "vscode",
+          "name": "Vscode",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "vue_js_library",
+          "name": "VueJS",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "weibo",
+          "name": "Weibo",
+          "category": "Social Media Marketing"
+        },
+        {
+          "uid": "workato",
+          "name": "Workato",
+          "category": "Robotic Process Automation"
+        },
+        {
+          "uid": "workday",
+          "name": "Workday",
+          "category": "CMS"
+        },
+        {
+          "uid": "youtube",
+          "name": "YouTube",
+          "category": "Online Video Platforms"
+        },
+        {
+          "uid": "zte",
+          "name": "ZTE",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "zendesk",
+          "name": "Zendesk",
+          "category": "Support and Feedback"
+        },
+        {
+          "uid": "zendesk_support_suite",
+          "name": "Zendesk Support Suite",
+          "category": "Support and Feedback"
+        },
+        {
+          "uid": "zendesk_for_service",
+          "name": "Zendesk for Service",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "zip",
+          "name": "Zip",
+          "category": "Other"
+        },
+        {
+          "uid": "zoominfo",
+          "name": "ZoomInfo",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "zoomdata",
+          "name": "Zoomdata",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "zuora",
+          "name": "Zuora",
+          "category": "Payments"
+        },
+        {
+          "uid": "zuora",
+          "name": "Zuora",
+          "category": "Payments"
+        },
+        {
+          "uid": "zuora_revenue_formerly_revpro",
+          "name": "Zuora Revenue (formerly RevPro)",
+          "category": "Financial Software"
+        },
+        {
+          "uid": "dbt",
+          "name": "dbt",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "go",
+          "name": "go+",
+          "category": "Frameworks and Programming Languages"
+        }
+      ],
+      "org_chart_root_people_ids": [
+        "610026aad103480001780ff5"
+      ],
+      "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+      "org_chart_removed": false,
+      "org_chart_show_department_filter": true,
+      "employee_metrics": [
+        {
+          "start_date": "2024-07-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 276,
+              "churned": 6
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 27,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 0,
+              "retained": 156,
+              "churned": 6
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 56,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 95,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 66,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 104,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 32,
+              "churned": 1
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 25,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 500,
+              "churned": 4
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 60,
+              "churned": 2
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 36,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 36,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 0,
+              "retained": 140,
+              "churned": 3
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 19,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-08-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 8,
+              "retained": 270,
+              "churned": 5
+            },
+            {
+              "functions": "accounting",
+              "new": 1,
+              "retained": 27,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 2,
+              "retained": 155,
+              "churned": 3
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 55,
+              "churned": 2
+            },
+            {
+              "functions": "finance",
+              "new": 1,
+              "retained": 94,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 2,
+              "retained": 65,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 2,
+              "retained": 106,
+              "churned": 1
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 32,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 25,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 5,
+              "retained": 496,
+              "churned": 5
+            },
+            {
+              "functions": "business_development",
+              "new": 3,
+              "retained": 59,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 36,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 14,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 36,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 3,
+              "retained": 139,
+              "churned": 2
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 19,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-09-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 12,
+              "retained": 278,
+              "churned": 0
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 27,
+              "churned": 1
+            },
+            {
+              "functions": "sales",
+              "new": 5,
+              "retained": 152,
+              "churned": 4
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 57,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 2,
+              "retained": 93,
+              "churned": 2
+            },
+            {
+              "functions": "marketing",
+              "new": 1,
+              "retained": 67,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 1,
+              "retained": 107,
+              "churned": 1
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 26,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 5,
+              "retained": 495,
+              "churned": 5
+            },
+            {
+              "functions": "business_development",
+              "new": 3,
+              "retained": 60,
+              "churned": 2
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 36,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 14,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 37,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 2,
+              "retained": 142,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 19,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-10-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 8,
+              "retained": 287,
+              "churned": 3
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 27,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 2,
+              "retained": 157,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 55,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 94,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 3,
+              "retained": 67,
+              "churned": 2
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 106,
+              "churned": 1
+            },
+            {
+              "functions": "information_technology",
+              "new": 2,
+              "retained": 33,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 1,
+              "retained": 26,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 10,
+              "retained": 497,
+              "churned": 4
+            },
+            {
+              "functions": "business_development",
+              "new": 2,
+              "retained": 62,
+              "churned": 0
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 34,
+              "churned": 2
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 14,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 37,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 5,
+              "retained": 142,
+              "churned": 2
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 19,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-11-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 7,
+              "retained": 289,
+              "churned": 7
+            },
+            {
+              "functions": "accounting",
+              "new": 1,
+              "retained": 27,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 3,
+              "retained": 155,
+              "churned": 3
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 54,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 1,
+              "retained": 93,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 1,
+              "retained": 69,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 3,
+              "retained": 103,
+              "churned": 3
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 27,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 10,
+              "retained": 499,
+              "churned": 7
+            },
+            {
+              "functions": "business_development",
+              "new": 2,
+              "retained": 63,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 35,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 13,
+              "churned": 1
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 37,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 3,
+              "retained": 146,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 18,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-12-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 6,
+              "retained": 290,
+              "churned": 6
+            },
+            {
+              "functions": "accounting",
+              "new": 1,
+              "retained": 27,
+              "churned": 1
+            },
+            {
+              "functions": "sales",
+              "new": 3,
+              "retained": 156,
+              "churned": 3
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 54,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 94,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 1,
+              "retained": 69,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 1,
+              "retained": 105,
+              "churned": 1
+            },
+            {
+              "functions": "information_technology",
+              "new": 2,
+              "retained": 32,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 27,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 3,
+              "retained": 508,
+              "churned": 1
+            },
+            {
+              "functions": "business_development",
+              "new": 4,
+              "retained": 63,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 13,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 37,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 1,
+              "retained": 148,
+              "churned": 2
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 18,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-01-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 12,
+              "retained": 288,
+              "churned": 6
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 27,
+              "churned": 1
+            },
+            {
+              "functions": "sales",
+              "new": 4,
+              "retained": 155,
+              "churned": 4
+            },
+            {
+              "functions": "operations",
+              "new": 2,
+              "retained": 53,
+              "churned": 2
+            },
+            {
+              "functions": "finance",
+              "new": 4,
+              "retained": 86,
+              "churned": 8
+            },
+            {
+              "functions": "marketing",
+              "new": 1,
+              "retained": 69,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 7,
+              "retained": 102,
+              "churned": 5
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 27,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 13,
+              "retained": 510,
+              "churned": 4
+            },
+            {
+              "functions": "business_development",
+              "new": 1,
+              "retained": 66,
+              "churned": 2
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 33,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 1,
+              "retained": 13,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 36,
+              "churned": 1
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 2,
+              "retained": 150,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 18,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-02-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 8,
+              "retained": 297,
+              "churned": 3
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 27,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 5,
+              "retained": 159,
+              "churned": 6
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 53,
+              "churned": 3
+            },
+            {
+              "functions": "finance",
+              "new": 1,
+              "retained": 90,
+              "churned": 2
+            },
+            {
+              "functions": "marketing",
+              "new": 3,
+              "retained": 69,
+              "churned": 3
+            },
+            {
+              "functions": "human_resources",
+              "new": 3,
+              "retained": 107,
+              "churned": 2
+            },
+            {
+              "functions": "information_technology",
+              "new": 1,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 28,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 4,
+              "retained": 521,
+              "churned": 3
+            },
+            {
+              "functions": "business_development",
+              "new": 4,
+              "retained": 65,
+              "churned": 0
+            },
+            {
+              "functions": "product_management",
+              "new": 2,
+              "retained": 33,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 1,
+              "retained": 14,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 37,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 0,
+              "retained": 152,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 19,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-03-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 12,
+              "retained": 303,
+              "churned": 3
+            },
+            {
+              "functions": "accounting",
+              "new": 3,
+              "retained": 27,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 10,
+              "retained": 160,
+              "churned": 6
+            },
+            {
+              "functions": "operations",
+              "new": 3,
+              "retained": 53,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 3,
+              "retained": 91,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 3,
+              "retained": 71,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 4,
+              "retained": 107,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 3,
+              "retained": 33,
+              "churned": 1
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 27,
+              "churned": 1
+            },
+            {
+              "functions": "engineering",
+              "new": 6,
+              "retained": 523,
+              "churned": 3
+            },
+            {
+              "functions": "business_development",
+              "new": 1,
+              "retained": 68,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 35,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 36,
+              "churned": 1
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 0,
+              "retained": 152,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 19,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-04-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 11,
+              "retained": 310,
+              "churned": 6
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 29,
+              "churned": 1
+            },
+            {
+              "functions": "sales",
+              "new": 5,
+              "retained": 168,
+              "churned": 3
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 55,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 4,
+              "retained": 93,
+              "churned": 2
+            },
+            {
+              "functions": "marketing",
+              "new": 1,
+              "retained": 72,
+              "churned": 2
+            },
+            {
+              "functions": "human_resources",
+              "new": 6,
+              "retained": 108,
+              "churned": 2
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 36,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 26,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 9,
+              "retained": 524,
+              "churned": 5
+            },
+            {
+              "functions": "business_development",
+              "new": 2,
+              "retained": 67,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 1,
+              "retained": 15,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 37,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 3,
+              "retained": 150,
+              "churned": 2
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 19,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-05-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 9,
+              "retained": 316,
+              "churned": 6
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 29,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 10,
+              "retained": 166,
+              "churned": 6
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 54,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 3,
+              "retained": 97,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 71,
+              "churned": 3
+            },
+            {
+              "functions": "human_resources",
+              "new": 2,
+              "retained": 113,
+              "churned": 1
+            },
+            {
+              "functions": "information_technology",
+              "new": 1,
+              "retained": 35,
+              "churned": 1
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 26,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 13,
+              "retained": 529,
+              "churned": 4
+            },
+            {
+              "functions": "business_development",
+              "new": 3,
+              "retained": 66,
+              "churned": 3
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 34,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 1
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 15,
+              "churned": 1
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 39,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 4,
+              "retained": 153,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 19,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-06-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 11,
+              "retained": 321,
+              "churned": 4
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 29,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 6,
+              "retained": 168,
+              "churned": 7
+            },
+            {
+              "functions": "operations",
+              "new": 2,
+              "retained": 54,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 3,
+              "retained": 101,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 2,
+              "retained": 70,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 3,
+              "retained": 114,
+              "churned": 2
+            },
+            {
+              "functions": "information_technology",
+              "new": 1,
+              "retained": 36,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 26,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 8,
+              "retained": 536,
+              "churned": 5
+            },
+            {
+              "functions": "business_development",
+              "new": 7,
+              "retained": 70,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 33,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 14,
+              "churned": 1
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 39,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 3,
+              "retained": 157,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 18,
+              "churned": 1
+            }
+          ]
+        },
+        {
+          "start_date": "2025-07-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 15,
+              "retained": 325,
+              "churned": 8
+            },
+            {
+              "functions": "accounting",
+              "new": 2,
+              "retained": 29,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 9,
+              "retained": 172,
+              "churned": 3
+            },
+            {
+              "functions": "operations",
+              "new": 2,
+              "retained": 54,
+              "churned": 2
+            },
+            {
+              "functions": "finance",
+              "new": 3,
+              "retained": 103,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 2,
+              "retained": 71,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 4,
+              "retained": 116,
+              "churned": 1
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 36,
+              "churned": 1
+            },
+            {
+              "functions": "legal",
+              "new": 1,
+              "retained": 25,
+              "churned": 1
+            },
+            {
+              "functions": "engineering",
+              "new": 10,
+              "retained": 540,
+              "churned": 4
+            },
+            {
+              "functions": "business_development",
+              "new": 3,
+              "retained": 75,
+              "churned": 2
+            },
+            {
+              "functions": "product_management",
+              "new": 1,
+              "retained": 31,
+              "churned": 3
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 14,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 3,
+              "retained": 37,
+              "churned": 1
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 2,
+              "retained": 159,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 17,
+              "churned": 1
+            }
+          ]
+        },
+        {
+          "start_date": "2025-08-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 3,
+              "retained": 336,
+              "churned": 5
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 31,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 7,
+              "retained": 178,
+              "churned": 4
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 55,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 8,
+              "retained": 106,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 2,
+              "retained": 73,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 7,
+              "retained": 118,
+              "churned": 2
+            },
+            {
+              "functions": "information_technology",
+              "new": 3,
+              "retained": 36,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 25,
+              "churned": 1
+            },
+            {
+              "functions": "engineering",
+              "new": 10,
+              "retained": 542,
+              "churned": 6
+            },
+            {
+              "functions": "business_development",
+              "new": 3,
+              "retained": 76,
+              "churned": 2
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 32,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 14,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 39,
+              "churned": 1
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 7,
+              "retained": 156,
+              "churned": 3
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 17,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-09-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 4,
+              "retained": 331,
+              "churned": 8
+            },
+            {
+              "functions": "accounting",
+              "new": 1,
+              "retained": 31,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 8,
+              "retained": 182,
+              "churned": 2
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 55,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 1,
+              "retained": 113,
+              "churned": 2
+            },
+            {
+              "functions": "marketing",
+              "new": 4,
+              "retained": 77,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 123,
+              "churned": 2
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 39,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 25,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 9,
+              "retained": 546,
+              "churned": 6
+            },
+            {
+              "functions": "business_development",
+              "new": 3,
+              "retained": 76,
+              "churned": 3
+            },
+            {
+              "functions": "product_management",
+              "new": 3,
+              "retained": 27,
+              "churned": 3
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 1,
+              "retained": 13,
+              "churned": 1
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 39,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 3,
+              "retained": 161,
+              "churned": 2
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 16,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-10-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 6,
+              "retained": 330,
+              "churned": 6
+            },
+            {
+              "functions": "accounting",
+              "new": 1,
+              "retained": 33,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 7,
+              "retained": 185,
+              "churned": 4
+            },
+            {
+              "functions": "operations",
+              "new": 5,
+              "retained": 53,
+              "churned": 3
+            },
+            {
+              "functions": "finance",
+              "new": 2,
+              "retained": 114,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 2,
+              "retained": 81,
+              "churned": 2
+            },
+            {
+              "functions": "human_resources",
+              "new": 3,
+              "retained": 121,
+              "churned": 2
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 39,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 25,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 5,
+              "retained": 552,
+              "churned": 3
+            },
+            {
+              "functions": "business_development",
+              "new": 3,
+              "retained": 73,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 2,
+              "retained": 28,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 1,
+              "retained": 14,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 40,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 7,
+              "retained": 160,
+              "churned": 4
+            },
+            {
+              "functions": "data_science",
+              "new": 1,
+              "retained": 16,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-11-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 6,
+              "retained": 337,
+              "churned": 4
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 6,
+              "retained": 191,
+              "churned": 1
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 59,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 2,
+              "retained": 115,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 81,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 5,
+              "retained": 123,
+              "churned": 2
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 39,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 25,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 6,
+              "retained": 560,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 2,
+              "retained": 78,
+              "churned": 0
+            },
+            {
+              "functions": "product_management",
+              "new": 1,
+              "retained": 29,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 41,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 0,
+              "retained": 167,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-12-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 5,
+              "retained": 337,
+              "churned": 8
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 7,
+              "retained": 191,
+              "churned": 5
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 61,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 117,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 2,
+              "retained": 77,
+              "churned": 2
+            },
+            {
+              "functions": "human_resources",
+              "new": 1,
+              "retained": 128,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 38,
+              "churned": 1
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 25,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 4,
+              "retained": 560,
+              "churned": 4
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 79,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 2,
+              "retained": 30,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 41,
+              "churned": 1
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 3,
+              "retained": 165,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-01-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 8,
+              "retained": 341,
+              "churned": 1
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 8,
+              "retained": 194,
+              "churned": 5
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 61,
+              "churned": 2
+            },
+            {
+              "functions": "finance",
+              "new": 3,
+              "retained": 116,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 2,
+              "retained": 78,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 3,
+              "retained": 126,
+              "churned": 2
+            },
+            {
+              "functions": "information_technology",
+              "new": 2,
+              "retained": 37,
+              "churned": 1
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 25,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 12,
+              "retained": 560,
+              "churned": 5
+            },
+            {
+              "functions": "business_development",
+              "new": 3,
+              "retained": 78,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 1,
+              "retained": 30,
+              "churned": 2
+            },
+            {
+              "functions": "consulting",
+              "new": 1,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 1,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 1,
+              "retained": 15,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 4,
+              "retained": 39,
+              "churned": 2
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 6,
+              "retained": 163,
+              "churned": 3
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-02-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 7,
+              "retained": 343,
+              "churned": 6
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 34,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 8,
+              "retained": 201,
+              "churned": 3
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 62,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 2,
+              "retained": 117,
+              "churned": 2
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 80,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 4,
+              "retained": 125,
+              "churned": 4
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 39,
+              "churned": 1
+            },
+            {
+              "functions": "legal",
+              "new": 0,
+              "retained": 24,
+              "churned": 1
+            },
+            {
+              "functions": "engineering",
+              "new": 12,
+              "retained": 571,
+              "churned": 1
+            },
+            {
+              "functions": "business_development",
+              "new": 5,
+              "retained": 80,
+              "churned": 0
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 31,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 16,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 42,
+              "churned": 1
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 4,
+              "retained": 169,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-03-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 15,
+              "retained": 341,
+              "churned": 5
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 33,
+              "churned": 1
+            },
+            {
+              "functions": "sales",
+              "new": 17,
+              "retained": 205,
+              "churned": 6
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 59,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 5,
+              "retained": 115,
+              "churned": 5
+            },
+            {
+              "functions": "marketing",
+              "new": 2,
+              "retained": 79,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 7,
+              "retained": 126,
+              "churned": 4
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 36,
+              "churned": 3
+            },
+            {
+              "functions": "legal",
+              "new": 1,
+              "retained": 24,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 6,
+              "retained": 585,
+              "churned": 1
+            },
+            {
+              "functions": "business_development",
+              "new": 6,
+              "retained": 86,
+              "churned": 0
+            },
+            {
+              "functions": "product_management",
+              "new": 1,
+              "retained": 31,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 16,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 1,
+              "retained": 42,
+              "churned": 1
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 2,
+              "retained": 171,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 1,
+              "retained": 15,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-04-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 9,
+              "retained": 352,
+              "churned": 8
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 33,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 11,
+              "retained": 222,
+              "churned": 4
+            },
+            {
+              "functions": "operations",
+              "new": 1,
+              "retained": 60,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 3,
+              "retained": 112,
+              "churned": 5
+            },
+            {
+              "functions": "marketing",
+              "new": 2,
+              "retained": 76,
+              "churned": 4
+            },
+            {
+              "functions": "human_resources",
+              "new": 3,
+              "retained": 126,
+              "churned": 6
+            },
+            {
+              "functions": "information_technology",
+              "new": 3,
+              "retained": 36,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 1,
+              "retained": 24,
+              "churned": 1
+            },
+            {
+              "functions": "engineering",
+              "new": 14,
+              "retained": 590,
+              "churned": 4
+            },
+            {
+              "functions": "business_development",
+              "new": 1,
+              "retained": 89,
+              "churned": 0
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 32,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 15,
+              "churned": 1
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 43,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 3,
+              "retained": 172,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 16,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-05-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 12,
+              "retained": 353,
+              "churned": 5
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 33,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 10,
+              "retained": 234,
+              "churned": 2
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 61,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 6,
+              "retained": 114,
+              "churned": 3
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 78,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 10,
+              "retained": 126,
+              "churned": 4
+            },
+            {
+              "functions": "information_technology",
+              "new": 2,
+              "retained": 39,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 1,
+              "retained": 23,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 5,
+              "retained": 601,
+              "churned": 4
+            },
+            {
+              "functions": "business_development",
+              "new": 7,
+              "retained": 89,
+              "churned": 0
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 31,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 1,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 15,
+              "churned": 1
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 2,
+              "retained": 44,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 5,
+              "retained": 172,
+              "churned": 3
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 15,
+              "churned": 1
+            }
+          ]
+        },
+        {
+          "start_date": "2026-06-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 2,
+              "retained": 361,
+              "churned": 3
+            },
+            {
+              "functions": "accounting",
+              "new": 0,
+              "retained": 33,
+              "churned": 0
+            },
+            {
+              "functions": "sales",
+              "new": 2,
+              "retained": 244,
+              "churned": 2
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 59,
+              "churned": 1
+            },
+            {
+              "functions": "finance",
+              "new": 1,
+              "retained": 118,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 1,
+              "retained": 78,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 135,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 1,
+              "retained": 41,
+              "churned": 0
+            },
+            {
+              "functions": "legal",
+              "new": 1,
+              "retained": 24,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 5,
+              "retained": 602,
+              "churned": 3
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 95,
+              "churned": 1
+            },
+            {
+              "functions": "product_management",
+              "new": 0,
+              "retained": 31,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "administrative",
+              "new": 0,
+              "retained": 5,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 46,
+              "churned": 0
+            },
+            {
+              "functions": "entrepreneurship",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "support",
+              "new": 0,
+              "retained": 174,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 15,
+              "churned": 0
+            }
+          ]
+        }
+      ],
+      "organization_headcount_six_month_growth": null,
+      "organization_headcount_twelve_month_growth": null,
+      "organization_headcount_twenty_four_month_growth": null
+    },
+    "departments": [
+      "master_operations",
+      "master_sales"
+    ],
+    "subdepartments": [
+      "operations",
+      "sales",
+      "sales_operations"
+    ],
+    "seniority": "director",
+    "functions": [
+      "sales",
+      "operations"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "request_id": -2724427803673869564,
+  "webhook_status": "success",
+  "request_type": "waterfall",
+  "last_dispatched_at": "2026-07-18T12:42:44Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "target_fields": [
+      "phone_numbers"
+    ],
+    "records_enriched": 1,
+    "email_records_enriched": 0,
+    "mobile_records_enriched": 1,
+    "enrichment_not_found": 0,
+    "email_records_not_found": 0,
+    "mobile_records_not_found": 0,
+    "credits_consumed": 8,
+    "request_id": "-2724427803673869564",
+    "request_initiated": "2026-07-18T12:42:18Z",
+    "request_completed": "2026-07-18T12:42:20Z",
+    "people": [
+      {
+        "id": "5c589c8ba3ae61321f797eb0",
+        "waterfall": {
+          "phone_numbers": [
+            {
+              "vendors": [
+                {
+                  "id": "apollo-1",
+                  "name": "Apollo",
+                  "status": "VERIFIED",
+                  "phone_numbers": [
+                    "+1 832-325-7775"
+                  ],
+                  "usedForVerification": false,
+                  "statusCode": "apollo_step_success",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "leadmagic_mobile_finder-1",
+                  "name": "LeadMagic",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "upcell_mobile_finder-1",
+                  "name": "Upcell",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "findy_mail_phone_finder-1",
+                  "name": "FindyMail",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            }
+          ]
+        },
+        "phone_numbers": [
+          {
+            "_id": "6a5b74aa7625780001054da8",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+1 832-325-7775",
+            "sanitized_number": "+18323257775",
+            "status_cd": "valid_number",
+            "type_cd": "other",
+            "id": "6a5b74aa7625780001054da8",
+            "key": "6a5b74aa7625780001054da8"
+          }
+        ],
+        "emails": []
+      }
+    ]
+  }
+}

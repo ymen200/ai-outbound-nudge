@@ -1,0 +1,482 @@
+{
+  "member_id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7481674320948379648",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_offre-demploi-consultante-fh-%C3%A0-albertville-activity-7481674320948379648-xJcL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "12h",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 7,
+        "repost_counter": 2,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Notre agence d'Albertville vous propose une belle opportunité de faire évoluer votre carrière en augmentant vos compétences. vous êtes à la recherche d'une expérience en tant que stagiaire dans le domaine du recrutement ? c'est le moment de vous faire connaître... offre de stage 2-3 mois environs. à partager sur le secteur Albertville tarentaise...",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7481674320948379648",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-11T11:42:40.901Z",
+        "article": {
+          "id": "9198576176650353814",
+          "title": "Offre d'emploi CONSULTANT(E) (F/H) à Albertville 73200 001-JO-1200268_02L",
+          "author": "randstad.fr",
+          "url": "https://share.google/qzVLRfEKJTpDbvxiG",
+          "published_at": "2039-07-01T05:37:41.794Z",
+          "picture_url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGoDUdwdiho4A/articleshare-shrink_800/B4EZ9Q.LCGJYAY-/0/1783769903964?e=1784419200&v=beta&t=0PV4dwPopzeDl-sSi-tSAEFjTRTaupM7_GEHkSJw6Cg"
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7470556811943829504",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_du-commerce-%C3%A0-la%C3%A9ronautique-cest-possible-activity-7470556812694491136-GHKJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 2,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Le recrutement d'aujourd'hui ne cherche plus des CV figés, mais des potentiels. 💡\nCette initiative de Randstad France illustre parfaitement une tendance de fond : face aux tensions de recrutement, les passerelles entre des secteurs totalement différents (comme le commerce et l'aéronautique) sont une solution d'avenir.\nMiser sur les soft skills et former sur les compétences techniques, c'est un pari gagnant-gagnant pour l'entreprise et le candidat.\n#Recrutement #RH #SoftSkills #Talents #Management",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7470556811943829504",
+        "is_repost": true,
+        "repost_id": "7470556812694491136",
+        "parsed_datetime": "2026-06-10T19:25:40.201Z",
+        "repost_content": {
+          "id": "7468285449061601280",
+          "date": "1mo",
+          "parsed_datetime": "2026-06-04T13:00:05.090Z",
+          "text": "Du commerce à l'aéronautique ? C’est possible !\n\nPendant 20 ans dans le commerce, Marion a osé changer de trajectoire pour rejoindre l’industrie aéronautique. Un projet rendu possible par l’accompagnement de Randstad operationnel et un parcours pensé pour sécuriser et réussir chaque étape de sa reconversion.\n\nCette trajectoire en est la preuve concrète : faire évoluer des profils motivés vers des métiers techniques, est le levier n°1 pour répondre aux tensions de recrutement.\n\nChez Randstad operationnal, nous avons une volonté de briser les silos :\n\n👉 Oser la féminisation des métiers techniques.\n👉 Partir des compétences et du potentiel, plutôt que du seul CV.\n👉 Construire des passerelles entre les secteurs.\n\nRésultat ? Un talent opérationnel et motivé, là où le marché semble saturé.\n\nEt si la clef n’était pas de chercher uniquement les bons profils… mais de les faire émerger ? 🚀",
+          "author": {
+            "public_identifier": "randstad-france",
+            "id": null,
+            "name": "Randstad France",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7466085487225552896",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_randstad-formation-rh-activity-7466085487225552896-_hJV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 17,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "4 jours riches en échanges, en découvertes et en rencontres au siège social de Randstad à Saint-Denis.\n\nCette semaine de formation m’a permis de mieux comprendre en profondeur la structure du groupe, ses valeurs, sa vision et les objectifs d’une entreprise aujourd’hui leader mondial des services RH.\n\nUne expérience particulièrement enrichissante partagée avec des collaborateurs venus des 4 coins de la France, dans une ambiance aussi conviviale que stimulante.\n\nUn grand merci à Jérôme Barbarin et Joanna TEILLET pour la qualité de leur accompagnement, leur énergie et le partage de leur expertise tout au long de cette formation.\n\nClin d’œil à la météo de cette semaine : commencée sous la pluie… elle s’est terminée sous un magnifique ciel bleu et un soleil éclatant. Comme un symbole de cette belle dynamique collective ☀️\n\n#Randstad #Formation #RH #TeamSpirit #Leadership #Collaboration #DéveloppementProfessionnel #dragonsUp",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/randstad/",
+            "length": 8,
+            "start": 79
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAA5w-FUBsS746Dzy3l_iJkUddWPXodX3gnQ",
+            "length": 15,
+            "start": 482
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAB-aCgsBABpFBsqKoYgdeYmYnd4RbhHXuyA",
+            "length": 14,
+            "start": 501
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E22AQEkr4WGvkm3MA",
+            "sticker": false,
+            "size": {
+              "height": 448,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEkr4WGvkm3MA/feedshare-shrink_800/B4EZ5zdL83GUAc-/0/1780053491788?e=1785369600&v=beta&t=FdDAyXKFamWtrE3JxZQ6J8bGjlOJ6Oa8yYvkSYaphiQ"
+          }
+        ],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7466085487225552896",
+        "is_repost": false,
+        "parsed_datetime": "2026-05-29T11:18:13.315Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7455614479087767553",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_randstad-proximitaez-relationshumaines-activity-7455614479087767553-GRh9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "2mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 11,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "\"Un vrai plaisir d'avoir troqué les écrans pour cette tournée en Maurienne & Tarentaise ! 🌿 Rien ne vaut le sourire de nos clients quand on leur apporte un peu de printemps. Une occasion de plus pour découvrir la richesse et le savoir-faire des entreprises savoyardes qui dynamisent l'économie et le marché du travail. Heureux de partager cette route avec l'équipe. On continue ! 🚀 #Proximité #Randstad\" Jordan SCALA, Saliha KAYAHAN, Mégane KAZMIERCZAK, Justine Terraz",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAABY3kQMB1wpjEzyJOlpcoNgS7zvegObtMgM",
+            "length": 12,
+            "start": 404
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADgHkRoB8-KNQW-RTs4IEWPTCJgvGX0qxGY",
+            "length": 14,
+            "start": 418
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACnJ4F4BOHG8EQNWgXeCXQPvpQIFnjNeiUA",
+            "length": 18,
+            "start": 434
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7455614479087767553",
+        "is_repost": true,
+        "repost_id": "7455614479087767553",
+        "parsed_datetime": "2026-04-30T13:50:10.433Z",
+        "repost_content": {
+          "id": "7455602199247863808",
+          "date": "2mo",
+          "parsed_datetime": "2026-04-30T13:01:22.691Z",
+          "text": "🌿 Tournée du muguet en Maurienne & Tarentaise 🌿\n\nAujourd’hui, on troque (un peu) les pc et les cartes de visite contre des bouquets 💐 \n\nLes équipes Randstad des agences de Saint-Jean-de-Maurienne et Albertville sont sur la route pour une tournée un peu spéciale : aller à la rencontre de nos clients et leur offrir un brin de muguet, symbole de bonheur et de réussite.\n\nParce que derrière chaque mission, chaque recrutement, il y a avant tout une relation humaine. Et ça, ça se cultive aussi en dehors des écrans et des appels.\n\nCette tournée, c’est notre façon de dire merci pour la collaboration, la fidélité et les échanges du quotidien. Et accessoirement, de ramener un peu de printemps dans les entreprises locales 🌸\n\n📍Maurienne & Tarentaise\n🤝 Proximité, engagement, terrain\n\nAvec Sebastien, Jordan, Saliha et Justine, on continue la route… et on espère vous croiser !\n\n#Randstad #Proximité #RelationsHumaines #Recrutement #Savoie #Maurienne #Tarentaise #1erMai",
+          "author": {
+            "public_identifier": "megane-kazmierczak",
+            "id": "ACoAACnJ4F4BOHG8EQNWgXeCXQPvpQIFnjNeiUA",
+            "name": "Mégane KAZMIERCZAK",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7452776380221566976",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_mountainplanet-grenoble-raezseau-activity-7452776380221566976-yiIA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "2mo",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 41,
+        "repost_counter": 2,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Retour d’une journée riche en échanges et en rencontres au salon Mountain Planet 2026 à Grenoble ❄️🏔️\n\nAux côtés de ma collaboratrice Mégane KAZMIERCZAK, de l’agence Randstad de Saint-Jean-de-Maurienne, nous avons eu le plaisir de rencontrer de nombreux acteurs du secteur de la montagne. Des discussions inspirantes, des projets passionnants et une belle énergie autour des enjeux de demain dans nos territoires.\n\nUn vrai plaisir également de croiser de nombreuses connaissances et amis sur place — ces moments qui rappellent à quel point notre réseau est précieux 🤝\n\nUn grand merci tout particulier à Silvere Bonnet pour son accueil,  accompagnement et la qualité de nos échanges.\n\nEn tant que responsable commercial sur les secteurs Maurienne et Tarentaise, ces temps forts sont essentiels pour rester au plus proche des réalités terrain et continuer à accompagner au mieux les entreprises et les talents.\n\nHâte de concrétiser les échanges initiés aujourd’hui !\n\n#MountainPlanet #Grenoble #Réseau #Recrutement #Randstad #Montagne #Maurienne #Tarentaise",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/mountainplanet/",
+            "length": 15,
+            "start": 65
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACnJ4F4BOHG8EQNWgXeCXQPvpQIFnjNeiUA",
+            "length": 18,
+            "start": 134
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAA_EGmUBAcNd7XRV5y2HfsgiCBLcG8aSCbw",
+            "length": 14,
+            "start": 603
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E22AQGJG1PlaKgkPQ",
+            "sticker": false,
+            "size": {
+              "height": 1066,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGJG1PlaKgkPQ/feedshare-shrink_800/B4EZ22UoF3IAAc-/0/1776880354052?e=1785369600&v=beta&t=HCd2CqiBdeNKFMqZ2m-_y0nW-ffJ1AFj_nX22zFC_L0"
+          }
+        ],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7452776380221566976",
+        "is_repost": false,
+        "parsed_datetime": "2026-04-22T17:52:34.934Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7448296988745486336",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_jai-le-plaisir-de-vous-annoncer-que-joccupe-activity-7448296989504655361-k8UR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "3mo",
+        "comment_counter": 10,
+        "impressions_counter": 0,
+        "reaction_counter": 43,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "J’ai le plaisir de vous annoncer que j’occupe désormais le poste de Responsable développement commercial chez Randstad France.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/randstad-france/",
+            "length": 15,
+            "start": 110
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7448296989504655361",
+        "is_repost": false,
+        "parsed_datetime": "2026-04-10T09:13:04.964Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7447972310311047169",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_randstad-renforce-sa-pr%C3%A9sence-en-savoie-activity-7447972310311047169-wZGT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "3mo",
+        "comment_counter": 3,
+        "impressions_counter": 0,
+        "reaction_counter": 12,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Merci Jordan pour ta confiance 🙏\n\nTrès heureux de rejoindre l’aventure Randstad aux côtés de cette belle équipe !\nUn vrai plaisir de contribuer au développement des agences d’Albertville et de Saint-Jean-de-Maurienne, au plus près des entreprises locales et des talents du territoire.\n\nHâte de relever les prochains défis ensemble 🚀",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7447972310311047169",
+        "is_repost": true,
+        "repost_id": "7447972310311047169",
+        "parsed_datetime": "2026-04-09T11:42:55.412Z",
+        "repost_content": {
+          "id": "7447924032123092992",
+          "date": "3mo",
+          "parsed_datetime": "2026-04-09T08:31:04.995Z",
+          "text": "🚀 Randstad renforce sa présence en Savoie 🚀\n\nNous sommes ravis d’accueillir Sebastien Pavan au sein de notre équipe en tant que Sales Manager pour nos agences d’Albertville & Saint Jean de Maurienne 🏔️\n\nFort de son expertise, Sébastien aura pour mission d’accompagner nos clients locaux et de dynamiser notre développement commercial au cœur des vallées. \nSon arrivée marque une étape clé dans notre volonté de proximité et de réactivité sur le territoire savoyard !\n\nBienvenue dans l’aventure Sébastien ✨ \n\nSaliha KAYAHAN \nMégane KAZMIERCZAK \nJustine TERRAZ",
+          "author": {
+            "public_identifier": "jordan-scala-2839b6a4",
+            "id": "ACoAABY3kQMB1wpjEzyJOlpcoNgS7zvegObtMgM",
+            "name": "Jordan SCALA",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7446108809241993216",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_randstad-ressourceshumaines-savoie-activity-7446108809241993216-ejz4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "3mo",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 47,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Septembre 2025.\nJe démarrais une nouvelle aventure chez Randstad, à l’agence de Challes-les-Eaux.\nQuelques mois plus tard… beaucoup de rencontres, des défis relevés, des échanges marquants, et surtout une expérience riche entre le Centre Expert Industrie & BTP et l’unité généraliste.\n\nMerci à celles et ceux qui m’ont fait confiance : collègues, clients, talents… vous avez largement contribué à rendre cette aventure aussi stimulante qu’enrichissante.\n\nAujourd’hui, une page se tourne.\nMais clairement, le livre ne se referme pas…\nUne nouvelle aventure est déjà en préparation.\nUn nouveau rôle. Un nouveau terrain de jeu.\nJe garde encore le suspense… mais je reviens très vite pour vous en dire plus 👀\nStay tuned.\n\n#randstad #ressourceshumaines #savoie",
+        "mentions": [],
+        "attachments": [
+          {
+            "id": "D4E22AQGmyNdSNRX9SA",
+            "sticker": false,
+            "size": {
+              "height": 601,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGmyNdSNRX9SA/feedshare-shrink_800/B4EZ1XkgN0IsAc-/0/1775290680904?e=1785369600&v=beta&t=Db8ta77wnJV3OIgP2KoYRejcwpKD3fnTW-BzsubDK0M"
+          }
+        ],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7446108809241993216",
+        "is_repost": false,
+        "parsed_datetime": "2026-04-04T08:18:02.135Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7433094180697964544",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_jai-le-plaisir-de-vous-annoncer-que-jai-activity-7433094181343887361-7saU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "4mo",
+        "comment_counter": 5,
+        "impressions_counter": 0,
+        "reaction_counter": 17,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "J’ai le plaisir de vous annoncer que j’ai obtenu une nouvelle certification : Gemini IA Accélérateur de compétences de Randstad France !",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/randstad-france/",
+            "length": 15,
+            "start": 119
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7433094181343887361",
+        "is_repost": false,
+        "parsed_datetime": "2026-02-27T10:22:33.044Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7415445480668884992",
+        "share_url": "https://www.linkedin.com/posts/sebastien-pavan-79340512b_randstad-recrutement-ressourceshumaines-activity-7415445480668884992-pIBO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "6mo",
+        "comment_counter": 8,
+        "impressions_counter": 0,
+        "reaction_counter": 39,
+        "repost_counter": 2,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "🎉 Une journée spéciale aujourd'hui !!\n\nToute l'équipe de consultants de l'agence de Challes-Les-Eaux réunie pour déguster cette galette des rois et faire le bilan des 4 mois que nous venons de partager.\n\nil est temps pour moi de faire une pause pour revenir encore plus fort dans quelques semaines.\n\nMerci à Chloé, Sonny, Kévin, Mylène et Annie pour ces 4 mois de collaboration intensives !\n\n#randstad #recrutement #ressourceshumaines",
+        "mentions": [],
+        "attachments": [
+          {
+            "id": "D4E22AQGGifLBoM4VyQ",
+            "sticker": false,
+            "size": {
+              "height": 601,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGGifLBoM4VyQ/feedshare-shrink_800/B4EZuj0UbpLIAk-/0/1767979973522?e=1785369600&v=beta&t=8CBH1SrKbfcAQMt5FcgoRV2gA9JCDztHkAQXylNuplE"
+          }
+        ],
+        "author": {
+          "public_identifier": "sebastien-pavan-79340512b",
+          "id": "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24",
+          "name": "Sebastien Pavan",
+          "is_company": false,
+          "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_400_400/B4EZ22sc9sHMAg-/0/1776886601591?e=1785369600&v=beta&t=uA99zx-ZMkTO3aTESI5YGGCTvXhmKrvl-haOsUK1cbI"
+        },
+        "id": "7415445480668884992",
+        "is_repost": false,
+        "parsed_datetime": "2026-01-09T17:32:54.906Z"
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAB_rBh8BTluDFTAgE5rQuHqzK8khFq9Ww24"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 10,
+      "total_count": 12
+    },
+    "cursor": "eyJhY2NvdW50X2lkIjoicmppUXZ4R25SOEtpUFc5b2JPOUI2dyIsImxpbWl0IjoxMCwic3RhcnQiOjEwLCJwYXJhbXMiOnsiYXBpIjoiY2xhc3NpYyIsImNhdGVnb3J5IjoicG9zdHMiLCJwb3N0ZWRfYnkiOnsibWVtYmVyIjpbIkFDb0FBQl9yQmg4QlRsdURGVEFnRTVyUXVIcXpLOGtoRnE5V3cyNCJdfSwic29ydF9ieSI6ImRhdGUifX0="
+  }
+}

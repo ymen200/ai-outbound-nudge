@@ -1,0 +1,562 @@
+{
+    "alexa_ranking": 12054,
+    "annual_revenue": 29000000000.0,
+    "apollo_id": "59bba2b3a6da981a9cbbd198",
+    "city": "Batavia",
+    "country": "United States",
+    "departments": {
+        "marketing": 51,
+        "business_development": 115,
+        "operations": 406,
+        "legal": 34,
+        "human_resources": 123,
+        "arts_and_design": 14,
+        "information_technology": 191,
+        "support": 144,
+        "administrative": 61,
+        "sales": 416,
+        "accounting": 51,
+        "finance": 58,
+        "entrepreneurship": 4,
+        "engineering": 73,
+        "data_science": 44,
+        "media_and_commmunication": 40,
+        "consulting": 8,
+        "education": 4,
+        "product_management": 1
+    },
+    "domain": "aldi.us",
+    "estimated_num_employees": 23000,
+    "facebook_url": "https://www.facebook.com/ALDI.USA",
+    "founded_year": "1976",
+    "funding_events": [],
+    "industry": "Grocery Retail",
+    "keywords": [
+        "low prices",
+        "grocery",
+        "quality products",
+        "no frills shopping",
+        "customer service",
+        "fast service",
+        "retail store expansion",
+        "meat and seafood",
+        "retail industry",
+        "grocery product range",
+        "supermarket retail",
+        "organic and specialty foods",
+        "organic products",
+        "customer satisfaction",
+        "store expansion",
+        "grocery retailing",
+        "personal care",
+        "affordable groceries",
+        "market penetration",
+        "market expansion",
+        "cost leadership",
+        "household essentials",
+        "supermarkets and other grocery retailers (except convenience retailers)",
+        "sustainability",
+        "grocery retailing trends",
+        "grocery market share",
+        "high-quality products",
+        "retail expansion",
+        "retail marketing",
+        "mobile app",
+        "special buys",
+        "private label grocery",
+        "retail technology",
+        "discount grocery",
+        "grocery supply chain management",
+        "grocery retail chain",
+        "grocery industry",
+        "private label products",
+        "grocery delivery",
+        "private label strategy",
+        "grocery shopping experience",
+        "consumer goods",
+        "retail store design",
+        "store network growth",
+        "discount grocery stores",
+        "grocery stores",
+        "store network",
+        "grocery chain",
+        "budget shopping",
+        "nutrition",
+        "grocery retail",
+        "retail growth strategy",
+        "retail operations",
+        "food retail",
+        "retail business model",
+        "snacks",
+        "retail chain",
+        "online shopping",
+        "grocery industry trends",
+        "efficiency in grocery retail",
+        "grocery shopping",
+        "market growth",
+        "fresh produce",
+        "value-focused retail",
+        "beverages",
+        "efficiency in retail",
+        "retail store operations",
+        "store layout",
+        "b2c",
+        "grocery store chain",
+        "market presence",
+        "cost-effective retail",
+        "customer loyalty programs",
+        "market expansion strategies",
+        "digital coupons",
+        "grocery supply chain",
+        "retail innovation",
+        "grocery products",
+        "customer loyalty",
+        "low-cost retail",
+        "product quality",
+        "product range",
+        "grocery market",
+        "store opening strategies",
+        "e-commerce",
+        "cost efficiency",
+        "digital shopping tools",
+        "private label",
+        "retail growth",
+        "supermarket chain",
+        "private label branding",
+        "discount retail",
+        "retail growth strategies",
+        "mobile shopping app",
+        "retail store",
+        "retail",
+        "quality food",
+        "grocery pickup",
+        "dairy products",
+        "frozen foods",
+        "bakery items",
+        "pantry essentials",
+        "baby items",
+        "pet supplies",
+        "seasonal products",
+        "aldi exclusive brands",
+        "community donations",
+        "customer feedback",
+        "aldi finds",
+        "recipes",
+        "meal preparation",
+        "weekly specials",
+        "food safety",
+        "chemical management",
+        "diversity and inclusion",
+        "budget-friendly",
+        "curbside pickup",
+        "shopping bags",
+        "fresh meat",
+        "prepared meals",
+        "spices",
+        "restaurant-quality",
+        "cutting-edge retail",
+        "shopping experience",
+        "family-friendly",
+        "local produce",
+        "healthy living",
+        "environmentally friendly",
+        "supply chain transparency",
+        "consumer products & retail",
+        "environmental services",
+        "renewables & environment",
+        "enterprise software",
+        "enterprises",
+        "computer software",
+        "information technology & services",
+        "b2b",
+        "consumers",
+        "health, wellness & fitness",
+        "consumer internet",
+        "internet",
+        "food & beverages",
+        "food",
+        "Weekly Ad",
+        "Exclusive Brands",
+        "Batavia Headquarters"
+    ],
+    "latest_funding_stage": "Private",
+    "linkedin_url": "http://www.linkedin.com/company/aldi-usa",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a42c4543c94a0001910995/picture",
+    "name": "ALDI US (Batavia)",
+    "num_suborganizations": "2,300+ stores",
+    "phone": "+1 630-879-8100",
+    "postal_code": "60510",
+    "raw_address": "1200 North Kirk Road, Batavia, IL 60510, United States",
+    "seo_description": "ALDI Grocery Stores - Quality Food. Everyday Low Prices.",
+    "short_description": "Discount grocery retailer offering high-quality food, exclusive brands, and weekly finds at low prices.",
+    "state": "Illinois",
+    "street_address": "1200 North Kirk Road",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "ALDI US Regional Divisions",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "ALDI Corporate (Batavia)",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "gis",
+            "name": ".GIS",
+            "category": "Other"
+        },
+        {
+            "uid": "24-7_media",
+            "name": "24-7 Media",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "adobe_marketing_cloud",
+            "name": "Adobe Marketing Cloud",
+            "category": "Search Marketing"
+        },
+        {
+            "uid": "adobe_media_optimizer",
+            "name": "Adobe Media Optimizer",
+            "category": "Search Marketing"
+        },
+        {
+            "uid": "atlassian_cloud",
+            "name": "Atlassian Cloud",
+            "category": "CMS"
+        },
+        {
+            "uid": "bmc_software_inc",
+            "name": "BMC SOFTWARE INC",
+            "category": "Enterprise Resource Planning"
+        },
+        {
+            "uid": "backblaze_computer_backup",
+            "name": "Backblaze Computer Backup",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "bing_ads",
+            "name": "Bing Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "board",
+            "name": "Board",
+            "category": "Other"
+        },
+        {
+            "uid": "braintree",
+            "name": "Braintree",
+            "category": "Payments"
+        },
+        {
+            "uid": "csc_corporate_domains",
+            "name": "CSC Corporate Domains",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "cedexis_radar",
+            "name": "Cedexis Radar",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "celonis",
+            "name": "Celonis",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "cisco_2960",
+            "name": "Cisco 2960",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "doubleclick",
+            "name": "DoubleClick",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "doubleclick_conversion",
+            "name": "DoubleClick Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "doubleclick_floodlight",
+            "name": "DoubleClick Floodlight",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "elite_software_hvac_solution",
+            "name": "Elite Software HVAC Solution",
+            "category": "Other"
+        },
+        {
+            "uid": "facebook_web_custom_audiences",
+            "name": "Facebook Custom Audiences",
+            "category": "Retargeting"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_widget",
+            "name": "Facebook Widget",
+            "category": "Widgets"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "google_adwords_conversion",
+            "name": "Google AdWords Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_dynamic_remarketing",
+            "name": "Google Dynamic Remarketing",
+            "category": "Retargeting"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_maps",
+            "name": "Google Maps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_maps_non_paid_users",
+            "name": "Google Maps (Non Paid Users)",
+            "category": "Other"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "hotjar",
+            "name": "Hotjar",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "lotame",
+            "name": "Lotame",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "manhattan_active_omni",
+            "name": "Manhattan Active Omni",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "mapbox",
+            "name": "Mapbox",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "new_relic",
+            "name": "New Relic",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "omniture_adobe",
+            "name": "Omniture (Adobe)",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "outsystems",
+            "name": "Outsystems",
+            "category": "CMS"
+        },
+        {
+            "uid": "postpresso",
+            "name": "Postpresso",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "prosci",
+            "name": "Prosci",
+            "category": "Other"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "route_53",
+            "name": "Route 53",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce_live_agent",
+            "name": "Salesforce Live Agent",
+            "category": "Chats"
+        },
+        {
+            "uid": "salesforce_service_cloud",
+            "name": "Salesforce Service Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "service_now",
+            "name": "ServiceNow",
+            "category": "Case Management"
+        },
+        {
+            "uid": "stripe",
+            "name": "Stripe",
+            "category": "Payments"
+        },
+        {
+            "uid": "tableau",
+            "name": "Tableau",
+            "category": "Widgets"
+        },
+        {
+            "uid": "tealium",
+            "name": "Tealium",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "the_trade_desk",
+            "name": "The Trade Desk",
+            "category": "Demand Side Platforms"
+        },
+        {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "vue_js_library",
+            "name": "VueJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wistia",
+            "name": "Wistia",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "dynatrace",
+            "name": "dynaTrace",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "emaint_cmms",
+            "name": "eMaint CMMS",
+            "category": "Field Service Management"
+        },
+        {
+            "uid": "icims",
+            "name": "iCIMS",
+            "category": "Recruitment"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Network"
+        },
+        {
+            "uid": "forter",
+            "name": "Forter",
+            "category": "Fraud Detection"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Consent Management"
+        },
+        {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "Analytics/Advertising"
+        },
+        {
+            "uid": "tiktok_pixel",
+            "name": "TikTok Pixel",
+            "category": "Analytics/Advertising"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/aldiusa",
+    "website_url": "http://www.aldi.us",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "ALDI Süd (ALDI South Group)",
+    "competitors": [
+        "Lidl US",
+        "Walmart",
+        "The Kroger Co.",
+        "Trader Joe's",
+        "Save A Lot"
+    ],
+    "data_quality_score": 0.96
+}

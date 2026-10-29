@@ -1,0 +1,83 @@
+{
+  "breadcrumbs": [
+    {
+      "label": "Company Name",
+      "signal_field_name": "q_organization_name",
+      "value": "Tunisia",
+      "display_name": "Tunisia"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "1-10",
+      "display_name": "≥ 1-10"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "11-50",
+      "display_name": "≥ 11-50"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "51-200",
+      "display_name": "≥ 51-200"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "201-500",
+      "display_name": "≥ 201-500"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "501-1000",
+      "display_name": "≥ 501-1000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "1001-5000",
+      "display_name": "≥ 1001-5000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "5001-10000",
+      "display_name": "≥ 5001-10000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "10001+",
+      "display_name": "≥ 10001+"
+    },
+    {
+      "label": "Company Locations",
+      "signal_field_name": "organization_locations",
+      "value": "Tunisia",
+      "display_name": "Tunisia"
+    },
+    {
+      "label": "Company Keywords Contain ANY Of",
+      "signal_field_name": "q_organization_keyword_tags",
+      "value": "Software",
+      "display_name": "Software"
+    }
+  ],
+  "partial_results_only": false,
+  "has_join": false,
+  "disable_eu_prospecting": false,
+  "partial_results_limit": 10000,
+  "pagination": {
+    "page": 1,
+    "per_page": 2,
+    "total_entries": 0,
+    "total_pages": 0
+  },
+  "num_fetch_result": null,
+  "model_ids": [],
+  "organizations": []
+}

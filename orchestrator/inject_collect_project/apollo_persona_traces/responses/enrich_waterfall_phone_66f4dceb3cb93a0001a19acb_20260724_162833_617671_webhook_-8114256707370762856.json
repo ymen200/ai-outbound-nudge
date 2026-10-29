@@ -1,0 +1,136 @@
+{
+  "request_id": -8114256707370762856,
+  "webhook_status": "success",
+  "request_type": "waterfall",
+  "last_dispatched_at": "2026-07-24T15:28:32Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "target_fields": [
+      "phone_numbers"
+    ],
+    "records_enriched": 1,
+    "email_records_enriched": 0,
+    "mobile_records_enriched": 1,
+    "enrichment_not_found": 0,
+    "email_records_not_found": 0,
+    "mobile_records_not_found": 0,
+    "credits_consumed": 8,
+    "request_id": "-8114256707370762856",
+    "request_initiated": "2026-07-24T15:27:31Z",
+    "request_completed": "2026-07-24T15:28:31Z",
+    "people": [
+      {
+        "id": "66f4dceb3cb93a0001a19acb",
+        "waterfall": {
+          "phone_numbers": [
+            {
+              "vendors": [
+                {
+                  "id": "apollo-1",
+                  "name": "Apollo",
+                  "status": "VERIFIED",
+                  "phone_numbers": [
+                    "+1 929-286-9521"
+                  ],
+                  "usedForVerification": false,
+                  "statusCode": "apollo_step_success",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "upcell_mobile_finder-1",
+                  "name": "Upcell",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "leadmagic_mobile_finder-1",
+                  "name": "LeadMagic",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "findy_mail_phone_finder-1",
+                  "name": "FindyMail",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "apollo-2",
+                  "name": "Apollo",
+                  "status": "VERIFIED",
+                  "phone_numbers": [
+                    "+1 212-652-6254"
+                  ],
+                  "usedForVerification": false,
+                  "statusCode": "apollo_step_success",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            }
+          ]
+        },
+        "phone_numbers": [
+          {
+            "_id": "6a6384645501840001e7ed73",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+1 212-652-6254",
+            "sanitized_number": "+12126526254",
+            "status_cd": "valid_number",
+            "type_cd": "work_direct",
+            "id": "6a6384645501840001e7ed73",
+            "key": "6a6384645501840001e7ed73"
+          },
+          {
+            "_id": "6a6384645501840001e7ed74",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+1 929-286-9521",
+            "sanitized_number": "+19292869521",
+            "status_cd": "valid_number",
+            "type_cd": "mobile",
+            "id": "6a6384645501840001e7ed74",
+            "key": "6a6384645501840001e7ed74"
+          }
+        ],
+        "emails": []
+      }
+    ]
+  }
+}

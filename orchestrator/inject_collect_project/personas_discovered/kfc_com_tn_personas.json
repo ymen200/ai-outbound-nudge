@@ -1,0 +1,52 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "BOUROUIS Houssem‏",
+        "clean_name_used": "BOUROUIS Houssem",
+        "linkedin_url": "https://tn.linkedin.com/in/bourouis-houssem-3a704360",
+        "company": "Kfc",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "‏jalel kaouem‏",
+        "clean_name_used": "jalel kaouem",
+        "linkedin_url": "https://tn.linkedin.com/in/jalel-kaouem-649ba4180",
+        "company": "Kfc",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "‏Med Hichem undefined‏",
+        "clean_name_used": "Med Hichem undefined",
+        "linkedin_url": "https://tn.linkedin.com/in/med-hichem-undefined-88733a37a",
+        "company": "Kfc",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Non trouvé",
+        "clean_name_used": "Non trouvé",
+        "linkedin_url": "Non trouvé",
+        "company": "Kfc",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

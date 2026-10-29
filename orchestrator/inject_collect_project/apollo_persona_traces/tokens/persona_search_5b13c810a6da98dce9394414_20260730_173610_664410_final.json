@@ -1,0 +1,437 @@
+{
+  "monthly_credits": {
+    "id": "6a4fbc6fe8c033000c2b1efc",
+    "team_id": "6a4fbc6ee8c033000c2b1dab",
+    "first_name": "Admin",
+    "last_name": "Addvocate",
+    "title": null,
+    "email": "admin@addvocate.ai",
+    "num_credits_remaining": 1360,
+    "effective_num_lead_credits": 2520,
+    "num_lead_credits_used": 30,
+    "effective_num_direct_dial_credits": 2500,
+    "num_direct_dial_credits_used": 440,
+    "effective_num_export_credits": 0,
+    "num_export_credits_used": 0,
+    "effective_num_ai_credits": 250000,
+    "num_ai_credits_used": 0,
+    "effective_num_power_up_credits": 0,
+    "num_power_up_credits_used": 0,
+    "total_unified_credits_used": 470
+  },
+  "active_rate_limits": {
+    "[\"api/v1/contacts\", \"search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/contacts\", \"intelligent_fuzzy_search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/accounts\", \"search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/people\", \"search\"]": {
+      "day": {
+        "limit": 50000,
+        "consumed": 0,
+        "left_over": 50000
+      },
+      "hour": {
+        "limit": 6000,
+        "consumed": 0,
+        "left_over": 6000
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/people\", \"match\"]": {
+      "minute": {
+        "limit": 1000,
+        "consumed": 0,
+        "left_over": 1000
+      }
+    },
+    "[\"api/v1/people\", \"bulk_match\"]": {
+      "minute": {
+        "limit": 1000,
+        "consumed": 0,
+        "left_over": 1000
+      }
+    },
+    "[\"api/v1/people\", \"show\"]": {
+      "minute": {
+        "limit": 1000,
+        "consumed": 0,
+        "left_over": 1000
+      }
+    },
+    "[\"api/v1/webhook_result\", \"show\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/organizations\", \"show\"]": {
+      "minute": {
+        "limit": 1000,
+        "consumed": 0,
+        "left_over": 1000
+      }
+    },
+    "[\"api/v1/organizations\", \"show_with_context\"]": {
+      "minute": {
+        "limit": 1000,
+        "consumed": 0,
+        "left_over": 1000
+      }
+    },
+    "[\"api/v1/organizations\", \"search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 5,
+        "left_over": 1995
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 1,
+        "left_over": 399
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/organizations\", \"enrich\"]": {
+      "minute": {
+        "limit": 1000,
+        "consumed": 0,
+        "left_over": 1000
+      }
+    },
+    "[\"api/v1/organizations\", \"bulk_enrich\"]": {
+      "minute": {
+        "limit": 1000,
+        "consumed": 0,
+        "left_over": 1000
+      }
+    },
+    "[\"api/v1/enrich\", \"create\"]": {
+      "day": {
+        "limit": 600,
+        "consumed": 0,
+        "left_over": 600
+      },
+      "hour": {
+        "limit": 100,
+        "consumed": 0,
+        "left_over": 100
+      },
+      "minute": {
+        "limit": 20,
+        "consumed": 0,
+        "left_over": 20
+      }
+    },
+    "[\"api/v1/mixed_companies\", \"search\"]": {
+      "day": {
+        "limit": 50000,
+        "consumed": 0,
+        "left_over": 50000
+      },
+      "hour": {
+        "limit": 6000,
+        "consumed": 0,
+        "left_over": 6000
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/mixed_people\", \"add_to_my_prospects\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 100,
+        "consumed": 0,
+        "left_over": 100
+      }
+    },
+    "[\"api/v1/mixed_people\", \"search\"]": {
+      "day": {
+        "limit": 50000,
+        "consumed": 0,
+        "left_over": 50000
+      },
+      "hour": {
+        "limit": 6000,
+        "consumed": 0,
+        "left_over": 6000
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/mixed_people\", \"api_search\"]": {
+      "day": {
+        "limit": 50000,
+        "consumed": 14,
+        "left_over": 49986
+      },
+      "hour": {
+        "limit": 6000,
+        "consumed": 1,
+        "left_over": 5999
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 1,
+        "left_over": 199
+      }
+    },
+    "[\"api/v1/mixed_people\", \"organization_top_people\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/conversation_shares\", \"show\"]": {
+      "day": {
+        "limit": 300,
+        "consumed": 0,
+        "left_over": 300
+      },
+      "hour": {
+        "limit": 50,
+        "consumed": 0,
+        "left_over": 50
+      },
+      "minute": {
+        "limit": 10,
+        "consumed": 0,
+        "left_over": 10
+      }
+    },
+    "[\"api/v1/conversations\", \"search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/conversations\", \"show\"]": {
+      "minute": {
+        "limit": 1000,
+        "consumed": 0,
+        "left_over": 1000
+      }
+    },
+    "[\"api/v1/tasks\", \"search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/csv_exports\", \"bulk_people_monthly_export\"]": {
+      "hour": {
+        "limit": 10,
+        "consumed": 0,
+        "left_over": 10
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/phone_calls\", \"search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/emailer_campaigns\", \"show\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/emailer_campaigns\", \"search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/emailer_messages\", \"search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    },
+    "[\"api/v1/users\", \"search\"]": {
+      "day": {
+        "limit": 2000,
+        "consumed": 0,
+        "left_over": 2000
+      },
+      "hour": {
+        "limit": 400,
+        "consumed": 0,
+        "left_over": 400
+      },
+      "minute": {
+        "limit": 200,
+        "consumed": 0,
+        "left_over": 200
+      }
+    }
+  },
+  "session_consumption": {
+    "lead_credits_consumed": 0,
+    "direct_dial_credits_consumed": 0,
+    "ai_credits_consumed": 0
+  }
+}

@@ -1,0 +1,294 @@
+{
+    "target_domain": "coca-colacompany.com",
+    "job_country_filter": "USA",
+    "max_intent_age_days": 180,
+    "organization_id": "56e32e01f3e5bb2e9b008cf0",
+    "extracted_jobs": [],
+    "extracted_news": [
+        {
+            "id": "6a2004671c68120014d9069b",
+            "url": "https://brandcom.ng/2026/06/02/2026-world-cup-build-up-coca-cola-introduces-collectible-football-shaped-bottles",
+            "domain": "brandcom.ng",
+            "title": "2026 World Cup build- up: Coca-Cola introduces football-shaped bottles.",
+            "snippet": "Coca-Cola has introduced football-shaped bottles as part of its build-up to the 2026 FIFA World Cup, transforming one of the world's most recognizable beverage packages into a collectible item for football fans.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-06-02T14:31:11.000+00:00",
+            "event_categories": [
+                "launches"
+            ]
+        },
+        {
+            "id": "6a1df4c3a35d790010548afe",
+            "url": "https://www.carwow.co.uk/editorial/youtube-and-videos/drag-races/lamborghini-temerario-vs-ferrari-296-gtb",
+            "domain": "carwow.co.uk",
+            "title": "Drag race: Lamborghini Temerario vs Ferrari 296 GTB.",
+            "snippet": "Coca-Cola vs Pepsi, Nike vs Adidas and Ferrari vs Lamborghini, some of the most iconic rivalries in human history.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0",
+                "54a1283d69702d954811f600"
+            ],
+            "published_at": "2026-05-30T00:00:00.000+00:00",
+            "event_categories": [
+                "identified_as_competitor_of"
+            ]
+        },
+        {
+            "id": "6a1df4cd4bc6e4000c66de43",
+            "url": "https://www.carwow.co.uk/editorial/youtube-and-videos/drag-races/lamborghini-temerario-vs-ferrari-296-gtb",
+            "domain": "carwow.co.uk",
+            "title": "Drag race: Lamborghini Temerario vs Ferrari 296 GTB.",
+            "snippet": "Coca-Cola vs Pepsi, Nike vs Adidas and Ferrari vs Lamborghini, some of the most iconic rivalries in human history.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0",
+                "54a1360969702d4b2e56ca00"
+            ],
+            "published_at": "2026-05-30T00:00:00.000+00:00",
+            "event_categories": [
+                "identified_as_competitor_of"
+            ]
+        },
+        {
+            "id": "6a1f613333969c0018a6e647",
+            "url": "https://sportzpower.com/adidas-originals-coca-cola-unveil-fifa-world-cup-2026-collection",
+            "domain": "sportzpower.com",
+            "title": "adidas originals & Coca-Cola unveil FIFA World Cup 2026 collection.",
+            "snippet": "adidas originals & Coca-Cola unveil FIFA World Cup 2026 collection.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-29T12:21:07.000+00:00",
+            "event_categories": [
+                "launches"
+            ]
+        },
+        {
+            "id": "6a193b13a1790e0018c15642",
+            "url": "https://meditationaffinity.com/news/casio-launches-g-shock-collaboration-watch-with-coca-cola",
+            "domain": "meditationaffinity.com",
+            "title": "Casio launches G-SHOCK collaboration watch with Coca-Cola.",
+            "snippet": "Casio launches G-SHOCK collaboration watch with Coca-Cola.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-27T08:02:43.000+00:00",
+            "event_categories": [
+                "partners_with"
+            ]
+        },
+        {
+            "id": "6a1613b28ecf55001025fe74",
+            "url": "https://www.pekoe.com.au/pekoe-com-au-iced-tea-australia-rtd-market-2026",
+            "domain": "pekoe.com.au",
+            "title": "Iced tea Australia: the extraordinary Sprite Tea moment and what it reveals about where the $1.3 billion RTD market is heading in 2026.",
+            "snippet": "Sprite has officially launched Sprite Tea, a product directly inspired by the viral Gen Z social media trend of dipping tea bags into Sprite - a TikTok hack that had already racked up almost 20 million views before Coca-Cola turned it into an official product.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-26T06:18:59.000+00:00",
+            "event_categories": [
+                "launches"
+            ]
+        },
+        {
+            "id": "6a114440f27c2100185a0bf9",
+            "url": "https://creativebrandsmag.com/wpp-media-essencemediacom-coca-cola-shine-on-opening-day-of-goafest-2026-abby-awards",
+            "domain": "creativebrandsmag.com",
+            "title": "WPP Media, essencemediacom, coca-cola shine on opening day of goafest 2026 ABBY awards.",
+            "snippet": "Day one of GoaFest 2026 ABBY Media Awards saw WPP Media, EssenceMediacom, The Coca-Cola Company, and Jagran Prakashan emerge as top winners.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-22T06:37:53.000+00:00",
+            "event_categories": [
+                "recognized_as"
+            ]
+        },
+        {
+            "id": "6a1143fdcc8537001cfc3420",
+            "url": "https://creativebrandsmag.com/wpp-media-essencemediacom-coca-cola-shine-on-opening-day-of-goafest-2026-abby-awards",
+            "domain": "creativebrandsmag.com",
+            "title": "WPP Media, essencemediacom, coca-cola shine on opening day of goafest 2026 ABBY awards.",
+            "snippet": "Day one of GoaFest 2026 ABBY Media Awards saw WPP Media, EssenceMediacom, The Coca-Cola Company, and Jagran Prakashan emerge as top winners.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-22T06:37:53.000+00:00",
+            "event_categories": [
+                "attends_event"
+            ]
+        },
+        {
+            "id": "6a11435dcb7c4d0020df5e9a",
+            "url": "https://creativebrandsmag.com/wpp-media-essencemediacom-coca-cola-shine-on-opening-day-of-goafest-2026-abby-awards",
+            "domain": "creativebrandsmag.com",
+            "title": "WPP Media, essencemediacom, coca-cola shine on opening day of goafest 2026 ABBY awards.",
+            "snippet": "The first day of the ABBY Media Awards at GoaFest 2026 set the tone for a high-stakes celebration of creativity and media excellence, with WPP Media, EssenceMediacom, The Coca-Cola Company, and Jagran Prakashan emerging as the standout winners.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-22T06:37:53.000+00:00",
+            "event_categories": [
+                "attends_event"
+            ]
+        },
+        {
+            "id": "6a10be69895bed001c39e5bf",
+            "url": "https://marketingmind.in/netflix-appoints-nikita-arya-as-manager-marketing-film-series",
+            "domain": "marketingmind.in",
+            "title": "Netflix appoints Nikita Arya as Manager, Marketing - Film & Series.",
+            "snippet": "Prior to the new role, Arya served as Integrated Marketing Manager at The Coca-Cola Company from April 2023 to March 2026.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-22T06:02:04.000+00:00",
+            "event_categories": [
+                "leaves"
+            ]
+        },
+        {
+            "id": "6a19de213abce8001cea8310",
+            "url": "https://meacsports.com/news/2026/5/21/about-the-meac-the-coca-cola-company-continues-decades-long-partnership-with-meac-as-legacy-sponsor-of-inaugural-sneaker-ball.aspx",
+            "domain": "meacsports.com",
+            "title": "The Coca-Cola Company continues decades-long partnership with MEAC as Legacy Sponsor of inaugural Sneaker Ball.",
+            "snippet": "NORFOLK, Va. - The MEAC Foundation is proud to announce longtime corporate partner The Coca-Cola Company as the Legacy Sponsor of the inaugural MEAC Foundation Sneaker Ball, to be held Friday, May 22, 2026, at 7:00 p.m. at The Westin Virginia Beach Town Center.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-21T18:07:24.000+00:00",
+            "event_categories": [
+                "attends_event"
+            ]
+        },
+        {
+            "id": "6a12c1431f2cba001c732e8e",
+            "url": "https://sociapanews.com/nikita-arya-joins-netflix-marketing-manager-film-series",
+            "domain": "sociapanews.com",
+            "title": "Netflix appoints Nikita Arya as Marketing Manager for Film & Series.",
+            "snippet": "Former Coca-Cola executive Nikita Arya has joined Netflix as Marketing Manager - Film & Series, bringing experience across culture-led campaigns and brand strategy.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-21T12:54:47.000+00:00",
+            "event_categories": [
+                "leaves"
+            ]
+        },
+        {
+            "id": "6a12d8271d391700205e1032",
+            "url": "https://businessfocus.co.ug/coca-cola-beverages-uganda-partners-with-joe-walker-foundation-to-advance-road-safety-efforts",
+            "domain": "businessfocus.co.ug",
+            "title": "Coca-Cola Beverages Uganda partners with Joe Walker Foundation to advance Road Safety efforts.",
+            "snippet": "Coca-Cola Beverages Uganda (CCBU) has partnered with the Joe Walker Foundation in support of the 2026 Joe Walker Road Safety Campaign, a collaborative effort aimed at raising awareness and encouraging safer road use across communities in Uganda.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-21T07:57:13.000+00:00",
+            "event_categories": [
+                "partners_with"
+            ]
+        },
+        {
+            "id": "6a1579dda80f740010f74822",
+            "url": "https://www.disharoundtown.com/news/give-5-get-5-back-at-willys-mexicana-grill-howlin-willys-hot-chicken-2026",
+            "domain": "disharoundtown.com",
+            "title": "Give $5, Get $5 back at Willy's Mexicana Grill & Howlin' Willy's Hot Chicken.",
+            "snippet": "This year, Willy's is partnering with The Coca-Cola Company to further the impact of these donations.",
+            "organization_ids": [
+                "55edd833f3e5bb4be7003274",
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-19T11:36:58.000+00:00",
+            "event_categories": [
+                "partners_with"
+            ]
+        },
+        {
+            "id": "6a0b3f88556391001891a828",
+            "url": "https://www.sankei.com/article/20260518-E2AWBTAKEFL3HPI3G4WOYO7MDY",
+            "domain": "sankei.com",
+            "title": "Five types of rice balls that go well with green tea \"Ayataka\" to be sold for a limited time at Aeon, co-planned with Coca-Cola Japan",
+            "snippet": "Coca-Cola Japan and Aeon Retail announced on the 18th that they jointly planned five types of rice balls to match the taste of five green tea beverages from the brand \"Ayataka,\" and will sell them for a limited time from May 20 to June 14 at approximately 380 Aeon and Aeon Style stores nationwide.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0",
+                "55f68342f3e5bb193f0105c8"
+            ],
+            "published_at": "2026-05-18T04:47:05.000+00:00",
+            "event_categories": [
+                "partners_with"
+            ]
+        },
+        {
+            "id": "6a0b64401f3cbf000ce8f9ba",
+            "url": "https://www.mediapost.com/publications/article/415143/jeep-lands-most-patriotic-brand-designation-for.html",
+            "domain": "mediapost.com",
+            "title": "Jeep lands 'Most Patriotic' brand designation for 25th year.",
+            "snippet": "Other brands in the Brand Keys top 10 are Coca-Cola, Ford, Levi Strauss, Disney, Amazon, Walmart, Hershey's, Ralph Lauren and WeatherTech.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-18T01:22:07.000+00:00",
+            "event_categories": [
+                "recognized_as"
+            ]
+        },
+        {
+            "id": "6a1f47e6b9b29b0014f05911",
+            "url": "https://hsjchronicle.com/ventura-coca-cola-bottling-plant-closing",
+            "domain": "hsjchronicle.com",
+            "title": "Historic Coca-Cola plant in California shuttering after 114 years.",
+            "snippet": "Coca-Cola first opened a bottling operation in Ventura in 1912, later relocating several times over the decades as the business expanded.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-18T00:30:00.000+00:00",
+            "event_categories": [
+                "closes_offices_in"
+            ]
+        },
+        {
+            "id": "6a0bb56e5d82bb001817ac02",
+            "url": "https://thecoconutmama.com/coca-cola-announces-layoffs-at-new-york-facility-amid-restructuring",
+            "domain": "thecoconutmama.com",
+            "title": "Coca-Cola announces layoffs at New York facility amid restructuring.",
+            "snippet": "The Coca-Cola Company has filed notice of layoffs affecting 41 employees at a facility in Queens, New York, according to recent public reporting.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-17T04:52:00.000+00:00",
+            "event_categories": [
+                "decreases_headcount_by"
+            ]
+        },
+        {
+            "id": "6a0c763042cd2f000cc3ba41",
+            "url": "https://www.brandcommunion.com/people-movement/parul-bajaj-appointed-as-vice-president-chief-of-staff-at-the-coca-cola-company",
+            "domain": "brandcommunion.com",
+            "title": "Parul Bajaj appointed as vice president & chief of staff at The Coca-Cola Company.",
+            "snippet": "Parul Bajaj appointed as vice president & chief of staff at The Coca-Cola Company.",
+            "organization_ids": [
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-16T21:03:00.000+00:00",
+            "event_categories": [
+                "hires"
+            ]
+        },
+        {
+            "id": "6a0c81e1bc4ebf00147bde76",
+            "url": "https://gatekeeper.ng/glovo-retail-media-day-experts-highlight-massive-growth-potential-in-global-retail-ecosystem",
+            "domain": "gatekeeper.ng",
+            "title": "Glovo Retail Media Day: Experts highlight massive growth potential in global retail ecosystem.",
+            "snippet": "In recent years, Glovo has partnered with retail industry giants such as Coca-Cola, Nestlé, PepsiCo, Red Bull, Unilever, and more, helping them maximize their retail media strategies.",
+            "organization_ids": [
+                "556e3ad573696411180e4a01",
+                "56e32e01f3e5bb2e9b008cf0"
+            ],
+            "published_at": "2026-05-15T13:22:54.000+00:00",
+            "event_categories": [
+                "partners_with"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,361 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Conseiller Client Après-vente H/F",
+        "location": "SAINT MAXIMIN, France",
+        "department": "After-sales service",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Conseiller Client Après-vente H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Opérateur Préparation Véhicule (H/F)",
+        "location": "SAINT CYR SUR LOIRE, France",
+        "department": "Vehicle preparation",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Opérateur Préparation Véhicule (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Technicien Automobile (H/F)",
+        "location": "SAINT CYR SUR LOIRE, France",
+        "department": "Automotive technical service",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Technicien Automobile (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Carrossier-Peintre H/F",
+        "location": "INGRANDES, France",
+        "department": "Bodywork and painting",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Carrossier-Peintre H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Expert VO H/F",
+        "location": "INGRANDES, France",
+        "department": "Used vehicle expertise",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Expert VO H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Préparateur Esthétique H/F",
+        "location": "INGRANDES, France",
+        "department": "Aesthetic preparation",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Préparateur Esthétique H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Tôlier H/F",
+        "location": "INGRANDES, France",
+        "department": "Bodywork",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Tôlier H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mecanicien automobile (H/F)",
+        "location": "POITIERS, France",
+        "department": "Automotive mechanics",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Mecanicien automobile (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mécanicien (H/F)",
+        "location": "LENS, France",
+        "department": "Mechanics",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Mécanicien (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Réceptionnaire après-vente carrosserie H/F",
+        "location": "COQUELLES, France",
+        "department": "After-sales service",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Réceptionnaire après-vente carrosserie H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mécanicien Service Rapide (H/F)",
+        "location": "CHATELLERAULT, France",
+        "department": "Rapid service mechanics",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Mécanicien Service Rapide (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mécanicien Service Rapide (H/F)",
+        "location": "SAINT CYR SUR LOIRE, France",
+        "department": "Rapid service mechanics",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Mécanicien Service Rapide (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mécanicien automobile (H/F)",
+        "location": "CHATELLERAULT, France",
+        "department": "Automotive mechanics",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Mecanicien automobile (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Réceptionnaire après-vente automobile H/F",
+        "location": "ANNEMASSE, France",
+        "department": "After-sales service",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Réceptionnaire après-vente automobile H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mécanicien Service Rapide (H/F)",
+        "location": "LOMME, France",
+        "department": "Rapid service mechanics",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Mécanicien Service Rapide (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Assistant Administratif (H/F)",
+        "location": "VENISSIEUX, France",
+        "department": "Administrative assistance",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Assistant Administratif (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "conseiller service Après-Vente H/F - carrosserie",
+        "location": "CRETEIL, France",
+        "department": "After-sales service",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "conseiller service Après-Vente H/F - carrosserie",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mécanicien (H/F)",
+        "location": "COIGNIERES, France",
+        "department": "Mechanics",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Mécanicien (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Magasinier Confirmé Mercedes-Benz H/F",
+        "location": "VERT SAINT DENIS, France",
+        "department": "Warehouse management",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Magasinier Confirmé Mercedes-Benz H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mécanicien – Dépanneur Automobile (H/F)",
+        "location": "POITIERS, France",
+        "department": "Automotive mechanics",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Mécanicien – Dépanneur Automobile (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mécanicien (H/F)",
+        "location": "INGRANDES, France",
+        "department": "Mechanics",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Mécanicien (H/F)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Nouvelle étape pour Emil Frey France : Hervé Miralles évolue au sein du siège européen d’Emil Frey et passe le relais à Stéphane Caldairou",
+        "date": "2026-07-10",
+        "news_type": "Strategic Event",
+        "confidence": 0.8,
+        "source": "Nouvelle étape pour Emil Frey France : Hervé Miralles évolue au sein du siège européen d’Emil Frey et passe le relais à Stéphane Caldairou",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Autosphere déploie un agent conversationnel intelligent pour améliorer la relation client",
+        "date": "2026-06-22",
+        "news_type": "Product Launch",
+        "confidence": 0.8,
+        "source": "Autosphere déploie un agent conversationnel intelligent pour améliorer la relation client",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Emil Frey Pro : une nouvelle étape stratégique pour la branche VI et Machinisme Agricole du Groupe",
+        "date": "2026-06-18",
+        "news_type": "Strategic Event",
+        "confidence": 0.8,
+        "source": "Emil Frey Pro : une nouvelle étape stratégique pour la branche VI et Machinisme Agricole du Groupe",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Fondation Autosphere et Coyote : un partenariat sociétal structurant au service de la jeunesse",
+        "date": "2026-04-21",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "Fondation Autosphere et Coyote : un partenariat sociétal structurant au service de la jeunesse",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Emil Frey France et TVS Motor Company redéfinissent leur partenariat pour accélérer le développement des marques TVS et Norton en France",
+        "date": "2026-02-19",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "Emil Frey France et TVS Motor Company redéfinissent leur partenariat pour accélérer le développement des marques TVS et Norton en France",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    }
+]

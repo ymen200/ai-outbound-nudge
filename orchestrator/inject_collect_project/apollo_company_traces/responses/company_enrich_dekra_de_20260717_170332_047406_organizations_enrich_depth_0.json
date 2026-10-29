@@ -1,0 +1,526 @@
+{
+  "organization": {
+    "id": "5e559cd14688e3000183216f",
+    "name": "DEKRA Germany",
+    "website_url": "http://www.dekra.de",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/dekra-germany",
+    "twitter_url": "https://twitter.com/dekracertif",
+    "facebook_url": "https://www.facebook.com/DEKRA",
+    "primary_phone": {
+      "number": "+49 371 3513233",
+      "source": "Scraped",
+      "sanitized_number": "+493713513233"
+    },
+    "languages": [],
+    "alexa_ranking": 798939,
+    "phone": "+49 371 3513233",
+    "linkedin_uid": "80478695",
+    "founded_year": 1925,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/675e127f01338700018d9b09/picture",
+    "crunchbase_url": null,
+    "primary_domain": "dekra.de",
+    "naics_codes": [
+      "54138"
+    ],
+    "sanitized_phone": "+493713513233",
+    "industry": "public safety",
+    "estimated_num_employees": 48000,
+    "keywords": [
+      "arbeitssicherheit",
+      "arbeitsmedizin",
+      "verkehrssicherheit",
+      "produktsicherheit",
+      "cybersecurity",
+      "baupruefung",
+      "industriepruefung",
+      "produkttests zertifizierung",
+      "schadenregulierung",
+      "automotive testing",
+      "elektromobilitaet",
+      "schulungsangebot",
+      "inspektion zertifizierung",
+      "nachhaltigkeit",
+      "sicherheitsberatung",
+      "pruefung",
+      "sicherheit",
+      "zeitarbeit",
+      "fahrzeugpruefung",
+      "autonomous driving testing",
+      "schadengutachten",
+      "umweltmanagement",
+      "pruefwesen",
+      "gutachten",
+      "batterietest",
+      "werkstoffpruefung",
+      "safety in public infrastructure",
+      "energy",
+      "services",
+      "safety in energy sector",
+      "safety assessment",
+      "legal",
+      "inspection services",
+      "digital safety certification",
+      "safety in aerospace",
+      "b2b",
+      "environmental compliance",
+      "reliability verification",
+      "healthcare",
+      "safety standards",
+      "digital security solutions",
+      "safety regulations",
+      "cybersecurity for industrial systems",
+      "safety in logistics",
+      "digital security",
+      "safety risk mitigation",
+      "training and education",
+      "digital trust",
+      "construction",
+      "testing",
+      "vehicle inspection",
+      "wind turbine safety testing",
+      "environmental services",
+      "waste management",
+      "safety data analysis",
+      "energy management",
+      "testing laboratories and services",
+      "led reliability testing",
+      "automotive safety",
+      "safety in manufacturing",
+      "sustainability",
+      "safety",
+      "automotive",
+      "safety performance",
+      "failure analysis for electronics",
+      "safety in railways",
+      "wind energy safety",
+      "risk assessment",
+      "safety in maritime",
+      "network security",
+      "training services",
+      "safety process optimization",
+      "certification",
+      "consulting",
+      "safety consulting",
+      "safety in transportation",
+      "safety certification",
+      "education",
+      "compliance",
+      "fleet management",
+      "project management",
+      "cybersecurity services",
+      "certification services",
+      "inspection",
+      "quality assurance",
+      "safety standards compliance",
+      "security",
+      "safety management systems",
+      "system integration",
+      "regulatory compliance",
+      "product safety",
+      "product testing",
+      "safety training programs",
+      "quality management",
+      "safety technology",
+      "supply chain management",
+      "digital transformation",
+      "medical device safety certification",
+      "safety consultancy",
+      "customer service",
+      "medical electronics testing",
+      "safety audits",
+      "safety audits software",
+      "safety solutions",
+      "product certification",
+      "automotive safety testing",
+      "training",
+      "automotive electronics safety",
+      "innovation",
+      "safety training",
+      "renewable energy",
+      "safety monitoring",
+      "safety compliance",
+      "safety innovation",
+      "environmental testing",
+      "safety reporting",
+      "industrial manufacturing",
+      "environmental consulting",
+      "failure analysis",
+      "risk management",
+      "safety in public events",
+      "industrial safety",
+      "safety services",
+      "safety culture",
+      "data management",
+      "safety in construction",
+      "damage appraisal",
+      "vehicle valuation",
+      "technical expertise",
+      "accident analysis",
+      "emission testing",
+      "property assessment",
+      "work safety",
+      "hazardous materials management",
+      "professional training",
+      "digital solutions",
+      "electromobility",
+      "battery testing",
+      "psychological evaluations",
+      "medical examinations",
+      "legal compliance",
+      "remote service management",
+      "audit training",
+      "mobile solutions",
+      "used car certification",
+      "traffic monitoring",
+      "insurance appraisal",
+      "training seminars",
+      "technical certifications",
+      "environmental assessments",
+      "regulatory advising",
+      "emergency management",
+      "health management",
+      "quality control",
+      "soil and groundwater testing",
+      "sustainable practices",
+      "fuel management",
+      "legal consulting",
+      "workplace safety",
+      "compliance auditing",
+      "manufacturing",
+      "distribution",
+      "transportation & logistics",
+      "energy & utilities",
+      "construction & real estate",
+      "health care",
+      "health, wellness & fitness",
+      "hospital & health care",
+      "renewables & environment",
+      "oil & energy",
+      "information technology & services",
+      "productivity",
+      "logistics & supply chain",
+      "clean energy & technology",
+      "mechanical or industrial engineering"
+    ],
+    "organization_revenue_printed": "5.2B",
+    "organization_revenue": 5207000000.0,
+    "industries": [
+      "public safety"
+    ],
+    "secondary_industries": [],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd4a7369643ba9010000",
+    "industry_tag_hash": {
+      "public safety": "5567cd4a7369643ba9010000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "Handwerkstraße 15, Stuttgart, Baden-Württemberg 70565, DE",
+    "street_address": "15 Handwerkstrasse",
+    "city": "Stuttgart",
+    "state": "Baden-Wuerttemberg",
+    "postal_code": "70565",
+    "country": "Germany",
+    "owned_by_organization_id": "6739eec0b1bf85000109a1f4",
+    "owned_by_organization": {
+      "id": "6739eec0b1bf85000109a1f4",
+      "name": "DEKRA",
+      "website_url": "http://www.dekra.net"
+    },
+    "num_languages": 0,
+    "num_retail_locations": 0,
+    "short_description": "DEKRA is the world's largest independent expert organization in testing, inspection, and certification, based in Stuttgart, Germany. Founded in 1925, DEKRA operates in over 60 countries with around 48,000 employees and generated €4.3 billion in revenue in 2024. The company focuses on public safety, offering services in automotive, industrial, digital, and personnel sectors.\n\nDEKRA provides a wide range of services, including vehicle inspections, industrial equipment testing, digital product certifications, and personnel audits. Their mission is to enhance safety and sustainability for people interacting with technology and the environment. As DEKRA approaches its 100th anniversary in 2025, it continues to emphasize its commitment to securing the future through its comprehensive services and solutions.",
+    "suborganizations": [
+      {
+        "id": "5e574e8b79da0e0001155fab",
+        "name": "DEKRA Certification France",
+        "website_url": "http://www.dekra-certification.fr",
+        "industries": [
+          "management consulting"
+        ],
+        "estimated_num_employees": 90,
+        "country": "France"
+      },
+      {
+        "id": "5f3e80b39561660001b74c08",
+        "name": "DEKRA",
+        "website_url": "http://www.dekra.com",
+        "industries": [
+          "public safety",
+          "environmental services",
+          "professional training & coaching",
+          "management consulting"
+        ],
+        "estimated_num_employees": 49000,
+        "country": "Germany"
+      },
+      {
+        "id": "5ed47f14c34d440001fa0c24",
+        "name": "DEKRA Arbeit Group Germany",
+        "website_url": "http://www.dekra-arbeit.de",
+        "industries": [
+          "staffing & recruiting",
+          "human resources",
+          "professional training & coaching"
+        ],
+        "estimated_num_employees": 520,
+        "country": "Germany"
+      },
+      {
+        "id": "5f483c40f0fe4b0001ed714c",
+        "name": "DEKRA Akademie GmbH",
+        "website_url": "http://www.dekra-akademie.de",
+        "industries": [
+          "education management",
+          "professional training & coaching"
+        ],
+        "estimated_num_employees": 710,
+        "country": "Germany"
+      },
+      {
+        "id": "69d6ef7a1c2825000186cfa8",
+        "name": "DEKRA Certification B.V.,",
+        "website_url": "http://www.dekra-product-safety.com",
+        "industries": [],
+        "estimated_num_employees": 0,
+        "country": "Germany"
+      },
+      {
+        "id": "66e687b23ce0e4000169453d",
+        "name": "Behavioral Science Technology, Inc.",
+        "website_url": "http://www.bstsolutions.com",
+        "industries": [],
+        "estimated_num_employees": 24,
+        "country": "United States"
+      }
+    ],
+    "num_suborganizations": 6,
+    "annual_revenue_printed": "5.2B",
+    "annual_revenue": 5207000000.0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      "Amazon SES",
+      "Apple Pay",
+      "Brevo",
+      "Google Search Central",
+      "Google Search Console",
+      "HREF Lang",
+      "Hornetsecurity Spam and Malware Protection",
+      "Hotjar",
+      "MailJet",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Azure Hosting",
+      "Microsoft Azure Monitor",
+      "Microsoft Email Providers",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Mobile Friendly",
+      "Nuxtjs",
+      "OneTrust",
+      "Outlook",
+      "React Redux",
+      "SAP SuccessFactors",
+      "Salesforce",
+      "Salesforce Live Agent",
+      "Slack",
+      "Tailwind",
+      "Viewport Meta",
+      "VueJS",
+      "Webflow"
+    ],
+    "current_technologies": [
+      {
+        "uid": "amazon_ses",
+        "name": "Amazon SES",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "apple_pay",
+        "name": "Apple Pay",
+        "category": "Payments"
+      },
+      {
+        "uid": "brevo",
+        "name": "Brevo",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "google_search_central",
+        "name": "Google Search Central",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "href_lang",
+        "name": "HREF Lang",
+        "category": "Other"
+      },
+      {
+        "uid": "hornetsecurity_spam_and_malware_protection",
+        "name": "Hornetsecurity Spam and Malware Protection",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "hotjar",
+        "name": "Hotjar",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mailjet",
+        "name": "MailJet",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft",
+        "name": "Microsoft Azure Hosting",
+        "category": "Hosting"
+      },
+      {
+        "uid": "microsoft_azure_monitor",
+        "name": "Microsoft Azure Monitor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_email_providers",
+        "name": "Microsoft Email Providers",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "nuxtjs",
+        "name": "Nuxtjs",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "onetrust",
+        "name": "OneTrust",
+        "category": "Widgets"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "react_redux",
+        "name": "React Redux",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "sap_successfactors",
+        "name": "SAP SuccessFactors",
+        "category": "Human Capital Management"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_live_agent",
+        "name": "Salesforce Live Agent",
+        "category": "Chats"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "tailwind",
+        "name": "Tailwind",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "vue_js_library",
+        "name": "VueJS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "webflow",
+        "name": "Webflow",
+        "category": "CMS"
+      }
+    ],
+    "org_chart_root_people_ids": [],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "human_resources": 18,
+      "business_development": 10,
+      "engineering": 27,
+      "product_management": 5,
+      "operations": 23,
+      "administrative": 3,
+      "support": 4,
+      "sales": 16,
+      "marketing": 23,
+      "consulting": 4,
+      "information_technology": 4,
+      "accounting": 1,
+      "data_science": 1,
+      "legal": 1,
+      "media_and_commmunication": 1,
+      "finance": 0,
+      "education": 0,
+      "arts_and_design": 0,
+      "entrepreneurship": 0
+    },
+    "organization_headcount_six_month_growth": 0.0,
+    "organization_headcount_twelve_month_growth": 0.0,
+    "organization_headcount_twenty_four_month_growth": 0.1
+  }
+}

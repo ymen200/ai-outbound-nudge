@@ -1,0 +1,41 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Pan Ocean and Newcross Companies Appoint Mrs Remilekun Soyannwo as Independent Non-Executive Director - Pan Ocean and Newcross Companies have appointed Mrs Remilekun Soyannwo as an Independent Non-Executive Director.",
+        "date": "2026-05-25",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "Pan Ocean and Newcross Companies Appoint Mrs Remilekun Soyannwo as Independent Non-Executive Director",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.26,
+            "evidence_density": 2.14
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "High Level Visit to NNPC Executives - Pan Ocean executives paid a high-level visit to NNPC executives.",
+        "date": "2025-10-30",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "High Level Visit to NNPC Executives",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.29,
+            "evidence_density": 2.91
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "RADA-AMS: Energy and Innovation for the 21st Century - Pan Ocean participated in the RADA-AMS event, focusing on energy and innovation for the 21st century.",
+        "date": "2025-10-05",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "RADA-AMS: Energy and Innovation for the 21st Century",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.3,
+            "evidence_density": 3.0
+        }
+    }
+]

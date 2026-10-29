@@ -1,0 +1,506 @@
+{
+    "domain": "payhip.com",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Project Management",
+            "ai_value": "Payhip"
+        },
+        "domain": {
+            "database_value": "payhip.com",
+            "ai_value": "payhip.com"
+        },
+        "industry": {
+            "database_value": "e-learning",
+            "ai_value": "E-commerce platform for creators"
+        },
+        "founded_year": {
+            "database_value": 2012,
+            "ai_value": null
+        },
+        "short_description": {
+            "database_value": "Payhip is a UK-based e-commerce platform founded in 2011, designed for creators to sell digital and physical products directly to their audience. It caters to coaches, writers, entrepreneurs, and other content creators, providing a straightforward way to monetize their work without needing technical skills or upfront costs.\n\nThe platform offers a range of services, including digital downloads, online courses, memberships, coaching services, and physical product sales. Key features include automated payment processing, secure file delivery, VAT and tax automation, and unlimited product listings. Payhip also provides marketing tools, analytics, and third-party integrations, making it a comprehensive solution for creators looking to manage their sales effectively.",
+            "ai_value": "Create a free website and sell online; Sell digital downloads, courses, coaching and more from one simple platform."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Payhip - Create a free website and sell online"
+        },
+        "annual_revenue": {
+            "database_value": 1000000.0,
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "estimated_num_employees": {
+            "database_value": 3700,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/projectmanagementinformation",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "https://twitter.com/payhip",
+            "ai_value": "https://x.com/payhip"
+        },
+        "facebook_url": {
+            "database_value": "https://facebook.com/payhipapp",
+            "ai_value": "https://www.facebook.com/payhipapp"
+        },
+        "phone": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "raw_address": {
+            "database_value": "los angeles, california, united states",
+            "ai_value": null
+        },
+        "city": {
+            "database_value": "Los Angeles",
+            "ai_value": null
+        },
+        "country": {
+            "database_value": "United States",
+            "ai_value": null
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": null
+        },
+        "keywords": {
+            "database_value": [
+                "e-learning providers",
+                "excel formulas",
+                "digital guide",
+                "productivity tools",
+                "excel training",
+                "spreadsheet solutions",
+                "educational technology",
+                "software tools",
+                "budgeting templates",
+                "financial analysis",
+                "data visualization",
+                "personal finance",
+                "business management",
+                "user-friendly",
+                "skill development",
+                "digital products",
+                "online learning",
+                "excel templates",
+                "troubleshooting",
+                "complex formulas",
+                "data analysis",
+                "educational resources",
+                "b2b solutions",
+                "b2c products",
+                "e-commerce",
+                "downloadable content",
+                "microsoft excel",
+                "user engagement",
+                "marketing strategies",
+                "customer segments",
+                "financial literacy",
+                "project management",
+                "automation tasks",
+                "excel shortcuts",
+                "formula generator",
+                "real-world applications",
+                "non-technical explanations",
+                "skill enhancement",
+                "digital marketplace",
+                "b2b",
+                "saas",
+                "internet",
+                "information technology & services",
+                "computer software",
+                "education",
+                "education management",
+                "financial services",
+                "e-learning",
+                "data analytics",
+                "consumer internet",
+                "consumers",
+                "marketing strategy",
+                "marketing & advertising",
+                "productivity"
+            ],
+            "ai_value": "digital downloads, online courses, coaching, memberships, physical products, e-commerce, website builder, marketing tools, VAT & Taxes, creators"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "aws_application_load_balancer",
+                    "name": "AWS Application Load Balancer",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "active_campaign",
+                    "name": "Active Campaign",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "adobe_fonts",
+                    "name": "Adobe Fonts",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "adobe_fonts",
+                    "name": "Adobe Fonts",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "amazon_elastic_load_balancer",
+                    "name": "Amazon Elastic Load Balancer",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "amazon_elastic_load_balancer",
+                    "name": "Amazon Elastic Load Balancer",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "bootstrap",
+                    "name": "Bootstrap",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "bootstrap",
+                    "name": "Bootstrap",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "cart_functionality",
+                    "name": "Cart Functionality",
+                    "category": "E-commerce Platforms"
+                },
+                {
+                    "uid": "cloudflare",
+                    "name": "CloudFlare",
+                    "category": "Web Accelerators"
+                },
+                {
+                    "uid": "cloudflare_cdn",
+                    "name": "CloudFlare CDN",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "cloudflare_cdn",
+                    "name": "CloudFlare CDN",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "cloudflare_browser_insights",
+                    "name": "Cloudflare Browser Insights",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "cloudflare_dns",
+                    "name": "Cloudflare DNS",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "cloudflare_insights",
+                    "name": "Cloudflare Insights",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "cloudflare_rocket_loader",
+                    "name": "Cloudflare Rocket Loader",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "doubleclick_conversion",
+                    "name": "DoubleClick Conversion",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "facebook",
+                    "name": "Facebook",
+                    "category": "Social Media Marketing"
+                },
+                {
+                    "uid": "facebook_like_button",
+                    "name": "Facebook Like Button",
+                    "category": "Social Sharing"
+                },
+                {
+                    "uid": "facebook_login",
+                    "name": "Facebook Login (Connect)",
+                    "category": "Social Login"
+                },
+                {
+                    "uid": "facebook_pixel",
+                    "name": "Facebook Pixel",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "facebook_pixel",
+                    "name": "Facebook Pixel",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "facebook_pixel",
+                    "name": "Facebook Pixel",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "facebook_pixel",
+                    "name": "Facebook Pixel",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "facebook_pixel",
+                    "name": "Facebook Pixel",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "facebook_sdk",
+                    "name": "Facebook SDK",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "facebook_sdk",
+                    "name": "Facebook SDK",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "gmail",
+                    "name": "Gmail",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "google_adsense",
+                    "name": "Google AdSense",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "google_ads_conversion",
+                    "name": "Google Ads Conversion",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_ads_conversion",
+                    "name": "Google Ads Conversion",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_analytics",
+                    "name": "Google Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_analytics_4_ga4",
+                    "name": "Google Analytics 4 (GA4)",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_async",
+                    "name": "Google Custom Search",
+                    "category": "Search Appliances"
+                },
+                {
+                    "uid": "google_hosted_libraries",
+                    "name": "Google Hosted Libraries",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "google_remarketing",
+                    "name": "Google Remarketing",
+                    "category": "Retargeting"
+                },
+                {
+                    "uid": "google_remarketing",
+                    "name": "Google Remarketing",
+                    "category": "Retargeting"
+                },
+                {
+                    "uid": "google_tag_manager",
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "google workspace",
+                    "name": "Google Workspace",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google workspace",
+                    "name": "Google Workspace",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "helpscout",
+                    "name": "Helpscout",
+                    "category": "Support and Feedback"
+                },
+                {
+                    "uid": "jotform",
+                    "name": "Jotform",
+                    "category": "Hosted Forms"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "open_graph",
+                    "name": "Open Graph",
+                    "category": "Other"
+                },
+                {
+                    "uid": "remote",
+                    "name": "Remote",
+                    "category": "Other"
+                },
+                {
+                    "uid": "sendgrid",
+                    "name": "Sendgrid",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "slack",
+                    "name": "Slack",
+                    "category": "Chats"
+                },
+                {
+                    "uid": "trustpilot",
+                    "name": "Trustpilot",
+                    "category": "Customer Reviews"
+                },
+                {
+                    "uid": "twilio_sendgrid_email_api",
+                    "name": "Twilio SendGrid Email API",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "twitter_sharing",
+                    "name": "Twitter Sharing",
+                    "category": "Social Sharing"
+                },
+                {
+                    "uid": "unsplash",
+                    "name": "Unsplash",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "viewport_meta",
+                    "name": "Viewport Meta",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "wistia",
+                    "name": "Wistia",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "wordpress_org",
+                    "name": "WordPress.org",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "youtube",
+                    "name": "YouTube",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "cdnjs",
+                    "name": "cdnjs",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "jquery",
+                    "name": "jQuery",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "recaptcha",
+                    "name": "reCAPTCHA",
+                    "category": "Captcha"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "Cloudflare",
+                    "category": "CDN",
+                    "confidence": 0.99,
+                    "source": "server: cloudflare",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.28,
+                        "evidence_density": 0.56
+                    }
+                },
+                {
+                    "name": "Google Analytics",
+                    "category": "Analytics",
+                    "confidence": 0.99,
+                    "source": "www.google-analytics.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.24,
+                        "evidence_density": 0.67
+                    }
+                },
+                {
+                    "name": "Google Ads",
+                    "category": "Advertising",
+                    "confidence": 0.95,
+                    "source": "googleads.g.doubleclick.net",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.46,
+                        "evidence_density": 0.37
+                    }
+                },
+                {
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management",
+                    "confidence": 0.99,
+                    "source": "www.googletagmanager.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.23,
+                        "evidence_density": 0.75
+                    }
+                },
+                {
+                    "name": "FirstPromoter",
+                    "category": "Affiliate Marketing",
+                    "confidence": 0.95,
+                    "source": "cdn.firstpromoter.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.19,
+                        "evidence_density": 0.62
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "funding_events": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Shopify",
+                "Gumroad",
+                "Podia",
+                "Teachable",
+                "Kajabi"
+            ]
+        }
+    }
+}

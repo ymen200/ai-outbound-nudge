@@ -1,0 +1,1584 @@
+{
+  "organization": {
+    "id": "54a1215e69702d77c2eee302",
+    "name": "TED Conferences",
+    "website_url": "http://www.ted.com",
+    "angellist_url": "http://angel.co/ted",
+    "linkedin_url": "http://www.linkedin.com/company/ted-conferences",
+    "twitter_url": "http://twitter.com/TEDNews",
+    "facebook_url": "https://facebook.com/tedxvienna",
+    "primary_phone": {
+      "number": "+1 212-346-9333",
+      "source": "Account",
+      "sanitized_number": "+12123469333"
+    },
+    "languages": [
+      "English"
+    ],
+    "alexa_ranking": 2717,
+    "phone": "+1 212-346-9333",
+    "linkedin_uid": "610087",
+    "founded_year": 1984,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66d23641743394000181f0ab/picture",
+    "crunchbase_url": null,
+    "primary_domain": "ted.com",
+    "sic_codes": [
+      "8299"
+    ],
+    "naics_codes": [
+      "61131",
+      "51621",
+      "561920"
+    ],
+    "sanitized_phone": "+12123469333",
+    "industry": "nonprofit organization management",
+    "estimated_num_employees": 17000,
+    "keywords": [
+      "video",
+      "design",
+      "events",
+      "entertainment",
+      "consumer internet",
+      "internet",
+      "information technology",
+      "non-profit organizations",
+      "personal development",
+      "tedx event management",
+      "tedx innovation",
+      "social change",
+      "ted institute",
+      "public engagement",
+      "virtual events",
+      "tedx speaker nomination",
+      "ted talks",
+      "ted radio hour",
+      "non-profit organization",
+      "technology",
+      "social impact",
+      "crowdsourcing",
+      "digital innovation",
+      "research",
+      "global events",
+      "tedx local community",
+      "educational programs",
+      "idea sharing",
+      "inspiration platform",
+      "knowledge dissemination",
+      "tedx",
+      "digital content distribution",
+      "ted-ed",
+      "knowledge economy",
+      "tedx event marketing",
+      "tedx talks",
+      "creative commons",
+      "idea dissemination",
+      "online learning",
+      "leadership talks",
+      "online video platform",
+      "ted fellows",
+      "community-driven",
+      "health",
+      "creative commons licensing",
+      "learning platform",
+      "cultural exchange",
+      "business",
+      "tedx events",
+      "personal growth",
+      "tedx global",
+      "video lessons",
+      "educational outreach",
+      "tedx youth programs",
+      "media & publishing",
+      "community outreach",
+      "educator resources",
+      "innovation",
+      "educational videos",
+      "tedx community",
+      "tedx licensing",
+      "innovative ideas",
+      "tedx local events",
+      "youth education",
+      "social innovation",
+      "global reach",
+      "community engagement",
+      "tedx community outreach",
+      "video sharing",
+      "global dialogue",
+      "conference",
+      "educational content",
+      "global accessibility",
+      "global education",
+      "tedx community engagement",
+      "knowledge sharing",
+      "influential speakers",
+      "tedx organizers",
+      "public awareness campaigns",
+      "tedx volunteer",
+      "thought-provoking content",
+      "digital distribution",
+      "multilingual content",
+      "crowdsourced translation",
+      "global community",
+      "b2c",
+      "ted@work",
+      "colleges, universities, and professional schools",
+      "conference events",
+      "interactive content",
+      "world-changing initiatives",
+      "services",
+      "community",
+      "non-profit",
+      "community volunteers",
+      "educator partnerships",
+      "ted-ed lessons",
+      "ted translators",
+      "tedx event resources",
+      "media collaboration",
+      "public speaking",
+      "media organization",
+      "media platform",
+      "mental health",
+      "content licensing",
+      "education",
+      "educator training",
+      "tedx university",
+      "tedx speaker training",
+      "community building",
+      "digital media",
+      "worldwide access",
+      "tedx youth leadership",
+      "online education",
+      "event organization",
+      "tedx event planning",
+      "learning resources",
+      "tedx global network",
+      "thought leadership",
+      "tedx education",
+      "tedx youth",
+      "video platform",
+      "inspiration",
+      "multimedia content",
+      "leadership",
+      "local events",
+      "curated playlists",
+      "thought-provoking",
+      "podcasts",
+      "creativity",
+      "science",
+      "curiosity",
+      "global initiatives",
+      "partnerships",
+      "access to knowledge",
+      "cultural insights",
+      "online courses",
+      "educational resources",
+      "networking",
+      "local speakers",
+      "storytelling",
+      "community organizing",
+      "brain health",
+      "global challenges",
+      "environmental sustainability",
+      "digital communication",
+      "diversity",
+      "inclusion",
+      "entrepreneurship",
+      "motivation",
+      "audio content",
+      "knowledge exchange",
+      "in-depth discussions",
+      "scientific exploration",
+      "artistic expression",
+      "emotional intelligence",
+      "human rights",
+      "life skills",
+      "consumers",
+      "information technology & services",
+      "nonprofit organization management",
+      "communities",
+      "e-learning",
+      "computer software",
+      "education management",
+      "hospital & health care"
+    ],
+    "organization_revenue_printed": "113.2M",
+    "organization_revenue": 113219000.0,
+    "industries": [
+      "nonprofit organization management",
+      "online media",
+      "events services",
+      "internet",
+      "entertainment"
+    ],
+    "secondary_industries": [
+      "online media",
+      "events services",
+      "internet",
+      "entertainment"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd4773696454303a0000",
+    "industry_tag_hash": {
+      "nonprofit organization management": "5567cd4773696454303a0000",
+      "online media": "5567cdb373696439dd540000",
+      "events services": "5567cd8e7369645409450000",
+      "internet": "5567cd4d736964397e020000",
+      "entertainment": "5567cdd37369643b80510000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "330 Hudson Street, New York, NY 10013, US",
+    "street_address": "330 Hudson Street",
+    "city": "New York",
+    "state": "New York",
+    "postal_code": "10013",
+    "country": "United States",
+    "owned_by_organization_id": null,
+    "num_languages": 1,
+    "num_retail_locations": 0,
+    "short_description": "TED Conferences is a nonprofit media organization founded in 1984, dedicated to spreading meaningful ideas through conferences and online talks. With a mission of \"Ideas Worth Spreading,\" TED has evolved from its origins in technology, entertainment, and design to encompass a wide range of topics, including science, business, arts, and global issues.\n\nThe organization hosts an annual main conference in Vancouver, Canada, where over 1,000 attendees from diverse fields gather to exchange ideas and inspire change. TED Talks, available for free online, feature short presentations designed to educate and entertain, covering a variety of subjects in more than 100 languages. Additionally, TED supports community-led events through its TEDx program, allowing local organizers to host their own gatherings centered around TED's core ideas. TED's commitment to accessibility ensures that its content reaches a global audience, fostering discussion and learning across cultures.",
+    "suborganizations": [
+      {
+        "id": "5c1d8af880f93e725daf66e8",
+        "name": "TEDxRutgers",
+        "website_url": "http://www.tedxrutgers.com",
+        "industries": [
+          "nonprofit organization management",
+          "events services",
+          "education management",
+          "entertainment"
+        ],
+        "estimated_num_employees": 8,
+        "country": "United States"
+      },
+      {
+        "id": "64004ddeec1a39000120fbf4",
+        "name": "TEDxForteDeiMarmi",
+        "website_url": "http://www.tedxfortedeimarmi.com",
+        "industries": [
+          "nonprofit organization management",
+          "events services"
+        ],
+        "estimated_num_employees": 13,
+        "country": "Italy"
+      },
+      {
+        "id": "66f3a99deae9b500016159bc",
+        "name": "TEDxNarbonne",
+        "website_url": "http://www.tedxnarbonne.fr",
+        "industries": [
+          "civic & social organization"
+        ],
+        "estimated_num_employees": 0,
+        "country": "France"
+      },
+      {
+        "id": "66fbd36789b7c600014f5024",
+        "name": "TEDx GEC RIT",
+        "website_url": "http://www.tedxgecrit.com",
+        "industries": [
+          "events services"
+        ],
+        "estimated_num_employees": 0,
+        "country": "India"
+      },
+      {
+        "id": "672b0ca189a6ab0001ffc02f",
+        "name": "TEDx Midvale",
+        "website_url": "http://www.tedxmidvale.com",
+        "industries": [
+          "think tanks"
+        ],
+        "estimated_num_employees": 0,
+        "country": null
+      },
+      {
+        "id": "5569b0ee7369642589eb7e00",
+        "name": "TEDxBerkleeValencia",
+        "website_url": "http://www.tedxberkleevalencia.com",
+        "industries": [
+          "entertainment"
+        ],
+        "estimated_num_employees": 2,
+        "country": "Spain"
+      },
+      {
+        "id": "556d49cb736964122a65d300",
+        "name": "TEDxGöteborg",
+        "website_url": "http://www.tedxgoteborg.com",
+        "industries": [
+          "nonprofit organization management",
+          "events services",
+          "education management"
+        ],
+        "estimated_num_employees": 20,
+        "country": "Sweden"
+      },
+      {
+        "id": "57c4c751a6da9837480f5f90",
+        "name": "TEDxGrandBassam",
+        "website_url": "http://www.tedxgrandbassam.com",
+        "industries": [
+          "events services"
+        ],
+        "estimated_num_employees": 3,
+        "country": "Cote d'Ivoire"
+      },
+      {
+        "id": "5b84d4f2324d4473157c43ec",
+        "name": "TEDxNortheasternU",
+        "website_url": "http://www.tedxnortheasternu.com",
+        "industries": [
+          "events services",
+          "civic & social organization"
+        ],
+        "estimated_num_employees": 33,
+        "country": "United States"
+      },
+      {
+        "id": "6023dc62c716680138150216",
+        "name": "TEDxSwansea",
+        "website_url": "http://www.tedxswansea.uk",
+        "industries": [
+          "events services"
+        ],
+        "estimated_num_employees": 2,
+        "country": "United Kingdom"
+      },
+      {
+        "id": "63c8e92523dc59000133bf3b",
+        "name": "TEDxWesleyanU",
+        "website_url": "http://www.tedxwesleyanu.com",
+        "industries": [
+          "think tanks"
+        ],
+        "estimated_num_employees": 0,
+        "country": "United States"
+      },
+      {
+        "id": "64686d1ff8a9ed0001a3b5fb",
+        "name": "TEDxTUWien",
+        "website_url": "http://www.tedxtuwien.at",
+        "industries": [
+          "media production"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Austria"
+      },
+      {
+        "id": "65559fd6c457ba0001505ee4",
+        "name": "TEDx Ancona",
+        "website_url": "http://www.tedxancona.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 2,
+        "country": "Italy"
+      },
+      {
+        "id": "685242929cfb880001a0a22e",
+        "name": "TEDxGosport",
+        "website_url": "http://www.tedxgosport.co.uk",
+        "industries": [
+          "events services"
+        ],
+        "estimated_num_employees": 3,
+        "country": "United Kingdom"
+      },
+      {
+        "id": "54a1295a69702dc128e95501",
+        "name": "TEDxStockholm",
+        "website_url": "http://www.tedxstockholm.com",
+        "industries": [
+          "nonprofit organization management",
+          "events services"
+        ],
+        "estimated_num_employees": 40,
+        "country": "Sweden"
+      },
+      {
+        "id": "55e84d79f3e5bb6d0100059b",
+        "name": "TEDxWinnipeg",
+        "website_url": "http://www.tedxwinnipeg.ca",
+        "industries": [
+          "events services",
+          "media production"
+        ],
+        "estimated_num_employees": 5,
+        "country": "Canada"
+      },
+      {
+        "id": "56d6453bf3e5bb3a3a002034",
+        "name": "TEDxKlagenfurt",
+        "website_url": "http://www.tedxklagenfurt.com",
+        "industries": [
+          "think tanks"
+        ],
+        "estimated_num_employees": 4,
+        "country": "Austria"
+      },
+      {
+        "id": "60afa36d32361f000119c2b3",
+        "name": "TEDxKI",
+        "website_url": "http://www.tedxki.com",
+        "industries": [
+          "nonprofit organization management",
+          "events services"
+        ],
+        "estimated_num_employees": 12,
+        "country": "Sweden"
+      },
+      {
+        "id": "6543187ccb301b00015df65d",
+        "name": "TEDxMessina",
+        "website_url": "http://www.tedxmessina.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 0,
+        "country": "Italy"
+      },
+      {
+        "id": "6681de0edac8d90001ca3a63",
+        "name": "TEDx Altaussee",
+        "website_url": "http://www.tedxaltaussee.com",
+        "industries": [
+          "government administration"
+        ],
+        "estimated_num_employees": 4,
+        "country": "Austria"
+      },
+      {
+        "id": "6702d7aa4667e60001b3588d",
+        "name": "TEDx AJCE",
+        "website_url": "http://www.tedxajce.in",
+        "industries": [
+          "nonprofit organization management",
+          "events services"
+        ],
+        "estimated_num_employees": 9,
+        "country": "India"
+      },
+      {
+        "id": "54a2422c7468693a7e17931a",
+        "name": "TEDx BITSGoa",
+        "website_url": "http://www.tedxbitsgoa.in",
+        "industries": [
+          "events services"
+        ],
+        "estimated_num_employees": 59,
+        "country": "India"
+      },
+      {
+        "id": "556d880773696411bc843401",
+        "name": "TEDxPuntaDelEste",
+        "website_url": "http://www.tedxpuntadeleste.org",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 3,
+        "country": null
+      },
+      {
+        "id": "55ea5cccf3e5bb594b0062f3",
+        "name": "TEDxWHU",
+        "website_url": "http://www.tedxwhu.com",
+        "industries": [
+          "government administration"
+        ],
+        "estimated_num_employees": 2,
+        "country": "Germany"
+      },
+      {
+        "id": "65cb883397f9b70001e2c1de",
+        "name": "Tedxflanders",
+        "website_url": "http://www.tedxflanders.be",
+        "industries": [],
+        "estimated_num_employees": 0,
+        "country": "Belgium"
+      },
+      {
+        "id": "67134dd609e71300015e637f",
+        "name": "TEDxMorehouseCollege",
+        "website_url": "http://www.tedxmorehousecollege.com",
+        "industries": [
+          "civic & social organization"
+        ],
+        "estimated_num_employees": 0,
+        "country": "United States"
+      },
+      {
+        "id": "6725ac471eb5540001189faf",
+        "name": "TEDxAnuragU",
+        "website_url": "http://www.tedxanuragu.com",
+        "industries": [
+          "nonprofit organization management",
+          "events services"
+        ],
+        "estimated_num_employees": 5,
+        "country": "India"
+      },
+      {
+        "id": "55e7b29bf3e5bb3d4300013e",
+        "name": "TEDxVail",
+        "website_url": "http://www.tedxvail.com",
+        "industries": [
+          "nonprofit organization management",
+          "events services",
+          "entertainment"
+        ],
+        "estimated_num_employees": 5,
+        "country": "United States"
+      },
+      {
+        "id": "556d1f3e736964126ccb9500",
+        "name": "TEDxGijón",
+        "website_url": "http://www.tedxgijon.com",
+        "industries": [
+          "civic & social organization"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Spain"
+      },
+      {
+        "id": "5da3d41b214d0e0001e09d81",
+        "name": "TEDxFlanders",
+        "website_url": "http://www.tedxflanders.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Belgium"
+      },
+      {
+        "id": "5a9d2be2a6da98d98c692030",
+        "name": "TEDxLSU",
+        "website_url": "http://www.tedxlsu.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 1,
+        "country": "United States"
+      },
+      {
+        "id": "5a9cf24ba6da98d99a39e78d",
+        "name": "TEDxDonauinsel",
+        "website_url": "http://www.tedxdonauinsel.at",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 3,
+        "country": "Austria"
+      },
+      {
+        "id": "647029623317fa0001f02064",
+        "name": "TEDxWVU",
+        "website_url": "http://www.tedxwvu.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 2,
+        "country": "United States"
+      },
+      {
+        "id": "65d11ca73967850001c93632",
+        "name": "TEDxUWMilwaukee",
+        "website_url": "http://www.tedxuwmilwaukee.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 2,
+        "country": "United States"
+      },
+      {
+        "id": "678c8f7d7920340001d9faec",
+        "name": "TEDxCarcerediPotenza",
+        "website_url": "http://www.tedxcarceredipotenza.it",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 2,
+        "country": "Italy"
+      },
+      {
+        "id": "556998527369642549a96100",
+        "name": "TEDxAUBG",
+        "website_url": "http://www.tedxaubg.com",
+        "industries": [
+          "events services"
+        ],
+        "estimated_num_employees": 22,
+        "country": "Bulgaria"
+      },
+      {
+        "id": "54a1291169702db648096101",
+        "name": "TEDxUHasselt",
+        "website_url": "http://www.tedxuhasselt.eu",
+        "industries": [
+          "facilities services",
+          "events services"
+        ],
+        "estimated_num_employees": 3,
+        "country": "Belgium"
+      },
+      {
+        "id": "5f46feb4ece2ba00016bb4bb",
+        "name": "TEDxGuarulhos",
+        "website_url": "http://www.tedxguarulhos.org",
+        "industries": [
+          "nonprofit organization management",
+          "events services"
+        ],
+        "estimated_num_employees": 7,
+        "country": "Brazil"
+      },
+      {
+        "id": "5b138338a6da98dd199ebaad",
+        "name": "TEDxTinHau Women",
+        "website_url": "http://www.tedxtinhauwomen.com",
+        "industries": [
+          "think tanks",
+          "events services"
+        ],
+        "estimated_num_employees": 26,
+        "country": "Hong Kong"
+      },
+      {
+        "id": "5569dfe973696425a92dae00",
+        "name": "TEDxYYC",
+        "website_url": "http://www.tedxyyc.ca",
+        "industries": [
+          "nonprofit organization management",
+          "events services",
+          "education management"
+        ],
+        "estimated_num_employees": 6,
+        "country": "Canada"
+      },
+      {
+        "id": "604895c84d1ad100011324dc",
+        "name": "TED Partnerships",
+        "website_url": "http://www.tedpartnerships.com",
+        "industries": [
+          "online media",
+          "marketing & advertising",
+          "events services"
+        ],
+        "estimated_num_employees": 31,
+        "country": "United States"
+      },
+      {
+        "id": "66e959c58d9607000143cb7f",
+        "name": "TEDxOshawa",
+        "website_url": "http://www.tedxoshawa.com",
+        "industries": [
+          "information services"
+        ],
+        "estimated_num_employees": 4,
+        "country": "Canada"
+      },
+      {
+        "id": "5b8366b0324d440933f1d423",
+        "name": "TEDx Alkmaar",
+        "website_url": "http://www.tedxalkmaar.nl",
+        "industries": [
+          "entertainment"
+        ],
+        "estimated_num_employees": 2,
+        "country": "Netherlands"
+      },
+      {
+        "id": "54a1360069702d3cbba71b01",
+        "name": "TEDxJohannesburg",
+        "website_url": "http://www.tedxjohannesburg.co.za",
+        "industries": [
+          "nonprofit organization management",
+          "events services"
+        ],
+        "estimated_num_employees": 11,
+        "country": "South Africa"
+      },
+      {
+        "id": "5e56c1ec4e25190001a7f5e8",
+        "name": "TEDxFarmingdale",
+        "website_url": "http://www.tedxfarmingdale.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 0,
+        "country": "United States"
+      },
+      {
+        "id": "65014dbf0398990001a6542e",
+        "name": "TEDxSitges",
+        "website_url": "http://www.tedxsitges.com",
+        "industries": [
+          "nonprofit organization management",
+          "events services"
+        ],
+        "estimated_num_employees": 5,
+        "country": "Spain"
+      },
+      {
+        "id": "6550f2812ed43f0001fc4beb",
+        "name": "TEDxJundiaí",
+        "website_url": "http://www.tedxjundiai.com.br",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Brazil"
+      },
+      {
+        "id": "66f097034fa9a10001d07df2",
+        "name": "TEDxIdahoFalls",
+        "website_url": "http://www.sonienterprises.net",
+        "industries": [
+          "media production",
+          "entertainment"
+        ],
+        "estimated_num_employees": 2,
+        "country": "United States"
+      },
+      {
+        "id": "66f0b3b34fa9a10001d1a815",
+        "name": "TEDx Ortygia",
+        "website_url": "http://www.tedxortygia.com",
+        "industries": [
+          "media production"
+        ],
+        "estimated_num_employees": 0,
+        "country": "Italy"
+      },
+      {
+        "id": "556de4e5736964122a3bc201",
+        "name": "TEDxINSA",
+        "website_url": "http://www.tedxinsa.com",
+        "industries": [
+          "events services"
+        ],
+        "estimated_num_employees": 6,
+        "country": "France"
+      },
+      {
+        "id": "5a9cb807a6da98d97e71933a",
+        "name": "TEDxUniMannheim",
+        "website_url": null,
+        "industries": [
+          "government administration"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Germany"
+      },
+      {
+        "id": "5b86e8ac324d442cc8a9dc9e",
+        "name": "TEDxBrownU",
+        "website_url": "http://www.tedxbrownu.com",
+        "industries": [
+          "media production",
+          "events services",
+          "civic & social organization"
+        ],
+        "estimated_num_employees": 21,
+        "country": "United States"
+      },
+      {
+        "id": "61eb96c81c51e4000183ac4f",
+        "name": "TEDxReno",
+        "website_url": "http://www.tedxreno.org",
+        "industries": [
+          "think tanks",
+          "events services",
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 6,
+        "country": "United States"
+      },
+      {
+        "id": "6413e9567716b800015d0227",
+        "name": "TEDxKabulUniversity",
+        "website_url": "http://www.tedxkabuluniversity.org",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 0,
+        "country": "Afghanistan"
+      },
+      {
+        "id": "654b34e6e83a280001c8f892",
+        "name": "TEDxFrutillar",
+        "website_url": "http://www.tedxfrutillar.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 3,
+        "country": "Chile"
+      },
+      {
+        "id": "659a0db8781f360001bb375f",
+        "name": "TEDx Ville Marie ED",
+        "website_url": "http://www.tedxvillemarie.education",
+        "industries": [
+          "education management"
+        ],
+        "estimated_num_employees": 3,
+        "country": "Canada"
+      },
+      {
+        "id": "6648690b3b143800011bcb39",
+        "name": "TEDxUTK",
+        "website_url": "http://www.tedxutk.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 0,
+        "country": "United States"
+      },
+      {
+        "id": "67285442ed6bc20001925c52",
+        "name": "TEDxBangkok",
+        "website_url": "http://www.tedxbangkok.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Thailand"
+      },
+      {
+        "id": "673ed2cd8f50790001bb1630",
+        "name": "TEDxMonteCarlo",
+        "website_url": "http://www.tedxmontecarlo.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 3,
+        "country": "Monaco"
+      },
+      {
+        "id": "674451b70149080001f6a35b",
+        "name": "TEDxPugwash",
+        "website_url": "http://www.tedxpugwash.com",
+        "industries": [
+          "nonprofit organization management"
+        ],
+        "estimated_num_employees": 0,
+        "country": null
+      }
+    ],
+    "num_suborganizations": 60,
+    "annual_revenue_printed": "113.2M",
+    "annual_revenue": 113219000.0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      "AWS Cloud",
+      "AWS Cloud",
+      "Ad Unit 300 x 250",
+      "Ad Unit 300 x 600",
+      "Amazon AWS",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3",
+      "Amazon S3",
+      "Android",
+      "Animate.css",
+      "Apache Impala",
+      "Apple iOS",
+      "Atlas",
+      "Atlassian Cloud",
+      "Backbone.js",
+      "CRM+",
+      "CloudFlare",
+      "DoubleClick",
+      "Dropbox",
+      "Excel Impact",
+      "Facebook Login (Connect)",
+      "Facebook Pixel",
+      "Facebook SDK",
+      "FancyBox",
+      "Fastly CDN",
+      "Fastly Hosting",
+      "Font Awesome",
+      "GitHub",
+      "GitHub",
+      "GitHub Pages",
+      "Gmail",
+      "Google",
+      "Google Ad Manager",
+      "Google AdSense",
+      "Google Analytics",
+      "Google Calendar",
+      "Google Drive",
+      "Google Font API",
+      "Google Hosted Libraries",
+      "Google Meet",
+      "Google Play",
+      "Google Publisher Tag (GPT)",
+      "Google Search Central",
+      "Google Search Console",
+      "Google Sheets",
+      "Google Tag Manager",
+      "Google Workspace",
+      "Google Workspace",
+      "HSTS",
+      "HTTP/3",
+      "HubSpot Marketing Hub",
+      "Hubspot",
+      "Jetpack",
+      "LiveIntent",
+      "MailChimp",
+      "MailChimp",
+      "MailChimp",
+      "Mailchimp Mandrill",
+      "Mailchimp Mandrill",
+      "Media.net",
+      "Mixpanel",
+      "Mobile Friendly",
+      "Netlify",
+      "New Relic",
+      "New Relic APM",
+      "New Relic APM",
+      "New Relic Insights",
+      "New Relic One",
+      "Next.js",
+      "Nginx",
+      "OneTrust",
+      "Open Graph",
+      "Oracle Cloud",
+      "Osano",
+      "PHP",
+      "PrimeNG",
+      "Prismic",
+      "PubMatic",
+      "RSS",
+      "Remote",
+      "Ruby On Rails",
+      "Sage Intacct",
+      "Sailthru",
+      "Salesforce",
+      "Salesforce Marketing Cloud Account Engagement",
+      "ScorecardResearch",
+      "Slack",
+      "Swiper",
+      "Tachyons",
+      "Unpkg",
+      "Varnish",
+      "Viewport Meta",
+      "Vimeo",
+      "Visual Website Optimizer",
+      "VueJS",
+      "Webflow",
+      "Webflow Hosting",
+      "WordPress Multisite",
+      "WordPress.org",
+      "Wordpress",
+      "Wordpress VIP",
+      "Wordpress.com",
+      "YouTube",
+      "Zendesk",
+      "Zendesk Support Suite",
+      "Zendesk for Service",
+      "cdnjs",
+      "comScore",
+      "jQuery",
+      "jsDelivr",
+      "webpack"
+    ],
+    "current_technologies": [
+      {
+        "uid": "aws_cloud",
+        "name": "AWS Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloud",
+        "name": "AWS Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "ad_unit_300_x_250",
+        "name": "Ad Unit 300 x 250",
+        "category": "Publisher Advertising Tools"
+      },
+      {
+        "uid": "ad_unit_300_x_600",
+        "name": "Ad Unit 300 x 600",
+        "category": "Publisher Advertising Tools"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_cloudfront",
+        "name": "Amazon CloudFront",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_route_53",
+        "name": "Amazon Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "amazon_s3",
+        "name": "Amazon S3",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_s3",
+        "name": "Amazon S3",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "android",
+        "name": "Android",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "animate.css",
+        "name": "Animate.css",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "apache_impala",
+        "name": "Apache Impala",
+        "category": "Database"
+      },
+      {
+        "uid": "apple_ios",
+        "name": "Apple iOS",
+        "category": "Other"
+      },
+      {
+        "uid": "atlas",
+        "name": "Atlas",
+        "category": "Other"
+      },
+      {
+        "uid": "atlassian_cloud",
+        "name": "Atlassian Cloud",
+        "category": "CMS"
+      },
+      {
+        "uid": "backbonejs",
+        "name": "Backbone.js",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "crm+",
+        "name": "CRM+",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "cloudflare",
+        "name": "CloudFlare",
+        "category": "Web Accelerators"
+      },
+      {
+        "uid": "doubleclick",
+        "name": "DoubleClick",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "dropbox",
+        "name": "Dropbox",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "excel_impact",
+        "name": "Excel Impact",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "facebook_login",
+        "name": "Facebook Login (Connect)",
+        "category": "Social Login"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_sdk",
+        "name": "Facebook SDK",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "fancybox",
+        "name": "FancyBox",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "fastly_cdn",
+        "name": "Fastly CDN",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "fastly_hosting",
+        "name": "Fastly Hosting",
+        "category": "Hosting"
+      },
+      {
+        "uid": "font_awesome",
+        "name": "Font Awesome",
+        "category": "Fonts"
+      },
+      {
+        "uid": "github",
+        "name": "GitHub",
+        "category": "Hosting"
+      },
+      {
+        "uid": "github",
+        "name": "GitHub",
+        "category": "Hosting"
+      },
+      {
+        "uid": "github_pages",
+        "name": "GitHub Pages",
+        "category": "Widgets"
+      },
+      {
+        "uid": "gmail",
+        "name": "Gmail",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "google",
+        "name": "Google",
+        "category": "Other"
+      },
+      {
+        "uid": "google_ad_manager",
+        "name": "Google Ad Manager",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "google_adsense",
+        "name": "Google AdSense",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_analytics",
+        "name": "Google Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_calendar",
+        "name": "Google Calendar",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "google_drive",
+        "name": "Google Drive",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_font_api",
+        "name": "Google Font API",
+        "category": "Fonts"
+      },
+      {
+        "uid": "google_hosted_libraries",
+        "name": "Google Hosted Libraries",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "google_meet",
+        "name": "Google Meet",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "google_play",
+        "name": "Google Play",
+        "category": "Widgets"
+      },
+      {
+        "uid": "google_publisher_tag_gpt",
+        "name": "Google Publisher Tag (GPT)",
+        "category": "Publisher Advertising Tools"
+      },
+      {
+        "uid": "google_search_central",
+        "name": "Google Search Central",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_sheets",
+        "name": "Google Sheets",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "hsts",
+        "name": "HSTS",
+        "category": "Security"
+      },
+      {
+        "uid": "http/3",
+        "name": "HTTP/3",
+        "category": "Other"
+      },
+      {
+        "uid": "hubspot_marketing_hub",
+        "name": "HubSpot Marketing Hub",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "hubspot",
+        "name": "Hubspot",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "jetpack",
+        "name": "Jetpack",
+        "category": "CMS"
+      },
+      {
+        "uid": "liveintent",
+        "name": "LiveIntent",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "mailchimp",
+        "name": "MailChimp",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "mailchimp",
+        "name": "MailChimp",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "mailchimp",
+        "name": "MailChimp",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "mailchimp_mandrill",
+        "name": "Mailchimp Mandrill",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "mailchimp_mandrill",
+        "name": "Mailchimp Mandrill",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "media_net",
+        "name": "Media.net",
+        "category": "Publisher Advertising Tools"
+      },
+      {
+        "uid": "mixpanel",
+        "name": "Mixpanel",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "netlify",
+        "name": "Netlify",
+        "category": "CMS"
+      },
+      {
+        "uid": "new_relic",
+        "name": "New Relic",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "new_relic_apm",
+        "name": "New Relic APM",
+        "category": "ERP"
+      },
+      {
+        "uid": "new_relic_apm",
+        "name": "New Relic APM",
+        "category": "ERP"
+      },
+      {
+        "uid": "new_relic_insights",
+        "name": "New Relic Insights",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "new_relic_one",
+        "name": "New Relic One",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "nextjs",
+        "name": "Next.js",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "nginx",
+        "name": "Nginx",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "onetrust",
+        "name": "OneTrust",
+        "category": "Widgets"
+      },
+      {
+        "uid": "open_graph",
+        "name": "Open Graph",
+        "category": "Other"
+      },
+      {
+        "uid": "oracle_cloud",
+        "name": "Oracle Cloud",
+        "category": "Hosting"
+      },
+      {
+        "uid": "osano",
+        "name": "Osano",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "php",
+        "name": "PHP",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "primeng",
+        "name": "PrimeNG",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "prismic",
+        "name": "Prismic",
+        "category": "CMS"
+      },
+      {
+        "uid": "pubmatic",
+        "name": "PubMatic",
+        "category": "Supply Side Platforms"
+      },
+      {
+        "uid": "rss",
+        "name": "RSS",
+        "category": "Other"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "ruby_on_rails",
+        "name": "Ruby On Rails",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "sage-intacct",
+        "name": "Sage Intacct",
+        "category": "CMS"
+      },
+      {
+        "uid": "sailthru",
+        "name": "Sailthru",
+        "category": "Personalization"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_marketing_cloud_account_engagement",
+        "name": "Salesforce Marketing Cloud Account Engagement",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "scorecardresearch",
+        "name": "ScorecardResearch",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "swiper",
+        "name": "Swiper",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "tachyons",
+        "name": "Tachyons",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "unpkg",
+        "name": "Unpkg",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "varnish",
+        "name": "Varnish",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "vimeo",
+        "name": "Vimeo",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "visual_website_optimizer",
+        "name": "Visual Website Optimizer",
+        "category": "Online Testing Platforms"
+      },
+      {
+        "uid": "vue_js_library",
+        "name": "VueJS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "webflow",
+        "name": "Webflow",
+        "category": "CMS"
+      },
+      {
+        "uid": "webflow_hosting",
+        "name": "Webflow Hosting",
+        "category": "Hosting"
+      },
+      {
+        "uid": "wordpress_multisite",
+        "name": "WordPress Multisite",
+        "category": "Hosting"
+      },
+      {
+        "uid": "wordpress_org",
+        "name": "WordPress.org",
+        "category": "CMS"
+      },
+      {
+        "uid": "wordpress",
+        "name": "Wordpress",
+        "category": "CMS"
+      },
+      {
+        "uid": "wordpress_vip",
+        "name": "Wordpress VIP",
+        "category": "CMS"
+      },
+      {
+        "uid": "wordpress_com",
+        "name": "Wordpress.com",
+        "category": "CMS"
+      },
+      {
+        "uid": "youtube",
+        "name": "YouTube",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "zendesk",
+        "name": "Zendesk",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "zendesk_support_suite",
+        "name": "Zendesk Support Suite",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "zendesk_for_service",
+        "name": "Zendesk for Service",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "cdnjs",
+        "name": "cdnjs",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "comscore",
+        "name": "comScore",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "jquery",
+        "name": "jQuery",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "jsdelivr",
+        "name": "jsDelivr",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "webpack",
+        "name": "webpack",
+        "category": "CSS and JavaScript Libraries"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "60bca92f11733400015ee116"
+    ],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "media_and_commmunication": 233,
+      "operations": 179,
+      "support": 69,
+      "marketing": 446,
+      "engineering": 196,
+      "entrepreneurship": 31,
+      "arts_and_design": 85,
+      "information_technology": 84,
+      "business_development": 53,
+      "legal": 13,
+      "human_resources": 56,
+      "education": 181,
+      "sales": 77,
+      "consulting": 71,
+      "finance": 34,
+      "administrative": 18,
+      "accounting": 17,
+      "data_science": 6,
+      "product_management": 7
+    },
+    "organization_headcount_six_month_growth": 0.004137360364087712,
+    "organization_headcount_twelve_month_growth": 0.04073756432246999,
+    "organization_headcount_twenty_four_month_growth": 0.1077133728890917
+  }
+}

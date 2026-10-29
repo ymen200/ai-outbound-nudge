@@ -1,0 +1,296 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 10663,
+    "total_pages": 534
+  },
+  "news_articles": [
+    {
+      "id": "6a5d1f6adb306e000ca8960f",
+      "url": "https://www.androidauthority.com/gboard-sign-to-text-3688910",
+      "domain": "androidauthority.com",
+      "title": "Gboard could soon be able to understand sign language with your phone's camera.",
+      "snippet": "* Google Deep Mind researchers have been developing tools to use AI to interpret sign language.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-17T20:33:21.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6a5bb6259583ec00148fabfd",
+      "url": "https://www.eweek.com/news/google-ai-mode-connected-apps",
+      "domain": "eweek.com",
+      "title": "Google brings third-party apps into search AI Mode for everyday tasks.",
+      "snippet": "On July 16, Google announced that it is expanding Connected Apps in AI Mode for US users, allowing people to move from conversational search into services such as Instacart, Canva, and YouTube Music.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-17T20:08:55.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6a5bb0ce1e1ce4000cff2ebf",
+      "url": "https://businessmodelanalyst.com/google-vids-ai-avatars-synthesia",
+      "domain": "businessmodelanalyst.com",
+      "title": "Google enters the AI avatar market its own VC arm funded.",
+      "snippet": "That puts Google head-to-head with Synthesia, a startup its own venture arm valued at $4 billion six months ago.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7",
+        "5b13f7f7a6da98dcbf6cd4a7"
+      ],
+      "published_at": "2026-07-17T10:51:10.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "6a5baec127f955000f245198",
+      "url": "https://yellow.com/news/gemini-3-5-pro-delay-alphabet-ai-race-ground",
+      "domain": "yellow.com",
+      "title": "Gemini 3.5 Pro delay hits Alphabet: how much ai-race ground did Google lose?",
+      "snippet": "* Google confirmed it is still testing Gemini 3.5 Pro and an upgraded Flash model with partners.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-17T04:40:33.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6a5bb15ce4b434000c290efb",
+      "url": "https://www.androidauthority.com/google-pixel-11-codename-google-phone-app-3688508",
+      "domain": "androidauthority.com",
+      "title": "Google accidentally leaves a Pixel 11a clue in its Phone app.",
+      "snippet": "It looks like Google is already hard at work on the Pixel 11a, even though the flagship Pixel 11 series hasn't launched yet.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-17T04:39:20.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6a5c88ccd1741b0018383f38",
+      "url": "https://mumbrella.com.au/openai-taps-google-and-meta-veterans-for-aussie-ad-sales-push-930011",
+      "domain": "mumbrella.com.au",
+      "title": "OpenAI taps Google and Meta veterans for Aussie ad sales push.",
+      "snippet": "Mitch Pilar joins the AI giant from Google, where he spent 12 years, most recently as senior industry manager, while Andy Sinn worked at Meta for a decade, where he was agency partner.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-17T00:45:59.000+00:00",
+      "event_categories": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "6a5bb9bb1c20bb001836688e",
+      "url": "https://retail-systems.com/rs/Screwfix_Partners_With_Google_To_Offer_Tradespeople_Practical_AI_Skills.php",
+      "domain": "retail-systems.com",
+      "title": "Screwfix partners with Google to offer tradespeople practical AI skills.",
+      "snippet": "Screwfix partners with Google to offer tradespeople practical AI skills.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7",
+        "5e2ac6dec4a5930001baa4a2"
+      ],
+      "published_at": "2026-07-17T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a5cc90bea4eb30020a29012",
+      "url": "https://orf.at/stories/3436438",
+      "domain": "orf.at",
+      "title": "Google in Kronstorf: SPÖ wants to revise the EIA law.",
+      "snippet": "The SPÖ wants to revise the Environmental Impact Assessment (EIA) law in light of plans to expand the Google data center under construction in Kronstorf, Upper Austria.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-17T00:00:00.000+00:00",
+      "event_categories": [
+        "expands_facilities"
+      ]
+    },
+    {
+      "id": "6a5d2f5acb1f04001818c3dc",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai",
+      "domain": "google.com",
+      "title": "For the second consecutive year, Google has been named a Leader in the Gartner(R) Magic Quadrant(TM) for Conversational AI Platforms. Google received the furthest and highest in positioning on the ...",
+      "snippet": "Google is a Leader and positioned furthest in Vision and highest in Execution in the 2026 Gartner(R) Magic Quadrant(TM) for Conversational AI Platforms.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-16T23:07:00.000+00:00",
+      "event_categories": [
+        "recognized_as"
+      ]
+    },
+    {
+      "id": "6a5b902bdb877d0018d24259",
+      "url": "https://www.androidcentral.com/apps-software/ai/instacart-youtube-music-join-a-connected-apps-expansion-in-googles-ai-mode",
+      "domain": "androidcentral.com",
+      "title": "Instacart, YouTube Music join a Connected Apps expansion in Google's AI Mode.",
+      "snippet": "Google announced this afternoon (July 16) that it's rolling out Connected Apps in AI Mode.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-16T18:05:16.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5b792690b4630010ef271f",
+      "url": "https://www.gate.com/news/detail/nvidia-backed-fireworks-hits-175b-valuation-on-1b-revenue-milestone-22639859",
+      "domain": "gate.com",
+      "title": "Nvidia-Backed Fireworks hits $17.5B valuation on $1B revenue milestone.",
+      "snippet": "Fireworks competes with Amazon and Google to host AI models that developers integrate into applications.",
+      "organization_ids": [
+        "647f5dfc3fc0df00d9db7649",
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-16T13:15:42.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "6a5bb70e3cf294001843f7e5",
+      "url": "https://autos.yahoo.com/ev-and-future-tech/articles/chinese-carmaker-xpeng-teams-google-110023119.html",
+      "domain": "yahoo.com",
+      "title": "Chinese carmaker XPENG teams with Google as it pushes into Europe.",
+      "snippet": "Chinese carmaker XPENG teams with Google as it pushes into Europe.",
+      "organization_ids": [
+        "5b860e62324d444968f074b7",
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-16T11:00:23.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a5b76d2e7a4810020b1b61a",
+      "url": "https://www.prnewswire.com/news-releases/parallel-announces-partnership-with-google-cloud-for-agentic-web-search-on-gemini-enterprise-agent-platform-302827075.html",
+      "domain": "prnewswire.com",
+      "title": "Parallel announces partnership with Google Cloud for agentic Web Search on Gemini Enterprise Agent Platform.",
+      "snippet": "Parallel announces partnership with Google Cloud for agentic Web Search on Gemini Enterprise Agent Platform.",
+      "organization_ids": [
+        "66dbb72b51b478019abed1f8",
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-16T10:15:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a5b91e305996000183ffccb",
+      "url": "https://www.marketbeat.com/instant-alerts/alphabet-nasdaqgoogl-stock-price-down-44-should-you-sell-2026-07-16",
+      "domain": "marketbeat.com",
+      "title": "Alphabet (NASDAQ:GOOGL) stock price down 4.4% - should you sell?",
+      "snippet": "* Neutral Sentiment: Google rolled out new AI features in Vids, NotebookLM, and AI Mode, showing continued product development that could support long-term monetization.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-16T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5c9ccb0badc600202bec2c",
+      "url": "https://www.relevantaudience.com/google-ads-en/google-ads-disclosure-labels-ai-generated-creative",
+      "domain": "relevantaudience.com",
+      "title": "Google Ads now requires disclosure labels on AI-generated ad creative.",
+      "snippet": "Google Ads is rolling out mandatory disclosure labels showing whether generative AI was used to create or edit an ad's creative.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-16T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a59eb4a2b43c2002047765d",
+      "url": "https://www.gadgets360.com/apps/news/google-announces-new-play-catalog-access-program-for-app-stores-11775522",
+      "domain": "gadgets360.com",
+      "title": "Google announces Play Catalog Access Program for third-party app stores on Android devices.",
+      "snippet": "Google has announced that eligible third-party Android app stores in the US will be able to access the Play Store's app catalogue starting July 22 through the new Play Catalog Access Program.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-15T13:14:09.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5b4da02732b9000c62b622",
+      "url": "https://www.seroundtable.com/google-tests-hide-sponsored-products-41689.html",
+      "domain": "seroundtable.com",
+      "title": "Google confirms testing Hide Sponsored Products in shopping results.",
+      "snippet": "Google confirms testing Hide Sponsored Products in shopping results.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-15T11:21:00.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6a5b7873b94e8d00145c4efd",
+      "url": "https://ageforai.com/news/brief/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-d3668ecf9b50a030",
+      "domain": "ageforai.com",
+      "title": "Google Releases LiteRT.js: A JavaScript Binding of LiteRT That Runs.tflite Models in Browsers via WebGPU.",
+      "snippet": "Google Releases LiteRT.js: A JavaScript Binding of LiteRT That Runs.tflite Models in Browsers via WebGPU.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-15T07:36:17.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a59eb1a2b43c200108f0eaf",
+      "url": "https://www.marktechpost.com/2026/07/15/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-in-browsers-via-webgpu",
+      "domain": "marktechpost.com",
+      "title": "Google releases LiteRT.js: A JavaScript binding of LiteRT that runs .tflite models in browsers via WebGPU.",
+      "snippet": "Google releases LiteRT.js: A JavaScript binding of LiteRT that runs .tflite models in browsers via WebGPU.",
+      "organization_ids": [
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-15T07:36:17.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5888d6db73a500148b3603",
+      "url": "https://coruja.in/ai-news-india/google-ai-training-lawsuit-publishers-copyright",
+      "domain": "coruja.in",
+      "title": "Major publishers file new lawsuit against Google over AI training data.",
+      "snippet": "A consortium of prominent publishers, including Hachette, Cengage, and Elsevier, along with author Scott Turow and S.C.R.I.B.E., has initiated a class-action lawsuit against Google.",
+      "organization_ids": [
+        "57c4cfcda6da986a13243e4a",
+        "57c4ace7a6da9867ee5599e7"
+      ],
+      "published_at": "2026-07-15T00:00:00.000+00:00",
+      "event_categories": [
+        "files_suit_against"
+      ]
+    }
+  ]
+}

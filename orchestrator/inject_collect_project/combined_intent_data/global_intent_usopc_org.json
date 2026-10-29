@@ -1,0 +1,374 @@
+[
+    {
+        "id": "6a4e1107edbf95002031b32c",
+        "url": "https://www.usopc.org/news/2026/july/06/united-states-olympic-paralympic-committee-appoints-heather-mccreery-as-chief-of-finance",
+        "domain": "usopc.org",
+        "title": "United States Olympic & Paralympic Committee appoints Heather McCreery as Chief of Finance.",
+        "snippet": "COLORADO SPRINGS, Colo. - The United States Olympic & Paralympic Committee (USOPC) today announced the appointment of Heather McCreery as Senior Vice President and Chief of Finance.",
+        "organization_ids": [
+            "54a129b269702d8cfcd0f101"
+        ],
+        "published_at": "2026-07-06T16:00:00.000+00:00",
+        "event_categories": [
+            "hires"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "U.S. Olympic & Paralympic Committee Appoints Heather McCreery as Chief of Finance - McCreery will report to Chief Operating Officer Koby Langley and serve as a member of the organization’s leadership",
+        "date": "2026-07-06",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "U.S. Olympic & Paralympic Committee Appoints Heather McCreery as Chief of Finance",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.32,
+            "evidence_density": 2.46
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "6a4dc06e2991cf0001b31af1",
+        "title": "Vice President, Philanthropic Giving",
+        "url": "https://www.linkedin.com/jobs/view/4436378104/",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-07-06T07:45:46.000+00:00",
+        "posted_at": "2026-07-03T12:13:08.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a4806afbb83b1000196ba70",
+        "title": "Senior Director, Athlete Healthcare and Administration",
+        "url": "https://www.linkedin.com/jobs/view/senior-director-athlete-healthcare-and-administration-at-united-states-olympic-paralympic-committee-4436484263",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-07-03T18:59:59.117+00:00",
+        "posted_at": "2026-07-03T04:59:59.117+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a47bb61cdb3b70001d1523d",
+        "title": "Service Operations Specialist",
+        "url": "https://www.linkedin.com/jobs/view/service-operations-specialist-at-united-states-olympic-paralympic-committee-4436480425",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-07-03T13:38:41.140+00:00",
+        "posted_at": "2026-07-03T04:38:41.140+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a43b13905dca2000159d798",
+        "title": "Vehicle Driver",
+        "url": "https://www.linkedin.com/jobs/view/vehicle-driver-at-united-states-olympic-paralympic-committee-4434926823",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-06-30T19:34:40.741+00:00",
+        "posted_at": "2026-06-30T16:34:40.741+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a43fd89b9e23900011c98e3",
+        "title": "Manager, Data Architecture & Engineering",
+        "url": "https://www.linkedin.com/jobs/view/manager-data-architecture-engineering-at-united-states-olympic-paralympic-committee-4435186018",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-06-30T17:31:53.142+00:00",
+        "posted_at": "2026-06-30T16:31:53.142+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3b0888e747eb000134f132",
+        "title": "Housekeeper / Attendant",
+        "url": "https://www.linkedin.com/jobs/view/housekeeper-attendant-at-united-states-olympic-paralympic-committee-4432291965",
+        "city": "Lake Placid",
+        "state": "New York",
+        "country": "United States",
+        "last_seen_at": "2026-06-30T17:00:34.197+00:00",
+        "posted_at": "2026-06-30T16:28:34.197+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a41b40c52300800019af4d9",
+        "title": "Operations Specialist",
+        "url": "https://www.linkedin.com/jobs/view/operations-specialist-at-united-states-olympic-paralympic-committee-4434285939",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-06-28T23:53:48.432+00:00",
+        "posted_at": "2026-06-28T16:53:48.432+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a40e3ebd579160001cac040",
+        "title": "Coordinator, Food & Nutrition",
+        "url": "https://www.linkedin.com/jobs/view/coordinator-food-nutrition-at-united-states-olympic-paralympic-committee-4434237424",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-06-28T09:05:47.893+00:00",
+        "posted_at": "2026-06-27T17:05:47.893+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3e66b426990800010c7942",
+        "title": "(Part Time) Venues Operations Specialist",
+        "url": "https://www.linkedin.com/jobs/view/part-time-venues-operations-specialist-at-united-states-olympic-paralympic-committee-4431374241",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-07-03T22:00:00.000+00:00",
+        "posted_at": "2026-06-26T07:29:27.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a473a0c43208a0001fceb07",
+        "title": "Sous Chef",
+        "url": "https://www.linkedin.com/jobs/view/4433335908/",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-07-07T04:03:13.000+00:00",
+        "posted_at": "2026-06-26T06:57:57.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "U.S. Olympic & Paralympic Committee Highlights a Year of Turning Momentum Into Impact in 2025 Impact Report - Building on the unprecedented momentum sparked by Team USA’s performances in Paris, record fan engagement...",
+        "date": "2026-06-26",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "U.S. Olympic & Paralympic Committee Highlights a Year of Turning Momentum Into Impact in 2025 Impact Report",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.14,
+            "evidence_density": 2.04
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "AUDIO: July 2026 USOPC Leadership Press Briefing - Below is the audio recording from the U.S Olympic and Paralympic Committee leadership press briefing on Wednesday, July 1, following the board of directors meetings via teleconference.",
+        "date": "2026-06-25",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "AUDIO: July 2026 USOPC Leadership Press Briefing",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.46,
+            "evidence_density": 4.9
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "6a3b8b6e0360940001f1684d",
+        "title": "Lifeguard (Part-Time/Temporary)",
+        "url": "https://www.linkedin.com/jobs/view/lifeguard-part-time-temporary-at-united-states-olympic-paralympic-committee-4432287994",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-07-05T22:00:13.000+00:00",
+        "posted_at": "2026-06-23T20:00:28.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3b0e026b9dbc000178d0d0",
+        "title": "Dishwasher (Full-Time/Temporary)",
+        "url": "https://www.linkedin.com/jobs/view/dishwasher-full-time-temporary-at-united-states-olympic-paralympic-committee-4432289950",
+        "city": "Lake Placid",
+        "state": "New York",
+        "country": "United States",
+        "last_seen_at": "2026-06-23T22:51:46.552+00:00",
+        "posted_at": "2026-06-23T16:51:46.552+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3f425d058a6c00012fe961",
+        "title": "Lifeguard (Part-Time/Regular)",
+        "url": "https://www.linkedin.com/jobs/view/4432295923/",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-07-05T22:00:13.000+00:00",
+        "posted_at": "2026-06-23T15:06:00.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3b0de6d9e086000126993b",
+        "title": "Operations Assistant",
+        "url": "https://www.linkedin.com/jobs/view/operations-assistant-at-united-states-olympic-paralympic-committee-4432294956",
+        "city": "Lake Placid",
+        "state": "New York",
+        "country": "United States",
+        "last_seen_at": "2026-07-07T04:03:13.000+00:00",
+        "posted_at": "2026-06-23T14:28:14.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "USOPC leadership media availability set for July 1 following board of directors meeting - USOPC and board of directors leadership will be available to the media on Wednesday, July 1 at 9:30 a.m. MT.",
+        "date": "2026-06-23",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "USOPC leadership media availability set for July 1 following board of directors meeting",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.19,
+            "evidence_density": 2.28
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "6a3f4527058a6c00012ff353",
+        "title": "Associate Director, Impact Funds",
+        "url": "https://www.linkedin.com/jobs/view/4430793879/",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-07-05T22:00:13.000+00:00",
+        "posted_at": "2026-06-19T09:55:22.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3a033703bb7c0001cace01",
+        "title": "Sr. Psychological Services Provider",
+        "url": "https://www.linkedin.com/jobs/view/4430785991/",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-07-05T22:00:13.000+00:00",
+        "posted_at": "2026-06-19T08:08:42.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3522bf0185a800016c644a",
+        "title": "Director, Restricted Giving Program",
+        "url": "https://www.linkedin.com/jobs/view/director-restricted-giving-program-at-united-states-olympic-paralympic-committee-4430906038",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-07-03T22:00:00.000+00:00",
+        "posted_at": "2026-06-19T06:50:13.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a35154651c91e0001e2fa01",
+        "title": "Athlete Healthcare Navigator",
+        "url": "https://www.linkedin.com/jobs/view/athlete-healthcare-navigator-at-united-states-olympic-paralympic-committee-4430797787",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-07-05T22:00:13.000+00:00",
+        "posted_at": "2026-06-19T02:51:14.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2ea6b5bf7cf000019ffcac",
+        "title": "Vice President, Partnerships",
+        "url": "https://www.linkedin.com/jobs/view/vice-president-partnerships-at-united-states-olympic-paralympic-committee-4428606640",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-07-07T04:03:13.000+00:00",
+        "posted_at": "2026-06-16T06:55:50.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a315b1929fd620001f2b0cb",
+        "title": "Director, Philanthropic Strategies",
+        "url": "https://www.linkedin.com/jobs/view/director-philanthropic-strategies-at-united-states-olympic-paralympic-committee-4428015401",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-06-16T14:18:00.922+00:00",
+        "posted_at": "2026-06-16T05:18:00.922+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a312fa2d42b400001ba89e9",
+        "title": "Manager, Internally Managed Sports",
+        "url": "https://www.linkedin.com/jobs/view/manager-internally-managed-sports-at-united-states-olympic-paralympic-committee-4427791947",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-06-16T11:12:34.577+00:00",
+        "posted_at": "2026-06-16T05:12:34.577+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2d3940a6f6cb0001ba6658",
+        "title": "Coordinator, Psychological Services",
+        "url": "https://www.linkedin.com/jobs/view/coordinator-psychological-services-at-united-states-olympic-paralympic-committee-4428363252",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-07-04T10:00:00.000+00:00",
+        "posted_at": "2026-06-14T06:48:35.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2e8e6270039b0001264f98",
+        "title": "Analyst, Consumer Insights",
+        "url": "https://www.linkedin.com/jobs/view/analyst-consumer-insights-at-united-states-olympic-paralympic-committee-4428396707",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-06-14T11:20:02.506+00:00",
+        "posted_at": "2026-06-14T05:20:02.506+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2ea6de5cdd800001b60963",
+        "title": "Technical Program Manager",
+        "url": "https://www.linkedin.com/jobs/view/technical-program-manager-at-united-states-olympic-paralympic-committee-4428600645",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-06-14T13:04:30.003+00:00",
+        "posted_at": "2026-06-14T05:04:30.003+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3a128c2975ab0001aca312",
+        "title": "Coordinator, Philanthropic Giving (West)",
+        "url": "https://www.linkedin.com/jobs/view/4427562520/",
+        "city": null,
+        "state": null,
+        "country": "United States",
+        "last_seen_at": "2026-07-04T10:00:00.000+00:00",
+        "posted_at": "2026-06-13T08:53:15.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    }
+]

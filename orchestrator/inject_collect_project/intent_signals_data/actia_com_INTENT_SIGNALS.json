@@ -1,0 +1,71 @@
+[
+    {
+        "intent_type": "news",
+        "title": {
+            "value": "ACTIA Aerospace recruits experienced profiles",
+            "confidence": 0.9,
+            "source": "ACTIA Aerospace recrute des profils expérimentés",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.21,
+                "evidence_density": 0.94
+            }
+        },
+        "summary": {
+            "value": "ACTIA Aerospace is hiring experienced profiles in a rapidly evolving aerospace market.",
+            "confidence": 0.8,
+            "source": "Dans un contexte d’évolution rapide des marchés aéronautiques et spatiaux, ACTIA Aerospace engage un...",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.56,
+                "evidence_density": 0.83
+            }
+        }
+    },
+    {
+        "intent_type": "news",
+        "title": {
+            "value": "ACTIA Aerospace will attend EUROSATORY",
+            "confidence": 0.9,
+            "source": "ACTIA Aerospace se rendra à EUROSATORY",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.08,
+                "evidence_density": 1.0
+            }
+        },
+        "summary": {
+            "value": "ACTIA Aerospace will be present at EUROSATORY 2026, a major international defense event.",
+            "confidence": 0.8,
+            "source": "ACTIA Aerospace sera présent à EUROSATORY 2026, rendez-vous international majeur de la défense, pour...",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.09,
+                "evidence_density": 0.85
+            }
+        }
+    },
+    {
+        "intent_type": "news",
+        "title": {
+            "value": "Busworld Turkey: responding to new OEM expectations",
+            "confidence": 0.9,
+            "source": "Busworld Turkey : répondre aux nouvelles attentes des OEM",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.34,
+                "evidence_density": 0.89
+            }
+        },
+        "summary": {
+            "value": "ACTIA is positioning itself as a vehicle platform architect in the bus and coach market.",
+            "confidence": 0.8,
+            "source": "Dans le bus et le car, ACTIA se positionne aujourd’hui comme un architecte de plateformes véhicules...",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.37,
+                "evidence_density": 0.86
+            }
+        }
+    }
+]

@@ -1,0 +1,92 @@
+{
+    "intent_summary": {
+        "hiring_dynamic": {
+            "value": "Low",
+            "confidence": 0.5,
+            "source": "Pas de résultat",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.39,
+                "evidence_density": 0.2
+            }
+        },
+        "growth_signals_detected": {
+            "value": "Aucun signal de croissance détecté",
+            "confidence": 0.5,
+            "source": "Pas de résultat",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.09,
+                "evidence_density": 2.27
+            }
+        }
+    },
+    "job_offers": [],
+    "news_articles": [
+        {
+            "title": {
+                "value": "Accélération ESG et pilotage carbone dans les télécommunications",
+                "confidence": 0.9,
+                "source": "Accélération ESG et pilotage carbone dans les télécommunications",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.1,
+                    "evidence_density": 1.0
+                }
+            },
+            "date": {
+                "value": "03 juin. 2026",
+                "confidence": 0.8,
+                "source": "03 juin. 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.2,
+                    "evidence_density": 1.0
+                }
+            },
+            "summary": {
+                "value": "Pas de résumé disponible",
+                "confidence": 0.5,
+                "source": "Pas de résumé disponible",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.5,
+                    "evidence_density": 1.0
+                }
+            }
+        },
+        {
+            "title": {
+                "value": "Rapport Carbone 2024 : Une démarche responsable pour réduire l'empreinte carbone",
+                "confidence": 0.9,
+                "source": "Rapport Carbone 2024 : Une démarche responsable pour réduire l'empreinte carbone",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.1,
+                    "evidence_density": 1.0
+                }
+            },
+            "date": {
+                "value": "05 mai. 2026",
+                "confidence": 0.8,
+                "source": "05 mai. 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.2,
+                    "evidence_density": 1.0
+                }
+            },
+            "summary": {
+                "value": "Pas de résumé disponible",
+                "confidence": 0.5,
+                "source": "Pas de résumé disponible",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.5,
+                    "evidence_density": 1.0
+                }
+            }
+        }
+    ],
+    "strategic_events": []
+}

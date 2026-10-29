@@ -1,0 +1,372 @@
+[
+    {
+        "id": "6a360d00e7ff000001f96962",
+        "title": "salesperson",
+        "url": "https://jobs.lidl.de/jobs/verkaeufer-m-w-d-muenchen-703362",
+        "city": "Berlin",
+        "state": "Berlin",
+        "country": "Germany",
+        "last_seen_at": "2026-06-25T12:10:14.000+00:00",
+        "posted_at": "2026-06-19T11:21:51.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2a364f730cbf0001baaa6b",
+        "title": "Karriere-Frühstück für Filialleiter & Verkaufsleiter Langgöns",
+        "url": "https://jobs.lidl.de/events/karriere-fruehstueck-fuer-filialleiter-verkaufsleiter-m-w-d-langgoens",
+        "city": "Berlin",
+        "state": "Berlin",
+        "country": "Germany",
+        "last_seen_at": "2026-06-24T22:57:29.000+00:00",
+        "posted_at": "2026-06-09T22:00:00.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a1f3d2bc2d87e000c0f62a5",
+        "url": "https://www.techradar.com/home/lidl-launches-super-cheap-solar-balcony-battery-as-home-backups-become-new-energy-crisis-essential",
+        "domain": "techradar.com",
+        "title": "Lidl launches super-cheap solar balcony battery - as home backups become new energy crisis essential.",
+        "snippet": "* Lidl has launched a new solar-powered battery designed for use with balcony solar systems",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-05-29T18:14:23.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a111af744ac5d00010612cf",
+        "title": "Ausbildung Verkäufer 09.2026",
+        "url": "https://jobs.lidl.de/jobs/ausbildung-verkaeufer-09-2026-waldenbuch-582608",
+        "city": "Berlin",
+        "state": "Berlin",
+        "country": "Germany",
+        "last_seen_at": "2026-06-24T02:51:02.000+00:00",
+        "posted_at": "2026-05-22T11:07:43.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a11281744ac5d00010646d1",
+        "title": "Ausbildung Verkäufer 08.2026",
+        "url": "https://jobs.lidl.de/jobs/ausbildung-verkaeufer-08-2026-langenfeld-567078",
+        "city": "Langenfeld",
+        "state": "North Rhine-Westphalia",
+        "country": "Germany",
+        "last_seen_at": "2026-06-24T02:51:06.000+00:00",
+        "posted_at": "2026-05-22T11:07:43.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a11197964edaf001c8bd90d",
+        "url": "https://www.pv-magazine-india.com/2026/05/22/lidl-launches-2-24-kwh-battery-in-germany-for-e299",
+        "domain": "pv-magazine-india.com",
+        "title": "Lidl launches 2.24 kWh battery in Germany for €299.",
+        "snippet": "Lidl launches 2.24 kWh battery in Germany for €299.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-05-22T00:00:00.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a1b7c2548dd340018f279a2",
+        "url": "https://marketingreport.one/retail/criteo-expands-lidl-retail-media-offering-in-germany.html",
+        "domain": "marketingreport.one",
+        "title": "Criteo expands Lidl retail media offering in Germany.",
+        "snippet": "Criteo has partnered with Lidl to expand the retailer's onsite retail media offering in Germany, introducing additional advertising formats and extending access to Lidl.de inventory for brands and agencies.",
+        "organization_ids": [
+            "6181ad224123f600a444d1a8",
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-05-21T00:00:00.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a0e1df635a4140020385ce9",
+        "url": "https://cincodias.elpais.com/companias/2026-05-15/lidl-dispara-su-beneficio-en-espana-y-gana-un-record-de-227-millones.html",
+        "domain": "elpais.com",
+        "title": "Lidl boosts its profit in Spain and earns a record 227 million.",
+        "snippet": "Lidl boosts its profit in Spain and earns a record 227 million.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-05-15T03:15:00.000+00:00",
+        "event_categories": [
+            "has_earnings"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a14d94b56dc0a001c7ad823",
+        "url": "https://www.imperial-properties.com/en/ImperialPropertiesBlog/lidl-santa-ponsa-construction-update-the-store-is-taking-shape-on-avenida-miguel-unamuno",
+        "domain": "imperial-properties.com",
+        "title": "Lidl Santa Ponsa construction update: the store is taking shape on Avenida Miguel Unamuno.",
+        "snippet": "Work on the new Lidl store on Avenida Miguel Unamuno in Santa Ponsa is progressing visibly and at pace.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-05-14T00:00:00.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69f406096ab2f50011ae96b0",
+        "url": "https://www.glasgowlive.co.uk/news/busy-glasgow-lidl-demolished-replaced-33858771",
+        "domain": "glasgowlive.co.uk",
+        "title": "Busy Glasgow Lidl to be demolished and replaced with new store.",
+        "snippet": "Busy Glasgow Lidl to be demolished and replaced with new store.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-29T11:46:23.000+00:00",
+        "event_categories": [
+            "closes_offices_in"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69f0fe399b393100218b7533",
+        "url": "https://www.dailymail.com/money/saving/article-15772819/savers-act-cash-isa-rates-plunge-sylvia-morris.html",
+        "domain": "dailymail.com",
+        "title": "Why millions of savers need to act NOW: interest rates on cash isas are about to plunge. This is what you need to do to protect your money, by SYLVIA MORRIS.",
+        "snippet": "Industry figures yesterday revealed that Lidl made £3.05bn in sales over the 12 weeks to 19 April - compared to £3.03bn at Morrisons.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-28T17:03:54.000+00:00",
+        "event_categories": [
+            "has_revenue"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69f10fa31fb6b6001d7f8e04",
+        "url": "https://www.countytimes.co.uk/news/26060804.lidl-looking-new-supermarket-sites-five-powys-towns",
+        "domain": "countytimes.co.uk",
+        "title": "Lidl looking for new supermarket sites in five Powys towns.",
+        "snippet": "Lidl has reiterated its plans to build in Builth Wells and Welshpool, as it promises to invest (Image: Lidl)",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-28T15:26:43.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69ef804ae286cf001deb5af7",
+        "url": "https://www.swindonadvertiser.co.uk/news/26056217.lidl-reveals-10-swindon-wiltshire-areas-wants-new-stores",
+        "domain": "swindonadvertiser.co.uk",
+        "title": "Lidl reveals 10 swindon/wiltshire areas it wants new stores.",
+        "snippet": "Lidl has revealed a 'wish list' of more than 1,000 locations where it would like to open new stores, including 10 in Swindon and Wiltshire.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-27T13:45:00.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69ef8416f44390000d3f7338",
+        "url": "https://www.southwalesargus.co.uk/news/26055820.lidl-reveals-37-south-wales-areas-wants-new-stores",
+        "domain": "southwalesargus.co.uk",
+        "title": "Lidl reveals 37 South Wales areas where it wants new stores.",
+        "snippet": "Lidl has revealed a 'wish list' of more than 1,000 locations where it would like to open new stores, including 37 in South Wales.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-27T12:15:00.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69ef63df83ba3c0021e7acc7",
+        "url": "https://www.chesterstandard.co.uk/news/26054989.lidls-potential-new-stores-chester-ellesmere-port",
+        "domain": "chesterstandard.co.uk",
+        "title": "Lidl's potential new stores for Chester and Ellesmere Port.",
+        "snippet": "Lidl's potential new stores for Chester and Ellesmere Port.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-27T09:32:47.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69ec1c7bd81b2600153428b5",
+        "url": "https://www.lep.co.uk/news/this-is-why-prestons-lidl-supermarket-is-closing-early-tonight-and-when-it-reopens-7408330",
+        "domain": "lep.co.uk",
+        "title": "This is why Preston's Lidl supermarket is closing early tonight - and when it reopens.",
+        "snippet": "The Lidl supermarket in Preston's West Strand will close early tonight.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-24T12:40:06.000+00:00",
+        "event_categories": [
+            "closes_offices_in"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69e8adab7ceca000150c5559",
+        "url": "https://www.gazetteseries.co.uk/news/26042553.decision-lidl-supermarket-plans-near-gloucester",
+        "domain": "gazetteseries.co.uk",
+        "title": "Decision on Lidl supermarket plans near Gloucester.",
+        "snippet": "PLANS for a new Lidl on the outskirts of Gloucester have been given the go-ahead.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-22T10:18:56.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69ee7c355670090021b30f13",
+        "url": "https://www.greenqueen.com.hk/future-food-quick-bites-ham-sammies-vegan-burrata-cultivated-chicken",
+        "domain": "greenqueen.com.hk",
+        "title": "Future Food quick bites: ham sammies, vegan burrata & Cultivated chicken.",
+        "snippet": "Also in Germany, discount retailer Lidl has launched a blended beef mince combining meat with pea protein from local firm BiGuPro.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-22T09:00:00.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69e68c7b7df4b30021ebca52",
+        "url": "https://www.dunfermlinepress.com/news/26037603.dunfermlines-new-lidl-store-gets-licence-approved",
+        "domain": "dunfermlinepress.com",
+        "title": "Dunfermline's new Lidl store gets licence approved.",
+        "snippet": "DUNFERMLINE's new £7 million Lidl store has come a step closer after a provisional premises licence was granted.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-20T17:04:21.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69e644e67338cb0015f8b03c",
+        "url": "https://www.beveragedaily.com/Article/2026/04/20/lidl-to-open-pub-as-private-label-alcohol-emerges",
+        "domain": "beveragedaily.com",
+        "title": "Private label is evolving, fast: and the alcohol aisle is the next target.",
+        "snippet": "* Lidl will open its first-ever pub in Northern Ireland",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-20T14:07:44.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69e24cea507ce5001d48f323",
+        "url": "https://www.lancashiretelegraph.co.uk/news/26030248.darwens-delayed-new-lidl-store-start-despite-land-glitch",
+        "domain": "lancashiretelegraph.co.uk",
+        "title": "Darwen Lidl plans approved as changes made to delayed new store.",
+        "snippet": "Changes to Lidl's delayed new supermarket in Darwen have been approved by councillors.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-17T13:24:00.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69dee6ec4f43800019a355a5",
+        "url": "https://cincodias.elpais.com/companias/2026-04-14/lidl-lanzara-un-operador-de-fibra-y-movil-en-espana.html",
+        "domain": "elpais.com",
+        "title": "Lidl will launch a fiber and mobile operator in spain.",
+        "snippet": "Lidl will launch a fiber and mobile operator in spain.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-14T10:26:45.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69de22d2c60ae8000d045629",
+        "url": "https://www.kidderminstershuttle.co.uk/news/26015647.kidderminster-lidl-site-seeks-alcohol-sales-approval",
+        "domain": "kidderminstershuttle.co.uk",
+        "title": "Kidderminster Lidl site seeks alcohol sales approval.",
+        "snippet": "The Co-op on Franche Road is set to close and is being replaced by a new Lidl store, which will be the supermarket chain's first store in Kidderminster.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7"
+        ],
+        "published_at": "2026-04-14T05:00:00.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69de18e0892eeb0015723227",
+        "url": "https://telecomlead.com/news/telecom-news-cesnet-ribbon-communications-telit-cinterion-lenovo-nvidia-lidl-1global-125441",
+        "domain": "telecomlead.com",
+        "title": "Telecom news: CESNET, Ribbon Communications, Telit Cinterion, Lenovo, NVIDIA, Lidl, 1GLOBAL.",
+        "snippet": "Lidl has partnered with 1GLOBAL to enter the telecommunications sector as a Mobile Virtual Network Operator (MVNO), aiming to offer affordable and flexible mobile services across multiple markets.",
+        "organization_ids": [
+            "5e56c4b7b371f30001dea1e7",
+            "6220acc6ed2070008d2fbe94"
+        ],
+        "published_at": "2026-04-14T02:57:02.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    }
+]

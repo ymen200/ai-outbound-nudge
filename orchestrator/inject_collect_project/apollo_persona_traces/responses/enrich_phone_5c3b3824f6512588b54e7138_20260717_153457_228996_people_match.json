@@ -1,0 +1,137 @@
+{
+  "person": {
+    "id": "5c3b3824f6512588b54e7138",
+    "first_name": "Gilles",
+    "last_name": "Cebollero",
+    "name": "Gilles Cebollero",
+    "linkedin_url": "http://www.linkedin.com/in/gilles-cebollero-260275124",
+    "title": "Business Development",
+    "photo_url": "https://media.licdn.com/dms/image/v2/C4D03AQF8ziXLjRBjnw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1622735381878?e=2147483647&v=beta&t=GhzJig3b4lOlw23T9TCBinrFels4veVyJ1A6G6Gs-lI",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Développement commercial Bâtiments Infrastructures et Services, Territoire Grand Ouest, Equans France",
+    "organization_id": "60e2bd38f49d92008c001a98",
+    "employment_history": [
+      {
+        "_id": "6a423a7ccc8ae40001e5fb80",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "60e2bd38f49d92008c001a98",
+        "organization_name": "Equans France",
+        "raw_address": null,
+        "start_date": "2023-01-01",
+        "title": "Business Development",
+        "updated_at": null,
+        "id": "6a423a7ccc8ae40001e5fb80",
+        "key": "6a423a7ccc8ae40001e5fb80"
+      },
+      {
+        "_id": "6a423a7ccc8ae40001e5fb81",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2015-01-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5f48b3806ea2bf0001a947e8",
+        "organization_name": "Bouygues Energies & Services",
+        "raw_address": null,
+        "start_date": "2015-01-01",
+        "title": "Business Development",
+        "updated_at": null,
+        "id": "6a423a7ccc8ae40001e5fb81",
+        "key": "6a423a7ccc8ae40001e5fb81"
+      },
+      {
+        "_id": "6a423a7ccc8ae40001e5fb82",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2015-01-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5f48b3806ea2bf0001a947e8",
+        "organization_name": "Bouygues Energies & Services",
+        "raw_address": null,
+        "start_date": "2010-09-01",
+        "title": "Responsable de Service Travaux",
+        "updated_at": null,
+        "id": "6a423a7ccc8ae40001e5fb82",
+        "key": "6a423a7ccc8ae40001e5fb82"
+      }
+    ],
+    "street_address": "",
+    "city": "Nantes",
+    "state": "Pays de la Loire",
+    "country": "France",
+    "postal_code": null,
+    "formatted_address": "Nantes, France",
+    "time_zone": "Europe/Paris",
+    "email": "gilles.cebollero@equans.com",
+    "email_status": "verified",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development"
+    ],
+    "seniority": "entry",
+    "functions": [
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [
+      {
+        "_id": "6a5a3d78659ccb0001e34acf",
+        "confidence_cd": "high",
+        "dnc_other_info": null,
+        "dnc_status_cd": null,
+        "dnc_status_updated_at": null,
+        "raw_number": "+33 6 07 47 31 61",
+        "sanitized_number": "+33607473161",
+        "status_cd": "valid_number",
+        "type_cd": "mobile",
+        "id": "6a5a3d78659ccb0001e34acf",
+        "key": "6a5a3d78659ccb0001e34acf"
+      }
+    ],
+    "emails": [],
+    "sanitized_numbers": [
+      "+33607473161"
+    ],
+    "raw_numbers": [
+      "+33 6 07 47 31 61"
+    ],
+    "sanitized_emails": [
+      "gilles.cebollero@equans.com"
+    ]
+  },
+  "phone_enrichment": {
+    "request_id": "6a5a3d75bf9a7d001863d9c6",
+    "status": "pending",
+    "message": "Phone enrichment is processing asynchronously. Retrieve the result by polling GET /api/v1/webhook_result/{request_id} with the top-level `request_id` field from this response. Retry after ~10 seconds."
+  },
+  "request_id": -5861711059788068307
+}

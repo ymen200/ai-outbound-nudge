@@ -1,0 +1,303 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 24,
+    "total_pages": 2
+  },
+  "news_articles": [
+    {
+      "id": "6924291af533d40019853144",
+      "url": "https://www.techinasia.com/news/y-combinator-joins-75m-round-in-us-ai-startup-model-ml",
+      "domain": "techinasia.com",
+      "title": "Y Combinator joins $75m round in US AI startup Model ML",
+      "snippet": "Model ML, an AI startup based in London and New York, has raised US$75 million in early-stage funding led by FT Partners, with participation from Y Combinator, QED Investors, 13Books Capital, and LocalGlobe.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00",
+        "67224fdaa0fa3001b2413c94"
+      ],
+      "published_at": "2025-11-24T07:34:05.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "68d6aa24fd18d20011d66f9c",
+      "url": "https://ncfacanada.org/stablecorp-raises-5m-to-accelerate-qcad-adoption",
+      "domain": "ncfacanada.org",
+      "title": "Stablecorp Raises $5M+ to Accelerate QCAD Adoption",
+      "snippet": "On September 24, 2025, Stablecorp announced a $5 million CAD strategic round led by FTP Ventures to accelerate the rollout of its Canadian dollar stablecoin, QCAD.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00",
+        "5da48280275071000132f880"
+      ],
+      "published_at": "2025-09-25T15:51:31.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "6893703bc47fff0021c8f182",
+      "url": "https://www.finsmes.com/2025/08/slipstream-receives-investment-from-greylion-partners-and-denali-growth-partners.html",
+      "domain": "finsmes.com",
+      "title": "Slipstream Receives Investment from GreyLion Partners and Denali Growth Partners",
+      "snippet": "Slipstream receives investment from GreyLion Partners and denali growth Partners.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00",
+        "601420fde632a700a4ba9240"
+      ],
+      "published_at": "2025-08-06T08:59:22.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "6786c152940db603ed613913",
+      "url": "https://www.bloomberg.com/news/articles/2025-01-14/crypto-options-venue-deribit-said-to-draw-interest-from-buyers",
+      "domain": "bloomberg.com",
+      "title": "Crypto Options Venue Deribit Draws Interest From Buyers",
+      "snippet": "Deribit is working with Financial Technology Partners LLC, said the people, who declined to be identified discussing a confidential process.",
+      "organization_ids": [
+        "5c249c80f6512548d20016b3",
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2025-01-14T18:41:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6758babf80592f01b0e799c6",
+      "url": "https://fintechnews.am/fintech-usa/52459/cloud-digital-banking-provider-lumin-digital-secures-160-million-growth-funding",
+      "domain": "fintechnews.am",
+      "title": "Cloud-Digital Banking Provider Lumin Digital Secures $160 Million Growth Funding",
+      "snippet": "Lumin Digital, a San Francisco based cloud-native digital banking provider, announced it has raised over $160M in growth equity financing, led by Light Street Capital, NewView Capital, and Partners Group, acting on behalf of its clients.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00",
+        "5b866650f874f747f5866096"
+      ],
+      "published_at": "2024-12-06T07:03:07.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "671e1a4442c5fb01b086adb9",
+      "url": "https://seconnected.co.uk/half-of-uk-car-buyers-are-concerned-about-their-monthly-vehicle-finance-payments",
+      "domain": "seconnected.co.uk",
+      "title": "Half of UK car buyers are concerned about their monthly vehicle finance payments",
+      "snippet": "ALPHERA is working with dealer Partners to ensure customers understand every aspect of vehicle financing",
+      "organization_ids": [
+        "54a1ba01746869401236a90b",
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2024-10-27T06:27:57.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "671e1a441c2fe6019830de13",
+      "url": "https://seconnected.co.uk/half-of-uk-car-buyers-are-concerned-about-their-monthly-vehicle-finance-payments",
+      "domain": "seconnected.co.uk",
+      "title": "Half of UK car buyers are concerned about their monthly vehicle finance payments",
+      "snippet": "ALPHERA is working with dealer Partners to ensure customers understand every aspect of vehicle financing",
+      "organization_ids": [
+        "54a1ba01746869401236a90b",
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2024-10-27T06:27:57.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6706cf24da5f3802cc0958e9",
+      "url": "https://www.thedailytimes.com/online_features/press_releases/gcg-advisory-partners-expands-through-acquisition-of-infinity-financial-partners/article_d6a15ef7-7bce-573d-8ff7-fdf3ec23822a.html",
+      "domain": "thedailytimes.com",
+      "title": "GCG Advisory Partners Expands Through Acquisition of Infinity Financial Partners",
+      "snippet": "GCG Advisory Partners expands through acquisition of infinity financial Partners.",
+      "organization_ids": [
+        "60f7fea27a71060001ae08e5",
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2024-10-08T14:42:00.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "6706cf248322ed02cc27570d",
+      "url": "https://www.thedailytimes.com/online_features/press_releases/gcg-advisory-partners-expands-through-acquisition-of-infinity-financial-partners/article_d6a15ef7-7bce-573d-8ff7-fdf3ec23822a.html",
+      "domain": "thedailytimes.com",
+      "title": "GCG Advisory Partners Expands Through Acquisition of Infinity Financial Partners",
+      "snippet": "GCG Advisory Partners expands through acquisition of infinity financial Partners.",
+      "organization_ids": [
+        "60f7fea27a71060001ae08e5",
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2024-10-08T14:42:00.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "657c6add5ba02201c665356a",
+      "url": "https://www.fintechfutures.com/2023/12/icymi-fintech-funding-round-up-nearpay-supra-hyperplane-and-pave-bank/",
+      "domain": "fintechfutures.com",
+      "title": "ICYMI fintech funding round-up: Nearpay, Supra, Hyperplane and Pave Bank",
+      "snippet": "Singapore-based Pave Bank has emerged from stealth with a digital banking licence from Georgia and a $5.2 million seed funding round led by 468 Capital, with participation from Quona Capital, FT Partners, BR Capital, w3.fund, Daedalus and angel investors.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00",
+        "641d98019c57f301063e92a5"
+      ],
+      "published_at": "2023-12-15T13:11:19.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "6526b31ab495d700baa1ee87",
+      "url": "https://www.gregmonforton.com/blog/new-associate-frank-piazza.html",
+      "domain": "gregmonforton.com",
+      "title": "Welcome to Our New Associate Lawyer Frank Piazza!",
+      "snippet": "Greg Monforton and Partners is excited to welcome its newest associate lawyer Frank Piazza to the firm.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2023-09-26T18:29:13.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "64196accf0d9c1008bcdde9e",
+      "url": "https://www.prnewswire.com/news-releases/financial-technology-partners-formally-launches-the-only-pure-fintech-equity-research-platform--with-initial-coverage-of-25-public-fintech-companies-301776059.html",
+      "domain": "prnewswire.com",
+      "title": "FINANCIAL TECHNOLOGY PARTNERS FORMALLY LAUNCHES THE ONLY PURE FINTECH EQUITY RESEARCH PLATFORM",
+      "snippet": "FT Partners was recently recognized as \"Dealmaker of the Year\" and \"Investment Banking Firm of the Year.\"",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2023-03-20T12:27:00.000+00:00",
+      "event_categories": [
+        "recognized_as"
+      ]
+    },
+    {
+      "id": "64196acca5db4d00dcbf4ff4",
+      "url": "https://www.prnewswire.com/news-releases/financial-technology-partners-formally-launches-the-only-pure-fintech-equity-research-platform--with-initial-coverage-of-25-public-fintech-companies-301776059.html",
+      "domain": "prnewswire.com",
+      "title": "FINANCIAL TECHNOLOGY PARTNERS FORMALLY LAUNCHES THE ONLY PURE FINTECH EQUITY RESEARCH PLATFORM",
+      "snippet": "Financial Technology Partners (\"FT Partners\"), the first and only global investment bank focused exclusively on FinTech, is proud to announce the launch of the Firm's Equity Research platform.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2023-03-20T12:27:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "641158f097067400a36fd2ba",
+      "url": "https://www.dynamosoftware.com/news/dynamos-cfo-named-as-women-in-fintech-rising-star/",
+      "domain": "dynamosoftware.com",
+      "title": "Dynamo's CFO Earns Women in FinTech Rising Star Recognition from FT Partners | Dynamo",
+      "snippet": "FT Partners was recently recognized as “Dealmaker of the Year” and “Investment Banking Firm of the Year” by The M&A Advisor.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2023-03-09T00:00:00.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    },
+    {
+      "id": "63e97e33a8385b008b1c8044",
+      "url": "https://laws4life.com/fleetcor-sued-for-contract-violation-plaintiff-claims-damages/",
+      "domain": "laws4life.com",
+      "title": "Fleetcor Sued for Contract Violation, Plaintiff Claims Damages",
+      "snippet": "FleetCor Technologies, the global transportation conglomerate, has been sued for violating contract terms related to its acquisition of Hotel Connections (renamed TA Connections by FleetCor) in 2018.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2023-02-09T00:00:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "63e01db53598d500f078ff1f",
+      "url": "https://www.digitaltransactions.net/zelle-for-small-business-other-digital-transactions-news-briefs-from-2-2-23",
+      "domain": "digitaltransactions.net",
+      "title": "Zelle for Small Business Other Digital Transactions News briefs from 2/2/23 – Digital Transactions",
+      "snippet": "U.S.-based business-payments provider FleetCor Technologies Inc. announced it has acquired Mina, a United Kingdom-based cloud-based platform for electric-vehicle charging of commercial fleets.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00",
+        "5ed242d6f79b8200012f47c5"
+      ],
+      "published_at": "2023-02-02T00:00:00.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "63e01db566e8b500daa36844",
+      "url": "https://www.digitaltransactions.net/zelle-for-small-business-other-digital-transactions-news-briefs-from-2-2-23",
+      "domain": "digitaltransactions.net",
+      "title": "Zelle for Small Business Other Digital Transactions News briefs from 2/2/23 – Digital Transactions",
+      "snippet": "U.S.-based business-payments provider FleetCor Technologies Inc. announced it has acquired Mina, a United Kingdom-based cloud-based platform for electric-vehicle charging of commercial fleets.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00",
+        "5ed242d6f79b8200012f47c5"
+      ],
+      "published_at": "2023-02-02T00:00:00.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "6371b806ff0a7a00d1fa0721",
+      "url": "https://www.marketwatch.com/story/fleetcor-technologies-cfo-charles-freund-to-depart-alissa-vickery-appointed-interim-cfo-271664223939",
+      "domain": "marketwatch.com",
+      "title": "FleetCor Technologies CFO Charles Freund to Depart, Alissa Vickery Appointed Interim CFO",
+      "snippet": "FleetCor Technologies Inc. said finance chief Charles Freund is leaving the company for another opportunity and will be succeeded in an interim capacity by chief accounting officer Alissa Vickery.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2022-09-26T07:00:00.000+00:00",
+      "event_categories": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "62aa6f8c71268c00ce5de1be",
+      "url": "https://www.uktech.news/fintech/railsbank-funding-unicorn-20220204",
+      "domain": "uktech.news",
+      "title": "UK fintech Railsbank on track for $100m funding, nears unicorn status",
+      "snippet": "Sky News reports that Railsbank, which provides embedded finance and open banking services, is working with investment bank FT Partners on the funding round.",
+      "organization_ids": [
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2022-02-04T13:27:36.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "62032ae845ab22008d2001f0",
+      "url": "https://www.uktech.news/fintech/railsbank-funding-unicorn-20220204",
+      "domain": "uktech.news",
+      "title": "UK fintech Railsbank on track for $100m funding, nears unicorn status",
+      "snippet": "Sky News reports that Railsbank, which provides embedded finance and open banking services, is working with investment bank FT Partners on the funding round.",
+      "organization_ids": [
+        "5f4029f107e68b00017f24cf",
+        "54a11b9269702d9a8bc64a00"
+      ],
+      "published_at": "2022-02-04T13:27:36.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "total_entries": 63,
+  "people": [
+    {
+      "id": "6739673bf0cc7b00016bfcc5",
+      "first_name": "Daniela",
+      "last_name_obfuscated": "Ca***o",
+      "title": "Account Executive",
+      "last_refreshed_at": "2026-06-19T22:57:29.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Santander Portugal",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "57df7cc1a6da980af97a3d7c",
+      "first_name": "Simao",
+      "last_name_obfuscated": "Am***o",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-06-12T16:33:58.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Santander Portugal",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "662d3b8277ee5500073be885",
+      "first_name": "Angelina",
+      "last_name_obfuscated": "Zh***a",
+      "title": "Transformation and Business Development",
+      "last_refreshed_at": "2026-06-14T16:36:07.806+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Santander Portugal",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "6872640d6bfe000001a0ed81",
+      "first_name": "Maria",
+      "last_name_obfuscated": "Ca***o",
+      "title": "Commercial",
+      "last_refreshed_at": "2026-06-30T02:42:43.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Santander Portugal",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5ab66363a6da98b565968f7d",
+      "first_name": "Bruno",
+      "last_name_obfuscated": "Di***s",
+      "title": "Commercial",
+      "last_refreshed_at": "2026-06-11T07:33:47.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Santander Portugal",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

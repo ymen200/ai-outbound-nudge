@@ -1,0 +1,4 @@
+### Key Architectural Summary:
+* **External Interface:** MCP acts as the "bridge" for external agents (Claude, Kiro, etc.) to discover and trigger your pipeline via the `/mcp` endpoint using SSE.
+* **Internal Logic:** The core pipeline remains efficient by using LangGraph's `AgentState` for internal communication, avoiding the overhead of protocol serialization between agents like the Researcher or Critic.
+* **Protocol Utility:** This setup treats the entire outreach pipeline as a "black box" tool that any autonomous system can interact with without needing to understand the underlying Python logic.

@@ -1,0 +1,702 @@
+{
+    "annual_revenue": 52000000.0,
+    "apollo_id": "5d0a1285f651259b447e970b",
+    "city": "Cham",
+    "country": "Switzerland",
+    "departments": {
+        "engineering": 52,
+        "human_resources": 6,
+        "business_development": 17,
+        "support": 3,
+        "consulting": 49,
+        "data_science": 3,
+        "arts_and_design": 1,
+        "information_technology": 6,
+        "accounting": 1,
+        "administrative": 1,
+        "finance": 1,
+        "sales": 0,
+        "operations": 0,
+        "marketing": 0,
+        "legal": 0,
+        "product_management": 0,
+        "education": 0,
+        "media_and_commmunication": 0,
+        "entrepreneurship": 0
+    },
+    "domain": "alten.ch",
+    "estimated_num_employees": 210,
+    "facebook_url": null,
+    "founded_year": 1989,
+    "funding_events": [],
+    "industry": "Engineering and Technology Consulting",
+    "keywords": [
+        "engineering services",
+        "cloud computing",
+        "biotech data analytics",
+        "data management",
+        "energy efficiency software",
+        "regulatory compliance",
+        "space systems",
+        "green energy solutions",
+        "ai for healthcare",
+        "engineering",
+        "cybersecurity threat detection",
+        "public sector it",
+        "it security",
+        "mechanical engineering",
+        "digital transformation",
+        "predictive maintenance factory",
+        "manufacturing engineering",
+        "naval engineering",
+        "space satellite software",
+        "space satellite data processing",
+        "aerospace engineering",
+        "medical device cybersecurity",
+        "construction infrastructure",
+        "it services",
+        "qa automation",
+        "public administration",
+        "defense system integration",
+        "software testing",
+        "rail safety technology",
+        "retail technology",
+        "financial it services",
+        "biotech solutions",
+        "system engineering",
+        "biotech",
+        "rail systems",
+        "automotive engineering",
+        "iot",
+        "iot for industrial automation",
+        "aerospace",
+        "supply chain",
+        "project management",
+        "technology consulting",
+        "digital health",
+        "automotive design",
+        "eco-design digital services",
+        "medical technology",
+        "financial technology",
+        "public sector",
+        "automotive electrification",
+        "government",
+        "space exploration tech",
+        "devops",
+        "railway mobility solutions",
+        "quality assurance",
+        "r&d support",
+        "consulting",
+        "telecommunications",
+        "data integrity industry 4.0",
+        "it consulting",
+        "naval defense systems",
+        "public service it",
+        "railway systems",
+        "artificial intelligence",
+        "system architecture",
+        "r&d",
+        "predictive maintenance",
+        "innovation",
+        "risk management",
+        "automotive safety systems",
+        "financial services",
+        "b2b",
+        "information technology",
+        "autonomous vehicle software",
+        "software development",
+        "space technology",
+        "project office",
+        "life sciences innovation",
+        "it modernization",
+        "application software",
+        "innovation management",
+        "naval systems",
+        "energy",
+        "defense cybersecurity",
+        "cloud migration strategies",
+        "cybersecurity solutions",
+        "embedded software",
+        "defence systems",
+        "services",
+        "telecom systems",
+        "banking it",
+        "transportation & logistics",
+        "defense",
+        "automation",
+        "product development",
+        "life sciences",
+        "energy systems",
+        "ai",
+        "system integration",
+        "cybersecurity governance",
+        "public sector digitalization",
+        "data analytics",
+        "aerospace decarbonization",
+        "naval communication systems",
+        "cybersecurity",
+        "automotive battery management",
+        "cloud infrastructure",
+        "system pdm",
+        "machine learning",
+        "automotive",
+        "construction & real estate",
+        "space mission software",
+        "defence technology",
+        "biopharma compliance",
+        "supply chain management",
+        "medical devices",
+        "embedded software development",
+        "ai solutions",
+        "systems engineering",
+        "project management office",
+        "business analytics",
+        "data integration",
+        "application maintenance",
+        "data analysis",
+        "data governance",
+        "user experience design",
+        "agile development",
+        "decarbonization solutions",
+        "innovation consulting",
+        "real-time data processing",
+        "data visualisation",
+        "advanced analytics",
+        "performance management",
+        "industrial iot",
+        "smart manufacturing",
+        "supply chain optimization",
+        "embedded systems",
+        "electronic design automation",
+        "big data solutions",
+        "smart data management",
+        "it strategy",
+        "business strategy",
+        "data lifecycle management",
+        "product lifecycle management",
+        "robotics process automation",
+        "telecommunications solutions",
+        "energy management solutions",
+        "healthcare",
+        "finance",
+        "manufacturing",
+        "energy & utilities",
+        "information technology & services",
+        "enterprise software",
+        "enterprises",
+        "computer software",
+        "computer & network security",
+        "mechanical or industrial engineering",
+        "productivity",
+        "management consulting",
+        "health, wellness & fitness",
+        "finance technology",
+        "research & development",
+        "internet infrastructure",
+        "internet",
+        "logistics & supply chain",
+        "hospital & health care",
+        "analytics",
+        "design",
+        "embedded hardware & software",
+        "hardware",
+        "health care",
+        "IT",
+        "Switzerland",
+        "Alten"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/altenswitzerland",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/696a2a5798fba500019a367a/picture",
+    "name": "Alten Switzerland",
+    "num_suborganizations": 0,
+    "phone": "+41 41 790 37 14",
+    "postal_code": "6330",
+    "raw_address": "11 Riedstrasse, Cham, Switzerland",
+    "seo_description": null,
+    "short_description": "Engineering and technology consulting service provider for the Swiss market, part of the Alten Group.",
+    "state": "Canton of Zug",
+    "street_address": "11 Riedstrasse",
+    "suborganizations": [],
+    "technologies": [
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "a_small_orange",
+            "name": "A Small Orange",
+            "category": "Hosting"
+        },
+        {
+            "uid": "ac500_plc",
+            "name": "AC500 PLC",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "ansys",
+            "name": "ANSYS",
+            "category": "Other"
+        },
+        {
+            "uid": "at&t",
+            "name": "AT&T",
+            "category": "Hosting"
+        },
+        {
+            "uid": "aveva_intouch_hmi",
+            "name": "AVEVA InTouch HMI",
+            "category": "Other"
+        },
+        {
+            "uid": "aveva_pdms",
+            "name": "AVEVA PDMS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_elastic_beanstalk",
+            "name": "AWS Elastic Beanstalk",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_sdk_for_javascript",
+            "name": "AWS SDK for JavaScript",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "acoustic_analytics",
+            "name": "Acoustic Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "amazon_freertos",
+            "name": "Amazon FreeRTOS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_linux_2",
+            "name": "Amazon Linux 2",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "analyzer",
+            "name": "Analyzer",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "angular",
+            "name": "Angular",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ansys_workbench",
+            "name": "Ansys Workbench",
+            "category": "Other"
+        },
+        {
+            "uid": "apache_kafka",
+            "name": "Apache Kafka",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "apache_subversion_svn_server_on_ubuntu_1804_lts",
+            "name": "Apache Subversion (SVN) Server on Ubuntu 18.04 LTS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "azure devops",
+            "name": "Azure Devops",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "bash",
+            "name": "Bash",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "batch",
+            "name": "Batch",
+            "category": "Other"
+        },
+        {
+            "uid": "bitbucket",
+            "name": "Bitbucket",
+            "category": "Hosting"
+        },
+        {
+            "uid": "blackmagic_design",
+            "name": "Blackmagic Design",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "broadcom_service_virtualization",
+            "name": "Broadcom Service Virtualization",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "brocade_switches",
+            "name": "Brocade Switches",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "c#",
+            "name": "C#",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "cat",
+            "name": "CAT",
+            "category": "ERP"
+        },
+        {
+            "uid": "catia",
+            "name": "CATIA",
+            "category": "Other"
+        },
+        {
+            "uid": "cmake",
+            "name": "CMake",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "control",
+            "name": "CONTROL",
+            "category": "Other"
+        },
+        {
+            "uid": "css",
+            "name": "CSS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "canal",
+            "name": "Canal",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "cascade_cms",
+            "name": "Cascade CMS",
+            "category": "CMS"
+        },
+        {
+            "uid": "cloudflare_hosting",
+            "name": "CloudFlare Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "confluence",
+            "name": "Confluence",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "confluent",
+            "name": "Confluent",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cross_pixel_media",
+            "name": "Cross Pixel Media",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "dc_storm",
+            "name": "DC Storm",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "docker",
+            "name": "Docker",
+            "category": "Other"
+        },
+        {
+            "uid": "doubleclick",
+            "name": "DoubleClick",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "enterprise_architect",
+            "name": "ENTERPRISE ARCHITECT",
+            "category": "ERP"
+        },
+        {
+            "uid": "etq_reliance_qms",
+            "name": "ETQ Reliance QMS",
+            "category": "ERP"
+        },
+        {
+            "uid": "flow",
+            "name": "Flow",
+            "category": "Other"
+        },
+        {
+            "uid": "formassembly",
+            "name": "Formassembly",
+            "category": "Hosted Forms"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "git",
+            "name": "Git",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "gotoassist_fastchat",
+            "name": "GoToAssist (FASTchat)",
+            "category": "Chats"
+        },
+        {
+            "uid": "google",
+            "name": "Google",
+            "category": "Other"
+        },
+        {
+            "uid": "ibm_engineering_requirements_management_doors_next",
+            "name": "IBM Engineering Requirements Management DOORS Next",
+            "category": "Other"
+        },
+        {
+            "uid": "iso",
+            "name": "ISO+™",
+            "category": "Other"
+        },
+        {
+            "uid": "ignition_scada",
+            "name": "Ignition SCADA",
+            "category": "Other"
+        },
+        {
+            "uid": "intel_quartus_prime",
+            "name": "Intel Quartus Prime",
+            "category": "Other"
+        },
+        {
+            "uid": "iot",
+            "name": "IoT",
+            "category": "Other"
+        },
+        {
+            "uid": "jfrog_artifactory",
+            "name": "JFrog Artifactory",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "jenkins",
+            "name": "Jenkins",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "jira",
+            "name": "Jira",
+            "category": "CMS"
+        },
+        {
+            "uid": "kubernetes",
+            "name": "Kubernetes",
+            "category": "Other"
+        },
+        {
+            "uid": "matlab",
+            "name": "MATLAB",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "marc",
+            "name": "Marc",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_powershell",
+            "name": "Microsoft PowerShell",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "microsoft project",
+            "name": "Microsoft Project",
+            "category": "Other"
+        },
+        {
+            "uid": "mode",
+            "name": "Mode",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "modelsim",
+            "name": "ModelSim",
+            "category": "Other"
+        },
+        {
+            "uid": "mule_esb",
+            "name": "Mule ESB",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+        },
+        {
+            "uid": "oracle_analytics_cloud",
+            "name": "Oracle Analytics Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "oracle_bare_metal_cloud_services",
+            "name": "Oracle Bare Metal Cloud Services",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "quartic",
+            "name": "Quartic",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "rabbitmq",
+            "name": "RabbitMQ",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "red_hat",
+            "name": "Red Hat",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "red_hat_jboss_enterprise_soa_platform",
+            "name": "Red Hat JBoss Enterprise SOA Platform",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "red_hat_openshift",
+            "name": "Red Hat OpenShift",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "sql",
+            "name": "SQL",
+            "category": "Database"
+        },
+        {
+            "uid": "secured_mvc_forum_on_windows_2012_r2",
+            "name": "Secured MVC Forum on Windows 2012 R2",
+            "category": "CMS"
+        },
+        {
+            "uid": "sendinblue",
+            "name": "SendInBlue",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "siemens_profibus",
+            "name": "Siemens PROFIBUS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "simulink",
+            "name": "Simulink",
+            "category": "Other"
+        },
+        {
+            "uid": "solid_edge",
+            "name": "Solid Edge",
+            "category": "Other"
+        },
+        {
+            "uid": "spiratest",
+            "name": "SpiraTest",
+            "category": "Case Management"
+        },
+        {
+            "uid": "teamcenter",
+            "name": "Teamcenter",
+            "category": "Enterprise Resource Planning"
+        },
+        {
+            "uid": "tor",
+            "name": "Tor",
+            "category": "Security"
+        },
+        {
+            "uid": "vhdl",
+            "name": "VHDL",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "wider_planet",
+            "name": "Wider Planet",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "windchill",
+            "name": "Windchill+",
+            "category": "Other"
+        },
+        {
+            "uid": "xilinx_vivado",
+            "name": "Xilinx Vivado",
+            "category": "Other"
+        },
+        {
+            "uid": "oracle_service_bus_osb",
+            "name": "oracle service bus OSB",
+            "category": "ERP"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "Cloudflare",
+            "category": "Content Delivery Network (CDN) / Web Application Firewall (WAF)"
+        },
+        {
+            "uid": "cloudflare_bot_management",
+            "name": "Cloudflare Bot Management",
+            "category": "Security / Anti-Bot"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.alten.ch",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "Alten S.A. (Alten Group)",
+    "competitors": [
+        "Akkodis",
+        "Capgemini Engineering",
+        "Segula Technologies",
+        "Zühlke Group",
+        "ELCA"
+    ],
+    "data_quality_score": 0.89
+}

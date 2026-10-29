@@ -1,0 +1,420 @@
+[
+    {
+        "id": "6a6085f6946cf0001cd4b7f0",
+        "url": "https://themarcomjournal.com/article/928267772-1-employee-led-distribution-engine-to-scale-brand-growth-with-0-ad-spend-peoplesocial-by-evonsys",
+        "domain": "themarcomjournal.com",
+        "title": "#1 Employee-led Distribution Engine to scale brand growth with $0 Ad Spend | PeopleSocial by Evonsys.",
+        "snippet": "Built with user experience in mind, PeopleSocial features an intuitive interface optimized for both desktop and mobile devices, seamlessly integrating with existing internal communication platforms like Slack, Teams, and other workplace tools.",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-07-22T00:00:00.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a601056b3b072000c17982d",
+        "url": "https://bitcoinmagazine.com/news/jack-dorsey-debuts-chat-app-slack-rival",
+        "domain": "bitcoinmagazine.com",
+        "title": "Bitcoin maxi Jack Dorsey unveils new open source group chat app.",
+        "snippet": "Jack Dorsey's company Block has debuted a decentralized rival to group chat platform Slack.",
+        "organization_ids": [
+            "61a7f8127fea4c00de924a99",
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-07-21T21:11:57.000+00:00",
+        "event_categories": [
+            "identified_as_competitor_of"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a5a971125458e001c84672b",
+        "url": "https://apkcombo.com/haystack-digital-business-card/com.theHaystackApp.haystack",
+        "domain": "apkcombo.com",
+        "title": "Haystack Digital Business Card APP.",
+        "snippet": "Haystack integrates seamlessly with hundreds of CRM and marketing tools (including Salesforce, HubSpot, and Slack) to sync new contacts and automate your follow-up workflows instantly.",
+        "organization_ids": [
+            "54a1202c69702da4252b2a02",
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-07-17T07:45:02.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a5a24caf997fd001cc939bd",
+        "url": "https://www.selenios.com/en/blog/selenios-multipost-slack-hunting-insights",
+        "domain": "selenios.com",
+        "title": "Selenios updates: Multipost, Slack, hunting and Insights.",
+        "snippet": "Selenios ships four platform modules: Multipost (publish a job once and it's distributed to your branded Career Site, free job boards, and a LinkedIn Basic listing included in every plan), a full Slack integration (per-event notifications, per-job channels, and direct messages), Hunting (an autonomous AI head-hunter sourcing passive candidates 24/7), and Insights (funnel analytics, time-to-hire, and stage conversion KPIs).",
+        "organization_ids": [
+            "687741a585c28c0019867298",
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-07-16T00:00:00.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a54f1864ed30a001c2abbc2",
+        "url": "https://datadive.tools/data-dive-webhook-alerts-slack",
+        "domain": "datadive.tools",
+        "title": "Data Dive alerts now Follow you: why webhook notifications are a game changer for Amazon sellers.",
+        "snippet": "Quick answer: Data Dive now delivers its alerts - indexing issues, blind ad spend, competitor price changes - outside the platform through webhook integrations, starting with Slack.",
+        "organization_ids": [
+            "62a0d6082ea3b700a35af2b3",
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-07-08T13:31:49.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a53148bca8d6100011ed047",
+        "title": "Sr. Software Engineer, Cloud Network - Slack",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/Virginia---Herndon/Sr-Software-Engineer--Cloud-Network---Slack_JR341725",
+        "city": "Herndon",
+        "state": "Virginia",
+        "country": "United States",
+        "last_seen_at": "2026-07-22T17:11:51.000+00:00",
+        "posted_at": "2026-07-07T22:00:00.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a51b87e3885a800012bd877",
+        "title": "Sr. Software Engineer, Observability - Slack",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Sr-Software-Engineer--Observability---Slack_JR347718",
+        "city": "San Francisco",
+        "state": "California",
+        "country": "United States",
+        "last_seen_at": "2026-07-22T17:11:51.000+00:00",
+        "posted_at": "2026-07-07T22:00:00.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a506a9cfa4fc60001fb7a1c",
+        "title": "Staff ML Engineer, Fine Tuning - Slack",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/Washington---Seattle/Staff-ML-Engineer--LLM-Fine-Tuning---Slack_JR344115",
+        "city": "Hagerstown",
+        "state": "Maryland",
+        "country": "United States",
+        "last_seen_at": "2026-07-22T17:11:51.000+00:00",
+        "posted_at": "2026-07-05T22:00:00.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a533e5e16a2bd002067a92c",
+        "url": "https://csnook.com/customer-churn-rate",
+        "domain": "csnook.com",
+        "title": "How to reduce customer churn rate.",
+        "snippet": "Example: Slack has joined hands with Stripe to implement card account updaters and adaptive acceptance technology, which can automatically get updated card account information when cards expire and retry selected payments.",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2",
+            "5d0a0fbff6512580bf33a120"
+        ],
+        "published_at": "2026-07-02T13:22:31.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a07f7d9f2bede000147f6c4",
+        "title": "Staff Software Engineer, Search Data Infrastructure - Slack",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/Washington---Seattle/Staff-Software-Engineer--Search-Data-Infrastructure---Slack_JR339749",
+        "city": "Dallas",
+        "state": "Georgia",
+        "country": "United States",
+        "last_seen_at": "2026-07-21T09:53:21.000+00:00",
+        "posted_at": "2026-06-30T22:00:00.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a44511d67dc1c0014fc9733",
+        "url": "https://smallbiztrends.com/slackbot-unleashes-new-mcp-client-uniting-your-favorite-apps-in-real-time",
+        "domain": "smallbiztrends.com",
+        "title": "Slackbot unleashes new MCP client, uniting your favorite apps in real time.",
+        "snippet": "Slackbot unleashes new MCP client, uniting your favorite apps in real time.",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-06-29T19:11:00.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3f91c78c39bf001cbd39c1",
+        "url": "https://www.thedailytimes.com/online_features/press_releases/chatbase-rebuilds-the-help-desk-for-the-age-of-ai-agents/article_57076b8d-9cb7-55fb-896e-93c6ffa69b82.html",
+        "domain": "thedailytimes.com",
+        "title": "Chatbase rebuilds the Help Desk for the age of AI agents.",
+        "snippet": "Chatbase supports 35 AI models from seven providers, operates in 95 languages, and integrates natively with Zendesk, Salesforce, HubSpot, Stripe, Shopify, Slack, and WhatsApp.",
+        "organization_ids": [
+            "63e80aa5aa4a5c00a3e05d38",
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-06-26T04:05:03.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a5efa5958aa000001eee4cc",
+        "title": "Senior Director, Product Management",
+        "url": "https://www.linkedin.com/jobs/view/4430152298/",
+        "city": "San Francisco",
+        "state": "California",
+        "country": "United States",
+        "last_seen_at": "2026-07-22T22:00:00.000+00:00",
+        "posted_at": "2026-06-24T06:56:12.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a34b1de30c5320010ac62f7",
+        "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_cb71d5e3-1fca-5745-9b11-83166bc6aeb2.html",
+        "domain": "mycarrollcountynews.com",
+        "title": "HiBob brings people intelligence into Slackbot to turn workforce insights into business action.",
+        "snippet": "The integration combines Slack's conversational experience with HiBob's people intelligence, enabling employees, managers, and HR leaders to access information, complete tasks, and take action without leaving Slack.",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2",
+            "56e3bce6f3e5bb2e9400aa96"
+        ],
+        "published_at": "2026-06-18T16:15:00.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3faac02710f600103396df",
+        "url": "https://www.sprinklr.com/blog/customer-feedback-analysis",
+        "domain": "sprinklr.com",
+        "title": "Customer feedback analysis in action.",
+        "snippet": "Slack has been consistently rated as one of the most customer-centric companies in the B2B SaaS space, and it's reflected in its co-founder and first CEO, Stewart Butterfield's quote from its earlier days:",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-06-16T00:00:00.000+00:00",
+        "event_categories": [
+            "recognized_as"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a290f703f9e3c001cfed70a",
+        "url": "https://www.warp2search.net/story/slack-450136-released",
+        "domain": "warp2search.net",
+        "title": "Slack 4.50.136 released.",
+        "snippet": "Slack has recently released version 4.50.136, enhancing its capabilities as a comprehensive team communication tool.",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-06-09T07:00:31.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a1af925d0e8ff001452ba4d",
+        "url": "https://www.uctoday.com/productivity-automation/slack-brings-ai-automation-to-workflow-builder",
+        "domain": "uctoday.com",
+        "title": "Slack brings AI automation to Workflow Builder.",
+        "snippet": "Slack has expanded the AI capabilities inside Workflow Builder with the launch of the Generate AI Response step - a new building block that allows any employee, regardless of technical skill, to inject AI reasoning directly into automated business processes.",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-05-27T10:29:53.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a17a7b4349a46001ce52ce4",
+        "url": "https://www.uctoday.com/talent-hcm-platforms/cornerstone-adds-new-salesforce-integrations-to-deliver-workforce-ai-via-slack",
+        "domain": "uctoday.com",
+        "title": "Cornerstone adds new Salesforce integrations to deliver Workforce AI via Slack.",
+        "snippet": "Cornerstone's latest Salesforce integration brings workforce intelligence into Slack, signaling a shift toward headless HR and making UC platforms a more active part of enterprise decision making",
+        "organization_ids": [
+            "6503e97701c50d0001e03054",
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-05-25T09:58:27.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a25699f2dac5b001058d6e0",
+        "url": "https://www.spkaa.com/blog/no-api-no-problem-strategies-for-integrating-any-application",
+        "domain": "spkaa.com",
+        "title": "No API? No problem: strategies for integrating any application.",
+        "snippet": "Multiplier allows users to integrate access requests directly within the Jira Service Management portal and Slack, but it also supports a strong set of integrations.",
+        "organization_ids": [
+            "60aef4b8ba99de0001ef9131",
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-05-22T21:18:57.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a34ed9045bfc20020d683e0",
+        "url": "https://www.ethira.dev/blog/slack-mcp-tool-governance",
+        "domain": "ethira.dev",
+        "title": "Govern MCP tools from slack: request, review, onboard, and offboard without leaving the channel.",
+        "snippet": "Ethira's Slack integration puts the full tool lifecycle - request, review, approve, onboard, and offboard - into the channel your team already works in, with a complete audit trail behind every decision.",
+        "organization_ids": [
+            "68494a446314ee000d579327",
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-05-21T00:00:00.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a140757a6d022002037dea2",
+        "url": "https://bizsugar.com/small-business-news/slack-introduces-triage-method-to-combat-notification-overload",
+        "domain": "bizsugar.com",
+        "title": "Slack introduces triage method to combat notification overload.",
+        "snippet": "Slack introduces triage method to combat notification overload.",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-05-20T15:17:07.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a0b94b923aa400014ba7e44",
+        "url": "https://smallbiztrends.com/slack-launches-today-feature-for-streamlined-daily-briefings-and-productivity",
+        "domain": "smallbiztrends.com",
+        "title": "Slack launches \"Today\" Feature for streamlined daily briefings and productivity.",
+        "snippet": "Slack launches \"Today\" Feature for streamlined daily briefings and productivity.",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-05-17T15:11:00.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a0fd27b8f582e000ccaad11",
+        "url": "https://smallbiztrends.com/slack-unveils-ai-driven-agents-for-seamless-collaboration-and-efficiency",
+        "domain": "smallbiztrends.com",
+        "title": "Slack unveils ai-driven agents for seamless collaboration and efficiency.",
+        "snippet": "In a rapidly evolving business landscape, Slack is stepping up its game by introducing an \"agent-first workspace\" designed to transform how teams interact with AI.",
+        "organization_ids": [
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-05-13T17:11:00.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a0b5fe850e4030018b02820",
+        "url": "https://bulkwp.com/4-ai-knowledge-base-platforms-like-slab-for-organizing-team-knowledge",
+        "domain": "bulkwp.com",
+        "title": "4 AI knowledge base platforms Like Slab for organizing team knowledge.",
+        "snippet": "Unlike static documentation systems, Guru integrates directly into tools like Slack, Microsoft Teams, and web browsers, allowing users to access verified information without switching contexts.",
+        "organization_ids": [
+            "556dc0d373696411de198801",
+            "6368c7db60489a000171d7c2"
+        ],
+        "published_at": "2026-05-13T00:00:00.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Staff Software Engineer, Slack Desktop Client",
+        "location": "Atlanta, United States",
+        "department": "Software Engineering",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Staff Software Engineer, Slack Desktop Client, Georgia - Atlanta",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.07,
+            "evidence_density": 0.7
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Slack Introduces AI-Powered Features - Enhancing Work Life Simplicity",
+        "date": "Not specified",
+        "news_type": "Product Launch",
+        "confidence": 0.8,
+        "source": "Reimagine what’s possible with AI and agents.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.54,
+            "evidence_density": 1.53
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Slack Expands Partnership with Salesforce - Enhancing Customer Experience",
+        "date": "Not specified",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "As part of the global Salesforce family",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.37,
+            "evidence_density": 1.87
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

@@ -1,0 +1,443 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 30,
+    "successful_calls": 22,
+    "failed_calls": 8,
+    "prompt_tokens": 90327,
+    "candidates_tokens": 19608,
+    "thoughts_tokens": 33984,
+    "cached_content_tokens": 8127,
+    "total_tokens": 143919,
+    "by_model": {
+      "gemini-3.1-flash-lite-preview": {
+        "calls": 9,
+        "total_tokens": 11906,
+        "prompt_tokens": 11543,
+        "candidates_tokens": 363
+      },
+      "gemini-2.5-flash": {
+        "calls": 8,
+        "total_tokens": 86360,
+        "prompt_tokens": 44199,
+        "candidates_tokens": 14084
+      },
+      "gemini-3-flash-preview": {
+        "calls": 5,
+        "total_tokens": 45653,
+        "prompt_tokens": 34585,
+        "candidates_tokens": 5161
+      }
+    },
+    "by_operation": {
+      "browser_config": {
+        "calls": 3,
+        "total_tokens": 458,
+        "prompt_tokens": 383,
+        "candidates_tokens": 75
+      },
+      "extract_apollo": {
+        "calls": 10,
+        "total_tokens": 110653,
+        "prompt_tokens": 61385,
+        "candidates_tokens": 18677
+      },
+      "navigation": {
+        "calls": 6,
+        "total_tokens": 11448,
+        "prompt_tokens": 11160,
+        "candidates_tokens": 288
+      },
+      "post_process": {
+        "calls": 3,
+        "total_tokens": 21360,
+        "prompt_tokens": 17399,
+        "candidates_tokens": 568
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:29:02.154830",
+        "prompt_token_count": 130,
+        "candidates_token_count": 25,
+        "total_token_count": 155,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-17T16:30:00.733734"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:30:28.085786",
+        "prompt_token_count": 7812,
+        "candidates_token_count": 1886,
+        "total_token_count": 13518,
+        "thoughts_token_count": 3820,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:30:28.779955",
+        "prompt_token_count": 3569,
+        "candidates_token_count": 32,
+        "total_token_count": 3601,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:30:51.287148",
+        "prompt_token_count": 9352,
+        "candidates_token_count": 1529,
+        "total_token_count": 12206,
+        "thoughts_token_count": 1325,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:30:52.038072",
+        "prompt_token_count": 3564,
+        "candidates_token_count": 31,
+        "total_token_count": 3595,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:31:15.193453",
+        "prompt_token_count": 10889,
+        "candidates_token_count": 1520,
+        "total_token_count": 13889,
+        "thoughts_token_count": 1480,
+        "cached_content_token_count": 8127
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:31:27.544977",
+        "prompt_token_count": 6301,
+        "candidates_token_count": 195,
+        "total_token_count": 7435,
+        "thoughts_token_count": 939,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:31:30.596741",
+        "prompt_token_count": 126,
+        "candidates_token_count": 25,
+        "total_token_count": 151,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-17T16:32:03.404165"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:32:29.304585",
+        "prompt_token_count": 2161,
+        "candidates_token_count": 1590,
+        "total_token_count": 7308,
+        "thoughts_token_count": 3557,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:32:30.056765",
+        "prompt_token_count": 224,
+        "candidates_token_count": 35,
+        "total_token_count": 259,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-17T16:33:10.579869"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:33:35.396682",
+        "prompt_token_count": 4409,
+        "candidates_token_count": 1736,
+        "total_token_count": 9675,
+        "thoughts_token_count": 3530,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:33:36.088626",
+        "prompt_token_count": 216,
+        "candidates_token_count": 62,
+        "total_token_count": 278,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-17T16:35:34.735096"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:36:09.896432",
+        "prompt_token_count": 4409,
+        "candidates_token_count": 1719,
+        "total_token_count": 11976,
+        "thoughts_token_count": 5848,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:36:25.535032",
+        "prompt_token_count": 4718,
+        "candidates_token_count": 179,
+        "total_token_count": 5741,
+        "thoughts_token_count": 844,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:36:31.466962",
+        "prompt_token_count": 127,
+        "candidates_token_count": 25,
+        "total_token_count": 152,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:37:05.710906",
+        "prompt_token_count": 3325,
+        "candidates_token_count": 1738,
+        "total_token_count": 6382,
+        "thoughts_token_count": 1319,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:37:06.451106",
+        "prompt_token_count": 1812,
+        "candidates_token_count": 58,
+        "total_token_count": 1870,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-17T16:38:06.044602"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:38:30.463409",
+        "prompt_token_count": 4937,
+        "candidates_token_count": 2326,
+        "total_token_count": 10220,
+        "thoughts_token_count": 2957,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:38:31.210976",
+        "prompt_token_count": 1775,
+        "candidates_token_count": 70,
+        "total_token_count": 1845,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-17T16:39:02.070857"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:39:26.981068",
+        "prompt_token_count": 6368,
+        "candidates_token_count": 2283,
+        "total_token_count": 11663,
+        "thoughts_token_count": 3012,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-17T16:39:51.221924"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:40:20.031178",
+        "prompt_token_count": 7723,
+        "candidates_token_count": 2350,
+        "total_token_count": 13816,
+        "thoughts_token_count": 3743,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": false,
+        "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 35.612591327s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}",
+        "timestamp": "2026-07-17T16:40:24.409953"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T16:40:35.912984",
+        "prompt_token_count": 6380,
+        "candidates_token_count": 194,
+        "total_token_count": 8184,
+        "thoughts_token_count": 1610,
+        "cached_content_token_count": 0
+      }
+    ],
+    "companies_scraped_attempted": 3,
+    "companies_scraped_succeeded": 3,
+    "industries": [
+      "Software"
+    ],
+    "locations": [
+      "France",
+      "Germany",
+      "United Kingdom",
+      "Italy",
+      "Spain",
+      "Poland",
+      "Russia",
+      "Netherlands"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Not specified",
+        "location": "London, United Kingdom",
+        "department": "Not specified",
+        "date": "Not specified",
+        "confidence": 0.5,
+        "source": "ICC is a great place to be for anyone wanting to work for a global brand and looking for exposure to a broad range of international business issues.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.41,
+            "evidence_density": 0.09
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "ICC Global Banking Commission Meeting - A global banking event",
+        "date": "2026-11-09",
+        "news_type": "Event",
+        "confidence": 0.9,
+        "source": "ICC Global Banking Commission Meeting | 09-11 November 2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.19,
+            "evidence_density": 1.05
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Dispute Resolution in a Geopolitical World - Annual Arbitration & ADR Conference",
+        "date": "2026-10-14",
+        "news_type": "Event",
+        "confidence": 0.9,
+        "source": "Dispute Resolution in a Geopolitical World | Annual Arbitration & ADR Conference | 14 October 2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.01,
+            "evidence_density": 0.82
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Corporate Counsel Group Meeting",
+        "date": "2026-09-30",
+        "news_type": "Event",
+        "confidence": 0.8,
+        "source": "Corporate Counsel Group Meeting | 30 September",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.01,
+            "evidence_density": 0.67
+        }
+    }
+]

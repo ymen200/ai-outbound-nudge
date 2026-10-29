@@ -1,0 +1,80 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "2026 Half Year Results - Release on July 30, 2026",
+        "date": "2026-07-30",
+        "news_type": "Financial Results",
+        "confidence": 0.9,
+        "source": "2026 Half Year Results Release on July 30, 2026 at 7.30 am CET",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.05,
+            "evidence_density": 0.79
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Named World's Most Sustainable Company 2026 by TIME Magazine and Statista",
+        "date": "Not specified",
+        "news_type": "Sustainability",
+        "confidence": 0.8,
+        "source": "Named World's Most Sustainable Company 2026 by TIME Magazine and Statista",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Climate risk puts 38% of global data center value at stake",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Climate risk puts 38% of global data center value at stake",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "2026 Global energy outlook: Securing resilience in the energy transition",
+        "date": "Not specified",
+        "news_type": "Energy Outlook",
+        "confidence": 0.8,
+        "source": "2026 Global energy outlook: Securing resilience in the energy transition",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Procurement at a crossroads: Why cost savings alone won't be enough",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Procurement at a crossroads: Why cost savings alone won't be enough",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Henkel optimizes energy efficiency for a net-zero future",
+        "date": "Not specified",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "Henkel optimizes energy efficiency for a net-zero future",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    }
+]

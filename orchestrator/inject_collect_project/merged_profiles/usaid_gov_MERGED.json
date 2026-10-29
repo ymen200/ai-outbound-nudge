@@ -1,0 +1,296 @@
+{
+    "alexa_ranking": 40113,
+    "annual_revenue": "32.5 Billion USD",
+    "city": "Washington",
+    "country": "United States",
+    "departments": {
+        "media_and_commmunication": 174,
+        "information_technology": 176,
+        "engineering": 171,
+        "consulting": 231,
+        "education": 43,
+        "finance": 379,
+        "human_resources": 240,
+        "administrative": 461,
+        "data_science": 30,
+        "business_development": 56,
+        "operations": 91,
+        "support": 73,
+        "accounting": 234,
+        "entrepreneurship": 10,
+        "marketing": 39,
+        "legal": 95,
+        "product_management": 16,
+        "arts_and_design": 18,
+        "sales": 33
+    },
+    "domain": "usaid.gov",
+    "estimated_num_employees": "10,000+",
+    "facebook_url": "https://facebook.com/USAID",
+    "founded_year": "1961",
+    "funding_events": [],
+    "industry": "Government Administration / International Development",
+    "keywords": [
+        "international development",
+        "disaster response",
+        "food security",
+        "global health",
+        "humanitarian assistance",
+        "ending extreme poverty",
+        "field missions",
+        "program evaluation",
+        "public-private partnerships",
+        "emergency response",
+        "global development",
+        "humanitarian aid",
+        "sustainable development",
+        "democracy promotion",
+        "project implementation",
+        "international cooperation",
+        "aid funding",
+        "services",
+        "health initiatives",
+        "grant management",
+        "crisis recovery",
+        "development assistance",
+        "u.s. foreign policy",
+        "agriculture support",
+        "conflict-affected regions",
+        "poverty alleviation",
+        "other scientific and technical consulting services",
+        "aid transparency",
+        "economic growth",
+        "foreign aid",
+        "ngo partnerships",
+        "economic reforms",
+        "disaster relief",
+        "international aid logistics",
+        "democratic governance",
+        "global stability",
+        "usaid",
+        "government",
+        "health systems strengthening",
+        "foreign assistance",
+        "international partnerships",
+        "poverty reduction",
+        "program management",
+        "government agency",
+        "aid programs",
+        "capacity building",
+        "civilian aid",
+        "conflict prevention",
+        "gender equality",
+        "anti-corruption",
+        "environmental sustainability",
+        "education access",
+        "water management",
+        "nutrition programs",
+        "partnerships",
+        "community empowerment",
+        "resilience",
+        "public health initiatives",
+        "human rights",
+        "governance",
+        "job creation",
+        "trade capacity building",
+        "climate change action",
+        "microfinance",
+        "private sector development",
+        "infrastructure improvement",
+        "data transparency",
+        "digital economy support",
+        "youth engagement",
+        "women's empowerment",
+        "social justice",
+        "civic engagement",
+        "cultural preservation",
+        "inclusive growth",
+        "monitoring and evaluation",
+        "agricultural development",
+        "local governance",
+        "transnational issues",
+        "capacity development",
+        "community resilience",
+        "educational programming",
+        "media freedom",
+        "law and justice reforms",
+        "healthcare",
+        "non-profit",
+        "international trade & development",
+        "sustainability",
+        "environmental services",
+        "renewables & environment",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "nonprofit organization management",
+        "Foreign Policy"
+    ],
+    "latest_funding_stage": "Government Agency",
+    "linkedin_url": "http://www.linkedin.com/company/usaid",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b13d4092ea6100015ca807/picture",
+    "name": "U.S. Agency for International Development (USAID)",
+    "num_suborganizations": "80+ missions",
+    "phone": "+1 202-712-4810",
+    "postal_code": "20229-0002",
+    "raw_address": "1300 Pennsylvania Ave NW, Washington, DC 20004, United States",
+    "seo_description": "USAID is the world's premier international development agency and a catalytic actor driving development results.",
+    "short_description": "The U.S. Agency for International Development is the world's premier international development agency and a catalytic actor driving development results.",
+    "state": "District of Columbia",
+    "street_address": "1300 Pennsylvania Ave NW",
+    "suborganizations": [
+        {
+            "id": "5a9d38c0a6da98d9466bd52d",
+            "name": "U.S. Government Global Health Supply Chain Program-Procurement and Supply Management",
+            "domain": "Non renseigné"
+        },
+        "USAID Office of Inspector General",
+        "Bureau for Humanitarian Assistance",
+        "Power Africa"
+    ],
+    "technologies": [
+        {
+            "uid": "akamai",
+            "name": "Akamai",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "apache",
+            "name": "Apache",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "bootstrap_framework",
+            "name": "Bootstrap Framework",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "f5_big-ip",
+            "name": "F5 BIG-IP",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "name": "Google Analytics",
+            "category": "Analytics",
+            "confidence": 0.8,
+            "source": "Deduction from standard federal web requirements"
+        },
+        {
+            "uid": "google_apps",
+            "name": "Google Apps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "kaltura",
+            "name": "Kaltura",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce_live_agent",
+            "name": "Salesforce Live Agent",
+            "category": "Chats"
+        },
+        {
+            "uid": "stripe",
+            "name": "Stripe",
+            "category": "Payments"
+        },
+        {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "wistia",
+            "name": "Wistia",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "icims",
+            "name": "iCIMS",
+            "category": "Recruitment"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "name": "Drupal",
+            "category": "Content Management System",
+            "confidence": 0.9,
+            "source": "USAID historical tech stack and CSS class patterns"
+        },
+        {
+            "name": "USWDS (U.S. Web Design System)",
+            "category": "Frontend Framework",
+            "confidence": 0.95,
+            "source": "Prefix analysis (section-*, logo-*)"
+        },
+        {
+            "name": "Web Components",
+            "category": "Browser API",
+            "confidence": 0.99,
+            "source": "customElements detected in JS window object"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/USAID",
+    "website_url": "http://www.usaid.gov",
+    "fiscal_year_end": "September",
+    "annual_revenue_USD": 32500000000,
+    "is_subsidiary": false,
+    "parent_company": "United States Government",
+    "data_quality_score": 0.9,
+    "competitors": [
+        "United Nations Development Programme (UNDP)",
+        "World Bank Group",
+        "Foreign, Commonwealth & Development Office (UK)",
+        "European Commission - Directorate-General for International Partnerships"
+    ]
+}

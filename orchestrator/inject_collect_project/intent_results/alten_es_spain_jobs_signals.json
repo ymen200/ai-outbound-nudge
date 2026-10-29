@@ -1,0 +1,319 @@
+{
+    "target_domain": "alten.es",
+    "job_country_filter": "Spain",
+    "news_filter": "Global",
+    "organization_id": "601033c2c51abe011a0a7771",
+    "extracted_jobs": [
+        {
+            "id": "6a0be56faed08300012d3f74",
+            "title": "data engineer",
+            "url": "https://www.alten.es/jobs/6132-data-engineer",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-05-31T05:24:06.000+00:00",
+            "posted_at": "2026-05-14T22:00:00.000+00:00"
+        },
+        {
+            "id": "6a0be023f08e7900018095a7",
+            "title": ".Net Developer Teletrabajo",
+            "url": "https://www.alten.es/jobs/6128-net-developer-teletrabajo",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-05-31T05:47:54.000+00:00",
+            "posted_at": "2026-05-14T22:00:00.000+00:00"
+        },
+        {
+            "id": "69fd67ed668543000102728b",
+            "title": "it project manager",
+            "url": "https://www.alten.es/jobs/6125-project-manager-it",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-05-31T05:16:22.000+00:00",
+            "posted_at": "2026-05-06T22:00:00.000+00:00"
+        },
+        {
+            "id": "69e84ad80e2cb90001a0325f",
+            "title": "project manager",
+            "url": "https://www.alten.es/jobs/6108-project-manager-en-ingenieria-de-desarrollo",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-06-01T19:25:15.000+00:00",
+            "posted_at": "2026-04-21T11:46:55.000+00:00"
+        },
+        {
+            "id": "69f1767221183700011b7853",
+            "title": "functional analyst",
+            "url": "https://www.alten.es/jobs/6107-functional-analyst-sap",
+            "city": "Barcelona",
+            "state": "Catalonia",
+            "country": "Spain",
+            "last_seen_at": "2026-05-13T18:34:41.000+00:00",
+            "posted_at": "2026-04-17T13:00:58.000+00:00"
+        },
+        {
+            "id": "69f175decaf00800012cd823",
+            "title": "senior technical consultant",
+            "url": "https://www.alten.es/jobs/6104-senior-power-platform-technical-consultant",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-05-13T13:55:11.000+00:00",
+            "posted_at": "2026-04-17T13:00:58.000+00:00"
+        },
+        {
+            "id": "69e44a85b9b3f000018a46c7",
+            "title": "Técnico a Soporte de Aplicaciones Teletrabajo",
+            "url": "https://www.alten.es/jobs/6102-tecnico-a-soporte-de-aplicaciones-teletrabajo",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-05-13T13:55:11.000+00:00",
+            "posted_at": "2026-04-17T13:00:58.000+00:00"
+        },
+        {
+            "id": "69c8a39f38aafd0001828425",
+            "title": "Desarrollador a Senior Fullstack (Sector Aeronáutica y Defensa)",
+            "url": "https://www.alten.es/jobs/6091-desarrollador-a-senior-fullstack-sector-aeronautica-y-defensa",
+            "city": "Albacete",
+            "state": "Castile-La Mancha",
+            "country": "Spain",
+            "last_seen_at": "2026-05-20T11:08:39.000+00:00",
+            "posted_at": "2026-03-26T23:00:00.000+00:00"
+        },
+        {
+            "id": "69bf60ee1a32f50001d2b042",
+            "title": "research & development project manager",
+            "url": "https://www.alten.es/jobs/6083-r-d-project-manager",
+            "city": "Barcelona",
+            "state": "Catalonia",
+            "country": "Spain",
+            "last_seen_at": "2026-04-15T12:50:47.000+00:00",
+            "posted_at": "2026-03-21T08:00:25.000+00:00"
+        },
+        {
+            "id": "69bf67a4385c8c0001cb1887",
+            "title": "Desarrollador a PHP",
+            "url": "https://www.alten.es/jobs/6085-desarrollador-a-php",
+            "city": "Barcelona",
+            "state": "Catalonia",
+            "country": "Spain",
+            "last_seen_at": "2026-04-15T12:50:16.000+00:00",
+            "posted_at": "2026-03-21T08:00:25.000+00:00"
+        },
+        {
+            "id": "69bf65c000e6b20001277e5e",
+            "title": "DevOps Engineer Teletrabajo en Barcelona",
+            "url": "https://www.alten.es/jobs/6081-devops-engineer-teletrabajo-en-barcelona",
+            "city": "Barcelona",
+            "state": "Catalonia",
+            "country": "Spain",
+            "last_seen_at": "2026-04-15T12:50:52.000+00:00",
+            "posted_at": "2026-03-21T08:00:25.000+00:00"
+        },
+        {
+            "id": "69bf5c5605c960000170d1f5",
+            "title": "Técnico a Soporte N2",
+            "url": "https://www.alten.es/jobs/6084-tecnico-a-soporte-n2",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-04-15T05:38:33.000+00:00",
+            "posted_at": "2026-03-21T08:00:25.000+00:00"
+        },
+        {
+            "id": "69c0b333ec06010001177e3f",
+            "title": "mid-level devops engineer",
+            "url": "https://www.alten.es/jobs/6086-mid-devops-engineer",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-04-15T05:38:33.000+00:00",
+            "posted_at": "2026-03-21T08:00:25.000+00:00"
+        },
+        {
+            "id": "69bf62b83fc3340001b83e6a",
+            "title": "middleware analyst",
+            "url": "https://www.alten.es/jobs/6082-analista-middleware",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-04-15T12:16:18.000+00:00",
+            "posted_at": "2026-03-21T08:00:25.000+00:00"
+        },
+        {
+            "id": "69bb73525ddaf50001adb82e",
+            "title": "Ingeniero a de Proyectos Industriales",
+            "url": "https://www.alten.es/jobs/6078-ingeniero-a-de-proyectos-industriales",
+            "city": "Seville",
+            "state": "Andalusia",
+            "country": "Spain",
+            "last_seen_at": "2026-05-31T20:50:00.000+00:00",
+            "posted_at": "2026-03-16T23:00:00.000+00:00"
+        },
+        {
+            "id": "69b0e236d110360001bb7b45",
+            "title": "Ingeniero a de Sistemas y Redes",
+            "url": "https://www.alten.es/jobs/6049-service-support-notam",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-05-30T17:55:34.000+00:00",
+            "posted_at": "2026-02-04T23:00:00.000+00:00"
+        },
+        {
+            "id": "694763bf324e6c00014944a9",
+            "title": "Ingeniero a de Sistemas con Experiencia en Certificación DO-254",
+            "url": "https://www.alten.es/jobs/6023-ingeniero-a-de-sistemas-con-experiencia-en-certificacion-do-254",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-05-20T07:09:18.000+00:00",
+            "posted_at": "2025-12-08T23:00:00.000+00:00"
+        },
+        {
+            "id": "6936422fa57441000142e30d",
+            "title": "Technical Lead (Angular y Microservicios)",
+            "url": "https://www.alten.es/jobs/6017-technical-lead-angular-y-microservicios",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-05-13T06:47:36.000+00:00",
+            "posted_at": "2025-12-07T22:59:51.000+00:00"
+        },
+        {
+            "id": "6937927f3ffc70000176d7ac",
+            "title": "Administrador a VMware Junior Teletrabajo",
+            "url": "https://www.alten.es/jobs/6013-administrador-a-vmware-junior-teletrabajo",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-05-13T13:55:21.000+00:00",
+            "posted_at": "2025-12-07T22:59:51.000+00:00"
+        },
+        {
+            "id": "6937916d97da3d0001fcd7e9",
+            "title": "Cloud Native (.NET y Azure)",
+            "url": "https://www.alten.es/jobs/6019-cloud-native-net-y-azure",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-05-13T13:55:21.000+00:00",
+            "posted_at": "2025-12-07T22:59:51.000+00:00"
+        },
+        {
+            "id": "6937923eeead4500012b940a",
+            "title": "Analista Programador a Java Teletrabajo",
+            "url": "https://www.alten.es/jobs/6014-analista-programador-a-java-teletrabajo",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-05-13T22:09:37.000+00:00",
+            "posted_at": "2025-12-04T23:00:00.000+00:00"
+        },
+        {
+            "id": "692e57c3e1cf6300016322ff",
+            "title": "project engineer",
+            "url": "https://www.alten.es/jobs/6000-ingeniero-a-de-proyectos",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-05-06T06:25:59.000+00:00",
+            "posted_at": "2025-12-01T22:48:37.000+00:00"
+        },
+        {
+            "id": "6909758dc07926000101b510",
+            "title": "Ingeniero a de planificación",
+            "url": "https://www.alten.es/jobs/5974-ingeniero-a-de-planificacion",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-05-20T07:09:18.000+00:00",
+            "posted_at": "2025-11-02T23:00:00.000+00:00"
+        },
+        {
+            "id": "690992bfa4bac30001dde612",
+            "title": "Ingeniero a Ciencias Ambientales",
+            "url": "https://www.alten.es/jobs/5962-consultor-medio-ambiente",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-06-01T02:10:42.000+00:00",
+            "posted_at": "2025-10-20T22:00:00.000+00:00"
+        },
+        {
+            "id": "69099bdec3712f00010a3622",
+            "title": "Diseñador a Electrónico (Sector Aeronáutico)",
+            "url": "https://www.alten.es/jobs/5946-dise-ador-electronico",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-05-31T05:08:11.000+00:00",
+            "posted_at": "2025-10-14T16:27:44.000+00:00"
+        },
+        {
+            "id": "6909951160f278000188e52b",
+            "title": "Ingeniero a de requisitos de SW (Sector Aeronáutico)",
+            "url": "https://www.alten.es/jobs/5907-ingeniero-de-requisitos-sw-para-tigre-mk3",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-05-31T05:00:41.000+00:00",
+            "posted_at": "2025-10-02T22:00:00.000+00:00"
+        },
+        {
+            "id": "69097cc46e426a00018e3894",
+            "title": "BD017389 Desarrollador Angular",
+            "url": "https://www.alten.es/jobs/5852-bd017389-desarrollador-angular",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-04-15T05:42:33.000+00:00",
+            "posted_at": "2025-07-02T21:58:52.000+00:00"
+        },
+        {
+            "id": "6909978e4db5c100016814d1",
+            "title": "BD020695 DG Grifols: QA Auto (DevOps)",
+            "url": "https://www.alten.es/jobs/5853-bd020695-dg-grifols-qa-auto-devops",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-04-15T05:42:33.000+00:00",
+            "posted_at": "2025-07-02T21:58:52.000+00:00"
+        },
+        {
+            "id": "69097ce46e426a00018e4093",
+            "title": "Técnico a de Manufacturing Junior",
+            "url": "https://www.alten.es/jobs/5814-tecnico-a-de-manufacturing-junior",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-05-21T13:25:55.000+00:00",
+            "posted_at": "2025-05-21T22:00:00.000+00:00"
+        },
+        {
+            "id": "6909760b8fadd5000164ada7",
+            "title": "Senior Java Micro",
+            "url": "https://www.alten.es/jobs/5813-senior-java-micro",
+            "city": "Madrid",
+            "state": "Community of Madrid",
+            "country": "Spain",
+            "last_seen_at": "2026-05-20T07:09:18.000+00:00",
+            "posted_at": "2025-05-21T16:09:11.000+00:00"
+        },
+        {
+            "id": "69bf5d0d1a32f50001d2a8a6",
+            "title": "iOS Developer Teletrabajo",
+            "url": "https://www.alten.es/jobs/5378-ios-developer-teletrabajo",
+            "city": null,
+            "state": null,
+            "country": "Spain",
+            "last_seen_at": "2026-04-15T12:51:39.000+00:00",
+            "posted_at": "2025-05-14T18:10:09.000+00:00"
+        }
+    ],
+    "extracted_news": []
+}

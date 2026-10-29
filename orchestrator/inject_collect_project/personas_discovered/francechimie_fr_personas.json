@@ -1,0 +1,39 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Thomas LEOPOLD",
+        "clean_name_used": "Thomas LEOPOLD",
+        "linkedin_url": "https://fr.linkedin.com/in/leopoldthomas",
+        "company": "Francechimie",
+        "email": "tleopold@francechimie.fr",
+        "mail_pro": true,
+        "title": "Environmental Health and Safety Manager",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Marianne Berthelot",
+        "clean_name_used": "Marianne Berthelot",
+        "linkedin_url": "https://www.linkedin.com/in/maberthel/?locale=fr_FR",
+        "company": "Francechimie",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Non trouvé",
+        "clean_name_used": "Non trouvé",
+        "linkedin_url": "Non trouvé",
+        "company": "Francechimie",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

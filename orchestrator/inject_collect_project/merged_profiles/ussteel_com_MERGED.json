@@ -1,0 +1,1261 @@
+{
+    "annual_revenue": 15207000000.0,
+    "apollo_id": "54a1393669702d24d3fb4700",
+    "city": "Pittsburgh",
+    "country": "United States",
+    "departments": {
+        "finance": 162,
+        "engineering": 504,
+        "sales": 85,
+        "administrative": 40,
+        "operations": 484,
+        "consulting": 46,
+        "human_resources": 79,
+        "entrepreneurship": 3,
+        "accounting": 78,
+        "business_development": 56,
+        "legal": 47,
+        "information_technology": 382,
+        "product_management": 7,
+        "arts_and_design": 6,
+        "support": 47,
+        "data_science": 14,
+        "media_and_commmunication": 15,
+        "marketing": 25,
+        "education": 2
+    },
+    "domain": "ussteel.com",
+    "estimated_num_employees": 23000,
+    "facebook_url": "https://www.facebook.com/unitedstatessteel/",
+    "founded_year": "1901",
+    "funding_events": [
+        {
+            "id": "696603821bb259000186c65c",
+            "date": "2023-12-01T00:00:00.000+00:00",
+            "type": "Merger / Acquisition",
+            "amount": "14.9B",
+            "currency": "$",
+            "investors": "Nippon Steel"
+        },
+        {
+            "id": "696603821bb259000186c659",
+            "date": "2022-06-01T00:00:00.000+00:00",
+            "type": "Debt Financing",
+            "amount": "Non renseigné",
+            "currency": "$",
+            "investors": "Non renseigné"
+        },
+        {
+            "id": "69660092f8c3e8000103f09e",
+            "date": "2021-01-01T00:00:00.000+00:00",
+            "type": "Merger / Acquisition",
+            "amount": "774M",
+            "currency": "$",
+            "investors": "U.S. Steel"
+        },
+        {
+            "id": "693e84c90dcf660001f590c1",
+            "date": "2020-06-01T00:00:00.000+00:00",
+            "type": "Debt Financing",
+            "amount": "1.1B",
+            "currency": "$",
+            "investors": "Non renseigné"
+        },
+        {
+            "id": "693e84c90dcf660001f590c3",
+            "date": "2019-10-01T00:00:00.000+00:00",
+            "type": "Venture (Round not Specified)",
+            "amount": "Non renseigné",
+            "currency": "$",
+            "investors": "Non renseigné"
+        }
+    ],
+    "industry": "Steel Manufacturing",
+    "keywords": [
+        "integrated steel production",
+        "steel process",
+        "product technology",
+        "steel development research",
+        "coke production",
+        "iron ore mining",
+        "industries automotive",
+        "oil",
+        "gas",
+        "appliance",
+        "container",
+        "industrial machinery",
+        "construction",
+        "sustainable steel",
+        "electric arc furnace",
+        "green steel",
+        "electrical steel",
+        "steel/iron ore",
+        "industrials",
+        "manufacturing",
+        "steel recycling",
+        "steel for green building",
+        "steelmaking quality",
+        "sustainability initiatives",
+        "recyclable steel products",
+        "steel industry transformation",
+        "steel industry innovation",
+        "steel industry sustainability standards",
+        "steel production technology",
+        "steel industry standards development",
+        "steel for infrastructure",
+        "steel for consumer goods",
+        "steel industry leader",
+        "steel for green infrastructure",
+        "distribution",
+        "steel industry trends",
+        "energy & utilities",
+        "automotive steel",
+        "steel for consumer electronics",
+        "leed-certified mill",
+        "steel for climate goals",
+        "steel industry esg standards",
+        "steel for automotive safety",
+        "steel with high recycled content",
+        "steel industry stakeholder engagement",
+        "responsible sourcing certification",
+        "electric arc furnace steel",
+        "steel for renewable energy",
+        "steel product development process",
+        "sustainable manufacturing practices",
+        "responsible steel sourcing",
+        "steel for eco-friendly buildings",
+        "mini mill technology",
+        "steel industry environmental impact management",
+        "sustainable steel development",
+        "low-emission steelmaking",
+        "steel product solutions",
+        "steel quality assurance",
+        "steel environmental impact",
+        "steel manufacturing sustainability",
+        "global steel market",
+        "steel industry digital transformation",
+        "steel industry sustainability",
+        "global steel producer",
+        "steel research",
+        "steel for construction resilience",
+        "consumer products & retail",
+        "environmentally responsible steel",
+        "mini mill steelmaking",
+        "transportation & logistics",
+        "advanced steel grades",
+        "steel product customization",
+        "innovative steel alloys",
+        "steel product performance testing",
+        "steel for packaging industry",
+        "steel industry evolution",
+        "steel product innovation labs",
+        "steel product testing",
+        "advanced manufacturing processes",
+        "steel industry standards",
+        "steel industry technological advancement",
+        "steel manufacturing efficiency",
+        "steel product performance",
+        "steel industry global partnerships",
+        "steel for industrial use",
+        "steel industry corporate responsibility",
+        "steel market",
+        "steel for energy pipelines",
+        "steel industry environmental impact reduction",
+        "steel industry community engagement",
+        "steel product lifecycle management",
+        "steel innovation",
+        "steel product quality",
+        "sustainable manufacturing",
+        "steel for electric vehicles",
+        "steel industry environmental certifications",
+        "steel research and development",
+        "steel manufacturing automation",
+        "environmental stewardship",
+        "leed-certified steel mill",
+        "recyclable steel",
+        "environmental responsibility",
+        "steel product portfolio",
+        "construction & real estate",
+        "steel supply chain",
+        "industry-specific expertise",
+        "steel for infrastructure projects",
+        "steel product innovation",
+        "leed certification",
+        "steel products",
+        "steel industry growth",
+        "steel industry certifications",
+        "steel manufacturing processes",
+        "steel supply chain management",
+        "steel industry collaboration",
+        "next-generation steel",
+        "steel for smart cities",
+        "customer success",
+        "steel product lifecycle",
+        "steel for sustainable transportation",
+        "recycled steel content",
+        "sustainable steel solutions",
+        "construction steel",
+        "steel manufacturing",
+        "iron and steel mills and ferroalloy manufacturing",
+        "steel industry compliance",
+        "steel industry research centers",
+        "steel manufacturing environmental policies",
+        "steel industry environmental standards",
+        "steel with reduced carbon footprint",
+        "energy sector steel",
+        "low-carbon steel",
+        "low-emission steel production",
+        "steel product engineering",
+        "flat-rolled steel",
+        "steel product quality control",
+        "steel industry innovation labs",
+        "steel product sustainability",
+        "steel environmental policies",
+        "steel industry leadership",
+        "steel product development",
+        "steel industry best practices",
+        "advanced high-strength steel",
+        "steel process technology",
+        "responsible sourcing",
+        "steel production",
+        "greenhouse gas emissions",
+        "recycled steel",
+        "customer-centric solutions",
+        "verdex steel",
+        "packaging steel",
+        "energy-efficient steel",
+        "flat-rolled products",
+        "tubular solutions",
+        "cold-rolled coil",
+        "hot-rolled coil",
+        "coated sheet",
+        "dent-resistant steel",
+        "integrated steelmaking",
+        "research and development",
+        "safety and health",
+        "diversity and inclusion",
+        "community engagement",
+        "innovation in steel",
+        "decarbonization initiatives",
+        "mini mill leadership",
+        "industry collaboration",
+        "high-quality steel",
+        "steel processing technology",
+        "ethics and compliance",
+        "sustainability reports",
+        "supply chain management",
+        "environmental certifications",
+        "material management",
+        "fossil-free solutions",
+        "energy conservation",
+        "climate change commitments",
+        "advanced manufacturing techniques",
+        "industrial applications",
+        "heavy equipment steel",
+        "b2b",
+        "mechanical or industrial engineering",
+        "research & development",
+        "logistics & supply chain",
+        "steelmaking",
+        "mini mill",
+        "Nippon Steel partnership",
+        "metallurgical",
+        "Pittsburgh",
+        "decarbonization"
+    ],
+    "latest_funding_stage": "Post-IPO / Acquired",
+    "linkedin_url": "http://www.linkedin.com/company/u-s-steel",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6a3d7ebf55ad73000119457c/picture",
+    "name": "United States Steel Corporation",
+    "num_suborganizations": "1",
+    "phone": "+1 412-433-1121",
+    "postal_code": "15219",
+    "raw_address": "600 Grant Street, Pittsburgh, United States",
+    "seo_description": "Home - www.ussteel.com",
+    "short_description": "Integrated steel producer focusing on sustainable, visionary steel solutions for customers and communities.",
+    "state": "Pennsylvania",
+    "street_address": "600 Grant Street",
+    "suborganizations": [
+        {
+            "id": "556d4726736964120fb6d500",
+            "name": "Big River Steel",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "69d7115dc80b660001341866",
+            "name": "Big River Steel, LLC",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5cb8dfddf65125a552727e2a",
+            "name": "U. S. Steel Košice  s.r.o.",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5569992573696425258f6100",
+            "name": "The Trade Team LLC",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "24-7_media",
+            "name": "24-7 Media",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "3m_codefinder",
+            "name": "3M Codefinder",
+            "category": "Other"
+        },
+        {
+            "uid": "abb_robotics",
+            "name": "ABB Robotics",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "ac500_plc",
+            "name": "AC500 PLC",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "acl",
+            "name": "ACL",
+            "category": "Other"
+        },
+        {
+            "uid": "at&t",
+            "name": "AT&T",
+            "category": "Hosting"
+        },
+        {
+            "uid": "aveva_intouch_hmi",
+            "name": "AVEVA InTouch HMI",
+            "category": "Other"
+        },
+        {
+            "uid": "aws_database_migration_service",
+            "name": "AWS Database Migration Service",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "act",
+            "name": "Act!",
+            "category": "Other"
+        },
+        {
+            "uid": "adition_technologies_-_advertisers",
+            "name": "Adition Technologies - Advertisers",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "adobe_fonts",
+            "name": "Adobe Fonts",
+            "category": "Fonts"
+        },
+        {
+            "uid": "air",
+            "name": "Air",
+            "category": "Other"
+        },
+        {
+            "uid": "akamai_app_api_protector",
+            "name": "Akamai App & API Protector",
+            "category": "Security"
+        },
+        {
+            "uid": "akamai_cdn_solutions",
+            "name": "Akamai CDN Solutions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_associates",
+            "name": "Amazon Associates",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "amazon_linux_2",
+            "name": "Amazon Linux 2",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_product_advertising_api",
+            "name": "Amazon Product Advertising API",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "amazon_ses",
+            "name": "Amazon SES",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "analyzer",
+            "name": "Analyzer",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "aryson_mysql_to_mssql_converter",
+            "name": "Aryson MySQL to MSSQL Converter",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_active_directory_b2c",
+            "name": "Azure Active Directory B2C",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_analysis_services",
+            "name": "Azure Analysis Services",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "azure_digital_twins",
+            "name": "Azure Digital Twins",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_event_hubs",
+            "name": "Azure Event Hubs",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "azure_purview",
+            "name": "Azure Purview",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "boomtrain",
+            "name": "Boomtrain",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "c#",
+            "name": "C#",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "cat",
+            "name": "CAT",
+            "category": "ERP"
+        },
+        {
+            "uid": "cimplicity",
+            "name": "CIMPLICITY",
+            "category": "Other"
+        },
+        {
+            "uid": "cnc_software",
+            "name": "CNC Software",
+            "category": "Other"
+        },
+        {
+            "uid": "canva",
+            "name": "Canva",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "capita",
+            "name": "Capita",
+            "category": "Other"
+        },
+        {
+            "uid": "catalyst",
+            "name": "Catalyst",
+            "category": "Hosting"
+        },
+        {
+            "uid": "chatgpt",
+            "name": "ChatGPT",
+            "category": "Chats"
+        },
+        {
+            "uid": "cisco_asr_1000",
+            "name": "Cisco ASR 1000",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cisco_adaptive_security_appliance_software",
+            "name": "Cisco Adaptive Security Appliance Software",
+            "category": "Event Management"
+        },
+        {
+            "uid": "cisco_catalyst_9800_series_wireless_controllers",
+            "name": "Cisco Catalyst 9800 Series Wireless Controllers",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cisco_dna_center",
+            "name": "Cisco DNA Center",
+            "category": "Security"
+        },
+        {
+            "uid": "cisco_meraki_ms",
+            "name": "Cisco Meraki MS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cisco_nexus_switches",
+            "name": "Cisco Nexus Switches",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cisco_vpn",
+            "name": "Cisco VPN",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cisco_voip",
+            "name": "Cisco VoIP",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "cisco_webex_teams",
+            "name": "Cisco WebEx Teams",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "cloudflare_rocket_loader",
+            "name": "Cloudflare Rocket Loader",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "connectwise_control",
+            "name": "ConnectWise Control",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "copilot",
+            "name": "Copilot",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "copper",
+            "name": "Copper",
+            "category": "Other"
+        },
+        {
+            "uid": "craneware",
+            "name": "Craneware",
+            "category": "Other"
+        },
+        {
+            "uid": "crowdstrike",
+            "name": "CrowdStrike",
+            "category": "Event Management"
+        },
+        {
+            "uid": "dc_storm",
+            "name": "DC Storm",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "dassault_solidworks",
+            "name": "Dassault SOLIDWORKS",
+            "category": "Other"
+        },
+        {
+            "uid": "datocms",
+            "name": "DatoCMS",
+            "category": "CMS"
+        },
+        {
+            "uid": "deltek_computerease",
+            "name": "Deltek ComputerEase",
+            "category": "Contruction Management Platform"
+        },
+        {
+            "uid": "dotnetnuke",
+            "name": "DotNetNuke",
+            "category": "CMS"
+        },
+        {
+            "uid": "drone",
+            "name": "Drone",
+            "category": "Other"
+        },
+        {
+            "uid": "drupal",
+            "name": "Drupal",
+            "category": "CMS"
+        },
+        {
+            "uid": "ekahau_ai_pro",
+            "name": "Ekahau AI Pro",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "elite_software_hvac_solution",
+            "name": "Elite Software HVAC Solution",
+            "category": "Other"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "factorytalk",
+            "name": "FactoryTalk",
+            "category": "Other"
+        },
+        {
+            "uid": "fortinet",
+            "name": "Fortinet",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "frame",
+            "name": "Frame",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "gas",
+            "name": "GAS",
+            "category": "Other"
+        },
+        {
+            "uid": "gep",
+            "name": "GEP",
+            "category": "Other"
+        },
+        {
+            "uid": "grin",
+            "name": "GRIN",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "gauges",
+            "name": "Gauges",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "git",
+            "name": "Git",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "godaddy_domains",
+            "name": "GoDaddy Domains",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "google_adwords_conversion",
+            "name": "Google AdWords Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_ads",
+            "name": "Google Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_ads_conversion",
+            "name": "Google Ads Conversion",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4 (GA4)",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_cloud_machine_learning_engine",
+            "name": "Google Cloud Machine Learning Engine",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "gorilla_nation",
+            "name": "Gorilla Nation",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "gravity",
+            "name": "Gravity",
+            "category": "Content Syndication Networks"
+        },
+        {
+            "uid": "hpe_msa",
+            "name": "HPE MSA",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+        },
+        {
+            "uid": "homestead",
+            "name": "Homestead",
+            "category": "CMS"
+        },
+        {
+            "uid": "horizon",
+            "name": "Horizon",
+            "category": "Other"
+        },
+        {
+            "uid": "isnetworld",
+            "name": "ISNetworld",
+            "category": "Contruction Management Platform"
+        },
+        {
+            "uid": "iso",
+            "name": "ISO+™",
+            "category": "Other"
+        },
+        {
+            "uid": "intouch",
+            "name": "InTouch",
+            "category": "Other"
+        },
+        {
+            "uid": "intel",
+            "name": "Intel Cloud Services",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "intelex",
+            "name": "Intelex",
+            "category": "Other"
+        },
+        {
+            "uid": "iot",
+            "name": "IoT",
+            "category": "Other"
+        },
+        {
+            "uid": "leadfeeder",
+            "name": "Leadfeeder",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "liferay",
+            "name": "Liferay",
+            "category": "CMS"
+        },
+        {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "logic",
+            "name": "LogIC",
+            "category": "Other"
+        },
+        {
+            "uid": "lytics",
+            "name": "Lytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "matlab",
+            "name": "MATLAB",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "mitre_attck",
+            "name": "MITRE ATT&CK",
+            "category": "Event Management"
+        },
+        {
+            "uid": "matomo",
+            "name": "Matomo",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "micro",
+            "name": "Micro",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_active_directory_federation_services",
+            "name": "Microsoft Active Directory Federation Services",
+            "category": "Event Management"
+        },
+        {
+            "uid": "microsoft",
+            "name": "Microsoft Azure Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_powerpoint",
+            "name": "Microsoft PowerPoint",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "microsoft_powershell",
+            "name": "Microsoft PowerShell",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "microsoft project",
+            "name": "Microsoft Project",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_sharepoint",
+            "name": "Microsoft Sharepoint",
+            "category": "CMS"
+        },
+        {
+            "uid": "microsoft_windows_server_2000",
+            "name": "Microsoft Windows Server 2000",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft_windows_server_2012",
+            "name": "Microsoft Windows Server 2012",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft_word",
+            "name": "Microsoft Word",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "minitab_workspace",
+            "name": "Minitab Workspace",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "mode",
+            "name": "Mode",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "osisoft_pi",
+            "name": "OSIsoft PI",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "olo",
+            "name": "Olo",
+            "category": "Food Ordering Services"
+        },
+        {
+            "uid": "openvms",
+            "name": "OpenVMS",
+            "category": "Other"
+        },
+        {
+            "uid": "oracle_analytics_cloud",
+            "name": "Oracle Analytics Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "oracle_argus",
+            "name": "Oracle Argus",
+            "category": "Case Management"
+        },
+        {
+            "uid": "oracle_cloud_infrastructure",
+            "name": "Oracle Cloud Infrastructure",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "oracle e business suite",
+            "name": "Oracle E Business Suite",
+            "category": "ERP"
+        },
+        {
+            "uid": "oracle_ebs_crm",
+            "name": "Oracle EBS CRM",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "oracle_primavera",
+            "name": "Oracle Primavera",
+            "category": "Contruction Management Platform"
+        },
+        {
+            "uid": "oracle_rdb",
+            "name": "Oracle Rdb",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "oracle_sourcing",
+            "name": "Oracle Sourcing",
+            "category": "ERP"
+        },
+        {
+            "uid": "oracle_transportation_management_cloud",
+            "name": "Oracle Transportation Management Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "ovation",
+            "name": "Ovation",
+            "category": "Other"
+        },
+        {
+            "uid": "palo_alto_networks",
+            "name": "Palo Alto Networks",
+            "category": "Event Management"
+        },
+        {
+            "uid": "palo_alto_pa5000_series",
+            "name": "Palo Alto PA-5000 Series",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "proofpoint",
+            "name": "Proofpoint",
+            "category": "Security"
+        },
+        {
+            "uid": "proofpoint_email_security_and_protection",
+            "name": "Proofpoint Email Security and Protection",
+            "category": "Security"
+        },
+        {
+            "uid": "punchh",
+            "name": "Punchh",
+            "category": "Loyalty and Gamification"
+        },
+        {
+            "uid": "pytorch",
+            "name": "PyTorch",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "quip",
+            "name": "Quip",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "rslogix",
+            "name": "RSLogix",
+            "category": "Other"
+        },
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "retool",
+            "name": "Retool",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "sp_capital_iq_pro",
+            "name": "S&P Capital IQ Pro",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "sentencetransformers",
+            "name": "SentenceTransformers",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "service_now",
+            "name": "ServiceNow",
+            "category": "Case Management"
+        },
+        {
+            "uid": "shareasale",
+            "name": "ShareASale",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "siemens_profibus",
+            "name": "Siemens PROFIBUS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "siemens_simatic_hmi_human_machine_interface",
+            "name": "Siemens SIMATIC HMI (Human Machine Interface)",
+            "category": "Other"
+        },
+        {
+            "uid": "siemens_simatic_s7",
+            "name": "Siemens SIMATIC S7",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "siemens_simatic_scada",
+            "name": "Siemens SIMATIC SCADA",
+            "category": "Other"
+        },
+        {
+            "uid": "siemens_sinamics",
+            "name": "Siemens SINAMICS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "sourcingup",
+            "name": "SourcingUp",
+            "category": "E-commerce Tools"
+        },
+        {
+            "uid": "specific_media",
+            "name": "Specific Media",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "splunk",
+            "name": "Splunk",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "systools_vba_password_recovery",
+            "name": "SysTools VBA Password Recovery",
+            "category": "Security"
+        },
+        {
+            "uid": "tsys",
+            "name": "TSYS",
+            "category": "Payments"
+        },
+        {
+            "uid": "tableau",
+            "name": "Tableau",
+            "category": "Widgets"
+        },
+        {
+            "uid": "terraform",
+            "name": "Terraform",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "tor",
+            "name": "Tor",
+            "category": "Security"
+        },
+        {
+            "uid": "tradetracker",
+            "name": "TradeTracker",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "truckstop_load_board",
+            "name": "Truckstop Load Board",
+            "category": "Other"
+        },
+        {
+            "uid": "typekit",
+            "name": "Typekit",
+            "category": "Fonts"
+        },
+        {
+            "uid": "vlan",
+            "name": "VLAN",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "vmware_esxi",
+            "name": "VMware ESXi",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "vmware_nsx",
+            "name": "VMware NSX",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "vmware_sdwan",
+            "name": "VMware SD-WAN",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "vmware_vcenter",
+            "name": "VMware vCenter",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "veeam",
+            "name": "Veeam",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "vertica",
+            "name": "Vertica",
+            "category": "Database"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "visio",
+            "name": "Visio",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "weboffice",
+            "name": "WebOffice",
+            "category": "CMS"
+        },
+        {
+            "uid": "whatcounts_/_publicaster",
+            "name": "WhatCounts / Publicaster",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "wider_planet",
+            "name": "Wider Planet",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "xray",
+            "name": "Xray",
+            "category": "Other"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "emaint_cmms",
+            "name": "eMaint CMMS",
+            "category": "Field Service Management"
+        },
+        {
+            "uid": "ifix",
+            "name": "iFix",
+            "category": "Other"
+        },
+        {
+            "uid": "mabl",
+            "name": "mabl",
+            "category": "Other"
+        },
+        {
+            "uid": "redvertisement",
+            "name": "redvertisement",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "vsphere",
+            "name": "vSphere",
+            "category": "ERP"
+        },
+        {
+            "uid": "linkedin_insight_tag",
+            "name": "LinkedIn Insight Tag",
+            "category": "Advertising"
+        },
+        {
+            "uid": "akamai",
+            "name": "Akamai",
+            "category": "CDN"
+        }
+    ],
+    "total_funding": "16.7B",
+    "twitter_url": "https://twitter.com/u_s_steel?lang=en",
+    "website_url": "http://www.ussteel.com",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "Nippon Steel Corporation",
+    "competitors": [
+        "Nucor Corporation",
+        "Cleveland-Cliffs Inc.",
+        "Steel Dynamics, Inc.",
+        "ArcelorMittal",
+        "Reliance, Inc."
+    ],
+    "data_quality_score": 0.97
+}

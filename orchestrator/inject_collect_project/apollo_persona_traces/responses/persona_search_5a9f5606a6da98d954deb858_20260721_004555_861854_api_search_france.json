@@ -1,0 +1,28 @@
+{
+  "total_entries": 565,
+  "people": [
+    {
+      "id": "66ee7b482871ba0001979c73",
+      "first_name": "Christophe",
+      "last_name_obfuscated": "Sm***h",
+      "title": "Sales Business Development",
+      "last_refreshed_at": "2026-06-09T11:45:44.000+00:00",
+      "has_email": true,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Schneider Electric",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

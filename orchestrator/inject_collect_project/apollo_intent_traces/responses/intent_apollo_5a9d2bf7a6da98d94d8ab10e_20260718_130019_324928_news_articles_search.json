@@ -1,0 +1,24 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 1,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "6917452217b3b4001da71fc7",
+      "url": "https://linktoleaders.com/intelcia-portugal-quer-recrutar-700-pessoas-ate-ao-final-do-ano",
+      "domain": "linktoleaders.com",
+      "title": "Intelcia Portugal aims to recruit 700 people by the end of the year.",
+      "snippet": "Intelcia Portugal aims to recruit 700 people by the end of the year.",
+      "organization_ids": [
+        "5a9d2bf7a6da98d94d8ab10e"
+      ],
+      "published_at": "2025-11-14T06:26:06.000+00:00",
+      "event_categories": [
+        "increases_headcount_by"
+      ]
+    }
+  ]
+}

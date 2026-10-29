@@ -1,0 +1,38 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 2,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "6a1fe1c68392210010821093",
+      "url": "https://en.africanmanager.com/permanent-deal-room-launched-to-connect-investors-with-african-projects",
+      "domain": "africanmanager.com",
+      "title": "Permanent Deal Room launched to connect investors with African projects.",
+      "snippet": "The Tunisia-Africa Business Council (TABC) and the Tunisian Consortium for Development in Africa (TUCAD) have announced the launch of the Permanent Deal Room, a structured, year-round platform designed to connect high-potential African projects with investors, financial institutions, banks, investment funds, technical partners and development stakeholders.",
+      "organization_ids": [
+        "55f6cafef3e5bb191a0187b8"
+      ],
+      "published_at": "2026-06-02T11:08:57.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a02ea5efafc030015bfa067",
+      "url": "https://aapi.dz/en/the-director-general-of-the-agency-participates-in-fita-2026-conference-in-tunis",
+      "domain": "aapi.dz",
+      "title": "The Director General of the Agency participates in FITA 2026 conference in Tunis.",
+      "snippet": "The Director General of the Algerian Investment Promotion Agency (AAPI), Mr. Omar REKKACHE, took part on Wednesday, 29 April 2026, in Tunis, in the proceedings of the 9th edition of the International Forum on Financing Investment and Trade in Africa (FITA 2026), organized by the Tunisian-African Business Council.",
+      "organization_ids": [
+        "55f6cafef3e5bb191a0187b8"
+      ],
+      "published_at": "2026-04-29T00:00:00.000+00:00",
+      "event_categories": [
+        "attends_event"
+      ]
+    }
+  ]
+}

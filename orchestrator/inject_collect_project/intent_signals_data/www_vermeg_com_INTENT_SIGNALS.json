@@ -1,0 +1,170 @@
+{
+    "intent_summary": {
+        "hiring_dynamic": {
+            "value": "Medium",
+            "confidence": 0.6,
+            "source": "Explore jobs",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.49,
+                "evidence_density": 0.5
+            }
+        },
+        "growth_signals_detected": {
+            "value": "Partnerships, awards, and innovative solutions",
+            "confidence": 0.8,
+            "source": "Vermeg wins Central Banking’s Technology Services Award 2026",
+            "xai_metrics": {
+                "faithfulness_score": 0,
+                "calibration_error": 0.55,
+                "evidence_density": 0.77
+            }
+        }
+    },
+    "job_offers": [
+        {
+            "title": {
+                "value": "Software Engineer",
+                "confidence": 0.5,
+                "source": "Explore jobs",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.22,
+                    "evidence_density": 1.42
+                }
+            },
+            "location": {
+                "value": "Tunisia",
+                "confidence": 0.8,
+                "source": "Vermeg’s global footprint",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.68,
+                    "evidence_density": 0.28
+                }
+            },
+            "department": {
+                "value": "Engineering",
+                "confidence": 0.7,
+                "source": "Explore jobs",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.53,
+                    "evidence_density": 0.92
+                }
+            }
+        }
+    ],
+    "news_articles": [
+        {
+            "title": {
+                "value": "Vermeg wins Central Banking’s Technology Services Award 2026",
+                "confidence": 0.9,
+                "source": "Vermeg wins Central Banking’s Technology Services Award 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.1,
+                    "evidence_density": 1.0
+                }
+            },
+            "date": {
+                "value": "April 14, 2026",
+                "confidence": 0.8,
+                "source": "Vermeg wins Central Banking’s Technology Services Award 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.58,
+                    "evidence_density": 0.23
+                }
+            },
+            "summary": {
+                "value": "The award recognizes the pivotal role of Megara platform in powering the Eurosystem Collateral Management System (ECMS).",
+                "confidence": 0.8,
+                "source": "Vermeg wins Central Banking’s Technology Services Award 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.69,
+                    "evidence_density": 2.0
+                }
+            }
+        },
+        {
+            "title": {
+                "value": "CBUAE Develops Central Securities Depository Solution in Partnership with Vermeg to Strengthen Capital Market Infrastructure",
+                "confidence": 0.9,
+                "source": "CBUAE Develops Central Securities Depository Solution in Partnership with Vermeg to Strengthen Capital Market Infrastructure",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.1,
+                    "evidence_density": 1.0
+                }
+            },
+            "date": {
+                "value": "April 13, 2026",
+                "confidence": 0.8,
+                "source": "CBUAE Develops Central Securities Depository Solution in Partnership with Vermeg to Strengthen Capital Market Infrastructure",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.71,
+                    "evidence_density": 0.11
+                }
+            },
+            "summary": {
+                "value": "Vermeg is honoured to partner on the development of a Central Securities Depository (CSD) for national debt and Sukuk, an initiative that strengthens capital market infrastructure, enhances post-trade efficiency, and supports the UAE’s vision for financial innovation and future-ready markets.",
+                "confidence": 0.8,
+                "source": "CBUAE Develops Central Securities Depository Solution in Partnership with Vermeg to Strengthen Capital Market Infrastructure",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.33,
+                    "evidence_density": 2.36
+                }
+            }
+        }
+    ],
+    "strategic_events": [
+        {
+            "type": {
+                "value": "Partnership",
+                "confidence": 0.9,
+                "source": "CBUAE Develops Central Securities Depository Solution in Partnership with Vermeg to Strengthen Capital Market Infrastructure",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.74,
+                    "evidence_density": 0.09
+                }
+            },
+            "description": {
+                "value": "Vermeg partners with CBUAE to develop a Central Securities Depository (CSD) for national debt and Sukuk.",
+                "confidence": 0.8,
+                "source": "CBUAE Develops Central Securities Depository Solution in Partnership with Vermeg to Strengthen Capital Market Infrastructure",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.27,
+                    "evidence_density": 0.84
+                }
+            }
+        },
+        {
+            "type": {
+                "value": "Award",
+                "confidence": 0.9,
+                "source": "Vermeg wins Central Banking’s Technology Services Award 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.75,
+                    "evidence_density": 0.08
+                }
+            },
+            "description": {
+                "value": "Vermeg wins Central Banking’s Technology Services Award 2026 for its Megara platform.",
+                "confidence": 0.8,
+                "source": "Vermeg wins Central Banking’s Technology Services Award 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.03,
+                    "evidence_density": 1.42
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+  "total_entries": 3,
+  "people": [
+    {
+      "id": "54a8e39f746869334af79d08",
+      "first_name": "George",
+      "last_name_obfuscated": "Ok***e",
+      "title": "Business Development Consultant",
+      "last_refreshed_at": "2026-06-27T20:29:43.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Tunisia Africa Business Council",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": false,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "57de028fa6da987b59dd538c",
+      "first_name": "Aya",
+      "last_name_obfuscated": "Me***d",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-05-23T10:54:53.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Tunisia Africa Business Council",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": false,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "57e15de6a6da987d8cb576f0",
+      "first_name": "Fawzi",
+      "last_name_obfuscated": "Sl***a",
+      "title": "Sales",
+      "last_refreshed_at": "2026-06-22T07:30:26.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Tunisia Africa Business Council",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": false,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

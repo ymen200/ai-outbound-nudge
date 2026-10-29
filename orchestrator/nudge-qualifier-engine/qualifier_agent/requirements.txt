@@ -1,0 +1,19 @@
+# Core Pydantic & Data Validation
+pydantic>=2.0.0
+typing-extensions>=4.5.0
+
+# LangChain & Multi-Agent Orchestration
+langchain-core
+langchain-groq
+langgraph
+
+# Direct API Clients & Infrastructure
+groq
+redis
+
+# Environment & Resilience Utilities
+python-dotenv
+
+# Testing Frameworks
+pytest
+pytest-asyncio

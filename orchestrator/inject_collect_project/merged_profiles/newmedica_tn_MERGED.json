@@ -1,0 +1,118 @@
+{
+    "annual_revenue": null,
+    "apollo_id": "641018b458ab7f0001ef30f0",
+    "city": "Megrine",
+    "country": "Tunisia",
+    "departments": {
+        "sales": 1,
+        "marketing": 3,
+        "information_technology": 1,
+        "arts_and_design": 1,
+        "administrative": 1,
+        "accounting": 0,
+        "operations": 0,
+        "finance": 0,
+        "human_resources": 0,
+        "legal": 0,
+        "engineering": 0,
+        "business_development": 0,
+        "product_management": 0,
+        "consulting": 0,
+        "education": 0,
+        "media_and_commmunication": 0,
+        "entrepreneurship": 0,
+        "support": 0,
+        "data_science": 0
+    },
+    "domain": "newmedica.tn",
+    "estimated_num_employees": 16,
+    "facebook_url": null,
+    "founded_year": "2013",
+    "funding_events": [],
+    "industry": "Distribution de produits dermatologiques et pharmaceutiques",
+    "keywords": [
+        "parapharmaceutique",
+        "distribution",
+        "promotion",
+        "importation",
+        "wholesale import & export",
+        "b2b",
+        "international trade & development",
+        "Dermatologie",
+        "Distribution Pharmaceutique",
+        "Soins de la peau",
+        "Tunisie",
+        "Sensilis",
+        "Sesderma",
+        "MediDerma",
+        "Cumlaude",
+        "Casmara",
+        "Babé",
+        "Marti Derm"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/newmedica-tunisia",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66f96109d50b09000198bf37/picture",
+    "name": "New Medica",
+    "num_suborganizations": 0,
+    "phone": "+216 71 432 660",
+    "raw_address": "Lotissement Nour N: 26 ROUTE GP1, Ben Arous 2023, Megrine",
+    "seo_description": "Together twords Excellence",
+    "short_description": "L’Alliance Tunisienne des Marques Dermatologiques les Plus Prisées, représentant exclusif de laboratoires espagnols (Sensilis, Sesderma, etc.) en Tunisie.",
+    "state": "Tunis",
+    "suborganizations": [],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "wordpress",
+            "name": "WordPress",
+            "category": "CMS"
+        },
+        {
+            "uid": "nginx",
+            "name": "nginx",
+            "category": "Web Server"
+        },
+        {
+            "uid": "php",
+            "name": "PHP",
+            "category": "Language"
+        },
+        {
+            "uid": "wpbakery_page_builder",
+            "name": "WPBakery Page Builder",
+            "category": "Page Builder"
+        },
+        {
+            "uid": "salient",
+            "name": "Salient",
+            "category": "WordPress Theme"
+        },
+        {
+            "uid": "translatepress",
+            "name": "TranslatePress",
+            "category": "Translation"
+        },
+        {
+            "uid": "plesk",
+            "name": "Plesk",
+            "category": "Hosting Control Panel"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.newmedica.tn",
+    "is_subsidiary": false,
+    "competitors": [
+        "Dermopro",
+        "Opalia Recordati",
+        "Laboratoires Nihel",
+        "Unimed",
+        "Teraps"
+    ],
+    "data_quality_score": 0.94
+}

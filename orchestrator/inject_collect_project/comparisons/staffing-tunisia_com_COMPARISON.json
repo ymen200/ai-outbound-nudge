@@ -1,0 +1,324 @@
+{
+    "domain": "staffing-tunisia.com",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "annual_revenue": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        },
+        "city": {
+            "neo4j_apollo": "Sfax",
+            "smart_scraper_ai": "Sfax"
+        },
+        "country": {
+            "neo4j_apollo": "Tunisia",
+            "smart_scraper_ai": "Tunisia"
+        },
+        "domain": {
+            "neo4j_apollo": "staffing-tunisia.com",
+            "smart_scraper_ai": "staffing-tunisia.com"
+        },
+        "estimated_num_employees": {
+            "neo4j_apollo": 20,
+            "smart_scraper_ai": "10-50"
+        },
+        "facebook_url": {
+            "neo4j_apollo": "https://www.facebook.com/staffingtunisia",
+            "smart_scraper_ai": null
+        },
+        "founded_year": {
+            "neo4j_apollo": 2018,
+            "smart_scraper_ai": "2018"
+        },
+        "funding_events": {
+            "neo4j_apollo": [],
+            "smart_scraper_ai": []
+        },
+        "industry": {
+            "neo4j_apollo": "human resources",
+            "smart_scraper_ai": "Recrutement et Intérim"
+        },
+        "keywords": {
+            "neo4j_apollo": [
+                "evaluation des competences",
+                "externalisation des rh",
+                "solutions rh",
+                "payrolling",
+                "flexibilite des rh",
+                "gestion de contrats",
+                "recrutement",
+                "interim",
+                "travail temporaire",
+                "human resources services",
+                "hr expertise",
+                "hr service delivery",
+                "mass recruitment",
+                "recruitment process",
+                "workforce flexibility tunisia",
+                "human capital",
+                "employee onboarding",
+                "remote staffing",
+                "hr compliance",
+                "employee replacement",
+                "human resources",
+                "candidate assessment",
+                "temporary staffing tunisia",
+                "workforce management",
+                "employment placement agencies and executive search services",
+                "mass recruitment tunisia",
+                "hr consulting",
+                "candidate sourcing",
+                "executive search",
+                "recruitment",
+                "hr development",
+                "manufacturing",
+                "services",
+                "tunisia hr market",
+                "hr technology",
+                "hr market trends",
+                "labor market",
+                "hr process automation",
+                "staffing",
+                "workforce flexibility",
+                "hr compliance standards",
+                "hr strategy",
+                "b2b",
+                "senior talent sourcing tunisia",
+                "talent acquisition",
+                "workforce solutions",
+                "hr consulting services",
+                "outsourcing",
+                "hr solutions",
+                "digital transformation",
+                "talent sourcing platforms",
+                "employee management",
+                "hr policy development",
+                "hr digital solutions tunisia",
+                "employee retention strategies",
+                "hr process outsourcing tunisia",
+                "candidate screening",
+                "consulting",
+                "international expansion",
+                "hr compliance tunisia",
+                "hr innovation",
+                "candidate evaluation tools",
+                "talent management",
+                "hr process optimization",
+                "employment agency",
+                "temporary work",
+                "hr candidate database",
+                "staffing and recruitment",
+                "hr outsourcing",
+                "hr data management",
+                "oil and gas",
+                "hr operational support",
+                "hr digital tools",
+                "senior recruitment",
+                "hr project management",
+                "hr partnership",
+                "local hr agency",
+                "hr software",
+                "hr analytics",
+                "hr outsourcing solutions",
+                "assessment",
+                "employee placement",
+                "hr industry best practices",
+                "hr services",
+                "hr assessment tools tunisia",
+                "workforce planning",
+                "hr solutions tunisia",
+                "hospitality",
+                "digital hr",
+                "hr client management",
+                "hr training",
+                "hr outsourcing tunisia",
+                "candidate evaluation",
+                "candidate pool",
+                "recruitment agency",
+                "staffing agency",
+                "interim recruitment",
+                "outsourcing services",
+                "turnkey solutions",
+                "job placement",
+                "digital recruitment",
+                "sourcing solutions",
+                "human resource management",
+                "employee leasing",
+                "staff augmentation",
+                "career transition",
+                "hr consultancy",
+                "employer services",
+                "recruiting services",
+                "job matching",
+                "payroll management",
+                "skills assessment",
+                "temporary staffing",
+                "client partnerships",
+                "staffing solutions",
+                "employment services",
+                "job board",
+                "international recruitment",
+                "regional agencies",
+                "candidate services",
+                "employer branding",
+                "industry expertise",
+                "flexible workforce",
+                "workplace solutions",
+                "labor market trends",
+                "service level agreements",
+                "recruitment process outsourcing",
+                "job portal",
+                "networking opportunities",
+                "management consulting",
+                "staffing & recruiting",
+                "mechanical or industrial engineering",
+                "oil & energy",
+                "leisure, travel & tourism"
+            ],
+            "smart_scraper_ai": "recrutement, intérim, Tunisie, RH, Sfax, Sousse, Tunis, capital humain, talentisme, outsourcing, externalisation RH, chasseur de têtes"
+        },
+        "latest_funding_stage": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        },
+        "linkedin_url": {
+            "neo4j_apollo": "http://www.linkedin.com/company/staffing-tunisia",
+            "smart_scraper_ai": null
+        },
+        "name": {
+            "neo4j_apollo": "STAFFING TUNISIA",
+            "smart_scraper_ai": "Staffing Tunisia"
+        },
+        "num_suborganizations": {
+            "neo4j_apollo": 0,
+            "smart_scraper_ai": "2"
+        },
+        "phone": {
+            "neo4j_apollo": "+216 31 360 300",
+            "smart_scraper_ai": "(00216) 31 360 300"
+        },
+        "raw_address": {
+            "neo4j_apollo": "Avenue Majida Boulila, Immeuble Mirage 3, Tunisia, Sfax ville 3000, TN",
+            "smart_scraper_ai": "Avenue Majida Boulila, Immeuble Mirage 3, Sfax"
+        },
+        "seo_description": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": "Staffing Tunisia - Cabinet de recrutement Tunisie, Agence d’intérim, Cabinet de recrutement Sfax, Sousse, Tunis"
+        },
+        "short_description": {
+            "neo4j_apollo": "STAFFING TUNISIA® is a network of employment agencies based in Tunisia, established in 2018, with its headquarters in Sfax and additional offices in Sousse and Tunis. The company provides comprehensive HR solutions, focusing on understanding clients' needs to deliver tailored talent management services. With a team of 11-50 employees, STAFFING TUNISIA is led by Co-Founder Houssem Labidi and Business Development Manager Wafa Akkari.\n\nThe company offers a variety of services, including headhunting and recruiting, candidate assessment, temporary work staffing, payroll and HR outsourcing, and business HR consulting. STAFFING TUNISIA emphasizes flexibility and recruitment excellence, ensuring that clients receive the right candidates within agreed timeframes. The company is recognized for its rich candidate database and commitment to quality, making it a reliable partner for HR challenges across various industries in Tunisia.",
+            "smart_scraper_ai": "Cabinet de recrutement et agence d’intérim opérant sur tout le réseau national tunisien avec des solutions de recrutement de cadres, intérim et outsourcing."
+        },
+        "technologies": {
+            "neo4j_apollo": [
+                "Android",
+                "Google Analytics",
+                "Google Font API",
+                "Google Tag Manager",
+                "Gravity Forms",
+                "Mobile Friendly",
+                "WordPress.org",
+                "reCAPTCHA"
+            ],
+            "smart_scraper_ai": [
+                "WordPress",
+                "OVHcloud",
+                "PHP 7.2",
+                "Google Analytics",
+                "Google Tag Manager",
+                "WPBakery / Visual Composer",
+                "WPML",
+                "Revolution Slider"
+            ]
+        },
+        "total_funding": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        },
+        "twitter_url": {
+            "neo4j_apollo": "https://twitter.com/StaffingTunisia",
+            "smart_scraper_ai": "https://twitter.com/StaffingTunisia"
+        }
+    },
+    "apollo_neo4j_only_attributes": {
+        "alexa_ranking": "Non renseigné",
+        "apollo_id": "Non renseigné",
+        "captured_at": "Non renseigné",
+        "category": "Non renseigné",
+        "created_at": "Non renseigné",
+        "crunchbase": "Non renseigné",
+        "crunchbase_url": "Non renseigné",
+        "data": "Non renseigné",
+        "departments": {
+            "human_resources": 3,
+            "marketing": 1,
+            "business_development": 4,
+            "administrative": 1,
+            "consulting": 1,
+            "finance": 1,
+            "sales": 1,
+            "entrepreneurship": 2,
+            "accounting": 0,
+            "operations": 0,
+            "information_technology": 0,
+            "legal": 0,
+            "engineering": 0,
+            "product_management": 0,
+            "education": 0,
+            "media_and_commmunication": 0,
+            "arts_and_design": 0,
+            "support": 0,
+            "data_science": 0
+        },
+        "description": "Non renseigné",
+        "facebook": "Non renseigné",
+        "full_address": "Non renseigné",
+        "funding_stage": "Non renseigné",
+        "id": "Non renseigné",
+        "last_update": "Non renseigné",
+        "last_verified_at": "Non renseigné",
+        "linkedin": "Non renseigné",
+        "logo": "Non renseigné",
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6815a5d48538800001344a22/picture",
+        "nodes": "Non renseigné",
+        "owned_by_organization_id": "Non renseigné",
+        "parent_apollo_id": "Non renseigné",
+        "parent_id": "Non renseigné",
+        "postal_code": "Non renseigné",
+        "relationships": "Non renseigné",
+        "revenue": "Non renseigné",
+        "siret": "Non renseigné",
+        "size": "Non renseigné",
+        "state": "Sfax",
+        "street_address": "شارع ماجدة بو ليلى",
+        "style": "Non renseigné",
+        "sub_orgs_count": "Non renseigné",
+        "suborganizations": [],
+        "tech_stack": "Non renseigné",
+        "twitter": "Non renseigné",
+        "uid": "Non renseigné",
+        "visualisation": "Non renseigné",
+        "website": "Non renseigné",
+        "website_url": "http://www.staffing-tunisia.com"
+    },
+    "smart_scraper_ai_only_attributes": {
+        "fiscal_year_end": null,
+        "annual_revenue_USD": null,
+        "is_subsidiary": false,
+        "parent_company": "Staffing Tunisia",
+        "subsidiaries_list": [
+            "Agence Sousse",
+            "Agence Tunis"
+        ],
+        "data_quality_score": 0.82,
+        "market_intelligence": {
+            "competitors": [
+                "Manpower Tunisia",
+                "Adecco Tunisia",
+                "ReKrute.com",
+                "Tanitjobs",
+                "Dreamer Consulting"
+            ]
+        }
+    }
+}

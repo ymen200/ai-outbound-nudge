@@ -1,0 +1,56 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "100x Operator, Chief Of Staff",
+        "location": "San Diego, United States",
+        "department": "Executive",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Reports directly to the CEO",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.61,
+            "evidence_density": 1.07
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "100x Marketer, Chief Marketing Officer",
+        "location": "San Diego, United States",
+        "department": "Executive",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "One person. The entire brand marketing engine of a $4B company.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.48,
+            "evidence_density": 0.6
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Growth & Acquisition Update for the Week of April 21 - Paid ROAS holding at 4.2x across search",
+        "date": "April 21, 2026",
+        "news_type": "Growth & Acquisition",
+        "confidence": 0.8,
+        "source": "Growth & Acquisition Update for the Week of April 21 This week, we are excited to report that our Paid Return on Ad Spend (ROAS) has shown remarkable strength, now standing at an impressive 4.2x in search.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.38,
+            "evidence_density": 0.46
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "ClickUp Surpassed $300M+ in Annual Recurring Revenue",
+        "date": "Not specified",
+        "news_type": "Revenue Growth",
+        "confidence": 0.8,
+        "source": "ClickUp is one of the fastest-growing companies in SaaS. We surpassed $300M+ in annual recurring revenue and serve 20M+ users worldwide, with 800K+ new team signups every month.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.35,
+            "evidence_density": 0.29
+        }
+    }
+]

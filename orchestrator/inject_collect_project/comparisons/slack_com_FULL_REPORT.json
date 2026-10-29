@@ -1,0 +1,1035 @@
+{
+    "domain": "slack.com",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Slack",
+            "ai_value": "Slack Technologies (San Francisco Office)"
+        },
+        "domain": {
+            "database_value": "slack.com",
+            "ai_value": "slack.com"
+        },
+        "industry": {
+            "database_value": "information technology & services",
+            "ai_value": "Software Development / Productivity Tools"
+        },
+        "founded_year": {
+            "database_value": 2009,
+            "ai_value": 2009
+        },
+        "short_description": {
+            "database_value": "Slack is a cloud-based team communication platform developed by Slack Technologies, LLC, a subsidiary of Salesforce. Launched in 2013, Slack has become a core business unit within the Salesforce Customer 360 ecosystem. The platform aims to enhance productivity by replacing fragmented email and siloed tools with a unified, channel-based messaging system. It connects people, processes, data, and AI in a conversational interface, making work more efficient and enjoyable.\n\nSlack operates on a freemium model, offering both free and paid plans. Key features include channel-based messaging, voice and video calls, workflow automation, and secure file sharing. The platform integrates with hundreds of business applications, allowing seamless collaboration. With over 200,000 paying organizations globally, Slack is widely used by enterprises, sales teams, and startups to streamline communication and improve collaboration across various regions, including the Americas, Europe, and Asia Pacific.",
+            "ai_value": "An AI-powered work platform that connects people, tools, and agents to automate tasks and improve communication."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Slack | AI Work Platform & Productivity Tools | Slack"
+        },
+        "annual_revenue": {
+            "database_value": 1499999000.0,
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "33.8B",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Merger / Acquisition",
+            "ai_value": "Acquired"
+        },
+        "estimated_num_employees": {
+            "database_value": 2600,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/tiny-spec-inc",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "https://twitter.com/slackhq",
+            "ai_value": "https://twitter.com/slackhq"
+        },
+        "facebook_url": {
+            "database_value": "https://facebook.com/slackhq",
+            "ai_value": "https://facebook.com/slackhq"
+        },
+        "phone": {
+            "database_value": "+1 415-630-7943",
+            "ai_value": null
+        },
+        "raw_address": {
+            "database_value": "500 Howard St, San Francisco, California, US",
+            "ai_value": "500 Howard St, San Francisco, United States"
+        },
+        "city": {
+            "database_value": "San Francisco",
+            "ai_value": "San Francisco"
+        },
+        "country": {
+            "database_value": "United States",
+            "ai_value": "United States"
+        },
+        "num_suborganizations": {
+            "database_value": 7,
+            "ai_value": null
+        },
+        "keywords": {
+            "database_value": [
+                "technology, information & internet",
+                "team chat software",
+                "direct messages",
+                "file sharing",
+                "remote work tools",
+                "workplace collaboration",
+                "saas",
+                "digital workplace",
+                "project management",
+                "team productivity",
+                "api integrations",
+                "enterprise communication software",
+                "group conversations",
+                "voice and video calls",
+                "enterprise communication",
+                "b2b",
+                "collaboration platform",
+                "searchable message history",
+                "workplace messaging app",
+                "customer relationship management",
+                "enterprise workflow automation",
+                "scalable plans",
+                "collaboration software for teams",
+                "team communication",
+                "remote team collaboration",
+                "workflow tools",
+                "business communication tools",
+                "team messaging",
+                "third-party integrations",
+                "collaboration software",
+                "user base growth",
+                "team collaboration solutions",
+                "productivity tools",
+                "freemium business model",
+                "business tools integration",
+                "enterprise chat platform",
+                "distributed teams",
+                "collaboration ecosystem",
+                "channel messaging",
+                "software publishers",
+                "cloud-based communication",
+                "productivity enhancement",
+                "workplace communication",
+                "workflow automation",
+                "app integrations",
+                "digital communication platform",
+                "information technology and services",
+                "real-time messaging",
+                "enterprise software",
+                "services",
+                "non-profit",
+                "information technology & services",
+                "computer software",
+                "productivity",
+                "crm",
+                "sales",
+                "enterprises",
+                "nonprofit organization management"
+            ],
+            "ai_value": "AI work platform, productivity tools, collaboration software, Slackbot, CRM integration, workflow automation, enterprise search, Slack Connect"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "ai",
+                    "name": "AI",
+                    "category": "Other"
+                },
+                {
+                    "uid": "aws_analytics",
+                    "name": "AWS Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "aws_cloud",
+                    "name": "AWS Cloud",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_cloud",
+                    "name": "AWS Cloud",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_cloudformation",
+                    "name": "AWS CloudFormation",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_sdk_for_javascript",
+                    "name": "AWS SDK for JavaScript",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "aws_trusted_advisor",
+                    "name": "AWS Trusted Advisor",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "airflow",
+                    "name": "Airflow",
+                    "category": "Other"
+                },
+                {
+                    "uid": "akamai_cdn_solutions",
+                    "name": "Akamai CDN Solutions",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "amazon_aws",
+                    "name": "Amazon AWS",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "amazon_cloudfront",
+                    "name": "Amazon CloudFront",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "amazon_ec2",
+                    "name": "Amazon EC2",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "amazon_elastic_mapreduce_emr",
+                    "name": "Amazon Elastic MapReduce (EMR)",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "amazon_linux_2",
+                    "name": "Amazon Linux 2",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "amazon_route_53",
+                    "name": "Amazon Route 53",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "amazon_ses",
+                    "name": "Amazon SES",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "android",
+                    "name": "Android",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "ansible",
+                    "name": "Ansible",
+                    "category": "Other"
+                },
+                {
+                    "uid": "apache",
+                    "name": "Apache",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "apache_flink",
+                    "name": "Apache Flink",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "apache_http_server",
+                    "name": "Apache HTTP Server",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "apache_lucene",
+                    "name": "Apache Lucene",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "apache_pinot",
+                    "name": "Apache Pinot",
+                    "category": "Database"
+                },
+                {
+                    "uid": "apache_solr",
+                    "name": "Apache Solr",
+                    "category": "Search Appliances"
+                },
+                {
+                    "uid": "apache_spark",
+                    "name": "Apache Spark",
+                    "category": "Database"
+                },
+                {
+                    "uid": "apple_business_manager",
+                    "name": "Apple Business Manager",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "apple_school_manager",
+                    "name": "Apple School Manager",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "apple_macos",
+                    "name": "Apple macOS",
+                    "category": "Other"
+                },
+                {
+                    "uid": "astra",
+                    "name": "Astra",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "azure_linux_virtual_machines",
+                    "name": "Azure Linux Virtual Machines",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "bazel",
+                    "name": "Bazel",
+                    "category": "Deployment Tools"
+                },
+                {
+                    "uid": "bootstrapcdn",
+                    "name": "Bootstrapcdn",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "buildkite",
+                    "name": "Buildkite",
+                    "category": "Deployment Tools"
+                },
+                {
+                    "uid": "css",
+                    "name": "CSS",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "canvas_lms",
+                    "name": "Canvas LMS",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "catylist_sitelink",
+                    "name": "Catylist SiteLink",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "clearbit",
+                    "name": "Clearbit",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "clearbit_reveal",
+                    "name": "Clearbit Reveal",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "elasticsearch",
+                    "name": "Elasticsearch",
+                    "category": "Search Appliances"
+                },
+                {
+                    "uid": "electron",
+                    "name": "Electron",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "element_ui",
+                    "name": "Element UI",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "envoy",
+                    "name": "Envoy",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "figma",
+                    "name": "Figma",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "frame",
+                    "name": "Frame",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "github",
+                    "name": "GitHub",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "github_actions",
+                    "name": "GitHub Actions",
+                    "category": "Deployment Tools"
+                },
+                {
+                    "uid": "github_enterprise",
+                    "name": "GitHub Enterprise",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "gmail",
+                    "name": "Gmail",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "google",
+                    "name": "Google",
+                    "category": "Other"
+                },
+                {
+                    "uid": "google_calendar",
+                    "name": "Google Calendar",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "google_drive",
+                    "name": "Google Drive",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_meet",
+                    "name": "Google Meet",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "google_search_central",
+                    "name": "Google Search Central",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_search_console",
+                    "name": "Google Search Console",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_tag_manager",
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "google workspace",
+                    "name": "Google Workspace",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google workspace",
+                    "name": "Google Workspace",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "grafana",
+                    "name": "Grafana",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "href_lang",
+                    "name": "HREF Lang",
+                    "category": "Other"
+                },
+                {
+                    "uid": "hsts",
+                    "name": "HSTS",
+                    "category": "Security"
+                },
+                {
+                    "uid": "html_pro",
+                    "name": "HTML Pro",
+                    "category": "Web Presentation Tools"
+                },
+                {
+                    "uid": "http/3",
+                    "name": "HTTP/3",
+                    "category": "Other"
+                },
+                {
+                    "uid": "hackerrank_developer_skills_platform",
+                    "name": "HackerRank Developer Skills Platform",
+                    "category": "Online Testing Platforms"
+                },
+                {
+                    "uid": "harmony_email_collaboration",
+                    "name": "Harmony Email & Collaboration",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "hashicorp_packer",
+                    "name": "Hashicorp Packer",
+                    "category": "Deployment Tools"
+                },
+                {
+                    "uid": "hive",
+                    "name": "Hive",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "istio",
+                    "name": "Istio",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "jwt",
+                    "name": "JWT",
+                    "category": "Security"
+                },
+                {
+                    "uid": "java",
+                    "name": "Java",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "javascript",
+                    "name": "Javascript",
+                    "category": "Other"
+                },
+                {
+                    "uid": "jira",
+                    "name": "Jira",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "kiosked",
+                    "name": "Kiosked",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "kubernetes",
+                    "name": "Kubernetes",
+                    "category": "Other"
+                },
+                {
+                    "uid": "liferay",
+                    "name": "Liferay",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "linkerd",
+                    "name": "Linkerd",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_distributed_file_system_dfs",
+                    "name": "Microsoft Distributed File System (DFS)",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "microsoft_windows_server_2012",
+                    "name": "Microsoft Windows Server 2012",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mulesoft",
+                    "name": "Mulesoft",
+                    "category": "Other"
+                },
+                {
+                    "uid": "multilingual",
+                    "name": "Multilingual",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "mysql",
+                    "name": "MySQL",
+                    "category": "Database"
+                },
+                {
+                    "uid": "ns1",
+                    "name": "NS1",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "ns1",
+                    "name": "NS1",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "ns1",
+                    "name": "NS1",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "ning",
+                    "name": "Ning",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "node.js",
+                    "name": "Node.js",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "objectivec",
+                    "name": "Objective-C",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "onetrust",
+                    "name": "OneTrust",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "onsen_ui",
+                    "name": "Onsen UI",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "open_graph",
+                    "name": "Open Graph",
+                    "category": "Other"
+                },
+                {
+                    "uid": "optimizely",
+                    "name": "Optimizely",
+                    "category": "Online Testing Platforms"
+                },
+                {
+                    "uid": "php",
+                    "name": "PHP",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "progress_chef",
+                    "name": "Progress Chef",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "prometheus",
+                    "name": "Prometheus",
+                    "category": "Database"
+                },
+                {
+                    "uid": "proofpoint",
+                    "name": "Proofpoint",
+                    "category": "Security"
+                },
+                {
+                    "uid": "proofpoint",
+                    "name": "Proofpoint",
+                    "category": "Security"
+                },
+                {
+                    "uid": "python",
+                    "name": "Python",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "react",
+                    "name": "React",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "redis",
+                    "name": "Redis",
+                    "category": "Database"
+                },
+                {
+                    "uid": "redux",
+                    "name": "Redux",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "remote",
+                    "name": "Remote",
+                    "category": "Other"
+                },
+                {
+                    "uid": "swift",
+                    "name": "SWIFT",
+                    "category": "Financial Software"
+                },
+                {
+                    "uid": "salesforce",
+                    "name": "Salesforce",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "salesforce_marketing_cloud_account_engagement",
+                    "name": "Salesforce Marketing Cloud Account Engagement",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "salesforce_platform",
+                    "name": "Salesforce Platform",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "salesforce_sales_cloud",
+                    "name": "Salesforce Sales Cloud",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "secured_mvc_forum_on_windows_2012_r2",
+                    "name": "Secured MVC Forum on Windows 2012 R2",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "semrush",
+                    "name": "Semrush",
+                    "category": "Other"
+                },
+                {
+                    "uid": "slack",
+                    "name": "Slack",
+                    "category": "Chats"
+                },
+                {
+                    "uid": "snowflake",
+                    "name": "Snowflake",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "star",
+                    "name": "Star",
+                    "category": "Other"
+                },
+                {
+                    "uid": "swiper",
+                    "name": "Swiper",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "temporal_cloud",
+                    "name": "Temporal Cloud",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "terraform",
+                    "name": "Terraform",
+                    "category": "Deployment Tools"
+                },
+                {
+                    "uid": "trailhead",
+                    "name": "Trailhead",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "viewport_meta",
+                    "name": "Viewport Meta",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "vitess",
+                    "name": "Vitess",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "webrtc",
+                    "name": "WebRTC",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "webflow",
+                    "name": "Webflow",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "youtube",
+                    "name": "YouTube",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "zendesk",
+                    "name": "Zendesk",
+                    "category": "Support and Feedback"
+                },
+                {
+                    "uid": "zendesk_support_suite",
+                    "name": "Zendesk Support Suite",
+                    "category": "Support and Feedback"
+                },
+                {
+                    "uid": "zendesk_for_service",
+                    "name": "Zendesk for Service",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "zoomdata",
+                    "name": "Zoomdata",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "go",
+                    "name": "go+",
+                    "category": "Frameworks and Programming Languages"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "Salesforce Pardot",
+                    "category": "Marketing Automation",
+                    "confidence": 0.99,
+                    "source": "pi.pardot.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.59,
+                        "evidence_density": 1.31
+                    }
+                },
+                {
+                    "name": "OneTrust",
+                    "category": "Consent Management",
+                    "confidence": 0.99,
+                    "source": "cdn.cookielaw.org / optanon-classes",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.8,
+                        "evidence_density": 0.23
+                    }
+                },
+                {
+                    "name": "Demandbase",
+                    "category": "ABM / Advertising",
+                    "confidence": 0.99,
+                    "source": "tag.demandbase.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.28,
+                        "evidence_density": 0.56
+                    }
+                },
+                {
+                    "name": "Contentsquare",
+                    "category": "UX Analytics",
+                    "confidence": 0.99,
+                    "source": "t.contentsquare.net",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.18,
+                        "evidence_density": 0.68
+                    }
+                },
+                {
+                    "name": "Clearbit",
+                    "category": "IP Intelligence",
+                    "confidence": 0.99,
+                    "source": "reveal.clearbit.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.4,
+                        "evidence_density": 0.42
+                    }
+                },
+                {
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management",
+                    "confidence": 0.99,
+                    "source": "www.googletagmanager.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.23,
+                        "evidence_density": 0.75
+                    }
+                },
+                {
+                    "name": "Apache",
+                    "category": "Web Server",
+                    "confidence": 0.99,
+                    "source": "server: Apache (HTTP Header)",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.64,
+                        "evidence_density": 0.21
+                    }
+                },
+                {
+                    "name": "Envoy",
+                    "category": "Proxy",
+                    "confidence": 0.99,
+                    "source": "envoy-edge (HTTP Via Header)",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.69,
+                        "evidence_density": 0.18
+                    }
+                },
+                {
+                    "name": "Claude (Anthropic)",
+                    "category": "AI Agents",
+                    "confidence": 0.95,
+                    "source": "Get fast answers with Claude",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.69,
+                        "evidence_density": 0.64
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [
+                {
+                    "id": "5cb1146ba341870ba991a038",
+                    "name": "Woven",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "645f64ea2e82f30001977dca",
+                    "name": "فضاءات لتقنية المعلومات وحلول الأعمال",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6a52b57000992d0001568e1d",
+                    "name": "Screenhero",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5a9ed25aa6da98d938bd06a0",
+                    "name": "Astro Technology (acquired by Slack)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5d339e1080f93eedcfb8217b",
+                    "name": "Rimeto (acquired by Slack)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "60b1fe6bf7f48b000181c78c",
+                    "name": "Missions",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "678c59e07920340001d90dc4",
+                    "name": "Woven Elegant",
+                    "domain": "Non renseigné"
+                }
+            ],
+            "ai_value": []
+        },
+        "funding_events": {
+            "database_value": [
+                {
+                    "id": "6965fc4bf8c3e8000102c927",
+                    "date": "2020-12-01T00:00:00.000+00:00",
+                    "type": "Merger / Acquisition",
+                    "amount": "28B",
+                    "currency": "$",
+                    "investors": "Salesforce"
+                },
+                {
+                    "id": "6825964a7ba2ba000162dbd9",
+                    "date": "2019-06-01T00:00:00.000+00:00",
+                    "type": "Other",
+                    "amount": "4.6B",
+                    "currency": "$",
+                    "investors": "Non renseigné"
+                },
+                {
+                    "id": "6825964b7ba2ba000162dbdb",
+                    "date": "2018-08-01T00:00:00.000+00:00",
+                    "type": "Series H",
+                    "amount": "427M",
+                    "currency": "$",
+                    "investors": "General Atlantic, Inside Capital, Dragoneer Investment Group"
+                },
+                {
+                    "id": "6825964b7ba2ba000162dbdd",
+                    "date": "2017-09-01T00:00:00.000+00:00",
+                    "type": "Series G",
+                    "amount": "250M",
+                    "currency": "$",
+                    "investors": "Global Founders Capital, Vision Fund"
+                },
+                {
+                    "id": "6825964b7ba2ba000162dbdf",
+                    "date": "2016-04-01T00:00:00.000+00:00",
+                    "type": "Series F",
+                    "amount": "200M",
+                    "currency": "$",
+                    "investors": "IVP, Notable Capital, Thrive Capital, Accel, Comcast Ventures, Index Ventures, Social Capital"
+                },
+                {
+                    "id": "6825964c7ba2ba000162dbe1",
+                    "date": "2015-04-01T00:00:00.000+00:00",
+                    "type": "Series E",
+                    "amount": "160M",
+                    "currency": "$",
+                    "investors": "IVP, Slow Ventures, Horizons Ventures, Kleiner Perkins, Accel, Index Ventures, Social Capital, Spark Capital, DST Global, Andreessen Horowitz, Financière Agache"
+                },
+                {
+                    "id": "6965fc4bf8c3e8000102c919",
+                    "date": "2014-10-01T00:00:00.000+00:00",
+                    "type": "Series D",
+                    "amount": "120M",
+                    "currency": "$",
+                    "investors": "Slow Ventures, Kleiner Perkins, Accel, GV, Social Capital, Andreessen Horowitz"
+                },
+                {
+                    "id": "6965fc4bf8c3e8000102c916",
+                    "date": "2014-04-01T00:00:00.000+00:00",
+                    "type": "Series C",
+                    "amount": "42.8M",
+                    "currency": "$",
+                    "investors": "Biz Stone, Patrick Collison, Bradley Horowitz, Jeremy Stoppelman, Jeff Weiner, Accel, Rob Solomon, John Collison, Social Capital, Anthony Casalena, Andreessen Horowitz"
+                },
+                {
+                    "id": "6965fc4bf8c3e8000102c911",
+                    "date": "2013-04-01T00:00:00.000+00:00",
+                    "type": "Venture (Round not Specified)",
+                    "amount": "Non renseigné",
+                    "currency": "$",
+                    "investors": "FundersClub"
+                },
+                {
+                    "id": "6965fc4bf8c3e8000102c90c",
+                    "date": "2011-04-01T00:00:00.000+00:00",
+                    "type": "Series B",
+                    "amount": "10.7M",
+                    "currency": "Non renseigné",
+                    "investors": "Accel, Andreessen Horowitz"
+                },
+                {
+                    "id": "6965fc4af8c3e8000102c908",
+                    "date": "2010-04-01T00:00:00.000+00:00",
+                    "type": "Series A",
+                    "amount": "5M",
+                    "currency": "$",
+                    "investors": "Accel, Andreessen Horowitz"
+                },
+                {
+                    "id": "6965fc4af8c3e8000102c904",
+                    "date": "2010-03-01T00:00:00.000+00:00",
+                    "type": "Seed",
+                    "amount": "Non renseigné",
+                    "currency": "$",
+                    "investors": "SV Angel"
+                },
+                {
+                    "id": "6965fc4af8c3e8000102c8ff",
+                    "date": "2009-01-01T00:00:00.000+00:00",
+                    "type": "Seed",
+                    "amount": "1.5M",
+                    "currency": "$",
+                    "investors": "Bradley Horowitz, Jeff Weiner, Accel, Marc Andreessen, Andreessen Horowitz"
+                }
+            ],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Microsoft Teams",
+                "Google Chat",
+                "Zoom",
+                "Mattermost",
+                "Discord"
+            ]
+        }
+    }
+}

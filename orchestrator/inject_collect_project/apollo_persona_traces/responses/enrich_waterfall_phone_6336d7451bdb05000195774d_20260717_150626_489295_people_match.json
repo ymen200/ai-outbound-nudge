@@ -1,0 +1,119 @@
+{
+  "person": {
+    "id": "6336d7451bdb05000195774d",
+    "first_name": "Derek",
+    "last_name": "Campbell",
+    "name": "Derek Campbell",
+    "linkedin_url": "http://www.linkedin.com/in/derek-campbell",
+    "title": "Commercial Sales Account Executive",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Business Solutions Representative, Canada Post - Connecting Businesses to People",
+    "organization_id": "5592342c7369640b18106100",
+    "employment_history": [
+      {
+        "_id": "6a4603bcaae1900001acff0d",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5592342c7369640b18106100",
+        "organization_name": "Canada Post",
+        "raw_address": null,
+        "start_date": "2006-03-01",
+        "title": "Commercial Sales Account Executive",
+        "updated_at": null,
+        "id": "6a4603bcaae1900001acff0d",
+        "key": "6a4603bcaae1900001acff0d"
+      },
+      {
+        "_id": "6a4603bcaae1900001acff0e",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2006-01-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": null,
+        "organization_name": "LaserNetworks",
+        "raw_address": null,
+        "start_date": "2001-01-01",
+        "title": "Sales - Account Manager",
+        "updated_at": null,
+        "id": "6a4603bcaae1900001acff0e",
+        "key": "6a4603bcaae1900001acff0e"
+      },
+      {
+        "_id": "6a4603bcaae1900001acff0f",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2001-01-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": null,
+        "organization_name": "Definiti Laser",
+        "raw_address": null,
+        "start_date": "1996-01-01",
+        "title": "Account Manager",
+        "updated_at": null,
+        "id": "6a4603bcaae1900001acff0f",
+        "key": "6a4603bcaae1900001acff0f"
+      }
+    ],
+    "street_address": "",
+    "city": "Lindsay",
+    "state": "Ontario",
+    "country": "Canada",
+    "postal_code": null,
+    "formatted_address": "Lindsay, ON, Canada",
+    "time_zone": "America/New_York",
+    "email": "derek.campbell@canadapost.ca",
+    "email_status": "verified",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "inside_sales",
+      "sales"
+    ],
+    "seniority": "entry",
+    "functions": [
+      "sales"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": true,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": [
+      "derek.campbell@canadapost.ca"
+    ]
+  },
+  "waterfall": {
+    "status": "accepted",
+    "message": "Waterfall enrichment request accepted. Results will be sent to the provided webhook URL."
+  },
+  "request_id": -6342177163980470919
+}

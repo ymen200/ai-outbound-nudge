@@ -1,0 +1,18 @@
+{
+  "lead_id": "test-invalid-001",
+  "campaign_id": "campaign_invalid",
+  "entreprise": "",
+  "contact_info": {
+    "full_name": "",
+    "job_title": "",
+    "email": ""
+  },
+  "contexte_web": {
+    "profil_brut": "",
+    "offer_context": "",
+    "icp_description": ""
+  },
+  "use_native_language": false,
+  "approval_mode": "per_sequence",
+  "debug_mode": true
+}

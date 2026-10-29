@@ -1,0 +1,162 @@
+{
+    "target_domain": "vermeg.com",
+    "job_country_filter": "Tunisia",
+    "news_filter": "Global",
+    "organization_id": "6182fffb7bcc9300f6b4b60b",
+    "extracted_jobs": [
+        {
+            "id": "69e1bdd8b90adc000179a094",
+            "title": "Senior Cloud / DevOps Engineer (AWS)",
+            "url": "https://www.vermeg.com/job/senior-cloud-devops-engineer-aws",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-06-02T03:33:39.000+00:00",
+            "posted_at": "2026-04-16T16:10:48.000+00:00"
+        }
+    ],
+    "extracted_news": [
+        {
+            "id": "69ee93b1145c0d001599ad6d",
+            "url": "https://www.vermeg.com/news/vermeg-wins-central-bankings-technology-services-award-2026",
+            "domain": "vermeg.com",
+            "title": "Vermeg wins Central Banking's Technology Services Award 2026.",
+            "snippet": "The award announcement was published by Central Banking as part of its official 2026 Awards coverage, highlighting Vermeg's contribution to this critical market infrastructure transformation:",
+            "organization_ids": [
+                "6182fffb7bcc9300f6b4b60b"
+            ],
+            "published_at": "2026-04-14T00:00:00.000+00:00",
+            "event_categories": [
+                "attends_event"
+            ]
+        },
+        {
+            "id": "69ee93ac4ed10b00110c4cc7",
+            "url": "https://www.vermeg.com/news/vermeg-wins-central-bankings-technology-services-award-2026",
+            "domain": "vermeg.com",
+            "title": "Vermeg wins Central Banking's Technology Services Award 2026.",
+            "snippet": "Vermeg Ltd is proud to announce that Vermeg has been named winner of the Central Banking Technology Services Award 2026, marking a second consecutive recognition in this prestigious category.",
+            "organization_ids": [
+                "6182fffb7bcc9300f6b4b60b"
+            ],
+            "published_at": "2026-04-14T00:00:00.000+00:00",
+            "event_categories": [
+                "receives_award"
+            ]
+        },
+        {
+            "id": "69dcc21f1bf4530019ddb871",
+            "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A/4658095/-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A--%D9%8A%D8%B7%D9%88%D8%B1-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D9%8A%D8%AF%D8%A7%D8%B9-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%B4%D8%B1%D9%83%D8%A9--%D9%81%D9%8A%D8%B1%D9%85%D9%8A%D8%BA",
+            "domain": "aletihad.ae",
+            "title": "The Central Bank develops the deposit system in cooperation with the company 'Vermeg'.",
+            "snippet": "The Central Bank of the United Arab Emirates announced the appointment of 'Vermeg', the global provider of technological solutions for capital market infrastructure, collateral management, and asset services, as a key technical partner to develop the technological system supporting the 'Central Securities Depository (CSD)' for public debt and sukuk.",
+            "organization_ids": [
+                "6182fffb7bcc9300f6b4b60b"
+            ],
+            "published_at": "2026-04-13T06:50:00.000+00:00",
+            "event_categories": [
+                "is_developing"
+            ]
+        },
+        {
+            "id": "69ddf3e776144e0019571b03",
+            "url": "https://gulfnews.com/business/banking/uae-central-bank-picks-vermeg-for-debt-and-sukuk-market-platform-1.500505212",
+            "domain": "gulfnews.com",
+            "title": "UAE Central Bank picks Vermeg for debt and Sukuk market platform.",
+            "snippet": "UAE Central Bank picks Vermeg for debt and Sukuk market platform.",
+            "organization_ids": [
+                "6182fffb7bcc9300f6b4b60b",
+                "54a1ba037468694f8fe3bd0b"
+            ],
+            "published_at": "2026-04-13T00:00:00.000+00:00",
+            "event_categories": [
+                "signs_new_client"
+            ]
+        },
+        {
+            "id": "69e55508126e9500158acbe5",
+            "url": "https://www.vermeg.com/news/cbuae-develops-central-securities-depository-solution-in-partnership-with-vermeg-to-strengthen-capital-market-infrastructure",
+            "domain": "vermeg.com",
+            "title": "CBUAE develops Central Securities Depository solution in partnership with Vermeg to strengthen capital market infrastructure.",
+            "snippet": "CBUAE develops Central Securities Depository solution in partnership with Vermeg to strengthen capital market infrastructure.",
+            "organization_ids": [
+                "6182fffb7bcc9300f6b4b60b"
+            ],
+            "published_at": "2026-04-08T00:00:00.000+00:00",
+            "event_categories": [
+                "is_developing"
+            ]
+        },
+        {
+            "id": "68730e69d5c00800150663a9",
+            "url": "https://www.vermeg.com/news/vermeg-receives-its-trophy-at-the-central-banking-summer-meetings-ceremony-2025",
+            "domain": "vermeg.com",
+            "title": "Vermeg receives its trophy at the Central Banking Summer Meetings Ceremony 2025",
+            "snippet": "Vermeg receives its trophy at the Central Banking Summer Meetings ceremony 2025.",
+            "organization_ids": [
+                "6182fffb7bcc9300f6b4b60b"
+            ],
+            "published_at": "2025-07-01T00:00:00.000+00:00",
+            "event_categories": [
+                "attends_event"
+            ]
+        },
+        {
+            "id": "6808e80cc132d4001910290b",
+            "url": "https://www.presseportal.de/en/pm/133036/6017908",
+            "domain": "presseportal.de",
+            "title": "Vermeg Appoints Tarak ACHICH as CEO to Accelerate Growth and Innovation",
+            "snippet": "Vermeg, a global leader in financial software solutions, is pleased to announce the appointment of Tarak ACHICH as its new Chief Executive Officer, effective April 2, 2025.",
+            "organization_ids": [
+                "6182fffb7bcc9300f6b4b60b"
+            ],
+            "published_at": "2025-04-23T00:00:00.000+00:00",
+            "event_categories": [
+                "hires"
+            ]
+        },
+        {
+            "id": "66d91b3ed8160105805aa98a",
+            "url": "https://www.assetservicingtimes.com/assetservicesnews/peoplemovesarticle.php?article_id=15847",
+            "domain": "assetservicingtimes.com",
+            "title": "VERMEG hires Salim",
+            "snippet": "VERMEG has appointed Khalid Salim as a sales executive for the UK and South Africa regions.",
+            "organization_ids": [
+                "6182fffb7bcc9300f6b4b60b"
+            ],
+            "published_at": "2024-09-04T00:00:00.000+00:00",
+            "event_categories": [
+                "hires"
+            ]
+        },
+        {
+            "id": "6647bdce7a78140587b7e67a",
+            "url": "https://www.deutsche-boerse-cash-market.com/dbcm-en/newsroom/press-releases/Eurex-joins-Clearstream-VERMEG-partnership-to-expand-use-of-collateral-of-its-leading-pan-European-cash-driven-liquidity-pool--3962814",
+            "domain": "deutsche-boerse-cash-market.com",
+            "title": "Eurex joins Clearstream & VERMEG partnership to expand use of collateral of its leading pan-European cash-driven liquidity pool",
+            "snippet": "- Eurex joins partnership with software provider VERMEG to offer clients a unique collateral management solution connecting the Eurosystem Collateral Management System (ECMS), Clearstream's Triparty services and Eurex's GC Pooling.",
+            "organization_ids": [
+                "54a1351669702d3e833a7800",
+                "6182fffb7bcc9300f6b4b60b"
+            ],
+            "published_at": "2024-05-15T00:00:00.000+00:00",
+            "event_categories": [
+                "partners_with"
+            ]
+        },
+        {
+            "id": "65c9a7a90e97940441399ff9",
+            "url": "https://aceborrow.com/blog/govender-jumps-on-board-with-vermeg/",
+            "domain": "aceborrow.com",
+            "title": "Govender jumps on board with VERMEG.",
+            "snippet": "- VERMEG for Banking and Insurance Software has appointed Joshua Govender as business development lead for Africa.",
+            "organization_ids": [
+                "6182fffb7bcc9300f6b4b60b"
+            ],
+            "published_at": "2024-01-15T18:12:45.000+00:00",
+            "event_categories": [
+                "hires"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+  "member_id": "ACoAAAAH2KwBaDC4-YXJWTYOB_R5Tt2bpmC_cKA",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:6613750416289083393",
+        "share_url": "https://www.linkedin.com/posts/dariocappellani_oracle-cx-transformation-activity-6613750416800792576-3VmJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "6yr",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 10,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Da Lead Sconosciuti a Clienti Soddisfatti\n#oracle #cx #transformation #finance #banking \nBlanca Galletero Livio Emanuel Mancini Carlo Torselli Marco Ferraris simona menghini Alberto FORTI",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAVwvHMBAyodK5ZY7seQviK03DB1SHFdidY",
+            "length": 16,
+            "start": 89
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAAKCikBwx-7yTwGxTzl19CeVS5Nyt15Xhc",
+            "length": 21,
+            "start": 106
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAAI3AQBO743lhOECFlIRzRH09RIysQSDCM",
+            "length": 14,
+            "start": 128
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAASYRYB3DIaksbRj5xB276HLwzSuOyq2d8",
+            "length": 14,
+            "start": 143
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAAGI8MBjWnVkxzcNGPKaTWKqaQcAJ2J5NM",
+            "length": 15,
+            "start": 158
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAASQDUBeZfaCMMvNN-I9J82RCuS50z2i9s",
+            "length": 13,
+            "start": 174
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "dariocappellani",
+          "id": "ACoAAAAH2KwBaDC4-YXJWTYOB_R5Tt2bpmC_cKA",
+          "name": "Dario Cappellani",
+          "is_company": false,
+          "headline": "Senior Information Technology Consultant",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQEs5lKyKtBBeg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1689600787855?e=1785369600&v=beta&t=HZPr6sZSWH-T2JISp9EW0zSBENnneYNboEycnQtMZok"
+        },
+        "id": "6613750416800792576",
+        "is_repost": false,
+        "parsed_datetime": "2019-12-20T11:22:56.906Z",
+        "article": {
+          "id": "6613749084241051648",
+          "title": "Da Lead Sconosciuti a Clienti Soddisfatti",
+          "author": "Dario Cappellani",
+          "url": "https://www.linkedin.com/pulse/da-lead-sconosciuti-clienti-soddisfatti-dario-cappellani-1f?trackingId=k8JY74x3Rj2rbqiWfERPHg%3D%3D",
+          "published_at": "2019-12-20T11:17:39.199Z",
+          "picture_url": "https://media.licdn.com/dms/image/v2/C4D12AQEQ_3lvRN3TUg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1576840696140?e=1785369600&v=beta&t=3RIfjbww0SrI1lPmoQi7Mij-eaylmEvflkF-XaM1T-k"
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAAH2KwBaDC4-YXJWTYOB_R5Tt2bpmC_cKA"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 1,
+      "total_count": 1
+    },
+    "cursor": null
+  }
+}

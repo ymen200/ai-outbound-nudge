@@ -1,0 +1,297 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 26,
+    "total_pages": 2
+  },
+  "news_articles": [
+    {
+      "id": "67d0e3f47b7f37001d36306f",
+      "url": "https://financialit.net/news/payments/zeta-unveils-ai-capabilities-card-issuers-within-tachyon",
+      "domain": "financialit.net",
+      "title": "Zeta Unveils AI Capabilities for Card Issuers Within Tachyon",
+      "snippet": "Zeta, a next-gen banking tech company, today unveiled powerful new AI features within Tachyon, its next-gen card processing and core banking platform.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2025-03-11T16:10:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "67c104717db8920019702a25",
+      "url": "https://hrtechwire.com/news/zeta-launches-selene-gen-ai-customer-support-agent-for-banks-and-fintechs",
+      "domain": "hrtechwire.com",
+      "title": "Zeta Launches Selene: Gen AI Customer Support Agent for Banks and Fintechs",
+      "snippet": "Zeta launches Selene: gen AI customer support agent for banks and fintechs.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2025-02-25T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "67aad14a2ce997000d642502",
+      "url": "https://www.vccircle.com/softbankbacked-zeta-s-valuation-hits-2-bn-in-new-funding-round",
+      "domain": "vccircle.com",
+      "title": "SoftBank-backed Zeta's valuation hits $2 bn in new funding round",
+      "snippet": "Zeta, a banking technology unicorn that counts SoftBank and Mastercard as its investors, said Tuesday it has secured $50 million in investment from US-based healthcare company Optum.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2025-02-11T13:29:33.000+00:00",
+      "event_categories": [
+        "receives_financing"
+      ]
+    },
+    {
+      "id": "67ab2c757a58d80015ae58b6",
+      "url": "https://inc42.com/buzz/zetas-valuation-jumps-to-2-bn-after-funding-from-optum",
+      "domain": "inc42.com",
+      "title": "Zeta's Valuation Jumps To $2 Bn After Funding From Optum",
+      "snippet": "Bengaluru-based banking tech unicorn Zeta has secured $50 Mn (INR 434.3 Cr) in a fresh funding round from Optum at a valuation of $2 Bn.",
+      "organization_ids": [
+        "672f3d900af9f60001d2646f",
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2025-02-11T05:49:16.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "6744b0f6275c2901b0e5b36d",
+      "url": "https://www.zeta.tech/us/resources/newsroom/zeta-appoints-fis-veteran-karla-booe-as-chief-compliance-officer",
+      "domain": "zeta.tech",
+      "title": "Zeta Expands Leadership Team with Appointment of FIS Veteran Karla Booe as Chief Compliance Officer",
+      "snippet": "San Francisco, CA- July 12, 2022: Zeta, a banking-tech company and provider of next-gen credit card processing, today announced the appointment of Karla Booe as Chief Compliance Officer.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2024-10-22T12:57:29.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "66cf88ad8f15d501b3f52dae",
+      "url": "https://finovate.com/hdfc-bank-turns-to-zeta-to-power-its-credit-line-on-upi-offerings",
+      "domain": "finovate.com",
+      "title": "HDFC Bank Turns to Zeta to Power its Credit Line on UPI Offerings",
+      "snippet": "Next-generation banking technology company Zeta has partnered with India's HDFC Bank to power its Credit Line on UPI (CLOU) solutions.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2024-08-27T19:59:51.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "663e3bf781d04001c70ecbfc",
+      "url": "https://www.equitypandit.com/zeta-launches-stack-for-upi-linked-credit",
+      "domain": "equitypandit.com",
+      "title": "Zeta Launches Stack for UPI-Linked Credit",
+      "snippet": "The Bengaluru-based company Zeta has launched a stack to run credit lines on the Unified Payments Interface (UPI) digital payments platform.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2024-05-10T10:37:33.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6550390e38d8da008b227a61",
+      "url": "https://au.investing.com/news/stock-market-news/zeta-turns-profitable-in-fy23-plans-north-american-expansion-93CH-3035410",
+      "domain": "investing.com",
+      "title": "Zeta turns profitable in FY23, plans North American expansion",
+      "snippet": "Founded in 2015 by Bhavin Turakhia and Ramiki Gaddipati, Zeta became a unicorn in May 2021 following a $250 million funding round led by SoftBank (TYO: 9984 ).",
+      "organization_ids": [
+        "61b0fdf78e7522000148d943",
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2023-11-10T00:00:00.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "644b8650b6694b00a3d252d6",
+      "url": "https://equalocean.com/news/2023042719684",
+      "domain": "equalocean.com",
+      "title": "Semiconductor Digitization Service Provider Zeta Tech Nets nearly 100 Mn in Series A+ | EqualOcean",
+      "snippet": "Zeta Tech (Chinese: ), a Shanghai-based homegrown pan-semiconductor industrial software company founded in 2017, announced that it has completed a Series A+ funding round of nearly RMB 100 million.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2023-04-26T21:18:11.000+00:00",
+      "event_categories": [
+        "receives_financing"
+      ]
+    },
+    {
+      "id": "63ea87613d660400a3c68686",
+      "url": "https://www.law.com/delbizcourt/2023/02/13/marketing-firm-alleges-company-provided-it-with-useless-analytics/?slreturn=20230113135118",
+      "domain": "law.com",
+      "title": "Marketing Firm Alleges Company Provided It With Useless Analytics | Delaware Business Court Insider",
+      "snippet": "Marketing firm Zeta Global filed a breach-of-contract lawsuit against PreciseTarget on Friday in Delaware Court of Chancery.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa",
+        "5a9f6d22a6da98d9852f126f"
+      ],
+      "published_at": "2023-02-13T16:05:44.000+00:00",
+      "event_categories": [
+        "files_suit_against"
+      ]
+    },
+    {
+      "id": "63ea8761b9b96e00a33fa52f",
+      "url": "https://www.law.com/delbizcourt/2023/02/13/marketing-firm-alleges-company-provided-it-with-useless-analytics/?slreturn=20230113135118",
+      "domain": "law.com",
+      "title": "Marketing Firm Alleges Company Provided It With Useless Analytics | Delaware Business Court Insider",
+      "snippet": "Marketing firm Zeta Global filed a breach-of-contract lawsuit against PreciseTarget on Friday in Delaware Court of Chancery.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa",
+        "5a9f6d22a6da98d9852f126f"
+      ],
+      "published_at": "2023-02-13T16:05:44.000+00:00",
+      "event_categories": [
+        "files_suit_against"
+      ]
+    },
+    {
+      "id": "63e6a89839422300a37f29a9",
+      "url": "https://www.galvnews.com/news_ap/business/zeta-introduces-chatbotzeta-beta-test/article_5fd0eac9-33b2-51b8-8dbc-9849ba65f0d4.html",
+      "domain": "galvnews.com",
+      "title": "Zeta Introduces 'ChatBotZeta' Beta Test | Business | The Daily News",
+      "snippet": "Zeta Global (NYSE: ZETA), the Data-Powered Marketing Cloud, today introduced the beta launch of ChatBotZeta, a product that reads and synthesizes trillions of consumer signals from Zeta’s proprietary Data Cloud with generative artificial intelligence (AI) to produce conversational attributes and descriptions of individuals.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2023-02-09T17:32:03.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "63d1ff036ddf2c00a39462db",
+      "url": "https://zetaglobal.com/blog/zeta-recognized-on-built-ins-2023-best-places-to-work-list/",
+      "domain": "zetaglobal.com",
+      "title": "Zeta Recognized on Built In’s “2023 Best Places to Work” List ",
+      "snippet": "Zeta is thrilled to be recognized on Built In’s “2023 Best Places to Work” list for both New York City and Los Angeles!",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2023-01-19T14:54:49.000+00:00",
+      "event_categories": [
+        "recognized_as"
+      ]
+    },
+    {
+      "id": "639708bcea3e72010d3a0563",
+      "url": "https://finance.yahoo.com/news/zeta-marketing-platform-sets-record-210500956.html",
+      "domain": "yahoo.com",
+      "title": "Zeta Marketing Platform Sets Record With 67% YoY Usage Growth of Omnichannel Digital Marketing Served for Black Friday through Cyber Monday",
+      "snippet": "Zeta Global (NYSE: ZETA), a cloud-based marketing technology company that empowers marketers to acquire, grow, and retain customers more efficiently, today announced record-setting results for its Zeta Marketing Platform (ZMP).",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2022-11-30T21:05:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "62329c45f7948100dc4c884a",
+      "url": "https://finovate.com/card-processor-zeta-secures-30-million-in-new-funding/",
+      "domain": "finovate.com",
+      "title": "Card Processor Zeta Secures $30 Million in New Funding",
+      "snippet": "Zeta, which won Best of Show in its Finovate debut at FinovateWest Digital 2020, has announced a five-year global partnership with Mastercard.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2022-03-07T19:42:41.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    },
+    {
+      "id": "6232986658e95f00c47b2228",
+      "url": "https://economictimes.indiatimes.com/tech/startups/zeta-raises-another-30-million-from-mastercard-others/articleshow/90057279.cms",
+      "domain": "indiatimes.com",
+      "title": "mastercard: Zeta raises another $30 million from Mastercard, others",
+      "snippet": "Bengaluru: Banking tech platform Zeta has raised $30 million as a part of strategic investment from Mastercard and other investors, taking the company’s valuation to $1.5 billion.",
+      "organization_ids": [
+        "61bc5b7725854100f8e486d0",
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2022-03-07T14:33:32.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "6232986b035ce700e12982f9",
+      "url": "https://economictimes.indiatimes.com/tech/startups/zeta-raises-another-30-million-from-mastercard-others/articleshow/90057279.cms",
+      "domain": "indiatimes.com",
+      "title": "mastercard: Zeta raises another $30 million from Mastercard, others",
+      "snippet": "Bengaluru: Banking tech platform Zeta has raised $30 million as a part of strategic investment from Mastercard and other investors, taking the company’s valuation to $1.5 billion.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2022-03-07T14:33:32.000+00:00",
+      "event_categories": [
+        "receives_financing"
+      ]
+    },
+    {
+      "id": "623299878ef75400c487bb83",
+      "url": "https://www.businesswire.com/news/home/20220304005146/en/Zeta-and-Mastercard-Partner-to-Power-Next-gen-Credit-Processing-for-Banks-and-Fintechs",
+      "domain": "businesswire.com",
+      "title": "Zeta and Mastercard Partner to Power Next-gen Credit Processing for Banks and Fintechs | Business Wire",
+      "snippet": "“As people shop and bank online more than ever before, Mastercard is partnering with Zeta to provide issuing banks and fintech innovators with modern credit card processing capabilities at scale that will maximize the safety, security and convenience of e-commerce, online banking, and contactless transactions.",
+      "organization_ids": [
+        "59bba885a6da985afbe18052",
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2022-03-07T12:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6239e67be3461a00a5e86f25",
+      "url": "https://www.bnnbloomberg.ca/fintech-startup-zeta-raises-30-million-teams-with-mastercard-1.1733557",
+      "domain": "bnnbloomberg.ca",
+      "title": "Fintech Startup Zeta Raises $30 Million, Teams With Mastercard",
+      "snippet": "Zeta Services Inc., a banking and credit card technology unicorn, has raised $30 million from investors including Mastercard Inc., and the two announced a five-year collaboration to help customers launch credit card services.",
+      "organization_ids": [
+        "59bba885a6da985afbe18052",
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2022-03-07T11:41:31.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "6141686470e9790001a03f97",
+      "url": "https://www.financemagnates.com/fintech/news/banking-technology-company-zeta-secures-250-million-funding-from-softbank/",
+      "domain": "financemagnates.com",
+      "title": "Banking Technology Company Zeta Secures $250 Million Funding from SoftBank | Finance Magnates",
+      "snippet": "Zeta, a banking technology startup, announced yesterday that the company has raised $250 million from SoftBank Vision Fund 2.",
+      "organization_ids": [
+        "5e56062ee58fab0001a00caa"
+      ],
+      "published_at": "2021-05-25T12:15:00.000+00:00",
+      "event_categories": [
+        "receives_financing"
+      ]
+    }
+  ]
+}

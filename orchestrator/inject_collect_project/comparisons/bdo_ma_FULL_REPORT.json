@@ -1,0 +1,527 @@
+{
+    "domain": "bdo.ma",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "BDO Morocco",
+            "ai_value": "BDO au Maroc"
+        },
+        "domain": {
+            "database_value": "bdo.ma",
+            "ai_value": "bdo.ma"
+        },
+        "industry": {
+            "database_value": "management consulting",
+            "ai_value": "Audit, Conseil, Expertise Comptable, Fiscalité et Juridique"
+        },
+        "founded_year": {
+            "database_value": 1979,
+            "ai_value": null
+        },
+        "short_description": {
+            "database_value": "BDO Morocco is a member firm of BDO International, one of the largest global networks of audit and consulting firms. Established in 1979, it operates with a team of approximately 164 professionals and generates around $27 million in revenue, primarily serving the financial services sector. The firm is headquartered in Casablanca and has additional offices in Rabat and Casa Business Towers.\n\nBDO Morocco offers a wide range of professional services, including audit and assurance, accounting expertise and outsourcing, general consulting, tax and legal advisory, and corporate finance services. The firm is known for its multidisciplinary team, which includes accountants, auditors, lawyers, and tax experts, all dedicated to providing high-value services to businesses of various sizes. Leadership is provided by President Zakaria Fahim and General Director Mostafa Fraiha.",
+            "ai_value": "BDO au Maroc est la branche marocaine de l'organisation mondiale BDO International, offrant des services professionnels d'audit, d'assurance, de conseil, d'expertise-comptable, et de conseil fiscal et juridique aux entreprises."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "BDO au Maroc : Audit, Conseil, Expertise-comptable, Fiscal & Juridique. Actualités, publications et services professionnels pour la croissance des entreprises au Maroc."
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": 11000000000
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "estimated_num_employees": {
+            "database_value": 200,
+            "ai_value": "94900"
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/bdo-maroc",
+            "ai_value": "https://fr.linkedin.com/company/bdo-maroc"
+        },
+        "twitter_url": {
+            "database_value": "https://twitter.com/BDOMorocco1",
+            "ai_value": "https://twitter.com/BDOMorocco1"
+        },
+        "facebook_url": {
+            "database_value": "https://www.facebook.com/bdoMorocco",
+            "ai_value": "https://www.facebook.com/bdoMorocco"
+        },
+        "phone": {
+            "database_value": "+212 522-466970",
+            "ai_value": null
+        },
+        "raw_address": {
+            "database_value": "119, Bd Abdelmoumen: Audit et Conseil, 432 rue mustapha el maani: Expertise comptable, Casablanca, MA",
+            "ai_value": "119 Boulevard Abdelmoumen, Casablanca, Morocco"
+        },
+        "city": {
+            "database_value": "Casablanca",
+            "ai_value": "Casablanca"
+        },
+        "country": {
+            "database_value": "Morocco",
+            "ai_value": "Morocco"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": null
+        },
+        "keywords": {
+            "database_value": [
+                "audit",
+                "expertise comptable amp externalisation",
+                "conseil",
+                "corporate finance",
+                "acquisitionscessions d39entreprise",
+                "acquisitionscessions dentreprise",
+                "expertise comptable externalisation",
+                "fiscal juridique",
+                "audit assurance",
+                "fiscal amp juridique",
+                "expertise comptable",
+                "evaluation",
+                "transmission des entreprises",
+                "audit amp assurance",
+                "business consulting & services",
+                "morocco financial services",
+                "family business advisory",
+                "financial advisory tools",
+                "b2b",
+                "business growth support",
+                "outsourcing",
+                "local and international expertise",
+                "professional advisory",
+                "business growth strategies",
+                "audit and assurance",
+                "multisector expertise",
+                "business process optimization",
+                "due diligence",
+                "internal controls",
+                "corporate restructuring",
+                "transport",
+                "services",
+                "financial restructuring",
+                "service quality focus",
+                "client support services",
+                "sustainability",
+                "family business structuring",
+                "financial analysis",
+                "financial consulting",
+                "expertise",
+                "moroccan market",
+                "organizational restructuring",
+                "digital transformation in finance",
+                "tax optimization strategies",
+                "tax planning",
+                "multidisciplinary team",
+                "legal services",
+                "technology consulting",
+                "financial compliance tools",
+                "due diligence for acquisitions",
+                "real estate",
+                "financial technology",
+                "business performance diagnostics",
+                "consulting",
+                "financial strategy",
+                "cross-border transaction support",
+                "compliance monitoring",
+                "financial data security",
+                "professional training",
+                "accounting",
+                "operational efficiency",
+                "client relationships",
+                "compliance",
+                "technology integration",
+                "tax and legal services",
+                "digital transformation",
+                "international standards compliance",
+                "risk management",
+                "organizational change management",
+                "financial transparency",
+                "legal consulting",
+                "hospitality",
+                "financial reporting",
+                "tourism",
+                "financial data analysis",
+                "audit quality assurance",
+                "project management",
+                "inter-company transactions review",
+                "regulatory compliance",
+                "financial risk management",
+                "business consulting",
+                "mergers and acquisitions diagnostics",
+                "client-centric approach",
+                "audit methodology",
+                "risk assessment",
+                "regulatory reporting",
+                "tax compliance",
+                "business valuation services",
+                "legal risk assessment",
+                "financial due diligence",
+                "regulatory compliance services",
+                "management consulting",
+                "mergers and acquisitions",
+                "financial analysis tools",
+                "industry-specific solutions",
+                "corporate finance advisory",
+                "audit software",
+                "internal audit",
+                "accounting services",
+                "business valuation",
+                "client advisory services",
+                "business restructuring",
+                "legal",
+                "tax",
+                "external audit",
+                "tax advisory",
+                "financial health assessment",
+                "financial services",
+                "accounting, tax preparation, bookkeeping, and payroll services",
+                "accounting outsourcing",
+                "mergers and acquisitions support",
+                "international standards",
+                "professional services",
+                "corporate restructuring support",
+                "international network",
+                "legal compliance in mergers",
+                "financial reporting standards",
+                "corporate governance",
+                "financial advisory",
+                "client relationship management",
+                "financial diagnostics",
+                "team of experts",
+                "government",
+                "audit for family businesses",
+                "business performance improvement",
+                "assurance",
+                "tax services",
+                "fintech solutions",
+                "blockchain technology",
+                "artificial intelligence",
+                "big data",
+                "sustainable finance",
+                "esg compliance",
+                "international tax planning",
+                "cross-border entities",
+                "training and development",
+                "family business consulting",
+                "real estate strategies",
+                "tourism consulting",
+                "transport solutions",
+                "industry consulting",
+                "public sector services",
+                "market insights",
+                "fraud auditing",
+                "cash management",
+                "cash flow optimization",
+                "wealth management",
+                "investment strategies",
+                "business continuity planning",
+                "cybersecurity auditing",
+                "process improvement",
+                "market research",
+                "data analytics",
+                "financial modeling",
+                "finance",
+                "advice",
+                "environmental services",
+                "renewables & environment",
+                "finance technology",
+                "information technology & services",
+                "leisure, travel & tourism",
+                "productivity",
+                "mergers & acquisitions",
+                "professional training & coaching",
+                "auditing",
+                "outsourcing/offshoring",
+                "enterprise software",
+                "enterprises",
+                "computer software",
+                "training & development",
+                "investment management"
+            ],
+            "ai_value": "Audit, Assurance, Conseil, Expertise-comptable, Fiscalité, Juridique, Digital, Cybersécurité, Transformation Digitale, Acquisition, Fusion, ESG, Innovation, Finance, Immobilier, Industrie, Secteur public, Services, Technologie, Tourisme, Transport, Commerce, Entreprises familiales, Maroc, Afrique"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "ai",
+                    "name": "AI",
+                    "category": "Other"
+                },
+                {
+                    "uid": "asp_net",
+                    "name": "ASP.NET",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "azure_front_door",
+                    "name": "Azure Front Door",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "csc",
+                    "name": "CSC",
+                    "category": "Other"
+                },
+                {
+                    "uid": "csc_corporate_domains",
+                    "name": "CSC Corporate Domains",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "google_search_console",
+                    "name": "Google Search Console",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_tag_manager",
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_365_apps_services",
+                    "name": "Microsoft 365 Apps & Services",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft",
+                    "name": "Microsoft Azure Hosting",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "microsoft_email_providers",
+                    "name": "Microsoft Email Providers",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "microsoft_exchange",
+                    "name": "Microsoft Exchange",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_exchange_online",
+                    "name": "Microsoft Exchange Online",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "office_365",
+                    "name": "Microsoft Office 365",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "office365",
+                    "name": "Office365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "outlook",
+                    "name": "Outlook",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "typekit",
+                    "name": "Typekit",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "recaptcha",
+                    "name": "reCAPTCHA",
+                    "category": "Captcha"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "ASP.NET",
+                    "category": "Web Framework",
+                    "confidence": 0.99,
+                    "source": "x-powered-by: ASP.NET",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.49,
+                        "evidence_density": 0.33
+                    }
+                },
+                {
+                    "name": "Cookiebot",
+                    "category": "Consent Management",
+                    "confidence": 0.99,
+                    "source": "consent.cookiebot.com, consentcdn.cookiebot.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.67,
+                        "evidence_density": 0.19
+                    }
+                },
+                {
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management",
+                    "confidence": 0.99,
+                    "source": "www.googletagmanager.com, MATCHES REGEX CLASSIQUES",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.52,
+                        "evidence_density": 0.36
+                    }
+                },
+                {
+                    "name": "Google Ads",
+                    "category": "Advertising",
+                    "confidence": 0.99,
+                    "source": "googleads.g.doubleclick.net",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.5,
+                        "evidence_density": 0.37
+                    }
+                },
+                {
+                    "name": "Tidio Chat",
+                    "category": "Live Chat",
+                    "confidence": 0.99,
+                    "source": "code.tidio.co",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.47,
+                        "evidence_density": 0.77
+                    }
+                },
+                {
+                    "name": "Google Analytics",
+                    "category": "Analytics",
+                    "confidence": 0.99,
+                    "source": "MATCHES REGEX CLASSIQUES",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.79,
+                        "evidence_density": 0.67
+                    }
+                },
+                {
+                    "name": "React",
+                    "category": "JavaScript Library",
+                    "confidence": 0.99,
+                    "source": "MATCHES REGEX CLASSIQUES",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.78,
+                        "evidence_density": 0.21
+                    }
+                },
+                {
+                    "name": "Microsoft Azure AI",
+                    "category": "Cloud AI Platform",
+                    "confidence": 0.99,
+                    "source": "intégration de technologies avancées basées sur l’intelligence artificielle, notamment : Microsoft Azure AI",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.7,
+                        "evidence_density": 0.17
+                    }
+                },
+                {
+                    "name": "Microsoft Copilot",
+                    "category": "AI Assistant",
+                    "confidence": 0.99,
+                    "source": "Microsoft Azure AI et Copilot",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.25,
+                        "evidence_density": 0.59
+                    }
+                },
+                {
+                    "name": "Microsoft Fabric",
+                    "category": "Data Analytics Platform",
+                    "confidence": 0.99,
+                    "source": "Microsoft Fabric et Foundry IQ",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.29,
+                        "evidence_density": 0.53
+                    }
+                },
+                {
+                    "name": "Foundry IQ",
+                    "category": "Data Analytics Platform",
+                    "confidence": 0.99,
+                    "source": "Microsoft Fabric et Foundry IQ",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.49,
+                        "evidence_density": 0.33
+                    }
+                },
+                {
+                    "name": "Microsoft Security Copilot",
+                    "category": "Security AI",
+                    "confidence": 0.99,
+                    "source": "Microsoft Security Copilot, Agent 365 et Foundry Control Plane",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.4,
+                        "evidence_density": 0.42
+                    }
+                },
+                {
+                    "name": "Agent 365",
+                    "category": "Security Tool",
+                    "confidence": 0.99,
+                    "source": "Microsoft Security Copilot, Agent 365 et Foundry Control Plane",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.74,
+                        "evidence_density": 0.15
+                    }
+                },
+                {
+                    "name": "Foundry Control Plane",
+                    "category": "Security / Control Tool",
+                    "confidence": 0.99,
+                    "source": "Microsoft Security Copilot, Agent 365 et Foundry Control Plane",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.48,
+                        "evidence_density": 0.34
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "funding_events": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Deloitte Maroc",
+                "PwC Maroc",
+                "KPMG Maroc",
+                "EY Maroc",
+                "Mazars Maroc"
+            ]
+        }
+    }
+}

@@ -1,0 +1,440 @@
+{
+    "domain": "iccwbo.uk",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "ICC United Kingdom",
+            "ai_value": "ICC United Kingdom"
+        },
+        "domain": {
+            "database_value": "iccwbo.uk",
+            "ai_value": "iccwbo.uk"
+        },
+        "industry": {
+            "database_value": "international trade & development",
+            "ai_value": "International Business Organization / Trade Association"
+        },
+        "founded_year": {
+            "database_value": 1919,
+            "ai_value": null
+        },
+        "short_description": {
+            "database_value": "The International Chamber of Commerce (ICC), the world's largest #business organisation with over 6 million members in 130+ countries - http://bit.ly/ProgrammeofAction",
+            "ai_value": "Representative voice for ICC in the UK, shaping international policy, standards and rules."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Trade for people, planet and prosperity. One voice 45 million companies"
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "estimated_num_employees": {
+            "database_value": 52,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/international-chamber-of-commerce-uk",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "Non renseigné",
+            "ai_value": "https://twitter.com/iccwboUK"
+        },
+        "facebook_url": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "phone": {
+            "database_value": "+44 20 7838 9363",
+            "ai_value": null
+        },
+        "raw_address": {
+            "database_value": "First Floor, 1-3 Staple Inn, London, WC1V 7QH, GB",
+            "ai_value": "1 Staple Inn, London, United Kingdom"
+        },
+        "city": {
+            "database_value": "London",
+            "ai_value": "London"
+        },
+        "country": {
+            "database_value": "United Kingdom",
+            "ai_value": "United Kingdom"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": "2"
+        },
+        "keywords": {
+            "database_value": [
+                "conferences events",
+                "public affairs",
+                "arbitration",
+                "government relations",
+                "international trade",
+                "publications",
+                "conferences amp events",
+                "trade digital efforts",
+                "trade sustainability initiatives",
+                "trade sustainability",
+                "trade policy consultation",
+                "icc trade policy advocacy",
+                "trade facilitation",
+                "government",
+                "international trade advocacy",
+                "icc trade market access",
+                "trade enforcement",
+                "trade policy reform",
+                "trade market access",
+                "trade governance support",
+                "icc un observer status",
+                "icc trade networks expansion",
+                "trade standards enforcement",
+                "trade policy development",
+                "international trade and development",
+                "sustainability",
+                "trade dispute resolution",
+                "trade risk management",
+                "trade standards",
+                "trade finance standards",
+                "trade associations",
+                "trade collaboration platforms",
+                "trade finance",
+                "icc trade facilitation tools",
+                "trade policy shaping",
+                "trade policy and advocacy",
+                "trade ecosystem support",
+                "dispute resolution services",
+                "icc b2b cluster",
+                "policy advocacy",
+                "icc trade negotiation support",
+                "trade rules",
+                "icc trade industry support",
+                "digital trade",
+                "dispute resolution",
+                "icc trade policy shaping",
+                "services",
+                "trade development",
+                "icc trade dispute management",
+                "trade networks",
+                "icc trade enforcement",
+                "icc trade digitalization",
+                "supply chain management",
+                "icc trade innovation",
+                "trade industry support",
+                "trade policy implementation",
+                "b2b",
+                "trade regulation development",
+                "icc trade risk management",
+                "icc trade policy development",
+                "trade policy",
+                "trade legal frameworks",
+                "trade policy advocacy",
+                "trade innovation",
+                "compliance",
+                "trade organizations",
+                "trade legal framework",
+                "trade negotiation support",
+                "trade policy coordination",
+                "icc trade legal frameworks",
+                "trade compliance",
+                "icc incoterms 2020",
+                "trade dispute settlement",
+                "trade negotiations",
+                "trade regulation support",
+                "global trade standards",
+                "icc trade ecosystem development",
+                "management consulting services",
+                "trade standards development",
+                "trade ecosystem",
+                "icc trade sustainability initiatives",
+                "trade sustainability policies",
+                "trade industry development",
+                "icc trade digital efforts",
+                "trade market access facilitation",
+                "trade dispute arbitration",
+                "trade governance",
+                "standards development",
+                "icc trade & investment",
+                "consulting",
+                "trade policy support",
+                "trade policy influence",
+                "e-commerce",
+                "trade digitalization",
+                "icc trade policy consultation",
+                "icc incoterms",
+                "icc",
+                "icc trade governance support",
+                "trade advocacy",
+                "icc trade compliance standards",
+                "icc dispute resolution mechanisms",
+                "innovation",
+                "trade policy strategy",
+                "trade regulation compliance",
+                "icc digital standards initiative",
+                "icc digital trade ecosystems",
+                "trade regulation",
+                "icc digital trade standards",
+                "icc arbitration & adr",
+                "icc trade standards development",
+                "trade regulations",
+                "legal services",
+                "trade compliance support",
+                "trade enforcement mechanisms",
+                "trade arbitration",
+                "trade digitalization efforts",
+                "icc trade collaboration platforms",
+                "trade collaboration",
+                "supply chain",
+                "international commerce",
+                "trade innovation initiatives",
+                "trade agreements",
+                "trade dispute management",
+                "icc global trade rules",
+                "trade networks expansion",
+                "global standards",
+                "icc incoterms rules",
+                "trade compliance standards",
+                "trade digital standards",
+                "icc sustainability & climate action",
+                "trade facilitation tools",
+                "icc digital trade roadmap",
+                "icc trade standards",
+                "global business",
+                "incoterms",
+                "climate action",
+                "membership benefits",
+                "business networking",
+                "economic development",
+                "business advocacy",
+                "b2b connections",
+                "training programs",
+                "events and seminars",
+                "ceo advisory",
+                "global partnerships",
+                "un engagement",
+                "g20 influence",
+                "wto relations",
+                "intergovernmental organization",
+                "commercial law",
+                "global supply chains",
+                "import/export expertise",
+                "legal reform",
+                "membership engagement",
+                "innovative business solutions",
+                "knowledge sharing",
+                "best practices",
+                "policy influence",
+                "cross-border transactions",
+                "multilateral cooperation",
+                "capacity building",
+                "business education",
+                "stakeholder engagement",
+                "finance solutions",
+                "economic integration",
+                "trade ecosystems",
+                "business leadership",
+                "local chambers of commerce",
+                "finance",
+                "legal",
+                "distribution",
+                "transportation & logistics",
+                "non-profit",
+                "international trade & development",
+                "environmental services",
+                "renewables & environment",
+                "conflict resolution",
+                "logistics & supply chain",
+                "consumer internet",
+                "consumers",
+                "internet",
+                "information technology & services",
+                "financial services",
+                "nonprofit organization management"
+            ],
+            "ai_value": "Digital trade, international policy, global business, trade standards, arbitration, ADR, banking commission, Commonwealth Connectivity Agenda"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "apache",
+                    "name": "Apache",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "godaddy_domains",
+                    "name": "GoDaddy Domains",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "google_font_api",
+                    "name": "Google Font API",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "google_tag_manager",
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_365_apps_services",
+                    "name": "Microsoft 365 Apps & Services",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_exchange",
+                    "name": "Microsoft Exchange",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_exchange_online",
+                    "name": "Microsoft Exchange Online",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "office_365",
+                    "name": "Microsoft Office 365",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "office365",
+                    "name": "Office365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "outlook",
+                    "name": "Outlook",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "remote",
+                    "name": "Remote",
+                    "category": "Other"
+                },
+                {
+                    "uid": "typekit",
+                    "name": "Typekit",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "wordpress_org",
+                    "name": "WordPress.org",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "recaptcha",
+                    "name": "reCAPTCHA",
+                    "category": "Captcha"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "Apache",
+                    "category": "Web Server",
+                    "confidence": 1.0,
+                    "source": "server: Apache",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.4,
+                        "evidence_density": 0.43
+                    }
+                },
+                {
+                    "name": "WordPress",
+                    "category": "CMS",
+                    "confidence": 0.95,
+                    "source": "wp-* CSS prefixes and WordPress regex match",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.6,
+                        "evidence_density": 0.21
+                    }
+                },
+                {
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management",
+                    "confidence": 1.0,
+                    "source": "www.googletagmanager.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.24,
+                        "evidence_density": 0.75
+                    }
+                },
+                {
+                    "name": "Google Analytics",
+                    "category": "Analytics",
+                    "confidence": 0.9,
+                    "source": "Regex match in technical footprint",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.7,
+                        "evidence_density": 0.47
+                    }
+                },
+                {
+                    "name": "Slick",
+                    "category": "JavaScript Library",
+                    "confidence": 0.9,
+                    "source": "slick-* CSS prefix",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.47,
+                        "evidence_density": 0.28
+                    }
+                },
+                {
+                    "name": "Font Awesome",
+                    "category": "Icon Toolkit",
+                    "confidence": 0.9,
+                    "source": "fa-* CSS prefix",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.68,
+                        "evidence_density": 0.8
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [],
+            "ai_value": [
+                "B2B Cluster for the Commonwealth Connectivity Agenda",
+                "Corporate Counsel Group"
+            ]
+        },
+        "funding_events": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Confederation of British Industry (CBI)",
+                "British Chambers of Commerce (BCC)",
+                "London Chamber of Commerce and Industry (LCCI)",
+                "The CityUK",
+                "Institute of Directors (IoD)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+# Strategic Qualifier MCP server package

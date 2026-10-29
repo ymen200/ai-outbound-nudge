@@ -1,0 +1,8 @@
+"venv/" | Out-File -FilePath .gitignore -Encoding utf8
+"__pycache__/" | Add-Content -Path .gitignore
+".env" | Add-Content -Path .gitignore
+"*.exe" | Add-Content -Path .gitignore
+"*.bin" | Add-Content -Path .gitignore
+.env     
+venv/   
+__pycache__/   

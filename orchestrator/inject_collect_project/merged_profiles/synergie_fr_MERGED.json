@@ -1,0 +1,464 @@
+{
+    "alexa_ranking": 302813,
+    "annual_revenue": 3318184000.0,
+    "apollo_id": "656f6407d476a600d01c7d21",
+    "city": "Boulogne Billancourt",
+    "country": "France",
+    "departments": {
+        "engineering": 18,
+        "information_technology": 25,
+        "finance": 9,
+        "consulting": 172,
+        "administrative": 37,
+        "arts_and_design": 6,
+        "marketing": 8,
+        "human_resources": 83,
+        "education": 3,
+        "sales": 10,
+        "legal": 5,
+        "support": 68,
+        "media_and_commmunication": 5,
+        "business_development": 3,
+        "accounting": 17,
+        "data_science": 6,
+        "product_management": 3,
+        "entrepreneurship": 1,
+        "operations": 4
+    },
+    "domain": "www.synergie.fr",
+    "estimated_num_employees": "1500",
+    "facebook_url": "https://www.facebook.com/SynergieGroupe/?locale=fr_FR",
+    "founded_year": 1969,
+    "funding_events": [],
+    "industry": "Ressources humaines, Travail temporaire, Recrutement, Portage salarial, Formation, Conseil RH",
+    "keywords": [
+        "travail temporaire",
+        "emploi",
+        "securite",
+        "diversite",
+        "interim",
+        "conseil rh",
+        "recrutement cdicdd",
+        "rh",
+        "recrutement",
+        "formation",
+        "human resources services",
+        "testing",
+        "talent acquisition",
+        "temporary help services",
+        "staffing solutions",
+        "employee benefits",
+        "operational efficiency",
+        "hr software",
+        "hr outsourcing",
+        "electronics manufacturing",
+        "talent management",
+        "staffing",
+        "employee welfare programs",
+        "assembly",
+        "hr process automation",
+        "b2b",
+        "hr analytics",
+        "recruitment services",
+        "hr digital platforms",
+        "supply chain management",
+        "hr data security",
+        "career transition support",
+        "human resources management",
+        "hr risk management",
+        "hr in logistics",
+        "employee support",
+        "logistics",
+        "hr in australia",
+        "diversity and inclusion",
+        "hr outsourcing services",
+        "recruitment",
+        "hr management",
+        "digital platforms",
+        "career development",
+        "digital transformation",
+        "human resources and staffing",
+        "outplacement services",
+        "workforce solutions",
+        "hr solutions",
+        "international hr services",
+        "hr for smes",
+        "hr compliance tools",
+        "hr innovation",
+        "hr compliance",
+        "hr in canada",
+        "outplacement",
+        "social support in hr",
+        "human resources",
+        "hr in manufacturing",
+        "hr in europe",
+        "employment agency",
+        "social services",
+        "international hr",
+        "workforce management",
+        "hr in health sector",
+        "hr for large enterprises",
+        "manufacturing",
+        "temporary staffing solutions",
+        "regulatory compliance",
+        "services",
+        "business services",
+        "agency",
+        "hr technology",
+        "recruitment and talent acquisition",
+        "workforce flexibility",
+        "hr performance metrics",
+        "employment solutions",
+        "supply chain",
+        "hr training programs",
+        "hr strategy",
+        "hr consulting firms",
+        "temporary work",
+        "hr consulting companies",
+        "hr consulting",
+        "healthcare",
+        "employment offers",
+        "interim jobs",
+        "cdi recruitment",
+        "cdd recruitment",
+        "job placement",
+        "recruitment agency",
+        "additional services",
+        "public sector",
+        "rse optimization",
+        "job advice",
+        "career coaching",
+        "diversity",
+        "disability employment",
+        "senior employment",
+        "youth employment",
+        "automation in recruitment",
+        "contract types",
+        "job search tips",
+        "career support",
+        "professional training",
+        "temporary employment solutions",
+        "cdi contracts",
+        "cdd contracts",
+        "job postings",
+        "employment for handicapped persons",
+        "partnership",
+        "employee training",
+        "workplace safety",
+        "local employment agencies",
+        "job market analytics",
+        "contract management",
+        "onboarding support",
+        "employment integration",
+        "remote work recruitment",
+        "skills development",
+        "workforce planning",
+        "occupational safety",
+        "distribution",
+        "staffing & recruiting",
+        "logistics & supply chain",
+        "mechanical or industrial engineering",
+        "management consulting",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "professional training & coaching",
+        "intérim",
+        "CDI",
+        "CDD",
+        "ressources humaines",
+        "BTP",
+        "aéronautique",
+        "logistique",
+        "industrie",
+        "santé",
+        "transport",
+        "hôtellerie-restauration"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "https://fr.linkedin.com/company/synergie",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ace02667f61f0001544467/picture",
+    "name": "Synergie",
+    "num_suborganizations": 6,
+    "phone": "01.55.60.30.30",
+    "raw_address": "160 bis, rue de Paris 92100 Boulogne Billancourt",
+    "seo_description": "Offres d'emploi en intérim, CDI, CDD - Agence d'Intérim | Synergie. Spécialisé en recrutement et services RH en France et à l'international.",
+    "short_description": "Expert international en recrutement et développement de talents, proposant des offres d'emploi en intérim, CDI, CDD et un écosystème de services RH.",
+    "state": "Ile-de-France",
+    "suborganizations": [
+        {
+            "id": "5d353186a3ae61a0c8968ca8",
+            "name": "Synergie Australia",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "641828784bfa7900012293ca",
+            "name": "Synergie HRed",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "54a1291a69702d93131a7601",
+            "name": "Agilus Work Solutions",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "54a1bab77468695475a0b60b",
+            "name": "Synergie Poland",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Synergie Care",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Synergie Executive",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "S&you",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Synergie Insertion",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "DCS",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "HRed",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "ac500_plc",
+            "name": "AC500 PLC",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "apache",
+            "name": "Apache",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "brocade_switches",
+            "name": "Brocade Switches",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "cloudflare_hosting",
+            "name": "CloudFlare Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "drupal",
+            "name": "Drupal",
+            "category": "CMS"
+        },
+        {
+            "uid": "exact",
+            "name": "Exact",
+            "category": "ERP"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "facebook_web_custom_audiences",
+            "name": "Facebook Custom Audiences",
+            "category": "Retargeting"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_widget",
+            "name": "Facebook Widget",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "icp",
+            "name": "ICP",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_azure_monitor",
+            "name": "Microsoft Azure Monitor",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "mimecast",
+            "name": "Mimecast",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "new_relic",
+            "name": "New Relic",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "oracle_analytics_cloud",
+            "name": "Oracle Analytics Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "reach",
+            "name": "REACH",
+            "category": "Other"
+        },
+        {
+            "uid": "rackspace_mailgun",
+            "name": "Rackspace MailGun",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "syspro",
+            "name": "SYSPRO",
+            "category": "ERP"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "sendinblue",
+            "name": "SendInBlue",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "siemens_simatic_s7",
+            "name": "Siemens SIMATIC S7",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "spiceworks_ip_scanner",
+            "name": "Spiceworks IP Scanner",
+            "category": "Security"
+        },
+        {
+            "uid": "switch_concepts",
+            "name": "Switch Concepts",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "wider_planet",
+            "name": "Wider Planet",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "next.js",
+            "name": "Next.js",
+            "category": "Framework Web"
+        },
+        {
+            "uid": "axeptio",
+            "name": "Axeptio",
+            "category": "Consentement Cookies"
+        },
+        {
+            "uid": "signalfx",
+            "name": "SignalFx",
+            "category": "Monitoring / Observabilité"
+        },
+        {
+            "uid": "firebase",
+            "name": "Firebase",
+            "category": "Backend as a Service (BaaS) / Mobile development"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/@synergie",
+    "website_url": "http://www.synergie.fr",
+    "is_subsidiary": false,
+    "competitors": [
+        "Adecco France",
+        "Manpower France",
+        "Randstad France",
+        "Crit France",
+        "PageGroup"
+    ],
+    "data_quality_score": 0.95
+}

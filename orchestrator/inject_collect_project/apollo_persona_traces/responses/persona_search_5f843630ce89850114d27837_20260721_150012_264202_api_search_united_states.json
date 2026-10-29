@@ -1,0 +1,28 @@
+{
+  "total_entries": 312,
+  "people": [
+    {
+      "id": "66dfbf29da5ad30001d99675",
+      "first_name": "Ryan",
+      "last_name_obfuscated": "Az***d",
+      "title": "BDR (Mendix - BFSI+)",
+      "last_refreshed_at": "2026-07-14T00:31:26.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Siemens Digital Industries Software",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

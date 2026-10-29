@@ -1,0 +1,38 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Dorsaf Bejaoui Kammoun‏",
+        "clean_name_used": "Dorsaf Bejaoui Kammoun",
+        "linkedin_url": "https://tn.linkedin.com/in/dbejaoui",
+        "company": "Sofrecom",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Ali Cherif",
+        "clean_name_used": "Ali Cherif",
+        "linkedin_url": "https://tn.linkedin.com/in/aliycherif/fr",
+        "company": "Sofrecom",
+        "email": "ali.cherif@sofrecom.com",
+        "title": "Senior Integration Engineer",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Ben Hammouda Manel",
+        "clean_name_used": "Ben Hammouda Manel",
+        "linkedin_url": "https://tn.linkedin.com/in/manel-ben-hammouda-5b52051b/en",
+        "company": "Sofrecom",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

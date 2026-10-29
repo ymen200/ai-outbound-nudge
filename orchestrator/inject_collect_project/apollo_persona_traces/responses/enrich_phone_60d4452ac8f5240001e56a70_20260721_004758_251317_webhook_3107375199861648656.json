@@ -1,0 +1,21 @@
+{
+  "request_id": 3107375199861648656,
+  "webhook_status": "success",
+  "request_type": "phone",
+  "last_dispatched_at": "2026-07-20T23:47:49Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "unique_enriched_records": 0,
+    "missing_records": 0,
+    "credits_consumed": 0,
+    "people": [
+      {
+        "id": "60d4452ac8f5240001e56a70",
+        "status": "failure",
+        "phone_numbers": []
+      }
+    ]
+  }
+}

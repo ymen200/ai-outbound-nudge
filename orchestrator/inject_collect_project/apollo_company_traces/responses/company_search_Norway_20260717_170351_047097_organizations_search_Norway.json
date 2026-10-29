@@ -1,0 +1,215 @@
+{
+  "breadcrumbs": [
+    {
+      "label": "Company Name",
+      "signal_field_name": "q_organization_name",
+      "value": "Norway",
+      "display_name": "Norway"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "1-10",
+      "display_name": "≥ 1-10"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "11-50",
+      "display_name": "≥ 11-50"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "51-200",
+      "display_name": "≥ 51-200"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "201-500",
+      "display_name": "≥ 201-500"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "501-1000",
+      "display_name": "≥ 501-1000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "1001-5000",
+      "display_name": "≥ 1001-5000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "5001-10000",
+      "display_name": "≥ 5001-10000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "10001+",
+      "display_name": "≥ 10001+"
+    },
+    {
+      "label": "Company Locations",
+      "signal_field_name": "organization_locations",
+      "value": "Norway",
+      "display_name": "Norway"
+    },
+    {
+      "label": "Company Keywords Contain ANY Of",
+      "signal_field_name": "q_organization_keyword_tags",
+      "value": "Software",
+      "display_name": "Software"
+    }
+  ],
+  "partial_results_only": false,
+  "has_join": false,
+  "disable_eu_prospecting": false,
+  "partial_results_limit": 10000,
+  "pagination": {
+    "page": 1,
+    "per_page": 10,
+    "total_entries": 1,
+    "total_pages": 1
+  },
+  "num_fetch_result": null,
+  "model_ids": [
+    "54a1ba6f74686945fa77a40b"
+  ],
+  "organizations": [
+    {
+      "id": "54a1ba6f74686945fa77a40b",
+      "name": "Central Norway Regional Health Authority",
+      "website_url": "http://www.helse-midt.no",
+      "angellist_url": null,
+      "linkedin_url": "http://www.linkedin.com/company/helse-midtnorge-rhf",
+      "twitter_url": null,
+      "facebook_url": null,
+      "primary_phone": {
+        "number": "+47 74 83 99 00",
+        "source": "Scraped",
+        "sanitized_number": "+4774839900"
+      },
+      "languages": [],
+      "alexa_ranking": 370425,
+      "phone": "+47 74 83 99 00",
+      "linkedin_uid": "549740",
+      "founded_year": 2001,
+      "publicly_traded_symbol": null,
+      "publicly_traded_exchange": null,
+      "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/670c39bd03690100011d025d/picture",
+      "crunchbase_url": null,
+      "primary_domain": "helse-midt.no",
+      "sic_codes": [
+        "8011"
+      ],
+      "naics_codes": [
+        "62111",
+        "92312",
+        "541715"
+      ],
+      "sanitized_phone": "+4774839900",
+      "industry": "hospital & health care",
+      "estimated_num_employees": 23000,
+      "keywords": [
+        "hospitals & health care",
+        "regional health data management",
+        "healthcare funding",
+        "healthcare workforce",
+        "health informatics",
+        "healthcare data security",
+        "healthcare service innovation",
+        "digital health solutions",
+        "public-private healthcare partnerships",
+        "healthcare service planning",
+        "hospital & health care management",
+        "ehealth",
+        "healthcare technology",
+        "healthcare digitalization",
+        "healthcare infrastructure",
+        "specialist health services",
+        "healthcare workforce training",
+        "b2b",
+        "digital health",
+        "government",
+        "healthcare services",
+        "health services development",
+        "health care services",
+        "medical research",
+        "healthcare policy",
+        "healthcare innovation",
+        "healthcare innovation projects",
+        "helseplattformen",
+        "clinical academic groups",
+        "regional health it integration",
+        "healthcare regulation",
+        "services",
+        "healthcare planning",
+        "private healthcare contracts",
+        "healthcare logistics",
+        "offices of physicians",
+        "digital patient records",
+        "medical research & education",
+        "recruitment and research",
+        "healthcare quality improvement",
+        "healthcare it",
+        "hospital administration",
+        "healthcare collaboration",
+        "healthcare research collaboration",
+        "patient rights",
+        "patient safety",
+        "hospital management",
+        "healthcare management",
+        "patient pathway optimization",
+        "cag model",
+        "regional health authority",
+        "saas",
+        "healthcare",
+        "education",
+        "hospital & health care",
+        "health, wellness & fitness",
+        "information technology & services",
+        "health care",
+        "computer software"
+      ],
+      "organization_revenue_printed": "2.5B",
+      "organization_revenue": 2491000000.0,
+      "industries": [
+        "hospital & health care",
+        "government administration",
+        "research"
+      ],
+      "secondary_industries": [
+        "government administration",
+        "research"
+      ],
+      "snippets_loaded": true,
+      "industry_tag_id": "5567cdde73696439812c0000",
+      "industry_tag_hash": {
+        "hospital & health care": "5567cdde73696439812c0000",
+        "government administration": "5567cd527369643981050000",
+        "research": "5567e09f736964160ebb0100"
+      },
+      "retail_location_count": 0,
+      "raw_address": "wessels veg 75, stjørdal, 7500, no",
+      "street_address": "75 Wessels veg",
+      "city": "Stjordal",
+      "state": "Trondelag",
+      "country": "Norway",
+      "postal_code": "7502",
+      "num_languages": 0,
+      "intent_strength": null,
+      "show_intent": false,
+      "has_intent_signal_account": false,
+      "intent_signal_account": null,
+      "organization_headcount_six_month_growth": null,
+      "organization_headcount_twelve_month_growth": null,
+      "organization_headcount_twenty_four_month_growth": null
+    }
+  ]
+}

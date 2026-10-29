@@ -1,0 +1,183 @@
+{
+    "domain": "sw.siemens.com",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Siemens Digital Industries Software",
+            "ai_value": "Siemens Digital Industries Software"
+        },
+        "domain": {
+            "database_value": "sw.siemens.com",
+            "ai_value": "siemens.com"
+        },
+        "industry": {
+            "database_value": "information technology & services",
+            "ai_value": "Industrial Engineering Software"
+        },
+        "founded_year": {
+            "database_value": "Non renseigné",
+            "ai_value": "2007"
+        },
+        "short_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Global provider of software solutions for product lifecycle management (PLM) and manufacturing operations management (MOM)."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Siemens Digital Industries Software helps designers and manufacturers deliver better products faster using the digital twin."
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": 21500000000
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": "Acquired"
+        },
+        "estimated_num_employees": {
+            "database_value": 22000,
+            "ai_value": "24,000"
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/siemenssoftware",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "Non renseigné",
+            "ai_value": "https://twitter.com/siemenssoftware"
+        },
+        "facebook_url": {
+            "database_value": "Non renseigné",
+            "ai_value": "https://www.facebook.com/siemenssoftware"
+        },
+        "phone": {
+            "database_value": "+49 5036 857000",
+            "ai_value": "+1 972-987-3000"
+        },
+        "raw_address": {
+            "database_value": "5800 granite pkwy, 600, plano, texas 75024, us",
+            "ai_value": "5800 Granite Pkwy, Plano, TX 75024, United States"
+        },
+        "city": {
+            "database_value": "Plano",
+            "ai_value": "Plano"
+        },
+        "country": {
+            "database_value": "United States",
+            "ai_value": "United States"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": "15+"
+        },
+        "keywords": {
+            "database_value": "Non renseigné",
+            "ai_value": "Industrial AI, Digital Twin, PLM, NX, Teamcenter, CAD, Simulation, Xcelerator, Industrial Automation"
+        },
+        "technologies": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                {
+                    "name": "React",
+                    "category": "Frontend Framework",
+                    "confidence": 0.99,
+                    "source": "MATCHES REGEX CLASSIQUES",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.78,
+                        "evidence_density": 0.21
+                    }
+                },
+                {
+                    "name": "Amazon CloudFront",
+                    "category": "CDN",
+                    "confidence": 0.99,
+                    "source": "via: 1.1 ... cloudfront.net (CloudFront)",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.57,
+                        "evidence_density": 0.42
+                    }
+                },
+                {
+                    "name": "Amazon S3",
+                    "category": "Hosting",
+                    "confidence": 0.99,
+                    "source": "server: AmazonS3",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.35,
+                        "evidence_density": 0.56
+                    }
+                },
+                {
+                    "name": "Usercentrics",
+                    "category": "Consent Management",
+                    "confidence": 0.99,
+                    "source": "app.usercentrics.eu script",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.36,
+                        "evidence_density": 0.46
+                    }
+                },
+                {
+                    "name": "Nice InContact",
+                    "category": "Customer Support",
+                    "confidence": 0.95,
+                    "source": "home-e31.niceincontact.com script",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.4,
+                        "evidence_density": 0.42
+                    }
+                },
+                {
+                    "name": "Swiper",
+                    "category": "UI Components",
+                    "confidence": 0.9,
+                    "source": "swiper-* CSS prefixes",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.46,
+                        "evidence_density": 0.29
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Mendix",
+                "Polarion",
+                "Supplyframe",
+                "Avasis",
+                "Sustaira"
+            ]
+        },
+        "funding_events": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                {
+                    "date": "2007-05-04",
+                    "type": "Acquisition",
+                    "amount": "$3.5 Billion"
+                }
+            ]
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Dassault Systèmes",
+                "PTC",
+                "Autodesk",
+                "Ansys",
+                "SAP"
+            ]
+        }
+    }
+}

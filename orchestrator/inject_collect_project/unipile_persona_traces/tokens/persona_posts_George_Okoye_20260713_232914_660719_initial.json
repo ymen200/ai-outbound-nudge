@@ -1,0 +1,10 @@
+{
+  "account_snapshot": {
+    "status": "error",
+    "code": 503
+  },
+  "connected_accounts": {
+    "status": "error",
+    "code": 503
+  }
+}

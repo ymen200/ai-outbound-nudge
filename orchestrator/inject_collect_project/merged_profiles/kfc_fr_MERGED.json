@@ -1,0 +1,429 @@
+{
+    "alexa_ranking": 373788,
+    "annual_revenue": null,
+    "apollo_id": "5f4aeda6973b900001b55521",
+    "city": "Puteaux",
+    "country": "France",
+    "departments": {
+        "sales": 8,
+        "operations": 46,
+        "human_resources": 6,
+        "business_development": 7,
+        "marketing": 18,
+        "data_science": 1,
+        "administrative": 1,
+        "support": 38,
+        "arts_and_design": 1,
+        "finance": 4,
+        "accounting": 5,
+        "media_and_commmunication": 6,
+        "consulting": 3,
+        "engineering": 1,
+        "information_technology": 2,
+        "legal": 2,
+        "product_management": 0,
+        "education": 0,
+        "entrepreneurship": 0
+    },
+    "domain": "kfc.fr",
+    "estimated_num_employees": 2300,
+    "facebook_url": null,
+    "founded_year": 1991,
+    "funding_events": [],
+    "industry": "restaurants",
+    "keywords": [
+        "packaging",
+        "growth strategy",
+        "local culinary trends",
+        "delivery",
+        "employee well-being",
+        "beverages",
+        "restaurant chain",
+        "mobile app",
+        "restaurants and other eating places",
+        "growth plans",
+        "expanding restaurant network",
+        "regional franchise growth",
+        "french market adaptation",
+        "local market adaptation",
+        "customer demographics",
+        "brand branding",
+        "pressure-fried chicken",
+        "brand differentiation in france",
+        "brand recognition",
+        "brand differentiation",
+        "consumer preferences",
+        "food delivery",
+        "local innovation",
+        "yum! brands",
+        "on-site breading",
+        "french market",
+        "food quality",
+        "retail",
+        "menu customization",
+        "animal welfare standards",
+        "digital customer experience",
+        "employee employment",
+        "marketing campaign innovation",
+        "regional expansion",
+        "local adaptation",
+        "franchise model",
+        "food service",
+        "brand image",
+        "market strategy",
+        "franchise partner networks",
+        "franchise partners",
+        "consumer demographics",
+        "franchise network",
+        "rapid restaurant expansion",
+        "brand iconography",
+        "customer engagement",
+        "restaurant management",
+        "chicken products",
+        "local product adaptation",
+        "freshness emphasis",
+        "restaurants",
+        "local product innovation",
+        "customer experience",
+        "sustainability",
+        "restaurant operations",
+        "customer base",
+        "media monitoring tools",
+        "pressure frying",
+        "freshly prepared food",
+        "market competition",
+        "menu innovation",
+        "employee well-being programs",
+        "market penetration strategies",
+        "quick-service restaurant",
+        "cision",
+        "b2c",
+        "market-specific menu items",
+        "local product development",
+        "digital media analytics",
+        "local consumer engagement",
+        "market growth",
+        "menu updates",
+        "market expansion",
+        "digital transformation",
+        "analytics platforms",
+        "customer service",
+        "brand marketing campaigns",
+        "food safety",
+        "marketing campaigns",
+        "digital platforms",
+        "franchise",
+        "talkwalker",
+        "media monitoring",
+        "brand identity",
+        "brand loyalty",
+        "boxmaster",
+        "product freshness",
+        "brand loyalty programs",
+        "digital marketing",
+        "the b.o.s.s.",
+        "restaurant franchise",
+        "customer service technology",
+        "animal welfare",
+        "local tastes",
+        "sustainability commitments",
+        "sustainability initiatives",
+        "consumer base",
+        "fast food",
+        "brand marketing",
+        "regional growth initiatives",
+        "regional growth",
+        "fried chicken",
+        "meal deals",
+        "drive-thru",
+        "chicken recipe",
+        "takeout",
+        "family meals",
+        "lunch specials",
+        "dinner options",
+        "menu variety",
+        "side dishes",
+        "sauces",
+        "desserts",
+        "restaurant experience",
+        "nutrition information",
+        "value meals",
+        "fast service",
+        "boneless chicken",
+        "original recipe",
+        "crispy chicken",
+        "spicy chicken",
+        "chicken sandwiches",
+        "kids meals",
+        "meal customization",
+        "sustainability practices",
+        "local sourcing",
+        "promotions",
+        "special offers",
+        "quick meals",
+        "franchise opportunities",
+        "sixty second meals",
+        "app ordering",
+        "loyalty program",
+        "seasonal menu",
+        "catering services",
+        "pickup options",
+        "cravings",
+        "gourmet sides",
+        "food delivery partners",
+        "global presence",
+        "shipping",
+        "logistics & supply chain",
+        "environmental services",
+        "renewables & environment",
+        "marketing & advertising",
+        "enterprise software",
+        "enterprises",
+        "computer software",
+        "information technology & services",
+        "b2b"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/kfc-france",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66f01cdff48d2a0001e42f30/picture",
+    "name": "KFC France",
+    "num_suborganizations": 0,
+    "phone": null,
+    "postal_code": "92800",
+    "raw_address": "102 Terrasse Boieldieu, Puteaux, France",
+    "seo_description": null,
+    "short_description": "KFC France is a subsidiary of Yum! Brands and is part of the global KFC quick-service restaurant chain, specializing in chicken. Since entering the French market in 1991, KFC has expanded to over 300 locations, serving more than 200,000 customers daily. The brand has successfully transitioned from a niche offering to a mainstream favorite in France.\n\nKFC France features a variety of chicken-based menu items, with the bucket of chicken being a signature product. The company focuses on freshly prepared meals and has tailored its menu to suit local tastes, incorporating both traditional fried chicken and innovative, localized options. KFC France has positioned itself as a leader in the quick-service chicken category, leveraging its strong brand and a commitment to enhancing the customer experience.",
+    "state": "Ile-de-France",
+    "street_address": "102 Terrasse Boieldieu",
+    "suborganizations": [],
+    "technologies": [
+        {
+            "uid": "adobe_realtime_cdp",
+            "name": "Adobe Real-Time CDP",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "akamai",
+            "name": "Akamai",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "akamai_cdn_solutions",
+            "name": "Akamai CDN Solutions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_ses",
+            "name": "Amazon SES",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "angular",
+            "name": "Angular",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "angular_js_v2",
+            "name": "Angular JS v2",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "appsflyer",
+            "name": "AppsFlyer",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "aptiv",
+            "name": "Aptiv",
+            "category": "Other"
+        },
+        {
+            "uid": "bootstrap_framework",
+            "name": "Bootstrap Framework",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+        },
+        {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "cloudflare_hosting",
+            "name": "CloudFlare Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "cloudflare_dns",
+            "name": "Cloudflare DNS",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "cloudflare_rocket_loader",
+            "name": "Cloudflare Rocket Loader",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "glassdoor",
+            "name": "Glassdoor",
+            "category": "Customer Reviews"
+        },
+        {
+            "uid": "google_firebase_ab_testing",
+            "name": "Google Firebase A/B Testing",
+            "category": "Online Testing Platforms"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "indeed",
+            "name": "Indeed",
+            "category": "Other"
+        },
+        {
+            "uid": "kanbanize",
+            "name": "Kanbanize",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "meta ads manager",
+            "name": "Meta Ads Manager",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "peo",
+            "name": "PEO",
+            "category": "HR Solutions"
+        },
+        {
+            "uid": "postpresso",
+            "name": "Postpresso",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "power_bi_documenter",
+            "name": "Power BI Documenter",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "qualys_penetration_testing",
+            "name": "Qualys Penetration Testing",
+            "category": "Event Management"
+        },
+        {
+            "uid": "rest",
+            "name": "REST",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "salesforce crm analytics",
+            "name": "Salesforce CRM Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "salesforce_service_cloud",
+            "name": "Salesforce Service Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "scrum_do",
+            "name": "Scrum Do",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "stripe",
+            "name": "Stripe",
+            "category": "Payments"
+        },
+        {
+            "uid": "stripe_payments",
+            "name": "Stripe Payments",
+            "category": "Payments"
+        },
+        {
+            "uid": "tiktok",
+            "name": "TikTok",
+            "category": "Other"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wpoauth",
+            "name": "WP-Oauth",
+            "category": "Social Login"
+        },
+        {
+            "uid": "x_twitter",
+            "name": "X (Twitter)",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "akamai_edgesuite",
+            "name": "Akamai EdgeSuite",
+            "category": "CDN / Sécurité"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.kfc.fr",
+    "is_subsidiary": true,
+    "parent_company": "Yum! Brands",
+    "competitors": [
+        "McDonald's France",
+        "Burger King France",
+        "Quick",
+        "Popeyes France",
+        "O'Tacos"
+    ],
+    "data_quality_score": 0.87
+}

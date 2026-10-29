@@ -1,0 +1,786 @@
+{
+    "domain": "businessinsurance.com",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Business Insurance",
+            "ai_value": "Business Insurance"
+        },
+        "domain": {
+            "database_value": "businessinsurance.com",
+            "ai_value": "businessinsurance.com"
+        },
+        "industry": {
+            "database_value": "publishing",
+            "ai_value": "Publishing / Media / Insurance News"
+        },
+        "founded_year": {
+            "database_value": 1967,
+            "ai_value": null
+        },
+        "short_description": {
+            "database_value": "Business Insurance is a leading media source established in 1967, dedicated to serving senior-level corporate executives and professionals in the fields of risk management, risk transfer, and risk financing. The organization provides in-depth analysis, strategic guidance, and market intelligence to help its audience navigate the complexities of the insurance industry.\n\nThe company publishes a periodic magazine that covers various topics, including property and liability insurance, workers' compensation, and disability management. This publication is distributed to a specialized audience, including risk managers, insurers, and brokers, who are responsible for managing corporate insurance and self-insurance programs. Business Insurance is committed to delivering valuable insights and case studies that support effective risk management strategies.",
+            "ai_value": "Provider of news, research, and data content for insurance professionals, risk managers, and brokers."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Business Insurance | News for Insurance Professionals"
+        },
+        "annual_revenue": {
+            "database_value": 672100000.0,
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "estimated_num_employees": {
+            "database_value": 1500,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/business-insurance",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "https://twitter.com/BusInsMagazine",
+            "ai_value": "https://twitter.com/BusInsMagazine"
+        },
+        "facebook_url": {
+            "database_value": "https://www.facebook.com/BusInsMagazine",
+            "ai_value": "https://www.facebook.com/BusInsMagazine"
+        },
+        "phone": {
+            "database_value": "+1 212-210-0133",
+            "ai_value": "+1 312-636-7222"
+        },
+        "raw_address": {
+            "database_value": "360 north michigan avenue, chicago, illinois, united states",
+            "ai_value": "360 N Michigan Ave, Chicago, United States"
+        },
+        "city": {
+            "database_value": "Chicago",
+            "ai_value": "Chicago"
+        },
+        "country": {
+            "database_value": "United States",
+            "ai_value": "United States"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": 0
+        },
+        "keywords": {
+            "database_value": [
+                "news",
+                "online media",
+                "multimedia reporting",
+                "research data",
+                "events",
+                "risk management",
+                "workers compensation",
+                "book & periodical publishing",
+                "services",
+                "insurance industry",
+                "insurance industry forecast",
+                "risk transfer",
+                "insurance companies",
+                "market research",
+                "insurance mergers",
+                "insurance industry research",
+                "insurance coverage",
+                "insurance digitalization",
+                "workplace safety",
+                "insurance innovation",
+                "pain management",
+                "insurance regulation updates",
+                "insurance data",
+                "insurance technology",
+                "insurance industry reports",
+                "financial services",
+                "insurance",
+                "insurance industry news and analysis",
+                "insurance industry insights",
+                "insurance industry opportunities",
+                "insurance industry growth",
+                "insurance market",
+                "insurance policies",
+                "risk assessment",
+                "b2b",
+                "insurtech",
+                "risk management strategies",
+                "cyber risks",
+                "insurance industry outlook",
+                "insurance industry data",
+                "insurance regulation",
+                "insurance news",
+                "insurance brokers",
+                "insurance industry market trends",
+                "cybersecurity",
+                "employee benefits",
+                "insurance claims management",
+                "insurance industry updates",
+                "insurance industry news",
+                "insurance analytics",
+                "insurance risk assessment",
+                "insurance market analysis",
+                "insurance product development",
+                "insurance claims",
+                "insurance market trends",
+                "insurance industry news and updates",
+                "insurance pricing",
+                "insurance industry challenges",
+                "risk financing",
+                "insurance industry analysis",
+                "consulting",
+                "insurance acquisitions",
+                "insurance industry analysis and insights",
+                "insurance industry trends",
+                "customer service",
+                "insurance industry statistics",
+                "business insurance",
+                "claims management",
+                "mergers and acquisitions",
+                "technology trends",
+                "loss control policies",
+                "safety compliance",
+                "premium rates",
+                "claims experience",
+                "telehealth liability",
+                "digital health services",
+                "insurance underwriting",
+                "ai in insurance",
+                "insurance providers",
+                "insurance newsletters",
+                "reinsurance",
+                "property liability",
+                "claims processing",
+                "pandemic impact insurance",
+                "insurance products",
+                "data breaches",
+                "financial services liability",
+                "operational risk",
+                "employee wellness programs",
+                "insurance regulations",
+                "business continuity",
+                "market intelligence",
+                "insurance claims analysis",
+                "coverage options",
+                "insurance audits",
+                "catastrophic care management",
+                "insurance evaluations",
+                "media",
+                "mergers & acquisitions"
+            ],
+            "ai_value": "Commercial Insurance, Risk Management, Workers Comp, Insurance Brokers, Reinsurance, Captive Insurance, Excess & Surplus, TPA"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "active_campaign",
+                    "name": "Active Campaign",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "ad_unit_300_x_250",
+                    "name": "Ad Unit 300 x 250",
+                    "category": "Publisher Advertising Tools"
+                },
+                {
+                    "uid": "ad_unit_300_x_600",
+                    "name": "Ad Unit 300 x 600",
+                    "category": "Publisher Advertising Tools"
+                },
+                {
+                    "uid": "ad_unit_320_x_50",
+                    "name": "Ad Unit 320 x 50",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "ad_unit_728_x_90",
+                    "name": "Ad Unit 728 x 90",
+                    "category": "Publisher Advertising Tools"
+                },
+                {
+                    "uid": "adloox",
+                    "name": "Adloox",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "adobe_fonts",
+                    "name": "Adobe Fonts",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "adobe_fonts",
+                    "name": "Adobe Fonts",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "adobe_marketo_engage",
+                    "name": "Adobe Marketo Engage",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "adobe_marketo_engage",
+                    "name": "Adobe Marketo Engage",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "amadesa",
+                    "name": "Amadesa",
+                    "category": "Personalization"
+                },
+                {
+                    "uid": "amazon_aws",
+                    "name": "Amazon AWS",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "amazon_elastic_load_balancer",
+                    "name": "Amazon Elastic Load Balancer",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "amazon_elastic_load_balancer",
+                    "name": "Amazon Elastic Load Balancer",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "bootstrap",
+                    "name": "Bootstrap",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "bootstrap",
+                    "name": "Bootstrap",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "brightcove",
+                    "name": "Brightcove",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "cloudflare",
+                    "name": "CloudFlare",
+                    "category": "Web Accelerators"
+                },
+                {
+                    "uid": "cloudflare_cdn",
+                    "name": "CloudFlare CDN",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "cloudflare_cdn",
+                    "name": "CloudFlare CDN",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "cloudflare_browser_insights",
+                    "name": "Cloudflare Browser Insights",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "cloudflare_dns",
+                    "name": "Cloudflare DNS",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "cloudflare_insights",
+                    "name": "Cloudflare Insights",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "cloudflare_rocket_loader",
+                    "name": "Cloudflare Rocket Loader",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "cloudways",
+                    "name": "Cloudways",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "cookie_yes",
+                    "name": "CookieYes",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "doubleclick",
+                    "name": "DoubleClick",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "doubleclick_floodlight",
+                    "name": "DoubleClick Floodlight",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "elasticemail",
+                    "name": "ElasticEmail",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "elementor",
+                    "name": "Elementor",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "font_awesome",
+                    "name": "Font Awesome",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "fullstory",
+                    "name": "FullStory",
+                    "category": "Other"
+                },
+                {
+                    "uid": "godaddy_domains",
+                    "name": "GoDaddy Domains",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "godaddy_hosting",
+                    "name": "GoDaddy Hosting",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "google_ad_manager",
+                    "name": "Google Ad Manager",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "google_analytics",
+                    "name": "Google Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_analytics_4_ga4",
+                    "name": "Google Analytics 4 (GA4)",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_analytics_ecommerce_tracking",
+                    "name": "Google Analytics Ecommerce Tracking",
+                    "category": "E-commerce Tools"
+                },
+                {
+                    "uid": "google_font_api",
+                    "name": "Google Font API",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "google_publisher_tag_gpt",
+                    "name": "Google Publisher Tag (GPT)",
+                    "category": "Publisher Advertising Tools"
+                },
+                {
+                    "uid": "google_search_central",
+                    "name": "Google Search Central",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_search_console",
+                    "name": "Google Search Console",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_tag_manager",
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "hsts",
+                    "name": "HSTS",
+                    "category": "Security"
+                },
+                {
+                    "uid": "hello_elementor",
+                    "name": "Hello Elementor",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "hubspot_marketing_hub",
+                    "name": "HubSpot Marketing Hub",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "hubspot",
+                    "name": "Hubspot",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "jw_player",
+                    "name": "JW Player",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "magnific_popup",
+                    "name": "Magnific Popup",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "matomo",
+                    "name": "Matomo",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "matomo_analytics",
+                    "name": "Matomo Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "member_press",
+                    "name": "MemberPress",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_365_apps_services",
+                    "name": "Microsoft 365 Apps & Services",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_email_providers",
+                    "name": "Microsoft Email Providers",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "microsoft_exchange",
+                    "name": "Microsoft Exchange",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_exchange_online",
+                    "name": "Microsoft Exchange Online",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mysql",
+                    "name": "MySQL",
+                    "category": "Database"
+                },
+                {
+                    "uid": "new_relic",
+                    "name": "New Relic",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "new_relic_apm",
+                    "name": "New Relic APM",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "new_relic_apm",
+                    "name": "New Relic APM",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "new_relic_insights",
+                    "name": "New Relic Insights",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "new_relic_one",
+                    "name": "New Relic One",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "open_graph",
+                    "name": "Open Graph",
+                    "category": "Other"
+                },
+                {
+                    "uid": "outlook",
+                    "name": "Outlook",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "php",
+                    "name": "PHP",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "primeng",
+                    "name": "PrimeNG",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "priority_hints",
+                    "name": "Priority Hints",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "rss",
+                    "name": "RSS",
+                    "category": "Other"
+                },
+                {
+                    "uid": "remote",
+                    "name": "Remote",
+                    "category": "Other"
+                },
+                {
+                    "uid": "requirejs",
+                    "name": "RequireJS",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "ruby",
+                    "name": "Ruby",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "ruby_on_rails",
+                    "name": "Ruby On Rails",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "salesforce_marketing_cloud_account_engagement",
+                    "name": "Salesforce Marketing Cloud Account Engagement",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "salesforce_marketing_cloud_account_engagement",
+                    "name": "Salesforce Marketing Cloud Account Engagement",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "sendgrid",
+                    "name": "Sendgrid",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "slack",
+                    "name": "Slack",
+                    "category": "Chats"
+                },
+                {
+                    "uid": "swoogo",
+                    "name": "Swoogo",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "twilio_sendgrid_email_api",
+                    "name": "Twilio SendGrid Email API",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "twilio_sendgrid_email_marketing_campaigns",
+                    "name": "Twilio SendGrid Email Marketing Campaigns",
+                    "category": "Email Marketing"
+                },
+                {
+                    "uid": "underscore.js",
+                    "name": "Underscore.js",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "viewport_meta",
+                    "name": "Viewport Meta",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "wordpress_org",
+                    "name": "WordPress.org",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "wordpress",
+                    "name": "Wordpress",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "yii_framework",
+                    "name": "Yii Framework",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "imagesloaded",
+                    "name": "imagesLoaded",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "jquery",
+                    "name": "jQuery",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "jquery_cdn",
+                    "name": "jQuery CDN",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "jquery_migrate",
+                    "name": "jQuery Migrate",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "jquery_ui",
+                    "name": "jQuery UI",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "webpack",
+                    "name": "webpack",
+                    "category": "CSS and JavaScript Libraries"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "Cloudflare",
+                    "category": "CDN / Security / Hosting",
+                    "confidence": 1.0,
+                    "source": "server: cloudflare",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.29,
+                        "evidence_density": 0.56
+                    }
+                },
+                {
+                    "name": "WordPress",
+                    "category": "CMS",
+                    "confidence": 0.99,
+                    "source": "The website's WordPress theme uses this cookie.",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.67,
+                        "evidence_density": 0.19
+                    }
+                },
+                {
+                    "name": "HubSpot",
+                    "category": "CRM / Marketing Automation",
+                    "confidence": 1.0,
+                    "source": "js.hubspot.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.33,
+                        "evidence_density": 0.5
+                    }
+                },
+                {
+                    "name": "Marketo",
+                    "category": "Marketing Automation",
+                    "confidence": 1.0,
+                    "source": "munchkin.marketo.net",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.48,
+                        "evidence_density": 0.35
+                    }
+                },
+                {
+                    "name": "Google Analytics",
+                    "category": "Analytics",
+                    "confidence": 1.0,
+                    "source": "www.google-analytics.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.25,
+                        "evidence_density": 0.67
+                    }
+                },
+                {
+                    "name": "ActiveCampaign",
+                    "category": "Marketing Automation",
+                    "confidence": 1.0,
+                    "source": "prism.app-us1.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.81,
+                        "evidence_density": 0.82
+                    }
+                },
+                {
+                    "name": "Elementor",
+                    "category": "Page Builder",
+                    "confidence": 1.0,
+                    "source": "Cookie elementor",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.28,
+                        "evidence_density": 0.56
+                    }
+                },
+                {
+                    "name": "CookieYes",
+                    "category": "Consent Management",
+                    "confidence": 1.0,
+                    "source": "cdn-cookieyes.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.31,
+                        "evidence_density": 0.53
+                    }
+                },
+                {
+                    "name": "Stripe",
+                    "category": "Payment Processing",
+                    "confidence": 0.99,
+                    "source": "Stripe sets this cookie for fraud prevention purposes.",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.79,
+                        "evidence_density": 0.11
+                    }
+                },
+                {
+                    "name": "FullStory",
+                    "category": "Session Replay / UX Analytics",
+                    "confidence": 1.0,
+                    "source": "edge.fullstory.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.33,
+                        "evidence_density": 0.5
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "funding_events": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Insurance Journal",
+                "PropertyCasualty360",
+                "Risk & Insurance",
+                "The Insurer",
+                "Carrier Management"
+            ]
+        }
+    }
+}

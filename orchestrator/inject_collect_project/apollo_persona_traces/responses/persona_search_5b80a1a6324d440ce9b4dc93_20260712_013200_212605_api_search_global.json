@@ -1,0 +1,120 @@
+{
+  "total_entries": 8,
+  "people": [
+    {
+      "id": "62f201f39eca5b00019d5489",
+      "first_name": "Nadine",
+      "last_name_obfuscated": "Oe***l",
+      "title": "MSP Business Development Consultant",
+      "last_refreshed_at": "2026-06-12T04:04:16.000+00:00",
+      "has_email": true,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Randstad Switzerland",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "692b86d52b36b80001997b55",
+      "first_name": "Benjamin",
+      "last_name_obfuscated": "Ja***r",
+      "title": "Sales Consultant",
+      "last_refreshed_at": "2026-05-22T01:38:04.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Randstad Switzerland",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "612a494a8e604e00012ee51e",
+      "first_name": "Endonita",
+      "last_name_obfuscated": "Az***i",
+      "title": "Sales Associate",
+      "last_refreshed_at": "2026-06-24T05:51:52.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Randstad Switzerland",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "6954f7cac133270001a68dc0",
+      "first_name": "Juerg",
+      "last_name_obfuscated": "Sa***s",
+      "title": "Sales Consultant",
+      "last_refreshed_at": "2026-06-03T17:27:30.686+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Randstad Switzerland",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "65fda298cb32e000077b26c3",
+      "first_name": "Thomas",
+      "last_name_obfuscated": "He***t",
+      "title": "Sales & Marketing Recruiter",
+      "last_refreshed_at": "2026-06-24T05:37:25.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Randstad Switzerland",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+    "domain": "randstad.ch",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Randstad Switzerland",
+            "ai_value": "Randstad (Schweiz) AG"
+        },
+        "domain": {
+            "database_value": "randstad.ch",
+            "ai_value": "randstad.ch"
+        },
+        "industry": {
+            "database_value": "staffing & recruiting",
+            "ai_value": "Human Resources / Staffing & Recruiting"
+        },
+        "founded_year": {
+            "database_value": 1960,
+            "ai_value": "1960"
+        },
+        "short_description": {
+            "database_value": "As the leading company in the field of Human Resources, Randstad understands all aspects of the world of work - worldwide and throughout Switzerland. Many years of successful work in this field and an internal network of specialists provide in-depth expertise and broad experience. \n\nThis makes Randstad unique in the personnel management field: Our consultants are experts in the local employment market and the various sectors. But our commitment goes even further. It is of great importance to us that we know our clients, their businesses and the jobs involved. \n\nWe also dedicate a great deal of time to job seekers; we not only want to know about their skills and experience, but also their personality and human qualities.\n\nIn this way, Randstad ensures that our clients obtain exactly the right people. To know, to serve, trust and continually strive for perfection while simultaneously promoting all interests are the core values on which Randstad has built the company. \n\nOur Services:\n- Staffing: For temporary and permanent positions\n- Professionals: For specialists and executive staff \n- Search & Selection: For middle and senior management levels \n- HR Solutions: Specialized HR Services for SMEs and large companies  \n- Inhouse Services: For companies with a flexible staff requirement\n- innoative HR Tech Tools: For workforce scheduling and video interviews",
+            "ai_value": "Führender Personaldienstleister in der Schweiz für Personalvermittlung, Temporärarbeit und HR-Lösungen."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Personalvermittlung & Personaldienstleistungen in der Schweiz"
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": "Public"
+        },
+        "estimated_num_employees": {
+            "database_value": 330,
+            "ai_value": "300"
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/randstad-switzerland",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "Non renseigné",
+            "ai_value": "https://twitter.com/RandstadCH"
+        },
+        "facebook_url": {
+            "database_value": "Non renseigné",
+            "ai_value": "https://www.facebook.com/randstadschweiz"
+        },
+        "phone": {
+            "database_value": "+41 58 201 59 00",
+            "ai_value": null
+        },
+        "raw_address": {
+            "database_value": "Leutschenbachstrasse 45, Zürich, 8050, CH",
+            "ai_value": "45 Leutschenbachstrasse, Zurich, Switzerland"
+        },
+        "city": {
+            "database_value": "Zurich",
+            "ai_value": "Zurich"
+        },
+        "country": {
+            "database_value": "Switzerland",
+            "ai_value": "Switzerland"
+        },
+        "num_suborganizations": {
+            "database_value": 1,
+            "ai_value": "60"
+        },
+        "keywords": {
+            "database_value": [
+                "it",
+                "life science",
+                "banking finance",
+                "engineering",
+                "industry",
+                "construction",
+                "administration",
+                "sales marketing",
+                "hotel tourism",
+                "hr",
+                "watch industry",
+                "pharma biotech industry",
+                "logistics",
+                "hr process digitization",
+                "diverse industries",
+                "talent pipeline",
+                "technology staffing",
+                "staffing and recruitment",
+                "community outreach",
+                "manufacturing staffing",
+                "professional staffing",
+                "services",
+                "client tailored services",
+                "employee volunteer programs",
+                "recruitment process",
+                "inhouse staffing",
+                "hr project management",
+                "employee engagement",
+                "hr process automation tools",
+                "staffing analytics",
+                "global hr network",
+                "employee retention",
+                "cloud hr systems",
+                "hr process optimization",
+                "hr tech tools",
+                "hr data security",
+                "specialized placement",
+                "employee benefits",
+                "talent pool management",
+                "hr software",
+                "human resources",
+                "industry-specific staffing",
+                "hr innovation",
+                "employee recognition programs",
+                "staffing solutions",
+                "swissstaffing member",
+                "hr process automation",
+                "swissstaffing",
+                "community involvement",
+                "banking staffing",
+                "hr analytics",
+                "candidate experience",
+                "talent development programs",
+                "recruitment",
+                "employment placement agencies and executive search services",
+                "leutschenbachstrasse",
+                "employee well-being",
+                "human capital management",
+                "hr technology",
+                "talent analytics",
+                "managed services",
+                "hr performance metrics",
+                "hr services",
+                "talent management",
+                "corporate social responsibility",
+                "community engagement",
+                "candidate screening",
+                "hr strategy",
+                "hr digitalization",
+                "video interview platforms",
+                "temporary staffing",
+                "zurich headquarters",
+                "workforce planning",
+                "professional services",
+                "hr consulting",
+                "workforce management",
+                "talent sourcing",
+                "workforce solutions",
+                "hr compliance",
+                "hr process consulting",
+                "digital hr tools",
+                "video interviews",
+                "hr solutions",
+                "candidate database",
+                "staffing agency",
+                "life sciences",
+                "multilingual recruitment",
+                "employee development",
+                "community service",
+                "employee satisfaction",
+                "candidate matching",
+                "corporate responsibility",
+                "permanent staffing",
+                "talent acquisition",
+                "candidate sourcing",
+                "client relationships",
+                "multinational hr company",
+                "digital transformation",
+                "remote staffing",
+                "employment services",
+                "healthcare staffing",
+                "consulting",
+                "hr compliance standards",
+                "flexible workforce",
+                "digital recruitment",
+                "staffing",
+                "executive search",
+                "quality standards",
+                "employee trust",
+                "hr tools",
+                "quality assurance",
+                "b2b",
+                "job placement",
+                "temporary jobs",
+                "permanent positions",
+                "cross border employment",
+                "recruitment solutions",
+                "operational jobs",
+                "outsourcing solutions",
+                "employer branding",
+                "career development",
+                "job alerts",
+                "job application tools",
+                "job search assistance",
+                "career counseling",
+                "skill development",
+                "temporary employment",
+                "try and hire",
+                "contract jobs",
+                "engineering jobs",
+                "administration jobs",
+                "healthcare jobs",
+                "logistics jobs",
+                "industrial jobs",
+                "digital jobs",
+                "finance jobs",
+                "it jobs",
+                "marketing jobs",
+                "banking jobs",
+                "production jobs",
+                "trades jobs",
+                "customer service positions",
+                "global talent centers",
+                "thought leadership",
+                "employee training",
+                "diversity and inclusion",
+                "flexible working",
+                "career advancement",
+                "job marketplace",
+                "professional networking",
+                "job listing",
+                "skills shortage solutions",
+                "healthcare",
+                "finance",
+                "manufacturing",
+                "b2c",
+                "staffing & recruiting",
+                "professional training & coaching",
+                "management consulting",
+                "health care",
+                "health, wellness & fitness",
+                "hospital & health care",
+                "financial services",
+                "mechanical or industrial engineering"
+            ],
+            "ai_value": "Personalvermittlung, Personaldienstleistungen, Zeitarbeit, Recruitment, HR Solutions, Switzerland, Headhunting, Managed Services, RPO"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "amazon_aws",
+                    "name": "Amazon AWS",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "amazon_route_53",
+                    "name": "Amazon Route 53",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "amazon_ses",
+                    "name": "Amazon SES",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "apache",
+                    "name": "Apache",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "gmail",
+                    "name": "Gmail",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "google_apps",
+                    "name": "Google Apps",
+                    "category": "Other"
+                },
+                {
+                    "uid": "google_tag_manager",
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "hubspot",
+                    "name": "Hubspot",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "office_365",
+                    "name": "Microsoft Office 365",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "nginx",
+                    "name": "Nginx",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "onetrust",
+                    "name": "OneTrust",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "react",
+                    "name": "React",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "remote",
+                    "name": "Remote",
+                    "category": "Other"
+                },
+                {
+                    "uid": "salesforce",
+                    "name": "Salesforce",
+                    "category": "Customer Relationship Management"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "Amazon S3",
+                    "category": "Storage",
+                    "confidence": 0.99,
+                    "source": "server: AmazonS3",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.35,
+                        "evidence_density": 0.56
+                    }
+                },
+                {
+                    "name": "Amazon CloudFront",
+                    "category": "CDN",
+                    "confidence": 0.99,
+                    "source": "via: 1.1 ... cloudfront.net (CloudFront)",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.57,
+                        "evidence_density": 0.42
+                    }
+                },
+                {
+                    "name": "OneTrust",
+                    "category": "Consent Management",
+                    "confidence": 0.99,
+                    "source": "cdn.cookielaw.org",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.75,
+                        "evidence_density": 0.47
+                    }
+                },
+                {
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management",
+                    "confidence": 0.99,
+                    "source": "www.googletagmanager.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.23,
+                        "evidence_density": 0.75
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [
+                {
+                    "id": "5f7c5943b63ccc011ed04a00",
+                    "name": "Randstad Digital Switzerland",
+                    "domain": "Non renseigné"
+                }
+            ],
+            "ai_value": [
+                "Randstad Digital",
+                "Randstad Enterprise",
+                "Randstad Professional"
+            ]
+        },
+        "funding_events": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Adecco Switzerland",
+                "Manpower Switzerland",
+                "Kelly Services (Schweiz) AG",
+                "Michael Page (Switzerland)",
+                "Hays (Switzerland)"
+            ]
+        }
+    }
+}

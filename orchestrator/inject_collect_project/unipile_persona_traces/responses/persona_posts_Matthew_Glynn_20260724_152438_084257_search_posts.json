@@ -1,0 +1,481 @@
+{
+  "member_id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7475591339724873728",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_the-best-ai-is-your-ai-your-companys-brain-activity-7475591339724873728-_Vnk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "4w",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 15,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Every AI tool starts from zero. Brain² doesn't. It already knows your company's tasks, docs, and decisions from the first prompt. No briefing. No setup. In blind tests, users preferred it over ChatGPT and Claude 100% of the time. #Context is the gamechanger. Check it out at clickup.com/brain \n#Brain2 #ClickUp #AI ClickUp",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 315
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7475591339724873728",
+        "is_repost": false,
+        "parsed_datetime": "2026-06-24T16:51:05.161Z",
+        "article": {
+          "id": "7414062110157240198",
+          "title": "The best AI is your AI. Your Company's Brain 2",
+          "author": "clickup.com",
+          "url": "http://clickup.com/brain",
+          "published_at": "2026-01-05T21:55:53.674Z",
+          "picture_url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHxX5K9a5k6Fw/articleshare-shrink_800/B4EZ5mCIgnIwAU-/0/1779828298723?e=1785510000&v=beta&t=Sp-LORBGbqxdKe4ag38DfSwmeHkjJ-lpBIYW59gnuLw"
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7470527066514464769",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_clickup-is-now-a-leader-in-six-ai-categories-activity-7470527066514464769-e7xJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 11,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "You don’t become a Leader in six AI categories by adding AI to the side.\n \nYou do it by building #AI where work already happens.\n \nIn G2’s Summer 2026 reports, ClickUp is now a Leader in:\nAgentic AI\nAI #Agents\nAI #Chatbots\nAI #Meeting Assistants\nAI Agents for Business Operations\nAI Writing Assistants\n \nThat’s a big milestone on its own.\n \nBut the bigger story is what’s behind it:\n12,000+ reviews on G2 from customers who already trust ClickUp to manage work.\n \nNow that same trust is showing up in the next wave of software categories.\n \nNot because AI is becoming another tool in the stack.\nBecause work is converging.\n \nProjects, knowledge, communication, and AI belong in one place.\n\nAnd that’s exactly where ClickUp is winning.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 160
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7470527066514464769",
+        "is_repost": true,
+        "repost_id": "7470527066514464769",
+        "parsed_datetime": "2026-06-10T17:27:28.338Z",
+        "repost_content": {
+          "id": "7468700794494611456",
+          "date": "1mo",
+          "parsed_datetime": "2026-06-05T16:30:31.158Z",
+          "text": "ClickUp is now a Leader in six AI categories on G2.\n\nThat’s not a side win. It’s a signal.\n\nBuyers aren’t looking for one more isolated AI tool.\nThey’re looking for AI that actually works in the flow of work.\n\nThis season, ClickUp earned Leader status in:\n• Agentic AI\n• AI Agents\n• AI Chatbots\n• AI Meeting Assistants\n• AI Agents for Business Operations\n• AI Writing Assistants\n\nAnd this momentum is backed by real customer trust:\n• 12,000+ reviews on G2\n• Leadership across fast-growing AI categories\n• Stronger traction in the categories shaping where work is going next\n\nThis is what convergence looks like.\n\nOne platform.\nYour projects, docs, chat, and AI connected.\nNot disconnected tools pretending to be a strategy.",
+          "author": {
+            "public_identifier": "clickup-app",
+            "id": null,
+            "name": "ClickUp",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7445231149989163009",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_change-your-life-with-clickup-activity-7445231149989163009-mw3o?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "3mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 5,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Bill Sanford is the kind of leader you want to be working with/for - and he's hiring!!!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAABb-rF8BwRFEX7EQ_i28uq45FVZzwtNhGdQ",
+            "length": 12,
+            "start": 0
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7445231149989163009",
+        "is_repost": true,
+        "repost_id": "7445231149989163009",
+        "parsed_datetime": "2026-04-01T22:10:31.863Z",
+        "repost_content": {
+          "id": "7445230352513630208",
+          "date": "3mo",
+          "parsed_datetime": "2026-04-01T22:07:21.730Z",
+          "text": "I am hiring an SMB Account Executive at ClickUp.\n\nIf you’re someone who thrives in a high energy, fast paced, high achieving environment, this could be a great fit.\n\nThis role will work directly with me and be a key part of a team focused on helping businesses transform the way they work. We’re looking for someone who is competitive, driven, coachable, and excited to make an impact every single day.\n\nAt ClickUp, we move quickly, aim high, and care deeply about building a world-class team. If you love solving problems, building relationships, and winning with a strong team around you, I’d love to connect.\n\nIf you or someone in your network may be a fit, feel free to reach out to me directly OR APPLY BELOW!!\n\nhttps://lnkd.in/gZMrTHNB\n\n#Hiring #SalesJobs #AccountExecutive #SMBsales #ClickUp #SalesCareers #NowHiring",
+          "author": {
+            "public_identifier": "bill-sanford-653249a9",
+            "id": "ACoAABb-rF8BwRFEX7EQ_i28uq45FVZzwtNhGdQ",
+            "name": "Bill Sanford",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7442964199275802624",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_g2s-spring-2026-reports-are-out-and-the-activity-7442964199275802624-Ty05?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "3mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 29,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Not sure I have anything else to add other than holy smokes!!!\n\nClickUp #AI #digitaltransformation #collaboration #automation #efficiencygains #happycustomers",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 64
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7442964199275802624",
+        "is_repost": true,
+        "repost_id": "7442964199275802624",
+        "parsed_datetime": "2026-03-26T16:02:28.695Z",
+        "repost_content": {
+          "id": "7442948981615124482",
+          "date": "3mo",
+          "parsed_datetime": "2026-03-26T15:02:00.522Z",
+          "text": "G2's Spring 2026 Reports are out, and the story is simple: when customers win with ClickUp, ClickUp wins too. So much so that we now hold more reports than any other product on the entire platform.\n \nBecause of the teams who run their work in ClickUp, we’re:\n• The product on G2 with 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗿𝗲𝗽𝗼𝗿𝘁𝘀\n• Featured in 𝟭,𝟱𝟴𝟵 𝗿𝗲𝗽𝗼𝗿𝘁𝘀 𝗮𝗰𝗿𝗼𝘀𝘀 𝟯𝟴 𝗰𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀\n• Holding 𝟳𝟳𝟴 𝗯𝗮𝗱𝗴𝗲𝘀\n• Ranked 𝗧𝗼𝗽 𝟯 𝗶𝗻 𝟱𝟲𝟬 𝗿𝗲𝗽𝗼𝗿𝘁𝘀\n• Ranked #𝟭 𝗶𝗻 𝟴𝟮 𝗿𝗲𝗽𝗼𝗿𝘁𝘀\n\nBehind every one of those stats is a team using ClickUp to move faster, stay aligned, and get better work done.\n \nHuge thank you to everyone who’s reviewed ClickUp on G2. Your feedback keeps pushing us forward — and we’ll keep building so you can keep winning even bigger.",
+          "author": {
+            "public_identifier": "clickup-app",
+            "id": null,
+            "name": "ClickUp",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7434353860254646272",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_im-happy-to-share-that-ive-obtained-a-new-activity-7434353860988579841-wv2e?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "4mo",
+        "comment_counter": 4,
+        "impressions_counter": 0,
+        "reaction_counter": 65,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I’m happy to share that I’ve obtained a new certification: ClickUp Novice Certificate of Completion from ClickUp!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 105
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7434353860988579841",
+        "is_repost": false,
+        "parsed_datetime": "2026-03-02T21:48:04.075Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7434270609687187457",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_im-happy-to-share-that-im-starting-a-new-activity-7434270610509238272-1EyD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "4mo",
+        "comment_counter": 34,
+        "impressions_counter": 0,
+        "reaction_counter": 321,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I’m happy to share that I’m starting a new position as Regional Director, Commercial Sales at ClickUp!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 94
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7434270610509238272",
+        "is_repost": false,
+        "parsed_datetime": "2026-03-02T16:17:15.614Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7422317907801444354",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_todays-verdict-out-of-federal-court-in-norfolk-activity-7422317907801444354-7Og0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "5mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 3,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "This isn't just a huge with for #LPR technology...this is a massive win for #lawenforcement.\n\nContrary to what you may hear in some unchecked blog post or misleading article - Flock provides powerful, secure, and audit-ready intelligence that helps law enforcement reduce/solve crime within their cities!\n\nIf nothing else, my hope is that this ruling boosts the confidence of both LE Agencies and Citizens that LPR is here to help create safe, effective, and objective policing strategies.\n\n#safecities = #thrivingcities",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/flock-/",
+            "length": 5,
+            "start": 176
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7422317907801444354",
+        "is_repost": true,
+        "repost_id": "7422317907801444354",
+        "parsed_datetime": "2026-01-28T16:41:29.218Z",
+        "repost_content": {
+          "id": "7422053588513947648",
+          "date": "5mo",
+          "parsed_datetime": "2026-01-27T23:11:10.589Z",
+          "text": "Today’s verdict out of Federal Court in Norfolk, VA affirms the constitutionality of LPR and underscores why accountability and transparency matter more than ever. Read our full perspective and what comes next: https://lnkd.in/evMQF23e",
+          "author": {
+            "public_identifier": "flock-",
+            "id": null,
+            "name": "Flock",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7396524033229553664",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_newport-news-man-charged-with-murder-after-activity-7396524033229553664-BfRg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "8mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 7,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "“Using investigative tools and technology, including Flock Safety License Plate Readers, police say they [Virginia Beach PD] were able to develop leads that led to Inniss’ arrest within nine hours of the shooting, with help from the Chesapeake Police Department.”\n\nThoughts:\n1. Collaboration across #lawenforcement agencies is critical because #crime is highly transient.\n2. #LPR, among other technology, is a force multiplier as LE agencies look to drive public safety forward.\n3. When a shooting #suspect can be identified and apprehended within 9 hours of an incident - that is incredible #police work...Well done!\n\n#safecities #publicsafety",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/flock-/",
+            "length": 12,
+            "start": 53
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7396524033229553664",
+        "is_repost": true,
+        "repost_id": "7396524033229553664",
+        "parsed_datetime": "2025-11-18T12:25:50.293Z",
+        "repost_content": {
+          "id": "7394090143705505792",
+          "date": "8mo",
+          "parsed_datetime": "2025-11-11T19:14:25.811Z",
+          "text": "When agencies collaborate and leverage innovative technology, communities see results.\n\nAfter a tragic shooting in Virginia Beach this week, the suspect was apprehended in just nine hours, thanks to strong police work and the support of Flock Safety cameras.\n\nGrateful to see technology and teamwork working hand-in-hand to keep communities safe.\n\n“Using investigative tools and technology, including Flock Safety License Plate Readers, police say they [Virginia Beach PD] were able to develop leads that led to Inniss’ arrest within nine hours of the shooting, with help from the Chesapeake Police Department.”\n\n#flocksafety #lawenforcement #techforgood\n\nhttps://lnkd.in/efgbzZjt",
+          "author": {
+            "public_identifier": "shane-macgregor-78634b75",
+            "id": "ACoAAA_kBpYBWU7EF_CE1tjZYSKA3CiaKZyYNdg",
+            "name": "Shane MacGregor",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7394422201070022656",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_license-plate-readers-uncover-lake-county-activity-7394422201070022656--rVU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "8mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 30,
+        "repost_counter": 2,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "While there are so many things to be excited about here at Flock Safety - nothing motives us like the positive impacts we are helping drive for #lawenforcement agencies across the county.\n\nWhile it is terrible to see that someone lost their life in this instance, I did want to share a recent news story where the Lake County Sheriff's Office in IL was able to quickly/effectively identify the suspects involved in a murder-for-hire plot:\n\nhttps://lnkd.in/ed3HAh7i\n\nThe Deputy Chief's comments on Flock:\n- \"an enormous tool to Law Enforcement\"\n- \"...able to quickly identify an offender, and quickly arrest him\"\n\n#LPR #publicsafety #safecities #crime #efficiency #safecommunities",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/flock-/",
+            "length": 12,
+            "start": 59
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7394422201070022656",
+        "is_repost": false,
+        "parsed_datetime": "2025-11-12T17:13:54.456Z",
+        "article": {
+          "id": "8795646491290623746",
+          "title": "License plate readers uncover Lake County murder-for-hire plot | ChicagoLIVE",
+          "author": "youtube.com",
+          "url": "https://youtu.be/Los_9tNbp_U?si=f8bDbjjFyy1aisrQ",
+          "published_at": "2036-06-14T08:38:58.733Z",
+          "picture_url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEUgTkabLWpDA/articleshare-shrink_800/B4EZp5Cvn.KMAQ-/0/1762967354206?e=1785510000&v=beta&t=biEvSZKlp_OtIwHBOO0MQTt8NKdDUoUqAS__oZwfy2I"
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7392189352547876864",
+        "share_url": "https://www.linkedin.com/posts/mattglynn_how-castle-rock-police-use-drones-as-first-activity-7392189352547876864-uOcA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "8mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 6,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Watching how efficient the Castle Rock DFR/RTCC team was in the Flock Safety booth out at IACP…I’m not surprised at all!\n\nThe constant feedback from #lawenforcement is that #DFR is the next key eveolution for safe and efficient #publicsafety!\n\n- almost immediate eyes on scene.\n- enhanced situational awareness (community, law enforcement, and suspects depending on nature of call for services.\n- massive efficiency gains (making the most of limited staff and resources).\n- avoidance of unnecessary escalation (saving lives and minimizing property damage).\n- further filtering out unproductive and unnecessary interactions (building confidence/support from the community).\n\nThe simple fact is Agencies running their DFR through Flock Safety are flying the fastest, farthest, highest, longest…and all of that comes at the most competitive price when factoring cost/sqmi coverage!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/flock-/",
+            "length": 12,
+            "start": 64
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "mattglynn",
+          "id": "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA",
+          "name": "Matthew Glynn ☁",
+          "is_company": false,
+          "headline": "Regional Director - Commercial Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C5603AQG7ge-6RHwRgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1519933232929?e=1786579200&v=beta&t=nQB39DQGO4tIpiN6c7U2T7ooPr5zqF6xzMY6n14l0z8"
+        },
+        "id": "7392189352547876864",
+        "is_repost": true,
+        "repost_id": "7392189352547876864",
+        "parsed_datetime": "2025-11-06T13:21:21.884Z",
+        "repost_content": {
+          "id": "7391922563788189696",
+          "date": "8mo",
+          "parsed_datetime": "2025-11-05T19:41:14.487Z",
+          "text": "1203: Call received for theft.\n1204: Drone launched.\n1210: Suspect apprehended.\n\nThis is what faster, smarter response looks like.\n\nAnd it’s just one example of how Castle Rock PD’s new Flock DFR program is changing the game.\n\n🎬 See it in action: https://lnkd.in/ePYjt3x7\n\n#DFR #NextGenPolicing #CommunitySafety",
+          "author": {
+            "public_identifier": "flock-",
+            "id": null,
+            "name": "Flock",
+            "is_company": true
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAmVR5kBnF4UFTgm64v0PX6i2lEw2Guk8kA"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 10,
+      "total_count": 14
+    },
+    "cursor": "eyJhY2NvdW50X2lkIjoiTGFlQzNxZ0lRei1BQ1BvbkhPdUZGZyIsImxpbWl0IjoxMCwic3RhcnQiOjEwLCJwYXJhbXMiOnsiYXBpIjoiY2xhc3NpYyIsImNhdGVnb3J5IjoicG9zdHMiLCJwb3N0ZWRfYnkiOnsibWVtYmVyIjpbIkFDb0FBQW1WUjVrQm5GNFVGVGdtNjR2MFBYNmkybEV3Mkd1azhrQSJdfSwic29ydF9ieSI6ImRhdGUifX0="
+  }
+}

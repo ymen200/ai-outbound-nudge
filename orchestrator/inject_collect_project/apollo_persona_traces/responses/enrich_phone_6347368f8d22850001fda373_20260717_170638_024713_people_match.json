@@ -1,0 +1,96 @@
+{
+  "person": {
+    "id": "6347368f8d22850001fda373",
+    "first_name": "Aneta",
+    "last_name": "Adamczyk",
+    "name": "Aneta Adamczyk",
+    "linkedin_url": "http://www.linkedin.com/in/zestawymaturalne",
+    "title": "Sales Manager",
+    "photo_url": "https://media.licdn.com/dms/image/v2/C4E03AQHPF3YcniJDzw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1635329148140?e=2147483647&v=beta&t=HMNd1LkG2W5gHh_R7VwpahUMyozg6GL5Jpr0vNYHcDs",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Founder of zestawymaturalne.pl",
+    "organization_id": "5c212b41a3ae61858511e589",
+    "employment_history": [
+      {
+        "_id": "6a41980132e9ad00018c0e59",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5c212b41a3ae61858511e589",
+        "organization_name": "Asseco Group",
+        "raw_address": null,
+        "start_date": "2020-01-01",
+        "title": "Sales Manager",
+        "updated_at": null,
+        "id": "6a41980132e9ad00018c0e59",
+        "key": "6a41980132e9ad00018c0e59"
+      },
+      {
+        "_id": "6a41980132e9ad00018c0e5b",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2022-08-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": null,
+        "organization_name": "zestawymaturalne.pl",
+        "raw_address": null,
+        "start_date": "2015-03-01",
+        "title": "Teacher",
+        "updated_at": null,
+        "id": "6a41980132e9ad00018c0e5b",
+        "key": "6a41980132e9ad00018c0e5b"
+      }
+    ],
+    "street_address": "",
+    "city": "Warsaw",
+    "state": "Masovian Voivodeship",
+    "country": "Poland",
+    "postal_code": null,
+    "formatted_address": "Warsaw, Poland",
+    "time_zone": "Europe/Warsaw",
+    "email": null,
+    "email_status": "unavailable",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "sales"
+    ],
+    "seniority": "manager",
+    "functions": [
+      "sales"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": []
+  },
+  "phone_enrichment": {
+    "request_id": "6a5a5304142f1a00147c8f6d",
+    "status": "pending",
+    "message": "Phone enrichment is processing asynchronously. Retrieve the result by polling GET /api/v1/webhook_result/{request_id} with the top-level `request_id` field from this response. Retry after ~10 seconds."
+  },
+  "request_id": -1745959732469331353
+}

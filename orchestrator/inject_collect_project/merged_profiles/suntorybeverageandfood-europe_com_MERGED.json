@@ -1,0 +1,482 @@
+{
+    "annual_revenue": 1042000000.0,
+    "apollo_id": "5fc802174039a000015e1e5f",
+    "city": "Neuilly-sur-Seine",
+    "country": "France",
+    "departments": {
+        "human_resources": 15,
+        "marketing": 39,
+        "sales": 58,
+        "finance": 19,
+        "information_technology": 26,
+        "business_development": 20,
+        "engineering": 10,
+        "operations": 16,
+        "media_and_commmunication": 7,
+        "support": 2,
+        "administrative": 2,
+        "legal": 4,
+        "data_science": 3,
+        "accounting": 2,
+        "product_management": 4,
+        "consulting": 1,
+        "education": 0,
+        "arts_and_design": 0,
+        "entrepreneurship": 0
+    },
+    "domain": "suntorybeverageandfood-europe.com",
+    "estimated_num_employees": 720,
+    "facebook_url": "https://facebook.com/...Schweppes-International/257928799051‎",
+    "founded_year": "1899",
+    "funding_events": [],
+    "industry": "Beverage and Food",
+    "keywords": [
+        "food & beverage manufacturing",
+        "non-alcoholic beverages",
+        "soft drinks",
+        "energy drinks",
+        "fruit juices",
+        "carbonated drinks",
+        "iced tea",
+        "sustainability",
+        "health-conscious",
+        "market leader",
+        "orangina",
+        "lucozade",
+        "ribena",
+        "schweppes",
+        "maytea",
+        "natural flavors",
+        "innovative packaging",
+        "environmental responsibility",
+        "consumer engagement",
+        "diverse portfolio",
+        "european market",
+        "social responsibility",
+        "quality products",
+        "beverage industry",
+        "production facilities",
+        "community impact",
+        "sustainable growth",
+        "harmony with nature",
+        "customer experience",
+        "beverage trends",
+        "market expansion",
+        "responsible sourcing",
+        "health trends",
+        "low-calorie options",
+        "mediterranean flavors",
+        "iconic brands",
+        "consumer demographics",
+        "beverage innovation",
+        "market strategy",
+        "beverage",
+        "sugar reduction",
+        "oasis",
+        "healthy choices",
+        "water conservation",
+        "packaging solutions",
+        "environmental impact",
+        "greenhouse gas reduction",
+        "community engagement",
+        "diversity and inclusion",
+        "employee wellbeing",
+        "ethical sourcing",
+        "employee development",
+        "circular economy",
+        "lower calorie options",
+        "recycled materials",
+        "food waste reduction",
+        "global presence",
+        "japanese heritage",
+        "european roots",
+        "cultural values",
+        "yatte minahare",
+        "responsibility",
+        "natural resources",
+        "supply chain management",
+        "innovative beverages",
+        "fruit drinks",
+        "healthy lifestyles",
+        "transparency",
+        "corporate social responsibility",
+        "collaborative initiatives",
+        "leadership development",
+        "volunteering opportunities",
+        "flexible working environment",
+        "positive organizational culture",
+        "brand loyalty",
+        "local partnerships",
+        "risk management",
+        "employee empowerment",
+        "marketing strategies",
+        "b2c",
+        "retail",
+        "food production",
+        "environmental services",
+        "renewables & environment",
+        "consumer goods",
+        "consumers",
+        "logistics & supply chain",
+        "marketing strategy",
+        "marketing & advertising",
+        "European Heritage",
+        "Japanese Roots",
+        "Growing for Good"
+    ],
+    "latest_funding_stage": "Public",
+    "linkedin_url": "http://www.linkedin.com/company/suntory-beverage-food-france",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6870b7d9c04d850001a946be/picture",
+    "name": "Suntory Beverage & Food Europe",
+    "num_suborganizations": 0,
+    "phone": "+33 2 03 47 91 70",
+    "postal_code": "92200",
+    "raw_address": "52 Boulevard du Parc, Neuilly-sur-Seine, France",
+    "seo_description": "Suntory Beverage & Food Europe: Iconic soft drinks brands including Schweppes, Orangina, Lucozade and Ribena.",
+    "short_description": "A unique drinks group and part of a global beverage leader, producing iconic soft drinks like Schweppes, Lucozade, and Oasis.",
+    "state": "Ile-de-France",
+    "street_address": "52 Boulevard du Parc",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "Orangina",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Schweppes",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "La Casera",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Ribena",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "May Tea",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Lucozade",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Pulco",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Oasis",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "asp_net",
+            "name": "ASP.NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "akamai_dns",
+            "name": "Akamai DNS",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "akamai_edge_dns",
+            "name": "Akamai Edge DNS",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "apache",
+            "name": "Apache",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "bootstrap_framework",
+            "name": "Bootstrap Framework",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "cloudflare_hosting",
+            "name": "CloudFlare Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "elasticemail",
+            "name": "ElasticEmail",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_widget",
+            "name": "Facebook Widget",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4 (GA4)",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics_ecommerce_tracking",
+            "name": "Google Analytics Ecommerce Tracking",
+            "category": "E-commerce Tools"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "mailchimp_mandrill",
+            "name": "Mailchimp Mandrill",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "mailchimp_transactional_email_formerly_mandrill",
+            "name": "Mailchimp Transactional Email (formerly Mandrill)",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "mailgun",
+            "name": "Mailgun",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_powerpoint",
+            "name": "Microsoft PowerPoint",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nielsen_ad_intel",
+            "name": "Nielsen Ad Intel",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Widgets"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "power_bi_documenter",
+            "name": "Power BI Documenter",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "proofpoint",
+            "name": "Proofpoint",
+            "category": "Security"
+        },
+        {
+            "uid": "proofpoint_email_security_and_protection",
+            "name": "Proofpoint Email Security and Protection",
+            "category": "Security"
+        },
+        {
+            "uid": "rackspace_mailgun",
+            "name": "Rackspace MailGun",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce crm analytics",
+            "name": "Salesforce CRM Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "samsung_pay",
+            "name": "Samsung Pay",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wider_planet",
+            "name": "Wider Planet",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "yahoo_analytics",
+            "name": "Yahoo Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "yahoo_tag_manager",
+            "name": "Yahoo Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "yahoo_japan_promotional_ads",
+            "name": "Yahoo! Japan Promotional Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "Cloudflare",
+            "category": "CDN / Security"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics"
+        },
+        {
+            "uid": "slick_slider",
+            "name": "Slick Slider",
+            "category": "JavaScript Library"
+        },
+        {
+            "uid": "bootstrap",
+            "name": "Bootstrap",
+            "category": "CSS Framework"
+        },
+        {
+            "uid": "lineicons",
+            "name": "Lineicons",
+            "category": "Fonts"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/Schweppes‎",
+    "website_url": "http://www.suntorybeverageandfood-europe.com",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "Suntory Beverage & Food Limited",
+    "competitors": [
+        "Coca-Cola Europacific Partners",
+        "PepsiCo",
+        "Nestlé Waters",
+        "Danone",
+        "Refresco"
+    ],
+    "data_quality_score": 0.94
+}

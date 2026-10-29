@@ -1,0 +1,15 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Sylvain Eymard",
+        "clean_name_used": "Sylvain Eymard",
+        "linkedin_url": "https://www.linkedin.com/in/sylvaineymard/en/",
+        "company": "Filmfrance",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

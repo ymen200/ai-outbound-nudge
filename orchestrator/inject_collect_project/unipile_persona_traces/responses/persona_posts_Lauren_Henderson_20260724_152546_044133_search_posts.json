@@ -1,0 +1,181 @@
+{
+  "member_id": "ACoAAAFesO0BJW0aePLq7ExEpE0qibducomqkM4",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7475354884851036160",
+        "share_url": "https://www.linkedin.com/posts/lauren-henderson-3518447_clickup-brain2-salesleadership-activity-7475354884851036160-fg1y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1mo",
+        "comment_counter": 3,
+        "impressions_counter": 0,
+        "reaction_counter": 109,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I lead a commercial sales org at ClickUp, and Brain² has become the teammate I didn't know I needed. \n\nHere's how my team uses it daily:\n\n🔮 Forecast prep in seconds. Brain² pulls deal context, pipeline movement, and risk signals across our entire workspace. What used to take 30 min of tab-hopping before a forecast call now takes one prompt.\n\n📝 Meeting follow-ups that write themselves. AI Notetaker captures the call, Brain² drafts the recap and next steps, and posts it right in our deal channels. No one's scrambling to remember what was said.\n\n💬 Instant answers from tribal knowledge. New reps used to Slack five people to find a talk track or policy doc. Now they ask Brain² and get the answer with the source linked, in seconds.\n\n📊 Weekly updates without the Sunday scaries. I generate my leadership update from actual task and pipeline data, not from memory. It's more accurate and takes 2 minutes.\n\nThe difference between Brain² and every other AI tool I've tried? It actually knows our deals, our process, our people. It's not a generic chatbot; it's contextualized to how we work.\n\n#ClickUp #Brain2 #SalesLeadership #AI #Revenue",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "lauren-henderson-3518447",
+          "id": "ACoAAAFesO0BJW0aePLq7ExEpE0qibducomqkM4",
+          "name": "Lauren Henderson",
+          "is_company": false,
+          "headline": "Regional Vice President of Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEqls4LyoPgJw/profile-displayphoto-scale_400_400/B4EZwKWfi9KMAk-/0/1769700194918?e=1786579200&v=beta&t=f97ItcKiDGLrTlzpfI2HMKnvnHFXZB_JSBRjIyolZAw"
+        },
+        "id": "7475354884851036160",
+        "is_repost": false,
+        "parsed_datetime": "2026-06-24T01:11:29.926Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7459634398632636416",
+        "share_url": "https://www.linkedin.com/posts/lauren-henderson-3518447_your-small-business-shouldnt-need-6-tools-activity-7459634399047954432-HcTM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "2mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 15,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "DM me to learn more about the Small Business Suite and how we are helping accelerate our customer's AI journey!",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "lauren-henderson-3518447",
+          "id": "ACoAAAFesO0BJW0aePLq7ExEpE0qibducomqkM4",
+          "name": "Lauren Henderson",
+          "is_company": false,
+          "headline": "Regional Vice President of Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEqls4LyoPgJw/profile-displayphoto-scale_400_400/B4EZwKWfi9KMAk-/0/1769700194918?e=1786579200&v=beta&t=f97ItcKiDGLrTlzpfI2HMKnvnHFXZB_JSBRjIyolZAw"
+        },
+        "id": "7459634398632636416",
+        "is_repost": true,
+        "repost_id": "7459634399047954432",
+        "parsed_datetime": "2026-05-11T16:03:53.939Z",
+        "repost_content": {
+          "id": "7459621975527825408",
+          "date": "2mo",
+          "parsed_datetime": "2026-05-11T15:14:32.040Z",
+          "text": "Your small business shouldn't need 6 tools just to stay organized.\n \npath8 Productions was juggling Smartsheet, Slack, Toggl, and three other apps before deciding enough was enough. They moved everything into ClickUp's Small Business Suite and haven't looked back.\n \nOne workspace. 60% faster meeting prep. AI that actually understands their business. Zero disruption going live.\n \nHear it from Pat👇",
+          "author": {
+            "public_identifier": "clickup-app",
+            "id": null,
+            "name": "ClickUp",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7445239099608813569",
+        "share_url": "https://www.linkedin.com/posts/lauren-henderson-3518447_change-your-life-with-clickup-activity-7445239099608813569-U3E2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "3mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 2,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "We are hiring!! DM me if you are interested!",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "lauren-henderson-3518447",
+          "id": "ACoAAAFesO0BJW0aePLq7ExEpE0qibducomqkM4",
+          "name": "Lauren Henderson",
+          "is_company": false,
+          "headline": "Regional Vice President of Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEqls4LyoPgJw/profile-displayphoto-scale_400_400/B4EZwKWfi9KMAk-/0/1769700194918?e=1786579200&v=beta&t=f97ItcKiDGLrTlzpfI2HMKnvnHFXZB_JSBRjIyolZAw"
+        },
+        "id": "7445239099608813569",
+        "is_repost": true,
+        "repost_id": "7445239099608813569",
+        "parsed_datetime": "2026-04-01T22:42:07.200Z",
+        "repost_content": {
+          "id": "7445230352513630208",
+          "date": "3mo",
+          "parsed_datetime": "2026-04-01T22:07:21.730Z",
+          "text": "I am hiring an SMB Account Executive at ClickUp.\n\nIf you’re someone who thrives in a high energy, fast paced, high achieving environment, this could be a great fit.\n\nThis role will work directly with me and be a key part of a team focused on helping businesses transform the way they work. We’re looking for someone who is competitive, driven, coachable, and excited to make an impact every single day.\n\nAt ClickUp, we move quickly, aim high, and care deeply about building a world-class team. If you love solving problems, building relationships, and winning with a strong team around you, I’d love to connect.\n\nIf you or someone in your network may be a fit, feel free to reach out to me directly OR APPLY BELOW!!\n\nhttps://lnkd.in/gZMrTHNB\n\n#Hiring #SalesJobs #AccountExecutive #SMBsales #ClickUp #SalesCareers #NowHiring",
+          "author": {
+            "public_identifier": "bill-sanford-653249a9",
+            "id": "ACoAABb-rF8BwRFEX7EQ_i28uq45FVZzwtNhGdQ",
+            "name": "Bill Sanford",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7371205082308042752",
+        "share_url": "https://www.linkedin.com/posts/lauren-henderson-3518447_clickup-reaches-300m-plus-in-arr-eyes-ipo-activity-7371205082308042752-dLCM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 9,
+        "impressions_counter": 0,
+        "reaction_counter": 130,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "$300 million ARR! It’s hard to put into words how proud I am to be part of this team and this journey. What started as a bold idea has grown into something truly special, and this milestone is a testament to the power of purpose and perseverance.\n \nI’m so thankful for the team that’s made this possible and the customers who’ve trusted us to be part of their journey. Together, we’ve been relentless in our mission to end Work Sprawl with the first Converged AI Workspace, making it easier for teams to focus, collaborate, and achieve their goals. This is just the beginning, and I’m so excited for what’s ahead.\n \nCheck out the Axios interview with our CEO, Zeb Evans for an in-depth look at this milestone: \nhttps://lnkd.in/edJZMugw",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "lauren-henderson-3518447",
+          "id": "ACoAAAFesO0BJW0aePLq7ExEpE0qibducomqkM4",
+          "name": "Lauren Henderson",
+          "is_company": false,
+          "headline": "Regional Vice President of Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEqls4LyoPgJw/profile-displayphoto-scale_400_400/B4EZwKWfi9KMAk-/0/1769700194918?e=1786579200&v=beta&t=f97ItcKiDGLrTlzpfI2HMKnvnHFXZB_JSBRjIyolZAw"
+        },
+        "id": "7371205082308042752",
+        "is_repost": false,
+        "parsed_datetime": "2025-09-09T15:37:21.990Z",
+        "article": {
+          "id": "9212735737078888567",
+          "title": "ClickUp reaches $300M-plus in ARR, eyes IPO",
+          "author": "axios.com",
+          "url": "https://www.axios.com/pro/enterprise-software-deals/2025/09/09/click-up-project-management-ipo-plans?utm_source=editorial&utm_medium=social&utm_campaign=pro_edit_regwall_01-24&utm_term=regwall",
+          "published_at": "2039-08-09T07:22:44.072Z",
+          "picture_url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGtL3DRsDxuWw/articleshare-shrink_800/B4EZkubzFQIsAM-/0/1766441059875?e=1785510000&v=beta&t=V8o7VbFJX1p_xET0uscIiaBey1CxEewago51toAXS2w"
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAFesO0BJW0aePLq7ExEpE0qibducomqkM4"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 4,
+      "total_count": 4
+    },
+    "cursor": null
+  }
+}

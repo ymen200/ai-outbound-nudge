@@ -1,0 +1,24 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 1,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "61a93ee131efb100c24729f0",
+      "url": "https://ibsintelligence.com/top-10-fintech-deals-of-may-2021-uk-europe-version/",
+      "domain": "ibsintelligence.com",
+      "title": "Top 10 FinTech deals of May 2021 (UK & Europe version)",
+      "snippet": "Temenos, in April, announced that Santander International has selected the FinTech’s SaaS platform, implemented by Syncordis, to boost its core banking platform transformation.",
+      "organization_ids": [
+        "54a135f569702d3cbbbe1401"
+      ],
+      "published_at": "2021-05-05T08:08:51.000+00:00",
+      "event_categories": [
+        "signs_new_client"
+      ]
+    }
+  ]
+}

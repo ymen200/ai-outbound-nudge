@@ -1,0 +1,14 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Ociel Ornelas Montes",
+        "clean_name_used": "Ociel Ornelas Montes",
+        "linkedin_url": "https://www.linkedin.com/in/ooli",
+        "company": "Tesla",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

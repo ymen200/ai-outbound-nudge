@@ -1,0 +1,84 @@
+{
+  "member_id": "ACoAAAP6UOIBOg8jQ9abTXNdt7QkKUTMntVMW0c",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7371169274427740160",
+        "share_url": "https://www.linkedin.com/posts/magerner_certificate-of-excellence-in-leadership-activity-7371169276122046464-kCk3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 9,
+        "impressions_counter": 0,
+        "reaction_counter": 100,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I had the opportunity to attend another transforming leadership training opportunity here at Juniper Networks I had the opportunity to attend another transforming leadership training opportunity here at Juniper Networks. SBG Leadership Coaching and Consulting. This session focused on “The ABCs of Leadership Success” — a powerful framework that challenged us to reflect, grow, and lead with intention. \nHaving participated in previous trainings with SBG, I continue to be inspired by the depth of insight and perspective they bring to leadership development. Their approach is not just informative — it’s truly impactful.\nI am grateful to be part of a company that prioritizes continuous learning and empowers us to become better leaders every day. 💡\n#LeadershipDevelopment #ContinuousLearning #JuniperNetworks #SBGLeadership #ProfessionalGrowth #LeadershipSuccess",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/juniper-networks/",
+            "length": 16,
+            "start": 93
+          },
+          {
+            "url": "https://www.linkedin.com/company/juniper-networks/",
+            "length": 16,
+            "start": 203
+          },
+          {
+            "url": "https://www.linkedin.com/company/sbg-leadership-coaching-and-consulting/",
+            "length": 38,
+            "start": 221
+          }
+        ],
+        "attachments": [
+          {
+            "type": "file",
+            "id": "D561FAQEw_nRZ101EWA",
+            "file_name": "Certificate of Excellence in Leadership ",
+            "file_size": 0,
+            "mimetype": "application/pdf",
+            "unavailable": false,
+            "url": "https://media.licdn.com/dms/document/media/v2/D561FAQEw_nRZ101EWA/feedshare-document-sanitized-pdf/B56Zkukd6MI4A8-/0/1757422936969?e=1785510000&v=beta&t=Tjh4jmnWpjSqZdm0UsA7aUpGTCbpyPveFEi1zNCnv80",
+            "url_expires_at": 1785510000000
+          }
+        ],
+        "author": {
+          "public_identifier": "magerner",
+          "id": "ACoAAAP6UOIBOg8jQ9abTXNdt7QkKUTMntVMW0c",
+          "name": "Melanie Gerner",
+          "is_company": false,
+          "headline": "Sales Operations Manager | National Government",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFpPEViDAWDMQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714494248492?e=1786579200&v=beta&t=Tvx65Uau3Xk3nspu9b7VMa1UfM8owedyQLwHHh_X4nc"
+        },
+        "id": "7371169276122046464",
+        "is_repost": false,
+        "parsed_datetime": "2025-09-09T13:15:05.130Z"
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAP6UOIBOg8jQ9abTXNdt7QkKUTMntVMW0c"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 1,
+      "total_count": 1
+    },
+    "cursor": null
+  }
+}

@@ -1,0 +1,267 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Manager en Transformation et Change - People Experience & Change - IDF H/F",
+        "location": "Courbevoie, France",
+        "department": "Consulting",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Manager en Transformation et Change - People Experience & Change - IDF H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Manager Transformation & Change « Technology Adoption » - People Experience & Change - IDF H/F",
+        "location": "Courbevoie, France",
+        "department": "Consulting",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Manager Transformation & Change « Technology Adoption » - People Experience & Change - IDF H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Consultant(e) senior SIRH Spécialiste 'RenoiRH' - People Experience & Change - IDF H/F",
+        "location": "Courbevoie, France",
+        "department": "Consulting",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Consultant(e) senior SIRH Spécialiste 'RenoiRH' - People Experience & Change - IDF H/F",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Consultant(e) sénior formation digitale - People Experience & Change – IDF H/F",
+        "location": "Courbevoie, France",
+        "department": "Consulting",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Consultant(e) sénior formation digitale - People Experience & Change – IDF H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Consultant(e) sénior Data RH - People Experience & Change - IDF H/F",
+        "location": "Courbevoie, France",
+        "department": "Consulting",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Consultant(e) sénior Data RH - People Experience & Change - IDF H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Consultant(e) sénior en Transformation et Change - People Experience &- Change - IDF H/F",
+        "location": "Courbevoie, France",
+        "department": "Consulting",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Consultant(e) sénior en Transformation et Change - People Experience &- Change - IDF H/F",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Ingénieur(e) Calcul de Structures - Industrie - Mérignac",
+        "location": "Mérignac, France",
+        "department": "Engineering, Development, Applications",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Ingénieur(e) Calcul de Structures - Industrie - Mérignac",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Chef(fe) de projet IT - Industrie - Pau",
+        "location": "Pau, France",
+        "department": "Project and Product Management",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Chef(fe) de projet IT - Industrie - Pau",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Chef(fe) de projet / Product Owner - Industrie - Mérignac",
+        "location": "Mérignac, France",
+        "department": "Project and Product Management",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Chef(fe) de projet / Product Owner - Industrie - Mérignac",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Ingénieur(e) Développement & Intégration SI Nucléaire (Java / Fullstack) - Industrie - Mérignac",
+        "location": "Mérignac, France",
+        "department": "Engineering, Development, Applications",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Ingénieur(e) Développement & Intégration SI Nucléaire (Java / Fullstack) - Industrie - Mérignac",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Strategic Sales Executive - Infrastructure & Cloud - Développement Régional - Île-de-France",
+        "location": "Courbevoie, France",
+        "department": "Sales",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Strategic Sales Executive - Infrastructure & Cloud - Développement Régional - Île-de-France",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Ingénieur(e) Calcul de Structures - Industrie - Gramat",
+        "location": "Gramat, France",
+        "department": "Engineering, Development, Applications",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Ingénieur(e) Calcul de Structures - Industrie - Gramat",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Solution Architect 3DEXPERIENCE - Industrie - Toulouse",
+        "location": "Toulouse, France",
+        "department": "Architecture",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Solution Architect 3DEXPERIENCE - Industrie - Toulouse",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Développeur(se) C# .Net confirmé(e) - Industrie - Toulouse",
+        "location": "Toulouse, France",
+        "department": "Engineering, Development, Applications",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Développeur(se) C# .Net confirmé(e) - Industrie - Toulouse",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Product Owner confirmé(e) - Industrie - Toulouse",
+        "location": "Toulouse, France",
+        "department": "Engineering, Development, Applications",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Product Owner confirmé(e) - Industrie - Toulouse",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Consultant(e) Data Gouvernance - Industrie - Toulouse",
+        "location": "Toulouse, France",
+        "department": "Engineering, Development, Applications",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Consultant(e) Data Gouvernance - Industrie - Toulouse",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Ingénieur(e) Administrateur(rice) de systèmes virtualisés - Industrie - Toulouse",
+        "location": "Toulouse, France",
+        "department": "Infrastructure & Cloud Services",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Ingénieur(e) Administrateur(rice) de systèmes virtualisés - Industrie - Toulouse",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Ingénieur(e) Commercial(e) - Industrie - Toulouse",
+        "location": "Toulouse, France",
+        "department": "Sales",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Ingénieur(e) Commercial(e) - Industrie - Toulouse",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Join Sopra Steria: Over 8,500 Opportunities Worldwide in 2026 - In 2026, Sopra Steria will hire more than 8,500 professionals worldwide — with almost 90% of roles based in Europe.",
+        "date": "Feb 19, 2026",
+        "news_type": "Recruitment",
+        "confidence": 0.8,
+        "source": "Join Sopra Steria: Over 8,500 Opportunities Worldwide in 2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.29,
+            "evidence_density": 2.93
+        }
+    }
+]

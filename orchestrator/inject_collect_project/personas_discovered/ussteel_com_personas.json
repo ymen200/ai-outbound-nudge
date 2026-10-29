@@ -1,0 +1,39 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Ed Bill",
+        "clean_name_used": "Ed Bill",
+        "linkedin_url": "https://www.linkedin.com/in/ed-bill-5967a427",
+        "company": "Ussteel",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "AJAY KULKARNI",
+        "clean_name_used": "AJAY KULKARNI",
+        "linkedin_url": "https://www.linkedin.com/in/ajay-kulkarni-9601033b",
+        "company": "Ussteel",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Non trouvé",
+        "clean_name_used": "Non trouvé",
+        "linkedin_url": "Non trouvé",
+        "company": "Ussteel",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

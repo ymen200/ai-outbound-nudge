@@ -1,0 +1,140 @@
+{
+    "domain": "lidl.de",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Lidl in Germany",
+            "ai_value": "Lidl"
+        },
+        "domain": {
+            "database_value": "lidl.de",
+            "ai_value": "lidl.com"
+        },
+        "industry": {
+            "database_value": "retail",
+            "ai_value": "Supermarket"
+        },
+        "founded_year": {
+            "database_value": 1973,
+            "ai_value": "1973"
+        },
+        "short_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Lidl offers customers high-quality produce, meat, baked goods, household products and more at unbelievably low prices."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "estimated_num_employees": {
+            "database_value": 94000,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/lidl-in-deutschland",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "facebook_url": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "phone": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "raw_address": {
+            "database_value": "bonfelder straße 2, bad wimpfen, baden-württemberg 74206, de",
+            "ai_value": "2 Bonfelder Strasse, Bad Wimpfen, Germany"
+        },
+        "city": {
+            "database_value": "Bad Wimpfen",
+            "ai_value": "Bad Wimpfen"
+        },
+        "country": {
+            "database_value": "Germany",
+            "ai_value": "Germany"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": 31
+        },
+        "keywords": {
+            "database_value": "Non renseigné",
+            "ai_value": "supermarket, groceries, low prices, high quality, private label, produce, meat, baked goods, household products, international selection"
+        },
+        "technologies": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                {
+                    "name": "Myra Security",
+                    "category": "CDN / WAF / DDoS Protection",
+                    "confidence": 0.99,
+                    "source": "Déduction IA depuis empreinte technique: HEADERS HTTP: server: myracloud; SCRIPTS EXTERNES CHARGÉS: www.myrasecurity.com; PRÉFIXES CSS DÉTECTÉS: myra-*",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.83,
+                        "evidence_density": 0.09
+                    }
+                },
+                {
+                    "name": "OneTrust",
+                    "category": "Cookie Consent Management",
+                    "confidence": 0.95,
+                    "source": "Déduction IA depuis empreinte technique: SCRIPTS EXTERNES CHARGÉS: cdn.cookielaw.org; PRÉFIXES CSS DÉTECTÉS: optanon-*",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.84,
+                        "evidence_density": 0.07
+                    }
+                },
+                {
+                    "name": "Nuxt.js",
+                    "category": "Web Framework (Vue.js)",
+                    "confidence": 0.9,
+                    "source": "Déduction IA depuis empreinte technique: PRÉFIXES CSS DÉTECTÉS: nuxt-*",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.8,
+                        "evidence_density": 0.1
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Lidl US"
+            ]
+        },
+        "funding_events": {
+            "database_value": "Non renseigné",
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Aldi",
+                "Rewe",
+                "Edeka",
+                "Penny",
+                "Netto Marken-Discount"
+            ]
+        }
+    }
+}

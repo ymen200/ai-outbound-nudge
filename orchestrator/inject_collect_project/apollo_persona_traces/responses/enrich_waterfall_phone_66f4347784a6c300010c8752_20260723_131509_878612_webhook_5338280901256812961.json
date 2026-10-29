@@ -1,0 +1,109 @@
+{
+  "request_id": 5338280901256812961,
+  "webhook_status": "success",
+  "request_type": "waterfall",
+  "last_dispatched_at": "2026-07-23T12:15:07Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "target_fields": [
+      "phone_numbers"
+    ],
+    "records_enriched": 1,
+    "email_records_enriched": 0,
+    "mobile_records_enriched": 1,
+    "enrichment_not_found": 0,
+    "email_records_not_found": 0,
+    "mobile_records_not_found": 0,
+    "credits_consumed": 8,
+    "request_id": "5338280901256812961",
+    "request_initiated": "2026-07-23T12:14:50Z",
+    "request_completed": "2026-07-23T12:14:52Z",
+    "people": [
+      {
+        "id": "66f4347784a6c300010c8752",
+        "waterfall": {
+          "phone_numbers": [
+            {
+              "vendors": [
+                {
+                  "id": "upcell_mobile_finder-1",
+                  "name": "Upcell",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "findy_mail_phone_finder-1",
+                  "name": "FindyMail",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "apollo-1",
+                  "name": "Apollo",
+                  "status": "VERIFIED",
+                  "phone_numbers": [
+                    "+1 801-910-3672"
+                  ],
+                  "usedForVerification": false,
+                  "statusCode": "apollo_step_success",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "leadmagic_mobile_finder-1",
+                  "name": "LeadMagic",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            }
+          ]
+        },
+        "phone_numbers": [
+          {
+            "_id": "6a6205bb92cca000019bfcab",
+            "confidence_cd": "high",
+            "dnc_other_info": {
+              "country": "United States"
+            },
+            "dnc_status_cd": "found",
+            "dnc_status_updated_at": "2025-12-06T15:26:55.131Z",
+            "raw_number": "+1 801-910-3672",
+            "sanitized_number": "+18019103672",
+            "status_cd": "valid_number",
+            "type_cd": "mobile",
+            "id": "6a6205bb92cca000019bfcab",
+            "key": "6a6205bb92cca000019bfcab"
+          }
+        ],
+        "emails": []
+      }
+    ]
+  }
+}

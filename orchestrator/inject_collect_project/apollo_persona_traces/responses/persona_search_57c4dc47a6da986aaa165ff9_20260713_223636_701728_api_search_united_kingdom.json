@@ -1,0 +1,28 @@
+{
+  "total_entries": 1,
+  "people": [
+    {
+      "id": "66ada71eb5802600011c7097",
+      "first_name": "Sai",
+      "last_name_obfuscated": "Hu***n",
+      "title": "Sales Associate",
+      "last_refreshed_at": "2026-06-05T06:57:41.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "ICC United Kingdom",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

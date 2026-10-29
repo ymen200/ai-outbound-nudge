@@ -1,0 +1,154 @@
+{
+  "breadcrumbs": [
+    {
+      "label": "Company Name",
+      "signal_field_name": "q_organization_name",
+      "value": "Kenya",
+      "display_name": "Kenya"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "1-10",
+      "display_name": "≥ 1-10"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "11-50",
+      "display_name": "≥ 11-50"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "51-200",
+      "display_name": "≥ 51-200"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "201-500",
+      "display_name": "≥ 201-500"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "501-1000",
+      "display_name": "≥ 501-1000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "1001-5000",
+      "display_name": "≥ 1001-5000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "5001-10000",
+      "display_name": "≥ 5001-10000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "10001+",
+      "display_name": "≥ 10001+"
+    },
+    {
+      "label": "Company Locations",
+      "signal_field_name": "organization_locations",
+      "value": "Kenya",
+      "display_name": "Kenya"
+    },
+    {
+      "label": "Company Keywords Contain ANY Of",
+      "signal_field_name": "q_organization_keyword_tags",
+      "value": "Software",
+      "display_name": "Software"
+    }
+  ],
+  "partial_results_only": false,
+  "has_join": false,
+  "disable_eu_prospecting": false,
+  "partial_results_limit": 10000,
+  "pagination": {
+    "page": 1,
+    "per_page": 10,
+    "total_entries": 1,
+    "total_pages": 1
+  },
+  "num_fetch_result": null,
+  "model_ids": [
+    "5e57f3897defa50001cf0e2c"
+  ],
+  "organizations": [
+    {
+      "id": "5e57f3897defa50001cf0e2c",
+      "name": "TSC Kenya  - Teachers service Commission - Kenya",
+      "website_url": "http://www.hatequizzes.com",
+      "angellist_url": null,
+      "linkedin_url": "http://www.linkedin.com/company/tsc-kenya-teachers-service-commission-kenya",
+      "twitter_url": null,
+      "facebook_url": null,
+      "primary_phone": {},
+      "languages": [],
+      "alexa_ranking": null,
+      "phone": null,
+      "linkedin_uid": "30653011",
+      "founded_year": 1967,
+      "publicly_traded_symbol": null,
+      "publicly_traded_exchange": null,
+      "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/67669a1d475c8200016ea5de/picture",
+      "crunchbase_url": null,
+      "primary_domain": "hatequizzes.com",
+      "naics_codes": [
+        "92311",
+        "611"
+      ],
+      "industry": "e-learning",
+      "estimated_num_employees": 411000,
+      "keywords": [
+        "e-learning providers",
+        "services",
+        "internet",
+        "information technology & services",
+        "computer software",
+        "education",
+        "education management"
+      ],
+      "organization_revenue_printed": null,
+      "organization_revenue": 0.0,
+      "industries": [
+        "e-learning",
+        "government administration",
+        "education management"
+      ],
+      "secondary_industries": [
+        "government administration",
+        "education management"
+      ],
+      "snippets_loaded": true,
+      "industry_tag_id": "5567e19c7369641c48e70100",
+      "industry_tag_hash": {
+        "e-learning": "5567e19c7369641c48e70100",
+        "government administration": "5567cd527369643981050000",
+        "education management": "5567ce9e736964540d540000"
+      },
+      "retail_location_count": 0,
+      "raw_address": "@-1.299935,36.815289,14z?hl=en, nairobi, nairobi 10100, ke",
+      "street_address": "",
+      "city": "Nairobi",
+      "state": "Nairobi",
+      "country": "Kenya",
+      "postal_code": null,
+      "num_languages": 0,
+      "intent_strength": null,
+      "show_intent": false,
+      "has_intent_signal_account": false,
+      "intent_signal_account": null,
+      "organization_headcount_six_month_growth": null,
+      "organization_headcount_twelve_month_growth": null,
+      "organization_headcount_twenty_four_month_growth": null
+    }
+  ]
+}

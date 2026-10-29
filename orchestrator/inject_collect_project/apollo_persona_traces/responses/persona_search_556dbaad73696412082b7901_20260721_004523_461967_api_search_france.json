@@ -1,0 +1,143 @@
+{
+  "total_entries": 102,
+  "people": [
+    {
+      "id": "58c2955cf65125393851376f",
+      "first_name": "Laureline",
+      "last_name_obfuscated": "Ca***t",
+      "title": "Sales and Business Development Manager",
+      "last_refreshed_at": "2026-06-13T22:24:16.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Sopra Steria",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "6331696f215b720001351569",
+      "first_name": "Arnaud",
+      "last_name_obfuscated": "Le***r",
+      "title": "Sales and Business Development Manager",
+      "last_refreshed_at": "2025-08-14T17:52:01.009+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Sopra Steria",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "54a229d57468693825a78412",
+      "first_name": "Michel",
+      "last_name_obfuscated": "La***e",
+      "title": "Account Executive",
+      "last_refreshed_at": "2026-07-09T12:47:51.000+00:00",
+      "has_email": true,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "Sopra Steria",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "60d4452ac8f5240001e56a70",
+      "first_name": "Thibault",
+      "last_name_obfuscated": "Lu***s",
+      "title": "Ingénieur Commercial/ Sales",
+      "last_refreshed_at": "2026-07-09T03:46:12.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Sopra Steria",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5b629d14060cd44ad739b812",
+      "first_name": "David",
+      "last_name_obfuscated": "El***m",
+      "title": "Business Development & Partnerships",
+      "last_refreshed_at": "2026-07-05T21:43:51.985+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Sopra Steria",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "63553a7a0be48b0001b327c3",
+      "first_name": "Sacha",
+      "last_name_obfuscated": "Dr***u",
+      "title": "Apprenti Business Development",
+      "last_refreshed_at": "2026-06-11T02:45:46.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Sopra Steria",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Lining Zhang",
+        "clean_name_used": "Lining Zhang",
+        "linkedin_url": "https://ca.linkedin.com/in/liningzhang",
+        "company": "Lining",
+        "email": "lining@lining.com",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Eben Cunningham",
+        "clean_name_used": "Eben Cunningham",
+        "linkedin_url": "https://uk.linkedin.com/in/eben-cunningham",
+        "company": "Lining",
+        "email": "eben@lining.com",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Chip Langston",
+        "clean_name_used": "Chip Langston",
+        "linkedin_url": "https://www.linkedin.com/in/chip-langston-b9b849a7",
+        "company": "Lining",
+        "email": "chip@lining.com",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    }
+]

@@ -1,0 +1,67 @@
+{
+  "member_id": "ACoAAADtCfsBdmI7hTxffTtdYX8Pw_JXlKznscY",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7415063998204678144",
+        "share_url": "https://www.linkedin.com/posts/jasonakahn_were-growing-our-team-and-excited-to-hire-activity-7415063998204678144-6987?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "6mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 26,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "We’re growing our team and excited to hire for a newly created role that will help lead our graduate school strategy.  If you know someone please share this opportunity wirh your network and encourage them to apply using the link in the description. Our recruiting team will begin reaching out to qualified applicants over the next few weeks.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "jasonakahn",
+          "id": "ACoAAADtCfsBdmI7hTxffTtdYX8Pw_JXlKznscY",
+          "name": "Jason Kahn",
+          "is_company": false,
+          "headline": "Sales Operations| Higher Education Finance | Private Loans | Fintech",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQHd9pffbR9m-w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1574261035885?e=1786579200&v=beta&t=DjLhp_DQWz5h89gPk5Whjkgi9hP_wM88T0XfCqxIV4I"
+        },
+        "id": "7415063998204678144",
+        "is_repost": false,
+        "parsed_datetime": "2026-01-08T16:17:02.399Z",
+        "job_posting": {
+          "id": "4358564270",
+          "title": "Campus Relationship Director",
+          "location": "United States (Remote)",
+          "company": {
+            "id": "2301992",
+            "name": "SoFi",
+            "picture_url": "https://media.licdn.com/dms/image/v2/C560BAQH0xjWQVXJr6w/company-logo_200_200/company-logo_200_200/0/1630660955481/sofi_logo?e=1786579200&v=beta&t=t7tzC37RALsxEzqX8_sq563xny0qUFT3qOJVaRatfz8"
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAADtCfsBdmI7hTxffTtdYX8Pw_JXlKznscY"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 1,
+      "total_count": 1
+    },
+    "cursor": null
+  }
+}

@@ -1,0 +1,67 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Participation de TABC au Tunisia Investment Forum 2026 - Participation of TABC at the Tunisia Investment Forum 2026",
+        "date": "2026-06-26",
+        "news_type": "Event",
+        "confidence": 0.9,
+        "source": "Participation de TABC au Tunisia Investment Forum 2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.26,
+            "evidence_density": 2.13
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Workshop TABC – COTUNACE - TABC - COTUNACE Workshop",
+        "date": "2026-06-24",
+        "news_type": "Event",
+        "confidence": 0.8,
+        "source": "Workshop TABC – COTUNACE",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.16,
+            "evidence_density": 2.12
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Retour sur l’Afterwork TABC consacré au lancement de la Deal Room Permanente - Review of the TABC Afterwork dedicated to the launch of the Permanent Deal Room",
+        "date": "2026-06-10",
+        "news_type": "Event",
+        "confidence": 0.8,
+        "source": "Retour sur l’Afterwork TABC consacré au lancement de la Deal Room Permanente",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.15,
+            "evidence_density": 2.08
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Visite du Président de TABC au Groupe TELNET - Visit of the President of TABC to the TELNET Group",
+        "date": "2026-05-18",
+        "news_type": "Event",
+        "confidence": 0.8,
+        "source": "Visite du Président de TABC au Groupe TELNET",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.18,
+            "evidence_density": 2.2
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "FITA2026 - FINANCING INVESTMENT & TRADE in AFRICA – FITA2026",
+        "date": "2026-04-28",
+        "news_type": "Event",
+        "confidence": 0.9,
+        "source": "FITA2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.66,
+            "evidence_density": 7.5
+        }
+    }
+]

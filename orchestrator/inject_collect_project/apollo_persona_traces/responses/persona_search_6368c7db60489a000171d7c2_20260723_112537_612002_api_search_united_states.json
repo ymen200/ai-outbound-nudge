@@ -1,0 +1,28 @@
+{
+  "total_entries": 10,
+  "people": [
+    {
+      "id": "60e5318086cfa70001946344",
+      "first_name": "Maggie",
+      "last_name_obfuscated": "Ko***g",
+      "title": "Sales Operations Manager",
+      "last_refreshed_at": "2026-07-06T15:56:14.025+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "Slack",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

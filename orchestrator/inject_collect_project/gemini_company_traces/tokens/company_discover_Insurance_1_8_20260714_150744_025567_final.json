@@ -1,0 +1,154 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 5,
+    "successful_calls": 4,
+    "failed_calls": 1,
+    "prompt_tokens": 19462,
+    "candidates_tokens": 2159,
+    "thoughts_tokens": 2757,
+    "cached_content_tokens": 0,
+    "total_tokens": 24378,
+    "by_model": {
+      "gemini-3.1-flash-lite-preview": {
+        "calls": 2,
+        "total_tokens": 324,
+        "prompt_tokens": 298,
+        "candidates_tokens": 26
+      },
+      "gemini-2.5-flash": {
+        "calls": 1,
+        "total_tokens": 16594,
+        "prompt_tokens": 12793,
+        "candidates_tokens": 1927
+      },
+      "gemini-3-flash-preview": {
+        "calls": 1,
+        "total_tokens": 7460,
+        "prompt_tokens": 6371,
+        "candidates_tokens": 206
+      }
+    },
+    "by_operation": {
+      "browser_config": {
+        "calls": 1,
+        "total_tokens": 149,
+        "prompt_tokens": 124,
+        "candidates_tokens": 25
+      },
+      "extract_apollo": {
+        "calls": 1,
+        "total_tokens": 16594,
+        "prompt_tokens": 12793,
+        "candidates_tokens": 1927
+      },
+      "navigation": {
+        "calls": 1,
+        "total_tokens": 175,
+        "prompt_tokens": 174,
+        "candidates_tokens": 1
+      },
+      "post_process": {
+        "calls": 1,
+        "total_tokens": 7460,
+        "prompt_tokens": 6371,
+        "candidates_tokens": 206
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-14T15:06:52.357991",
+        "prompt_token_count": 124,
+        "candidates_token_count": 25,
+        "total_token_count": 149,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-14T15:07:10.163786"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-14T15:07:31.058322",
+        "prompt_token_count": 12793,
+        "candidates_token_count": 1927,
+        "total_token_count": 16594,
+        "thoughts_token_count": 1874,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-14T15:07:31.521621",
+        "prompt_token_count": 174,
+        "candidates_token_count": 1,
+        "total_token_count": 175,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-14T15:07:40.433461",
+        "prompt_token_count": 6371,
+        "candidates_token_count": 206,
+        "total_token_count": 7460,
+        "thoughts_token_count": 883,
+        "cached_content_token_count": 0
+      }
+    ],
+    "companies_scraped_attempted": 1,
+    "companies_scraped_succeeded": 1,
+    "industries": [
+      "Insurance",
+      "Fintech"
+    ],
+    "locations": [
+      "France",
+      "Germany",
+      "United Kingdom",
+      "Italy",
+      "Spain",
+      "Poland",
+      "Russia",
+      "Netherlands"
+    ]
+  }
+}

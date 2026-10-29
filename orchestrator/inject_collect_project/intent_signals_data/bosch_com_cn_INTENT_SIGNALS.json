@@ -1,0 +1,55 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Join Bosch",
+        "location": "China",
+        "department": "Not specified",
+        "date": "Not specified",
+        "confidence": 0.7,
+        "source": "加入博世",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.7,
+            "evidence_density": 2.5
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "2026 Bosch Connected World Conference: Advancing Automation and Robotics Innovation",
+        "date": "06-11-2026",
+        "news_type": "Conference",
+        "confidence": 0.9,
+        "source": "2026博世互联世界大会（BCW）: 传感器到系统解决方案，博世持续推进自动化与机器人技术创新",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.76,
+            "evidence_density": 1.77
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Bosch Partners with Tsinghua University",
+        "date": "04-25-2026",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "博世与清华大学合作签约",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.8,
+            "evidence_density": 3.55
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "2026 Beijing Auto Show",
+        "date": "04-24-2026",
+        "news_type": "Event",
+        "confidence": 0.8,
+        "source": "2026北京车展",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.53,
+            "evidence_density": 2.75
+        }
+    }
+]

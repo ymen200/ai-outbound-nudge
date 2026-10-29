@@ -1,0 +1,35 @@
+{
+  "request_id": 8741026084397316024,
+  "webhook_status": "success",
+  "request_type": "phone",
+  "last_dispatched_at": "2026-07-20T23:49:28Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "unique_enriched_records": 1,
+    "missing_records": 0,
+    "credits_consumed": 8,
+    "people": [
+      {
+        "id": "66ee7b482871ba0001979c73",
+        "status": "success",
+        "phone_numbers": [
+          {
+            "_id": "6a5eb405e1e3c80001d37d28",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+1 469-500-3296",
+            "sanitized_number": "+14695003296",
+            "status_cd": "valid_number",
+            "type_cd": "mobile",
+            "id": "6a5eb405e1e3c80001d37d28",
+            "key": "6a5eb405e1e3c80001d37d28"
+          }
+        ]
+      }
+    ]
+  }
+}

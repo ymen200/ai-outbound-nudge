@@ -1,0 +1,83 @@
+{
+    "intent_summary": {
+        "hiring_dynamic": {
+            "value": "Low",
+            "confidence": 0.2,
+            "source": "aucune information sur les offres d'emploi",
+            "xai_metrics": {
+                "faithfulness_score": 0,
+                "calibration_error": 0.11,
+                "evidence_density": 0.07
+            }
+        },
+        "growth_signals_detected": {
+            "value": "Lancement de nouveaux modèles de véhicules, notamment le 2027 Atlas SUV",
+            "confidence": 0.8,
+            "source": "The all-new 2027 Atlas SUV— something big is coming",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.47,
+                "evidence_density": 1.39
+            }
+        }
+    },
+    "job_offers": [],
+    "news_articles": [
+        {
+            "title": {
+                "value": "Lancement du 2027 Atlas SUV",
+                "confidence": 0.9,
+                "source": "The all-new 2027 Atlas SUV— something big is coming",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.44,
+                    "evidence_density": 0.53
+                }
+            },
+            "date": {
+                "value": "2026",
+                "confidence": 0.8,
+                "source": "The all-new 2027 Atlas SUV— something big is coming",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.69,
+                    "evidence_density": 0.08
+                }
+            },
+            "summary": {
+                "value": "Volkswagen lance un nouveau modèle de SUV, le 2027 Atlas SUV",
+                "confidence": 0.8,
+                "source": "The all-new 2027 Atlas SUV— something big is coming",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.46,
+                    "evidence_density": 1.18
+                }
+            }
+        }
+    ],
+    "strategic_events": [
+        {
+            "type": {
+                "value": "Lancement de produit",
+                "confidence": 0.9,
+                "source": "The all-new 2027 Atlas SUV— something big is coming",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.65,
+                    "evidence_density": 0.39
+                }
+            },
+            "description": {
+                "value": "Volkswagen lance un nouveau modèle de SUV, le 2027 Atlas SUV",
+                "confidence": 0.8,
+                "source": "The all-new 2027 Atlas SUV— something big is coming",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.46,
+                    "evidence_density": 1.18
+                }
+            }
+        }
+    ]
+}

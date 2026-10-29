@@ -1,0 +1,1795 @@
+{
+  "organization": {
+    "id": "5e73b85516efec008c751897",
+    "name": "Bloomberg",
+    "website_url": null,
+    "angellist_url": "http://angel.co/bloomberg",
+    "linkedin_url": "http://www.linkedin.com/company/bloomberg-lp",
+    "twitter_url": "http://twitter.com/bloombergnews",
+    "facebook_url": "http://www.facebook.com/bloombergnews",
+    "languages": [],
+    "alexa_ranking": null,
+    "phone": "+1 212-318-2000",
+    "linkedin_uid": "2494",
+    "founded_year": 1981,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66da98edb12bcc0001048179/picture",
+    "crunchbase_url": null,
+    "primary_domain": null,
+    "sic_codes": [
+      "7380",
+      "8700"
+    ],
+    "naics_codes": [
+      "518210",
+      "513120",
+      "516120"
+    ],
+    "primary_phone": {
+      "number": "+1 212-318-2000",
+      "sanitized_number": "+12123182000"
+    },
+    "sanitized_phone": "+12123182000",
+    "industry": "financial services",
+    "estimated_num_employees": 27000,
+    "keywords": [
+      "financial data",
+      "analysis",
+      "software engineering",
+      "machine learning",
+      "news",
+      "media",
+      "software",
+      "information technology",
+      "artificial intelligence",
+      "information technology & services"
+    ],
+    "organization_revenue_printed": "15B",
+    "organization_revenue": 15000000000.0,
+    "industries": [
+      "financial services",
+      "information services",
+      "publishing",
+      "broadcast media",
+      "information technology & services",
+      "computer software"
+    ],
+    "secondary_industries": [
+      "information services",
+      "publishing",
+      "broadcast media",
+      "information technology & services",
+      "computer software"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cdd67369643e64020000",
+    "industry_tag_hash": {
+      "financial services": "5567cdd67369643e64020000",
+      "information services": "5567e0c97369640d2b3b1600",
+      "publishing": "5567ce5b73696439a17a0000",
+      "broadcast media": "5567e0f973696416d34e0200",
+      "information technology & services": "5567cd4773696439b10b0000",
+      "computer software": "5567cd4e7369643b70010000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "731 Lexington Ave., New York, NY 10022, US",
+    "street_address": "731 Lexington Avenue",
+    "city": "New York",
+    "state": "New York",
+    "postal_code": "10022",
+    "country": "United States",
+    "owned_by_organization_id": "5f47c9a4befecd00017ee8b5",
+    "owned_by_organization": {
+      "id": "5f47c9a4befecd00017ee8b5",
+      "name": "Bloomberg News",
+      "website_url": "http://www.bloomberg.com"
+    },
+    "num_languages": 0,
+    "owned_by_chain": [
+      "5f47c9a4befecd00017ee8b5"
+    ],
+    "num_retail_locations": 0,
+    "ultimate_parent_organization": {
+      "id": "5f47c9a4befecd00017ee8b5",
+      "name": "Bloomberg News",
+      "website_url": "http://www.bloomberg.com"
+    },
+    "short_description": "Bloomberg L.P. is a privately held American company based in Midtown Manhattan, New York City. Founded in 1981 by Michael Bloomberg and others, it specializes in financial software, data, and media. The company provides real-time financial information, analytics, news, and trading tools primarily for financial professionals and organizations around the world.\n\nBloomberg's core offerings include the Bloomberg Terminal, an integrated software platform that delivers real-time price data and trading capabilities. The company also offers enterprise applications, industry-specific products, and a range of media services, including Bloomberg News, Bloomberg Television, and Bloomberg Radio. With over 19,000 employees and a global presence across multiple continents, Bloomberg serves a diverse clientele, including financial institutions, corporate enterprises, government agencies, and professionals in various industries. Its services aim to enhance transparency and efficiency in global markets.",
+    "suborganizations": [
+      {
+        "id": "60b870f454984e00f7a27a7f",
+        "name": "Viridios Climate",
+        "website_url": "http://www.viridios.ai",
+        "industries": [
+          "information services",
+          "computer software",
+          "environmental services"
+        ],
+        "estimated_num_employees": 7,
+        "country": "Australia"
+      },
+      {
+        "id": "673c6edd4b21390001875807",
+        "name": "Bloomer Consultoria",
+        "website_url": "http://www.bloomberg.com.br",
+        "industries": [
+          "management consulting"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Brazil"
+      },
+      {
+        "id": "6670b904d5c11000011f4c8a",
+        "name": "RegTek.Solutions",
+        "website_url": "http://www.regtek.solutions",
+        "industries": [
+          "capital markets"
+        ],
+        "estimated_num_employees": 3,
+        "country": "United States"
+      },
+      {
+        "id": "682449bbf3d93a00013d7b8f",
+        "name": "RegTek, Inc.",
+        "website_url": "http://www.regteksolutions.com",
+        "industries": [],
+        "estimated_num_employees": 0,
+        "country": "United States"
+      },
+      {
+        "id": "5569ae2b7369642565167700",
+        "name": "Bloomberg Second Measure",
+        "website_url": "http://www.secondmeasure.com",
+        "industries": [
+          "information technology & services",
+          "information services",
+          "market research",
+          "computer software"
+        ],
+        "estimated_num_employees": 5,
+        "country": "United States"
+      },
+      {
+        "id": "5b14d0a0a6da98714a06ab71",
+        "name": "Bloomberg Businessweek",
+        "website_url": null,
+        "industries": [
+          "telecommunications",
+          "publishing"
+        ],
+        "estimated_num_employees": 79,
+        "country": "United States"
+      },
+      {
+        "id": "5d32ceb980f93e04253afd6c",
+        "name": "Bloomberg Law",
+        "website_url": "http://www.bloomberglaw.com",
+        "industries": [
+          "legal services",
+          "information services",
+          "publishing"
+        ],
+        "estimated_num_employees": 200,
+        "country": "United States"
+      },
+      {
+        "id": "63126fa1410e780001efd5c9",
+        "name": "Big Law Business",
+        "website_url": null,
+        "industries": [
+          "legal services"
+        ],
+        "estimated_num_employees": 0,
+        "country": "United States"
+      },
+      {
+        "id": "673dab52e2ff6c0001718b73",
+        "name": "New Energy Finance Limited",
+        "website_url": null,
+        "industries": [],
+        "estimated_num_employees": 0,
+        "country": "United Kingdom"
+      },
+      {
+        "id": "5fd76a18cc4c3d00d67c88da",
+        "name": "Bloomberg Media",
+        "website_url": "http://www.bloombergmedia.com",
+        "industries": [
+          "online media",
+          "broadcast media"
+        ],
+        "estimated_num_employees": 220,
+        "country": "United States"
+      },
+      {
+        "id": "5dc04576e5ae4100fc2a6899",
+        "name": "Bloomberg Industry Group",
+        "website_url": null,
+        "industries": [
+          "information technology & services",
+          "information services",
+          "publishing"
+        ],
+        "estimated_num_employees": 1900,
+        "country": "United States"
+      },
+      {
+        "id": "6729fbff49157d00010775fe",
+        "name": "彭博资讯(北京)有限公司",
+        "website_url": "http://www.bloombergchina.com",
+        "industries": [
+          "information technology & services"
+        ],
+        "estimated_num_employees": 3,
+        "country": "China"
+      },
+      {
+        "id": "54a11d1669702d8ed4e9e500",
+        "name": "Broadway Technology",
+        "website_url": "http://www.broadwaytechnology.com",
+        "industries": [
+          "information technology & services",
+          "computer software"
+        ],
+        "estimated_num_employees": 51,
+        "country": "United States"
+      },
+      {
+        "id": "5b13291ea6da98dcd4b79ff9",
+        "name": "Bloomberg Tax",
+        "website_url": "http://www.bloombergtax.com",
+        "industries": [
+          "information technology & services",
+          "information services",
+          "publishing"
+        ],
+        "estimated_num_employees": 57,
+        "country": "United States"
+      },
+      {
+        "id": "5da37d705bc06e00010cc28e",
+        "name": "Bloomberg Live",
+        "website_url": "http://www.bloomberglive.com",
+        "industries": [
+          "publishing",
+          "events services"
+        ],
+        "estimated_num_employees": 21,
+        "country": "United States"
+      },
+      {
+        "id": "5e9ee4cc980533008c4164df",
+        "name": "Bloomberg BNA",
+        "website_url": null,
+        "industries": [
+          "information services",
+          "publishing",
+          "computer software",
+          "printing",
+          "legal services"
+        ],
+        "estimated_num_employees": 950,
+        "country": "United States"
+      },
+      {
+        "id": "5e57f72ad2bd68000121de4f",
+        "name": "Bloomberg Japan",
+        "website_url": null,
+        "industries": [],
+        "estimated_num_employees": 3,
+        "country": "Japan"
+      },
+      {
+        "id": "5f2a0f6ad5748700be61d77e",
+        "name": "Dashboard Legal by Bloomberg Law",
+        "website_url": null,
+        "industries": [
+          "information technology & services",
+          "computer software"
+        ],
+        "estimated_num_employees": 1,
+        "country": "United States"
+      },
+      {
+        "id": "55e17319f3e5bb3cd1000047",
+        "name": "Bloomberg Government",
+        "website_url": "http://www.bgov.com",
+        "industries": [
+          "information technology & services",
+          "computer software",
+          "information services",
+          "internet"
+        ],
+        "estimated_num_employees": 440,
+        "country": "United States"
+      },
+      {
+        "id": "54a1ba3b7468695475f7840b",
+        "name": "Bloomberg Data Management Services",
+        "website_url": null,
+        "industries": [
+          "information technology & services"
+        ],
+        "estimated_num_employees": 82,
+        "country": "Ireland"
+      },
+      {
+        "id": "5f47c9a4befecd00017ee8b5",
+        "name": "Bloomberg News",
+        "website_url": "http://www.bloomberg.com",
+        "industries": [
+          "online media",
+          "publishing",
+          "broadcast media"
+        ],
+        "estimated_num_employees": 3700,
+        "country": "United States"
+      },
+      {
+        "id": "674ec393d8116f000100c576",
+        "name": "RTS Realtime Systems Aktiengesellschaft",
+        "website_url": null,
+        "industries": [],
+        "estimated_num_employees": 0,
+        "country": "Germany"
+      }
+    ],
+    "num_suborganizations": 22,
+    "annual_revenue_printed": "15B",
+    "annual_revenue": 15000000000.0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      ".NET",
+      "AI",
+      "ASP.NET",
+      "AVRO",
+      "AWS Cloud",
+      "AWS Fargate",
+      "AWS Lambda",
+      "Airflow",
+      "Alteryx",
+      "Amazon API Gateway",
+      "Amazon AWS",
+      "Amazon EC2",
+      "Amazon Elastic Kubernetes Service",
+      "Amazon S3",
+      "Android",
+      "Angular",
+      "AngularJS",
+      "Ansible",
+      "Anthropic Claude",
+      "Apache",
+      "Apache Arrow",
+      "Apache Flink",
+      "Apache Hadoop",
+      "Apache Hadoop HDFS",
+      "Apache Iceberg",
+      "Apache Kafka",
+      "Apache Lucene",
+      "Apache Solr",
+      "Apache Spark",
+      "Apache Storm",
+      "Apache Superset",
+      "Apollo",
+      "Apple",
+      "Apple Business Manager",
+      "Apple School Manager",
+      "Apple iOS",
+      "Apple iPhone",
+      "Apple macOS",
+      "Argo",
+      "Asana",
+      "Atlassian",
+      "Atlassian Confluence",
+      "Avature",
+      "Azure Active Directory",
+      "Azure Data Factory",
+      "Azure Devops",
+      "Bash",
+      "Blueprism",
+      "Burp Suite",
+      "C#",
+      "C++",
+      "CMake",
+      "CONDA",
+      "CSS",
+      "Cassandra",
+      "Ceph",
+      "ChatGPT",
+      "Cisco ASA",
+      "Cisco Nexus",
+      "Cisco Unified Communications Manager",
+      "Citrix",
+      "Copilot",
+      "Crestron",
+      "Cucumber",
+      "Cursor",
+      "CyberArk",
+      "Cypress",
+      "Databricks",
+      "Debian",
+      "Delta Lake",
+      "Django",
+      "Docker",
+      "DocuSign",
+      "Eloqua",
+      "Envoy",
+      "Express",
+      "Fastapi",
+      "Figma",
+      "Flask",
+      "GRPC",
+      "Genetec",
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "GitHub Copilot",
+      "GitLab",
+      "Go",
+      "Google",
+      "Google Ad Manager",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Cloud BigQuery",
+      "Google Search Console",
+      "Google Search Console",
+      "Grafana",
+      "GraphQL",
+      "Groovy",
+      "HAProxy",
+      "HTML",
+      "Hbase",
+      "Hive",
+      "Hugging Face",
+      "Humio",
+      "IBM",
+      "IIS",
+      "Instagram",
+      "JSON",
+      "JWT",
+      "Jamf",
+      "Jasmine",
+      "Java",
+      "JavaScript",
+      "Jenkins",
+      "Jira",
+      "Jitsi",
+      "Jupyter",
+      "JupyterLab",
+      "Kofax",
+      "Kubernetes",
+      "Langchain",
+      "LexisNexis",
+      "Linux",
+      "Macaron",
+      "Microsoft 365",
+      "Microsoft Active Directory",
+      "Microsoft Azure",
+      "Microsoft Endpoint Configuration Manager",
+      "Microsoft Excel",
+      "Microsoft Intune",
+      "Microsoft Office",
+      "Microsoft OneDrive",
+      "Microsoft Power BI",
+      "Microsoft PowerShell",
+      "Microsoft Sharepoint",
+      "Microsoft Sql Server",
+      "Microsoft Teams",
+      "Microsoft Windows",
+      "MongoDB",
+      "MySQL",
+      "NLP",
+      "NS1",
+      "NVIDIA",
+      "NetApp Common Internet File System",
+      "NeuStar",
+      "Next.js",
+      "Nginx",
+      "Node.js",
+      "Nortel",
+      "NumPy",
+      "Open Policy Agent",
+      "OpenAI",
+      "OpenAPI",
+      "OpenStack",
+      "OpenTelemetry",
+      "Oracle Database",
+      "Oracle PeopleSoft",
+      "Oracle Solaris",
+      "PHP",
+      "Perl",
+      "Playwright",
+      "PostgreSQL",
+      "Prisma",
+      "Prometheus",
+      "PySpark",
+      "PyTorch",
+      "Pytest",
+      "Python",
+      "Python 3.8",
+      "Qlik Sense",
+      "REST",
+      "RabbitMQ",
+      "React",
+      "React Native",
+      "Red Hat",
+      "Red Hat Enterprise Linux",
+      "Red Hat OpenShift",
+      "Redis",
+      "Redux",
+      "Ruby",
+      "Ruby On Rails",
+      "Rust",
+      "SAP",
+      "SAP Ariba",
+      "SAP Financial Supply Chain Management",
+      "SAP R/3",
+      "SAP S/4HANA",
+      "SQL",
+      "SWIFT",
+      "Salesforce",
+      "SaltStack",
+      "Scala",
+      "Slack",
+      "Snowflake",
+      "Sony",
+      "Splunk",
+      "Spring",
+      "Spring Boot",
+      "Spring Cloud",
+      "Sqlalchemy",
+      "Streamlit",
+      "T-SQL",
+      "Tableau",
+      "TensorFlow",
+      "Terraform",
+      "Toolkit",
+      "TypeScript",
+      "Ubuntu",
+      "UltraDns",
+      "Unix",
+      "VBA",
+      "VMware",
+      "VMware AirWatch",
+      "VMware ESXi",
+      "VMware vCenter",
+      "Vertex",
+      "Visual Studio",
+      "VueJS",
+      "WebRTC",
+      "Windows Server",
+      "Wordpress",
+      "Workday",
+      "Workday HCM",
+      "X (Twitter)",
+      "XGBoost",
+      "XML",
+      "YouTube",
+      "ZooKeeper",
+      "Zoom Meetings",
+      "ebs",
+      "jQuery",
+      "npm",
+      "pandas",
+      "python celery",
+      "scikit-learn",
+      "vSphere",
+      "webpack"
+    ],
+    "current_technologies": [
+      {
+        "uid": "net",
+        "name": ".NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "asp_net",
+        "name": "ASP.NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "avro",
+        "name": "AVRO",
+        "category": "Database"
+      },
+      {
+        "uid": "aws_cloud",
+        "name": "AWS Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_fargate",
+        "name": "AWS Fargate",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_lambda",
+        "name": "AWS Lambda",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "airflow",
+        "name": "Airflow",
+        "category": "Other"
+      },
+      {
+        "uid": "alteryx",
+        "name": "Alteryx",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_api_gateway",
+        "name": "Amazon API Gateway",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_ec2",
+        "name": "Amazon EC2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_elastic_kubernetes_service_amazon_eks",
+        "name": "Amazon Elastic Kubernetes Service",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_s3",
+        "name": "Amazon S3",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "android",
+        "name": "Android",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "angular",
+        "name": "Angular",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "angularjs",
+        "name": "AngularJS",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ansible",
+        "name": "Ansible",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "anthropic_claude",
+        "name": "Anthropic Claude",
+        "category": "Other"
+      },
+      {
+        "uid": "apache",
+        "name": "Apache",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "apache_arrow",
+        "name": "Apache Arrow",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "apache_flink",
+        "name": "Apache Flink",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apache_hadoop",
+        "name": "Apache Hadoop",
+        "category": "Database"
+      },
+      {
+        "uid": "apache_hadoop_hdfs",
+        "name": "Apache Hadoop HDFS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apache_iceberg",
+        "name": "Apache Iceberg",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "apache_kafka",
+        "name": "Apache Kafka",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "apache_lucene",
+        "name": "Apache Lucene",
+        "category": "ERP"
+      },
+      {
+        "uid": "apache_solr",
+        "name": "Apache Solr",
+        "category": "Search Appliances"
+      },
+      {
+        "uid": "apache_spark",
+        "name": "Apache Spark",
+        "category": "Database"
+      },
+      {
+        "uid": "apache_storm",
+        "name": "Apache Storm",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apache_superset",
+        "name": "Apache Superset",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "apollo",
+        "name": "Apollo",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "apple",
+        "name": "Apple",
+        "category": "Other"
+      },
+      {
+        "uid": "apple_business_manager",
+        "name": "Apple Business Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apple_school_manager",
+        "name": "Apple School Manager",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "apple_ios",
+        "name": "Apple iOS",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "apple_iphone",
+        "name": "Apple iPhone",
+        "category": "Other"
+      },
+      {
+        "uid": "apple_macos",
+        "name": "Apple macOS",
+        "category": "Other"
+      },
+      {
+        "uid": "argo",
+        "name": "Argo",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "asana",
+        "name": "Asana",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "atlassian",
+        "name": "Atlassian",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "atlassian_confluence",
+        "name": "Atlassian Confluence",
+        "category": "CMS"
+      },
+      {
+        "uid": "avature",
+        "name": "Avature",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "azure_active_directory",
+        "name": "Azure Active Directory",
+        "category": "Security"
+      },
+      {
+        "uid": "azure_data_factory",
+        "name": "Azure Data Factory",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "azure devops",
+        "name": "Azure Devops",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "bash",
+        "name": "Bash",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "blueprism",
+        "name": "Blueprism",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "burp_suite",
+        "name": "Burp Suite",
+        "category": "Security"
+      },
+      {
+        "uid": "c#",
+        "name": "C#",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "c++",
+        "name": "C++",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "cmake",
+        "name": "CMake",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "conda",
+        "name": "CONDA",
+        "category": "Other"
+      },
+      {
+        "uid": "css",
+        "name": "CSS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "cassandra",
+        "name": "Cassandra",
+        "category": "Database"
+      },
+      {
+        "uid": "ceph",
+        "name": "Ceph",
+        "category": "Database"
+      },
+      {
+        "uid": "chatgpt",
+        "name": "ChatGPT",
+        "category": "Chats"
+      },
+      {
+        "uid": "cisco_asa",
+        "name": "Cisco ASA",
+        "category": "Other"
+      },
+      {
+        "uid": "cisco_nexus",
+        "name": "Cisco Nexus",
+        "category": "Other"
+      },
+      {
+        "uid": "cisco_unified_communications_manager_callmanager",
+        "name": "Cisco Unified Communications Manager",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "citrix",
+        "name": "Citrix",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "copilot",
+        "name": "Copilot",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "crestron",
+        "name": "Crestron",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "cucumber",
+        "name": "Cucumber",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "cursor",
+        "name": "Cursor",
+        "category": "Other"
+      },
+      {
+        "uid": "cyberark",
+        "name": "CyberArk",
+        "category": "Security"
+      },
+      {
+        "uid": "cypress",
+        "name": "Cypress",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "databricks",
+        "name": "Databricks",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "debian",
+        "name": "Debian",
+        "category": "Hosting"
+      },
+      {
+        "uid": "delta_lake",
+        "name": "Delta Lake",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "django",
+        "name": "Django",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "docker",
+        "name": "Docker",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "docusign",
+        "name": "DocuSign",
+        "category": "Other"
+      },
+      {
+        "uid": "eloqua",
+        "name": "Eloqua",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "envoy",
+        "name": "Envoy",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "express",
+        "name": "Express",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "fastapi",
+        "name": "Fastapi",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "figma",
+        "name": "Figma",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "flask",
+        "name": "Flask",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "grpc",
+        "name": "GRPC",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "genetec",
+        "name": "Genetec",
+        "category": "Security"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "github",
+        "name": "GitHub",
+        "category": "Hosting"
+      },
+      {
+        "uid": "github_actions",
+        "name": "GitHub Actions",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "github_copilot",
+        "name": "GitHub Copilot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "gitlab",
+        "name": "GitLab",
+        "category": "CMS"
+      },
+      {
+        "uid": "go",
+        "name": "Go",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "google",
+        "name": "Google",
+        "category": "Other"
+      },
+      {
+        "uid": "google_ad_manager",
+        "name": "Google Ad Manager",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "google_analytics",
+        "name": "Google Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_cloud",
+        "name": "Google Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_cloud_bigquery",
+        "name": "Google Cloud BigQuery",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "grafana",
+        "name": "Grafana",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "graphql",
+        "name": "GraphQL",
+        "category": "Database"
+      },
+      {
+        "uid": "groovy",
+        "name": "Groovy",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "haproxy",
+        "name": "HAProxy",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "html",
+        "name": "HTML",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "hbase",
+        "name": "Hbase",
+        "category": "Database"
+      },
+      {
+        "uid": "hive",
+        "name": "Hive",
+        "category": "Database"
+      },
+      {
+        "uid": "hugging_face",
+        "name": "Hugging Face",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "humio",
+        "name": "Humio",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "ibm",
+        "name": "IBM",
+        "category": "Other"
+      },
+      {
+        "uid": "iis",
+        "name": "IIS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "instagram",
+        "name": "Instagram",
+        "category": "Social Sharing"
+      },
+      {
+        "uid": "json",
+        "name": "JSON",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "jwt",
+        "name": "JWT",
+        "category": "Security"
+      },
+      {
+        "uid": "jamf",
+        "name": "Jamf",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "jasmine",
+        "name": "Jasmine",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "java",
+        "name": "Java",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "javascript",
+        "name": "JavaScript",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "jenkins",
+        "name": "Jenkins",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "jira",
+        "name": "Jira",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "jitsi",
+        "name": "Jitsi",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "jupyter",
+        "name": "Jupyter",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "jupyterlab",
+        "name": "JupyterLab",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "kofax",
+        "name": "Kofax",
+        "category": "Robotic Process Automation"
+      },
+      {
+        "uid": "kubernetes",
+        "name": "Kubernetes",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "langchain",
+        "name": "Langchain",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "lexisnexis",
+        "name": "LexisNexis",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "linux",
+        "name": "Linux",
+        "category": "Other"
+      },
+      {
+        "uid": "macaron",
+        "name": "Macaron",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_active_directory",
+        "name": "Microsoft Active Directory",
+        "category": "Security"
+      },
+      {
+        "uid": "microsoft_azure",
+        "name": "Microsoft Azure",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_endpoint_configuration_manager_mecm",
+        "name": "Microsoft Endpoint Configuration Manager",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_intune",
+        "name": "Microsoft Intune",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "microsoft_office",
+        "name": "Microsoft Office",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_onedrive",
+        "name": "Microsoft OneDrive",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_power_bi",
+        "name": "Microsoft Power BI",
+        "category": "Widgets"
+      },
+      {
+        "uid": "microsoft_powershell",
+        "name": "Microsoft PowerShell",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "microsoft_sharepoint",
+        "name": "Microsoft Sharepoint",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "microsoft sql server",
+        "name": "Microsoft Sql Server",
+        "category": "Database"
+      },
+      {
+        "uid": "microsoft_teams",
+        "name": "Microsoft Teams",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_windows",
+        "name": "Microsoft Windows",
+        "category": "Other"
+      },
+      {
+        "uid": "mongodb",
+        "name": "MongoDB",
+        "category": "Database"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "nlp",
+        "name": "NLP",
+        "category": "Other"
+      },
+      {
+        "uid": "ns1",
+        "name": "NS1",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "nvidia",
+        "name": "NVIDIA",
+        "category": "Other"
+      },
+      {
+        "uid": "netapp_common_internet_file_system_cifs",
+        "name": "NetApp Common Internet File System",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "neustar",
+        "name": "NeuStar",
+        "category": "Hosting"
+      },
+      {
+        "uid": "nextjs",
+        "name": "Next.js",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "nginx",
+        "name": "Nginx",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "node.js",
+        "name": "Node.js",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "nortel",
+        "name": "Nortel",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "numpy",
+        "name": "NumPy",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "open_policy_agent",
+        "name": "Open Policy Agent",
+        "category": "Security"
+      },
+      {
+        "uid": "openai",
+        "name": "OpenAI",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "openapi",
+        "name": "OpenAPI",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "openstack",
+        "name": "OpenStack",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "opentelemetry",
+        "name": "OpenTelemetry",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "oracle_database",
+        "name": "Oracle Database",
+        "category": "Database"
+      },
+      {
+        "uid": "oracle_peoplesoft",
+        "name": "Oracle PeopleSoft",
+        "category": "ERP"
+      },
+      {
+        "uid": "oracle_solaris",
+        "name": "Oracle Solaris",
+        "category": "Other"
+      },
+      {
+        "uid": "php",
+        "name": "PHP",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "perl",
+        "name": "Perl",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "playwright",
+        "name": "Playwright",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "postgresql",
+        "name": "PostgreSQL",
+        "category": "Database"
+      },
+      {
+        "uid": "prisma",
+        "name": "Prisma",
+        "category": "Database"
+      },
+      {
+        "uid": "prometheus",
+        "name": "Prometheus",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "pyspark",
+        "name": "PySpark",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "pytorch",
+        "name": "PyTorch",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "pytest",
+        "name": "Pytest",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "python",
+        "name": "Python",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "python_3_8",
+        "name": "Python 3.8",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "qlik sense",
+        "name": "Qlik Sense",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "rest",
+        "name": "REST",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "rabbitmq",
+        "name": "RabbitMQ",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "react native",
+        "name": "React Native",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "red_hat",
+        "name": "Red Hat",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "red_hat_enterprise_linux",
+        "name": "Red Hat Enterprise Linux",
+        "category": "Hosting"
+      },
+      {
+        "uid": "red_hat_openshift",
+        "name": "Red Hat OpenShift",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "redis",
+        "name": "Redis",
+        "category": "Database"
+      },
+      {
+        "uid": "redux",
+        "name": "Redux",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "ruby",
+        "name": "Ruby",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ruby_on_rails",
+        "name": "Ruby On Rails",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "rust",
+        "name": "Rust",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "sap",
+        "name": "SAP",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_ariba",
+        "name": "SAP Ariba",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_financial_supply_chain_management_fscm",
+        "name": "SAP Financial Supply Chain Management",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "sap_r3",
+        "name": "SAP R/3",
+        "category": "ERP"
+      },
+      {
+        "uid": "sap_s4hana",
+        "name": "SAP S/4HANA",
+        "category": "ERP"
+      },
+      {
+        "uid": "sql",
+        "name": "SQL",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "swift",
+        "name": "SWIFT",
+        "category": "Payments"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "saltstack",
+        "name": "SaltStack",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "scala",
+        "name": "Scala",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "snowflake",
+        "name": "Snowflake",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "sony",
+        "name": "Sony",
+        "category": "Other"
+      },
+      {
+        "uid": "splunk",
+        "name": "Splunk",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "spring",
+        "name": "Spring",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "spring_boot",
+        "name": "Spring Boot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "spring_cloud",
+        "name": "Spring Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "sqlalchemy",
+        "name": "Sqlalchemy",
+        "category": "Database"
+      },
+      {
+        "uid": "streamlit",
+        "name": "Streamlit",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "tsql",
+        "name": "T-SQL",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "tableau",
+        "name": "Tableau",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "tensorflow",
+        "name": "TensorFlow",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "terraform",
+        "name": "Terraform",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "toolkit",
+        "name": "Toolkit",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "typescript",
+        "name": "TypeScript",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ubuntu",
+        "name": "Ubuntu",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "ultradns",
+        "name": "UltraDns",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "unix",
+        "name": "Unix",
+        "category": "Other"
+      },
+      {
+        "uid": "vba",
+        "name": "VBA",
+        "category": "CMS"
+      },
+      {
+        "uid": "vmware",
+        "name": "VMware",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "vmware_airwatch",
+        "name": "VMware AirWatch",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "vmware_esxi",
+        "name": "VMware ESXi",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "vmware_vcenter",
+        "name": "VMware vCenter",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "vertex",
+        "name": "Vertex",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "visual_studio",
+        "name": "Visual Studio",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "vue_js_library",
+        "name": "VueJS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "webrtc",
+        "name": "WebRTC",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "windows_server",
+        "name": "Windows Server",
+        "category": "Hosting"
+      },
+      {
+        "uid": "wordpress",
+        "name": "Wordpress",
+        "category": "CMS"
+      },
+      {
+        "uid": "workday",
+        "name": "Workday",
+        "category": "Human Capital Management"
+      },
+      {
+        "uid": "workday_hcm",
+        "name": "Workday HCM",
+        "category": "Human Capital Management"
+      },
+      {
+        "uid": "x_twitter",
+        "name": "X (Twitter)",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "xgboost",
+        "name": "XGBoost",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "xml",
+        "name": "XML",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "youtube",
+        "name": "YouTube",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "zookeeper",
+        "name": "ZooKeeper",
+        "category": "Database"
+      },
+      {
+        "uid": "zoom_meetings",
+        "name": "Zoom Meetings",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "ebs",
+        "name": "ebs",
+        "category": "Other"
+      },
+      {
+        "uid": "jquery",
+        "name": "jQuery",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "npm",
+        "name": "npm",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "pandas",
+        "name": "pandas",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "python_celery",
+        "name": "python celery",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "scikitlearn",
+        "name": "scikit-learn",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "vsphere",
+        "name": "vSphere",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "webpack",
+        "name": "webpack",
+        "category": "CSS and JavaScript Libraries"
+      }
+    ],
+    "org_chart_root_people_ids": [],
+    "org_chart_sector": "OrgChart::SectorHierarchy::Rules::Finance",
+    "org_chart_removed": false,
+    "org_chart_show_department_filter": true,
+    "departmental_head_count": {
+      "sales": 1486,
+      "data_science": 973,
+      "engineering": 8100,
+      "media_and_commmunication": 425,
+      "human_resources": 555,
+      "information_technology": 303,
+      "operations": 691,
+      "support": 563,
+      "business_development": 404,
+      "marketing": 796,
+      "finance": 1430,
+      "product_management": 509,
+      "legal": 228,
+      "accounting": 107,
+      "arts_and_design": 282,
+      "consulting": 94,
+      "administrative": 31,
+      "entrepreneurship": 9,
+      "education": 11
+    },
+    "organization_headcount_six_month_growth": 0.02471910112359551,
+    "organization_headcount_twelve_month_growth": 0.03521339925335486,
+    "organization_headcount_twenty_four_month_growth": 0.07530262537336897
+  }
+}

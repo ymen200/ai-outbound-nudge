@@ -1,0 +1,52 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Anonymous User",
+        "clean_name_used": "Anonymous User",
+        "linkedin_url": "https://uk.linkedin.com/in/anonymous-user-bb3756277",
+        "company": "Lidl",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Robert Giles",
+        "clean_name_used": "Robert Giles",
+        "linkedin_url": "https://www.linkedin.com/in/robgiles67",
+        "company": "Lidl",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Nina Sichtermann",
+        "clean_name_used": "Nina Sichtermann",
+        "linkedin_url": "https://de.linkedin.com/in/ninasichtermann",
+        "company": "Lidl",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Non trouvé",
+        "clean_name_used": "Non trouvé",
+        "linkedin_url": "Non trouvé",
+        "company": "Lidl",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

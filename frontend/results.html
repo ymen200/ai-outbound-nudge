@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Results — AI Outbound</title>
+  <meta name="description" content="List campaign companies and personas from the AI Outbound orchestrator." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="atmosphere" aria-hidden="true"></div>
+
+  <header class="site-nav">
+    <a class="brand" href="index.html">AI <span>Outbound</span></a>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html" class="hide-sm">Home</a>
+      <a href="campaign.html">Campaign Studio</a>
+      <a class="is-active" href="results.html">Results</a>
+    </nav>
+  </header>
+
+  <main class="studio results-layout">
+    <div class="studio-intro">
+      <div>
+        <h1>Campaign results</h1>
+        <p>Poll campaign status while Phase A runs, then list companies and personas when ready.</p>
+      </div>
+      <span id="statusPill" class="status-pill">Idle</span>
+    </div>
+
+    <section class="panel results-controls">
+      <div class="panel-head">
+        <h2>Lookup</h2>
+      </div>
+      <div class="grid-2">
+        <div class="field">
+          <label for="campaign_id">campaign_id</label>
+          <input type="text" id="campaign_id" placeholder="Paste campaign id from Start campaign" autocomplete="off" />
+        </div>
+        <div class="field">
+          <label>&nbsp;</label>
+          <div class="form-actions" style="margin:0;padding:0;border:0">
+            <button type="button" class="btn btn-primary" id="refreshStatusBtn">Refresh status</button>
+            <button type="button" class="btn btn-secondary" id="loadCompaniesBtn">List companies</button>
+            <button type="button" class="btn btn-secondary" id="loadPersonasBtn">List personas</button>
+            <button type="button" class="btn btn-ghost" id="loadBothBtn">Load both</button>
+          </div>
+        </div>
+      </div>
+      <div class="check-row" style="margin-top:0.25rem">
+        <label class="check"><input type="checkbox" id="autoPoll" checked /> Auto-poll every 3s while running</label>
+      </div>
+      <p class="api-meta" style="margin-top:0">
+        GET <code>/campaigns/{id}</code>
+        · GET <code>/campaigns/{id}/companies</code>
+        · GET <code>/campaigns/{id}/personas</code>
+        · POST <code>/campaigns/{id}/companies/decline</code>
+        · Base <code id="apiBaseLabel"></code>
+      </p>
+    </section>
+
+    <section class="panel status-panel" id="statusPanel">
+      <div class="panel-head">
+        <h2>Campaign status</h2>
+        <span id="pollLabel" class="poll-label">Not polling</span>
+      </div>
+      <div class="status-grid" id="statusGrid">
+        <div class="stat">
+          <span class="stat-label">status</span>
+          <span class="stat-value" id="statStatus">—</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">stage</span>
+          <span class="stat-value" id="statStage">—</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">packages</span>
+          <span class="stat-value" id="statPackages">—</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">artifacts</span>
+          <span class="stat-value" id="statArtifacts">—</span>
+        </div>
+      </div>
+      <p class="status-message" id="statusMessage">Enter a campaign_id and click Refresh status (or Start a campaign from Studio — id is saved automatically).</p>
+      <p class="status-error" id="statusError" hidden></p>
+      <div class="stage-track" id="stageTrack" aria-label="Phase A stages"></div>
+      <h3 class="subhead">Artifacts</h3>
+      <div class="table-wrap">
+        <table class="data-table" id="artifactsTable">
+          <thead>
+            <tr>
+              <th>Stage</th>
+              <th>Created</th>
+              <th>Summary</th>
+            </tr>
+          </thead>
+          <tbody id="artifactsBody">
+            <tr class="empty-row"><td colspan="3">No status loaded yet.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel results-table-panel">
+      <div class="panel-head">
+        <h2>Companies <span id="companiesCount" class="count-badge">0</span></h2>
+        <div class="panel-actions">
+          <button type="button" class="btn btn-ghost btn-sm" id="selectApprovedBtn" disabled>Select approved</button>
+          <button type="button" class="btn btn-danger btn-sm" id="declineBtn" disabled>Decline selected</button>
+        </div>
+      </div>
+      <p class="field-note" id="declineHint">Select companies below, then decline to set their status to <code>declined</code>.</p>
+      <div class="table-wrap">
+        <table class="data-table" id="companiesTable">
+          <thead>
+            <tr>
+              <th class="col-check">
+                <input type="checkbox" id="selectAllCompanies" title="Select all approved" disabled aria-label="Select all approved companies" />
+              </th>
+              <th>Company</th>
+              <th>Status</th>
+              <th>Apollo ID</th>
+              <th>Row ID</th>
+            </tr>
+          </thead>
+          <tbody id="companiesBody">
+            <tr class="empty-row"><td colspan="5">No companies loaded yet.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel results-table-panel">
+      <div class="panel-head">
+        <h2>Personas <span id="personasCount" class="count-badge">0</span></h2>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table" id="personasTable">
+          <thead>
+            <tr>
+              <th>Persona</th>
+              <th>Score</th>
+              <th>LinkedIn</th>
+              <th>Company Apollo ID</th>
+              <th>Persona Apollo ID</th>
+            </tr>
+          </thead>
+          <tbody id="personasBody">
+            <tr class="empty-row"><td colspan="5">No personas loaded yet.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <aside class="panel response-panel results-raw">
+      <div class="panel-head">
+        <h2>Raw response</h2>
+      </div>
+      <pre id="result">(no requests yet)</pre>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <div>AI Outbound · Results</div>
+    <a href="campaign.html">Campaign Studio</a>
+  </footer>
+
+  <script src="js/api.js"></script>
+  <script src="js/results.js"></script>
+</body>
+</html>

@@ -1,0 +1,145 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 5,
+    "successful_calls": 5,
+    "failed_calls": 0,
+    "prompt_tokens": 22648,
+    "candidates_tokens": 3340,
+    "thoughts_tokens": 3340,
+    "cached_content_tokens": 0,
+    "total_tokens": 29328,
+    "by_model": {
+      "gemini-3.1-flash-lite-preview": {
+        "calls": 2,
+        "total_tokens": 1740,
+        "prompt_tokens": 1672,
+        "candidates_tokens": 68
+      },
+      "gemini-3-flash-preview": {
+        "calls": 3,
+        "total_tokens": 27588,
+        "prompt_tokens": 20976,
+        "candidates_tokens": 3272
+      }
+    },
+    "by_operation": {
+      "browser_config": {
+        "calls": 1,
+        "total_tokens": 144,
+        "prompt_tokens": 118,
+        "candidates_tokens": 26
+      },
+      "extract_apollo": {
+        "calls": 2,
+        "total_tokens": 20200,
+        "prompt_tokens": 14889,
+        "candidates_tokens": 3084
+      },
+      "navigation": {
+        "calls": 1,
+        "total_tokens": 1596,
+        "prompt_tokens": 1554,
+        "candidates_tokens": 42
+      },
+      "post_process": {
+        "calls": 1,
+        "total_tokens": 7388,
+        "prompt_tokens": 6087,
+        "candidates_tokens": 188
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-18T13:17:34.242777",
+        "prompt_token_count": 118,
+        "candidates_token_count": 26,
+        "total_token_count": 144,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-18T13:18:01.989585",
+        "prompt_token_count": 3897,
+        "candidates_token_count": 1404,
+        "total_token_count": 6512,
+        "thoughts_token_count": 1211,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-18T13:18:02.615132",
+        "prompt_token_count": 1554,
+        "candidates_token_count": 42,
+        "total_token_count": 1596,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-18T13:18:30.442269",
+        "prompt_token_count": 10992,
+        "candidates_token_count": 1680,
+        "total_token_count": 13688,
+        "thoughts_token_count": 1016,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-18T13:18:45.190372",
+        "prompt_token_count": 6087,
+        "candidates_token_count": 188,
+        "total_token_count": 7388,
+        "thoughts_token_count": 1113,
+        "cached_content_token_count": 0
+      }
+    ],
+    "companies_scraped_attempted": 1,
+    "companies_scraped_succeeded": 1,
+    "industries": [
+      "Software"
+    ],
+    "locations": [
+      "Morocco"
+    ]
+  }
+}

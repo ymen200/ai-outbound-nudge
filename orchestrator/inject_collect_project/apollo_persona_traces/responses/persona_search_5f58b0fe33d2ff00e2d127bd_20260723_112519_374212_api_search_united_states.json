@@ -1,0 +1,51 @@
+{
+  "total_entries": 19,
+  "people": [
+    {
+      "id": "66f7bf27d120320001951039",
+      "first_name": "Ian",
+      "last_name_obfuscated": "St***d",
+      "title": "Chief Revenue Officer (CRO)",
+      "last_refreshed_at": "2026-07-23T06:05:00.097+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "GitLab",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5571454a7369642cbfdc1100",
+      "first_name": "Olga",
+      "last_name_obfuscated": "Fa***f",
+      "title": "Director, Sales Strategy",
+      "last_refreshed_at": "2026-07-08T07:12:49.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "GitLab",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

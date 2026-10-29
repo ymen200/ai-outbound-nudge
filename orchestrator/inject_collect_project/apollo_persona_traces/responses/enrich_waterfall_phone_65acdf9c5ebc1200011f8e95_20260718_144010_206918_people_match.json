@@ -1,0 +1,78 @@
+{
+  "person": {
+    "id": "65acdf9c5ebc1200011f8e95",
+    "first_name": "Mohammed",
+    "last_name": "Mudasser",
+    "name": "Mohammed Mudasser",
+    "linkedin_url": "http://www.linkedin.com/in/mohammed-mudasser-%d9%85%d9%8f%d8%af%d9%8e%d8%ab%d9%8e%d9%91%d8%b1-6046b428b",
+    "title": "Sales Business Development",
+    "photo_url": "https://media.licdn.com/dms/image/v2/D5603AQGtYU0IlU48rg/profile-displayphoto-scale_200_200/B56Znm63nII8AY-/0/1760515817144?e=2147483647&v=beta&t=1NmjpaTwvf5-tgXZ0R0PcuwwIpDETnzXbf91y9usSps",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": 0.7,
+    "headline": "Business Development Executive | Revenue Growth | B2B | Client Acquisition.",
+    "organization_id": "60f4011c4bc0400001342a29",
+    "employment_history": [
+      {
+        "_id": "6a4ad32046940c000187abb8",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "60f4011c4bc0400001342a29",
+        "organization_name": "aramco",
+        "raw_address": null,
+        "start_date": "2024-10-01",
+        "title": "Sales Business Development",
+        "updated_at": null,
+        "id": "6a4ad32046940c000187abb8",
+        "key": "6a4ad32046940c000187abb8"
+      }
+    ],
+    "street_address": "",
+    "city": "Dammam",
+    "state": "Eastern Province",
+    "country": "Saudi Arabia",
+    "postal_code": null,
+    "formatted_address": "Dammam Saudi Arabia",
+    "time_zone": "Asia/Riyadh",
+    "email": "mohammed.mudasser@aramco.com",
+    "email_status": "extrapolated",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development",
+      "sales"
+    ],
+    "seniority": "entry",
+    "functions": [
+      "sales",
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": true,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": [
+      "mohammed.mudasser@aramco.com"
+    ]
+  },
+  "waterfall": {
+    "status": "accepted",
+    "message": "Waterfall enrichment request accepted. Results will be sent to the provided webhook URL."
+  },
+  "request_id": -5258276615251303802
+}

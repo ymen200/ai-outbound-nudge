@@ -1,0 +1,783 @@
+{
+  "person": {
+    "id": "6954f7cac133270001a68dc0",
+    "first_name": "Juerg",
+    "last_name": "Santos",
+    "name": "Juerg Santos",
+    "linkedin_url": "http://www.linkedin.com/in/j%c3%bcrg-dos-santos-b50258397",
+    "title": "Sales Consultant",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": 0.57,
+    "headline": "Sales Consultant Insurance",
+    "organization_id": "5b80a1a6324d440ce9b4dc93",
+    "employment_history": [
+      {
+        "_id": "6a239e3845e73100012fdc55",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5b80a1a6324d440ce9b4dc93",
+        "organization_name": "Randstad Switzerland",
+        "raw_address": null,
+        "start_date": "2026-05-01",
+        "title": "Sales Consultant",
+        "updated_at": null,
+        "id": "6a239e3845e73100012fdc55",
+        "key": "6a239e3845e73100012fdc55"
+      },
+      {
+        "_id": "6a239e3845e73100012fdc56",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2024-06-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": true,
+        "organization_id": "57c4fa34a6da986aa0d4037f",
+        "organization_name": "die Mobiliar",
+        "raw_address": null,
+        "start_date": "2011-10-01",
+        "title": "Insurance Advisor",
+        "updated_at": null,
+        "id": "6a239e3845e73100012fdc56",
+        "key": "6a239e3845e73100012fdc56"
+      },
+      {
+        "_id": "6a239e3845e73100012fdc57",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2011-09-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": true,
+        "organization_id": "5da31fb73667b30001b5c250",
+        "organization_name": "Allianz Suisse",
+        "raw_address": null,
+        "start_date": "2008-06-01",
+        "title": "Insurance Advisor",
+        "updated_at": null,
+        "id": "6a239e3845e73100012fdc57",
+        "key": "6a239e3845e73100012fdc57"
+      }
+    ],
+    "street_address": "",
+    "city": null,
+    "state": null,
+    "country": "Switzerland",
+    "postal_code": null,
+    "formatted_address": "Switzerland",
+    "time_zone": "Europe/Zurich",
+    "email": "juerg.santos@randstad.ch",
+    "email_status": "extrapolated",
+    "organization": {
+      "id": "5b80a1a6324d440ce9b4dc93",
+      "name": "Randstad Switzerland",
+      "website_url": "http://www.randstad.ch",
+      "angellist_url": null,
+      "linkedin_url": "http://www.linkedin.com/company/randstad-switzerland",
+      "twitter_url": null,
+      "facebook_url": null,
+      "primary_phone": {
+        "number": "+41 58 201 59 00",
+        "source": "Account",
+        "sanitized_number": "+41582015900"
+      },
+      "languages": [
+        "English",
+        "German",
+        "French"
+      ],
+      "alexa_ranking": 212182,
+      "phone": "+41 58 201 59 00",
+      "linkedin_uid": "2127592",
+      "founded_year": 1960,
+      "publicly_traded_symbol": null,
+      "publicly_traded_exchange": null,
+      "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/68bc15f5a5500f00010ed448/picture",
+      "crunchbase_url": null,
+      "primary_domain": "randstad.ch",
+      "sic_codes": [
+        "7361"
+      ],
+      "naics_codes": [
+        "561311",
+        "561320"
+      ],
+      "sanitized_phone": "+41582015900",
+      "industry": "staffing & recruiting",
+      "estimated_num_employees": 330,
+      "keywords": [
+        "it",
+        "life science",
+        "banking finance",
+        "engineering",
+        "industry",
+        "construction",
+        "administration",
+        "sales marketing",
+        "hotel tourism",
+        "hr",
+        "watch industry",
+        "pharma biotech industry",
+        "logistics",
+        "hr process digitization",
+        "diverse industries",
+        "talent pipeline",
+        "technology staffing",
+        "staffing and recruitment",
+        "community outreach",
+        "manufacturing staffing",
+        "professional staffing",
+        "services",
+        "client tailored services",
+        "employee volunteer programs",
+        "recruitment process",
+        "inhouse staffing",
+        "hr project management",
+        "employee engagement",
+        "hr process automation tools",
+        "staffing analytics",
+        "global hr network",
+        "employee retention",
+        "cloud hr systems",
+        "hr process optimization",
+        "hr tech tools",
+        "hr data security",
+        "specialized placement",
+        "employee benefits",
+        "talent pool management",
+        "hr software",
+        "human resources",
+        "industry-specific staffing",
+        "hr innovation",
+        "employee recognition programs",
+        "staffing solutions",
+        "swissstaffing member",
+        "hr process automation",
+        "swissstaffing",
+        "community involvement",
+        "banking staffing",
+        "hr analytics",
+        "candidate experience",
+        "talent development programs",
+        "recruitment",
+        "employment placement agencies and executive search services",
+        "leutschenbachstrasse",
+        "employee well-being",
+        "human capital management",
+        "hr technology",
+        "talent analytics",
+        "managed services",
+        "hr performance metrics",
+        "hr services",
+        "talent management",
+        "corporate social responsibility",
+        "community engagement",
+        "candidate screening",
+        "hr strategy",
+        "hr digitalization",
+        "video interview platforms",
+        "temporary staffing",
+        "zurich headquarters",
+        "workforce planning",
+        "professional services",
+        "hr consulting",
+        "workforce management",
+        "talent sourcing",
+        "workforce solutions",
+        "hr compliance",
+        "hr process consulting",
+        "digital hr tools",
+        "video interviews",
+        "hr solutions",
+        "candidate database",
+        "staffing agency",
+        "life sciences",
+        "multilingual recruitment",
+        "employee development",
+        "community service",
+        "employee satisfaction",
+        "candidate matching",
+        "corporate responsibility",
+        "permanent staffing",
+        "talent acquisition",
+        "candidate sourcing",
+        "client relationships",
+        "multinational hr company",
+        "digital transformation",
+        "remote staffing",
+        "employment services",
+        "healthcare staffing",
+        "consulting",
+        "hr compliance standards",
+        "flexible workforce",
+        "digital recruitment",
+        "staffing",
+        "executive search",
+        "quality standards",
+        "employee trust",
+        "hr tools",
+        "quality assurance",
+        "b2b",
+        "job placement",
+        "temporary jobs",
+        "permanent positions",
+        "cross border employment",
+        "recruitment solutions",
+        "operational jobs",
+        "outsourcing solutions",
+        "employer branding",
+        "career development",
+        "job alerts",
+        "job application tools",
+        "job search assistance",
+        "career counseling",
+        "skill development",
+        "temporary employment",
+        "try and hire",
+        "contract jobs",
+        "engineering jobs",
+        "administration jobs",
+        "healthcare jobs",
+        "logistics jobs",
+        "industrial jobs",
+        "digital jobs",
+        "finance jobs",
+        "it jobs",
+        "marketing jobs",
+        "banking jobs",
+        "production jobs",
+        "trades jobs",
+        "customer service positions",
+        "global talent centers",
+        "thought leadership",
+        "employee training",
+        "diversity and inclusion",
+        "flexible working",
+        "career advancement",
+        "job marketplace",
+        "professional networking",
+        "job listing",
+        "skills shortage solutions",
+        "healthcare",
+        "finance",
+        "manufacturing",
+        "b2c",
+        "staffing & recruiting",
+        "professional training & coaching",
+        "management consulting",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "financial services",
+        "mechanical or industrial engineering"
+      ],
+      "organization_revenue_printed": null,
+      "organization_revenue": 0.0,
+      "industries": [
+        "staffing & recruiting",
+        "human resources"
+      ],
+      "secondary_industries": [
+        "human resources"
+      ],
+      "snippets_loaded": true,
+      "industry_tag_id": "5567e09973696410db020800",
+      "industry_tag_hash": {
+        "staffing & recruiting": "5567e09973696410db020800",
+        "human resources": "5567e0e37369640e5ac10c00"
+      },
+      "retail_location_count": 0,
+      "raw_address": "Leutschenbachstrasse 45, Zürich, 8050, CH",
+      "street_address": "45 Leutschenbachstrasse",
+      "city": "Zurich",
+      "state": "Zurich",
+      "postal_code": "8050",
+      "country": "Switzerland",
+      "owned_by_organization_id": null,
+      "short_description": "As the leading company in the field of Human Resources, Randstad understands all aspects of the world of work - worldwide and throughout Switzerland. Many years of successful work in this field and an internal network of specialists provide in-depth expertise and broad experience. \n\nThis makes Randstad unique in the personnel management field: Our consultants are experts in the local employment market and the various sectors. But our commitment goes even further. It is of great importance to us that we know our clients, their businesses and the jobs involved. \n\nWe also dedicate a great deal of time to job seekers; we not only want to know about their skills and experience, but also their personality and human qualities.\n\nIn this way, Randstad ensures that our clients obtain exactly the right people. To know, to serve, trust and continually strive for perfection while simultaneously promoting all interests are the core values on which Randstad has built the company. \n\nOur Services:\n- Staffing: For temporary and permanent positions\n- Professionals: For specialists and executive staff \n- Search & Selection: For middle and senior management levels \n- HR Solutions: Specialized HR Services for SMEs and large companies  \n- Inhouse Services: For companies with a flexible staff requirement\n- innoative HR Tech Tools: For workforce scheduling and video interviews",
+      "suborganizations": [
+        {
+          "id": "5f7c5943b63ccc011ed04a00",
+          "name": "Randstad Digital Switzerland",
+          "website_url": "http://www.randstaddigital.ch",
+          "industries": [
+            "information technology & services",
+            "staffing & recruiting",
+            "management consulting"
+          ],
+          "estimated_num_employees": 30,
+          "country": "Switzerland"
+        }
+      ],
+      "num_suborganizations": 1,
+      "total_funding": null,
+      "total_funding_printed": null,
+      "latest_funding_round_date": null,
+      "latest_funding_stage": null,
+      "funding_events": [],
+      "technology_names": [
+        "Amazon AWS",
+        "Amazon Route 53",
+        "Amazon SES",
+        "Apache",
+        "Gmail",
+        "Google Apps",
+        "Google Tag Manager",
+        "Hubspot",
+        "Microsoft Office 365",
+        "Mobile Friendly",
+        "Nginx",
+        "OneTrust",
+        "React",
+        "Remote",
+        "Salesforce"
+      ],
+      "current_technologies": [
+        {
+          "uid": "amazon_aws",
+          "name": "Amazon AWS",
+          "category": "Hosting"
+        },
+        {
+          "uid": "amazon_route_53",
+          "name": "Amazon Route 53",
+          "category": "Domain Name Services"
+        },
+        {
+          "uid": "amazon_ses",
+          "name": "Amazon SES",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "apache",
+          "name": "Apache",
+          "category": "Load Balancers"
+        },
+        {
+          "uid": "gmail",
+          "name": "Gmail",
+          "category": "Email Providers"
+        },
+        {
+          "uid": "google_apps",
+          "name": "Google Apps",
+          "category": "Other"
+        },
+        {
+          "uid": "google_tag_manager",
+          "name": "Google Tag Manager",
+          "category": "Tag Management"
+        },
+        {
+          "uid": "hubspot",
+          "name": "Hubspot",
+          "category": "Marketing Automation"
+        },
+        {
+          "uid": "office_365",
+          "name": "Microsoft Office 365",
+          "category": "Other"
+        },
+        {
+          "uid": "mobile_friendly",
+          "name": "Mobile Friendly",
+          "category": "Other"
+        },
+        {
+          "uid": "nginx",
+          "name": "Nginx",
+          "category": "Load Balancers"
+        },
+        {
+          "uid": "onetrust",
+          "name": "OneTrust",
+          "category": "Widgets"
+        },
+        {
+          "uid": "react",
+          "name": "React",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "remote",
+          "name": "Remote",
+          "category": "Other"
+        },
+        {
+          "uid": "salesforce",
+          "name": "Salesforce",
+          "category": "Customer Relationship Management"
+        }
+      ],
+      "org_chart_root_people_ids": [],
+      "org_chart_sector": null,
+      "org_chart_removed": null,
+      "org_chart_show_department_filter": null,
+      "employee_metrics": [
+        {
+          "start_date": "2024-07-01",
+          "departments": [
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 0,
+              "churned": 1
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 0,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-08-01",
+          "departments": [
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-09-01",
+          "departments": [
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-10-01",
+          "departments": [
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-11-01",
+          "departments": [
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-12-01",
+          "departments": [
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-01-01",
+          "departments": [
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-02-01",
+          "departments": [
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 0,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-03-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-04-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-05-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-06-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-07-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-08-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-09-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-10-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-11-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-12-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-01-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-02-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-03-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-04-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-05-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-06-01",
+          "departments": [
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        }
+      ],
+      "organization_headcount_six_month_growth": null,
+      "organization_headcount_twelve_month_growth": null,
+      "organization_headcount_twenty_four_month_growth": null
+    },
+    "departments": [
+      "master_sales",
+      "consulting"
+    ],
+    "subdepartments": [
+      "sales",
+      "consultant"
+    ],
+    "seniority": "entry",
+    "functions": [
+      "sales",
+      "consulting"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": true,
+    "email_domain_catchall_verdict": "allow"
+  }
+}

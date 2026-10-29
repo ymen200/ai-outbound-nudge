@@ -1,0 +1,35 @@
+{
+  "request_id": 3164152688883879988,
+  "webhook_status": "success",
+  "request_type": "phone",
+  "last_dispatched_at": "2026-07-24T14:41:51Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "unique_enriched_records": 1,
+    "missing_records": 0,
+    "credits_consumed": 8,
+    "people": [
+      {
+        "id": "658e54a34d2f840001be19ef",
+        "status": "success",
+        "phone_numbers": [
+          {
+            "_id": "6a63797f97cabc00016c273d",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+1 678-201-2907",
+            "sanitized_number": "+16782012907",
+            "status_cd": "valid_number",
+            "type_cd": "mobile",
+            "id": "6a63797f97cabc00016c273d",
+            "key": "6a63797f97cabc00016c273d"
+          }
+        ]
+      }
+    ]
+  }
+}

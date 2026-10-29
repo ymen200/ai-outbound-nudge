@@ -1,0 +1,30 @@
+{
+  "organization_job_postings": [
+    {
+      "id": "6a1e61edc2f7df0001bf00d1",
+      "title": "AI Platform & Business AI Solutions Lead – MA",
+      "url": "https://www.linkedin.com/jobs/view/4417862042/",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "country": "China",
+      "last_seen_at": "2026-07-14T23:34:24.000+00:00",
+      "posted_at": "2026-05-25T09:04:01.000+00:00"
+    },
+    {
+      "id": "69b0ec9b262fc20001f37a53",
+      "title": "大客户销售",
+      "url": "https://www.linkedin.com/jobs/view/4379608642/",
+      "city": "Shanghai",
+      "state": "Shanghai",
+      "country": "China",
+      "last_seen_at": "2026-07-15T04:13:11.000+00:00",
+      "posted_at": "2026-03-04T03:48:42.000+00:00"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "per_page": 10000,
+    "total_entries": 2,
+    "total_pages": 1
+  }
+}

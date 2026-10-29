@@ -1,0 +1,107 @@
+{
+  "request_id": -3756007403801335054,
+  "webhook_status": "success",
+  "request_type": "waterfall",
+  "last_dispatched_at": "2026-07-14T15:01:00Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "target_fields": [
+      "phone_numbers"
+    ],
+    "records_enriched": 1,
+    "email_records_enriched": 0,
+    "mobile_records_enriched": 1,
+    "enrichment_not_found": 0,
+    "email_records_not_found": 0,
+    "mobile_records_not_found": 0,
+    "credits_consumed": 8,
+    "request_id": "-3756007403801335054",
+    "request_initiated": "2026-07-14T15:00:33Z",
+    "request_completed": "2026-07-14T15:00:39Z",
+    "people": [
+      {
+        "id": "54a5e9c174686938ac1b09b3",
+        "waterfall": {
+          "phone_numbers": [
+            {
+              "vendors": [
+                {
+                  "id": "leadmagic_mobile_finder-1",
+                  "name": "LeadMagic",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "upcell_mobile_finder-1",
+                  "name": "Upcell",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "apollo-1",
+                  "name": "Apollo",
+                  "status": "VERIFIED",
+                  "phone_numbers": [
+                    "+33 6 82 81 24 99"
+                  ],
+                  "usedForVerification": false,
+                  "statusCode": "apollo_step_success",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "findy_mail_phone_finder-1",
+                  "name": "FindyMail",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            }
+          ]
+        },
+        "phone_numbers": [
+          {
+            "_id": "6a564f1451782e00012d86c7",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+33 6 82 81 24 99",
+            "sanitized_number": "+33682812499",
+            "status_cd": "valid_number",
+            "type_cd": "mobile",
+            "id": "6a564f1451782e00012d86c7",
+            "key": "6a564f1451782e00012d86c7"
+          }
+        ],
+        "emails": []
+      }
+    ]
+  }
+}

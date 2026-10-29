@@ -1,0 +1,92 @@
+{
+  "person": {
+    "id": "5c589c8ba3ae61321f797eb0",
+    "first_name": "Luis",
+    "last_name": "Gomez",
+    "name": "Luis Gomez",
+    "linkedin_url": "http://www.linkedin.com/in/luis-gomez-11905715",
+    "title": "Business Development Manager",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Business Development Manager at PetroChina",
+    "organization_id": "54a122ed69702da10fdf2c03",
+    "employment_history": [
+      {
+        "_id": "6a4b2c4dd8de020001e8432a",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a122ed69702da10fdf2c03",
+        "organization_name": "PetroChina",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Business Development Manager",
+        "updated_at": null,
+        "id": "6a4b2c4dd8de020001e8432a",
+        "key": "6a4b2c4dd8de020001e8432a"
+      }
+    ],
+    "street_address": "",
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "postal_code": null,
+    "formatted_address": "Houston, TX, USA",
+    "time_zone": "America/Chicago",
+    "email": null,
+    "email_status": "unavailable",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development"
+    ],
+    "seniority": "manager",
+    "functions": [
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [
+      {
+        "_id": "6a5b74aa7625780001054da8",
+        "confidence_cd": "high",
+        "dnc_other_info": null,
+        "dnc_status_cd": null,
+        "dnc_status_updated_at": null,
+        "raw_number": "+1 832-325-7775",
+        "sanitized_number": "+18323257775",
+        "status_cd": "valid_number",
+        "type_cd": "other",
+        "id": "6a5b74aa7625780001054da8",
+        "key": "6a5b74aa7625780001054da8"
+      }
+    ],
+    "emails": [],
+    "sanitized_numbers": [
+      "+18323257775"
+    ],
+    "raw_numbers": [
+      "+1 832-325-7775"
+    ],
+    "sanitized_emails": []
+  },
+  "waterfall": {
+    "status": "accepted",
+    "message": "Waterfall enrichment request accepted. Results will be sent to the provided webhook URL."
+  },
+  "request_id": -2724427803673869564
+}

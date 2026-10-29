@@ -1,0 +1,88 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Dan DeLuca",
+        "clean_name_used": "Dan DeLuca",
+        "linkedin_url": "https://www.linkedin.com/in/dan-deluca-11a98039",
+        "company": "Unitedstatesbeverage",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Al Infantino",
+        "clean_name_used": "Al Infantino",
+        "linkedin_url": "https://www.linkedin.com/in/al-infantino-6b72b4130",
+        "company": "Unitedstatesbeverage",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Thomas Kenneally",
+        "clean_name_used": "Thomas Kenneally",
+        "linkedin_url": "https://www.linkedin.com/in/tomkenneally",
+        "company": "Unitedstatesbeverage",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Floris Van Neerrijnen",
+        "clean_name_used": "Floris Van Neerrijnen",
+        "linkedin_url": "linkedin.com/in/floris-van-neerrijnen-78958338",
+        "company": "united states beverage",
+        "email": "florisvanneerrijnen@hotmail.com",
+        "title": "marketing and sales manager",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    },
+    {
+        "raw_name_from_google": "Emily Cotrona",
+        "clean_name_used": "Emily Cotrona",
+        "linkedin_url": "linkedin.com/in/emily-cotrona-9a364b55",
+        "company": "united states beverage",
+        "email": "emily.cotrona@ebbrands.com",
+        "title": "customer service manager",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    },
+    {
+        "raw_name_from_google": "Kurt Anderson",
+        "clean_name_used": "Kurt Anderson",
+        "linkedin_url": "linkedin.com/in/kurt-anderson-3591112",
+        "company": "united states beverage",
+        "email": "kanderson@usbev.net",
+        "title": "finance and compliance manager",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    },
+    {
+        "raw_name_from_google": "Justin Fisch",
+        "clean_name_used": "Justin Fisch",
+        "linkedin_url": "linkedin.com/in/justin-fisch-516a63116",
+        "company": "united states beverage",
+        "email": "Non trouvé",
+        "title": "president",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    },
+    {
+        "raw_name_from_google": "Heather Jagodzinski",
+        "clean_name_used": "Heather Jagodzinski",
+        "linkedin_url": "linkedin.com/in/heather-jagodzinski-15964580",
+        "company": "united states beverage",
+        "email": "heatherjagodzinski@hotmail.com",
+        "title": "accounts payable and compliance",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

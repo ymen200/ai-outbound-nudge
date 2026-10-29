@@ -1,0 +1,344 @@
+{
+    "domain": "tabc.org.tn",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Tunisia Africa Business Council",
+            "ai_value": "Tunisia-Africa Business Council (TABC)"
+        },
+        "domain": {
+            "database_value": "tabc.org.tn",
+            "ai_value": "tabc.org.tn"
+        },
+        "industry": {
+            "database_value": "civic & social organization",
+            "ai_value": "International Trade and Development / NGO"
+        },
+        "founded_year": {
+            "database_value": 2015,
+            "ai_value": "2015"
+        },
+        "short_description": {
+            "database_value": "The Tunisia Africa Business Council (TABC) is a non-governmental organization established in 2015 to promote economic integration, trade, and investment between Tunisia and Africa. Founded by prominent Tunisian business leaders, TABC aims to enhance South-South cooperation and create a sustainable development hub in Africa, with a focus on supporting Tunisian companies in their internationalization efforts.\n\nTABC offers a range of services, including business matchmaking, market access support, and strategic advisory. It organizes events like the Financing Investment and Trade in Africa (FITA) to strengthen Tunisia's presence in African markets. The organization also collaborates with various partners, including the Agency of the Promotion of Industry and Innovation (APII) and Afreximbank, to facilitate trade finance and support Tunisian exports. TABC serves Tunisian entrepreneurs, African investors, government officials, and financial institutions, positioning itself as a key player in fostering economic growth and cooperation across the continent.",
+            "ai_value": "TABC is an NGO focused on positioning Africa at the heart of Tunisian economic interests and fostering South-South cooperation."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "TABC – Tunisia is your gateway to Africa"
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "estimated_num_employees": {
+            "database_value": 160,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/tunisia-africa-businesscouncil",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "Non renseigné",
+            "ai_value": "https://twitter.com/tabc_official"
+        },
+        "facebook_url": {
+            "database_value": "Non renseigné",
+            "ai_value": "https://www.facebook.com/TABC.Officiel"
+        },
+        "phone": {
+            "database_value": "+216 71 751 935",
+            "ai_value": "+216 71 751 935"
+        },
+        "raw_address": {
+            "database_value": "03 Rue 1er Juin 1955, Tunis, Tunis 1082, TN",
+            "ai_value": "5 Rue du 1er Juin 1955, Tunisia"
+        },
+        "city": {
+            "database_value": "Non renseigné",
+            "ai_value": "Tunis"
+        },
+        "country": {
+            "database_value": "Tunisia",
+            "ai_value": "Tunisia"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": "4"
+        },
+        "keywords": {
+            "database_value": [
+                "business",
+                "affaires",
+                "tunisia",
+                "africa",
+                "economie",
+                "commerce",
+                "civic & social organizations",
+                "investment support",
+                "business networks",
+                "african markets",
+                "business growth",
+                "economic integration",
+                "business forums",
+                "investment forums",
+                "fintech",
+                "market analysis tools",
+                "economic collaboration",
+                "trade policy",
+                "market development",
+                "trade missions",
+                "economic development",
+                "african business networks",
+                "business incubators",
+                "market entry",
+                "market data",
+                "trade facilitation",
+                "investment advisory",
+                "african entrepreneurship support",
+                "african economic policies",
+                "investment networks",
+                "ngo",
+                "startups",
+                "african investment climate",
+                "venture capital",
+                "policy dialogue",
+                "business intelligence",
+                "trade promotion",
+                "african market analysis",
+                "african economic zones",
+                "international trade and development",
+                "non-profit organizations",
+                "b2b",
+                "investment promotion",
+                "business services",
+                "business networking",
+                "business platform",
+                "african business ecosystems",
+                "business development",
+                "africa investment projects",
+                "healthtech",
+                "investment climate",
+                "policy reform",
+                "african innovation hubs",
+                "investment opportunities",
+                "economic cooperation",
+                "africa-tunisia relations",
+                "trade analysis tools",
+                "african economy",
+                "services",
+                "cross-border projects",
+                "economic forums",
+                "social advocacy organizations",
+                "business advocacy",
+                "africa digital transformation",
+                "economic ties",
+                "regional integration",
+                "market research",
+                "regional offices",
+                "africa business incubators",
+                "african trade corridors",
+                "continental development",
+                "trade conferences",
+                "cross-border trade",
+                "networking",
+                "regulatory reform",
+                "africa investment forums",
+                "trade and investment",
+                "south-south cooperation",
+                "business matchmaking",
+                "investment projects",
+                "knowledge sharing",
+                "business conferences",
+                "policy advocacy",
+                "market analysis",
+                "knowledge transfer",
+                "african partnerships",
+                "african investment",
+                "africanization strategies",
+                "financial services",
+                "business support services",
+                "market intelligence",
+                "african startup support",
+                "investment",
+                "africa trade policy reform",
+                "innovation",
+                "trade analysis",
+                "african development",
+                "continental cooperation",
+                "african continent",
+                "business council",
+                "business incubator",
+                "cross-border investment",
+                "sustainable development",
+                "entrepreneurship",
+                "mentorship programs",
+                "angel investors",
+                "economic studies",
+                "public-private partnerships",
+                "entrepreneurs",
+                "tender opportunities",
+                "business relationships",
+                "partnerships",
+                "capacity building",
+                "transnational cooperation",
+                "diaspora engagement",
+                "market access",
+                "strategic location",
+                "innovation hub",
+                "agritech",
+                "business environment improvement",
+                "regulatory framework",
+                "business climate",
+                "community engagement",
+                "impact funding",
+                "investment climate analysis",
+                "professional network",
+                "finance",
+                "non-profit",
+                "finance technology",
+                "information technology & services",
+                "analytics",
+                "international trade & development",
+                "nonprofit organization management",
+                "sustainability",
+                "environmental services",
+                "renewables & environment"
+            ],
+            "ai_value": "Tunisia, Africa, Business Council, Investment, South-South Cooperation, Networking, B2B, Economic Development"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "ai",
+                    "name": "AI",
+                    "category": "Other"
+                },
+                {
+                    "uid": "bootstrap_framework",
+                    "name": "Bootstrap Framework",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "google_font_api",
+                    "name": "Google Font API",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "remote",
+                    "name": "Remote",
+                    "category": "Other"
+                },
+                {
+                    "uid": "wordpress_org",
+                    "name": "WordPress.org",
+                    "category": "CMS"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "WordPress",
+                    "category": "CMS",
+                    "confidence": 1.0,
+                    "source": "wp-json header and wp-* CSS classes",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.68,
+                        "evidence_density": 0.26
+                    }
+                },
+                {
+                    "name": "Apache",
+                    "category": "Web Server",
+                    "confidence": 1.0,
+                    "source": "server: Apache",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.4,
+                        "evidence_density": 0.43
+                    }
+                },
+                {
+                    "name": "PHP",
+                    "category": "Programming Language",
+                    "confidence": 1.0,
+                    "source": "x-powered-by: PHP/7.4",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.75,
+                        "evidence_density": 0.14
+                    }
+                },
+                {
+                    "name": "WPBakery",
+                    "category": "Page Builder",
+                    "confidence": 0.95,
+                    "source": "wpb-* CSS classes",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.55,
+                        "evidence_density": 0.47
+                    }
+                },
+                {
+                    "name": "Revolution Slider",
+                    "category": "Slider Plugin",
+                    "confidence": 0.95,
+                    "source": "revslider-*, tp-* CSS classes",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.56,
+                        "evidence_density": 0.59
+                    }
+                },
+                {
+                    "name": "FontAwesome",
+                    "category": "Icon Library",
+                    "confidence": 0.9,
+                    "source": "fa-* CSS classes",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.6,
+                        "evidence_density": 0.69
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [],
+            "ai_value": [
+                "Africa CEO Platform",
+                "Tunisia-Africa Business Incubator",
+                "ACTE",
+                "The Voice Of Africa"
+            ]
+        },
+        "funding_events": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "UTICA (Union Tunisienne de l'Industrie, du Commerce et de l'Artisanat)",
+                "CONECT (Confédération des Entreprises Citoyennes de Tunisie)",
+                "CEPEX (Centre de Promotion des Exportations)",
+                "FIPA Tunisia (Foreign Investment Promotion Agency)",
+                "Chambre de Commerce et d'Industrie de Tunis (CCIT)"
+            ]
+        }
+    }
+}

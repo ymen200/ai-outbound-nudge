@@ -1,0 +1,483 @@
+{
+  "organization": {
+    "id": "54a11b9269702d9a8bc64a00",
+    "name": "Financial Technology Partners / FT Partners",
+    "website_url": "http://www.ftpartners.com",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/financial-technology-partners",
+    "twitter_url": "https://twitter.com/ftpartners",
+    "facebook_url": null,
+    "languages": [
+      "English"
+    ],
+    "alexa_ranking": null,
+    "phone": "+1 415-512-8700",
+    "linkedin_uid": "34727",
+    "founded_year": 2001,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b0f4d6a5d2490001e4554a/picture",
+    "crunchbase_url": null,
+    "primary_domain": "ftpartners.com",
+    "sic_codes": [
+      "6211"
+    ],
+    "naics_codes": [
+      "523150"
+    ],
+    "primary_phone": {
+      "number": "+1 415-512-8700",
+      "sanitized_number": "+14155128700"
+    },
+    "sanitized_phone": "+14155128700",
+    "industry": "investment banking",
+    "estimated_num_employees": 320,
+    "keywords": [
+      "financial technology partners lp ftp securities llc is the only investment banking firm focused exclu",
+      "fintech deal sourcing",
+      "public company research",
+      "fintech m&a",
+      "payment processing",
+      "fintech innovation",
+      "services",
+      "digital payments",
+      "disruptive financial technology",
+      "fintech private placements",
+      "fintech ipo",
+      "consulting",
+      "financial data analytics",
+      "venture capital",
+      "financial technology sector",
+      "insurtech funding",
+      "crypto m&a",
+      "fintech trends",
+      "financial services",
+      "blockchain investments",
+      "private equity",
+      "lending",
+      "private placements",
+      "b2b",
+      "fintech deal flow",
+      "fintech ecosystem analysis",
+      "valuation services",
+      "fintech investor network",
+      "blockchain and crypto",
+      "securities and commodity contracts intermediation and brokerage",
+      "wealthtech advisory",
+      "industry expertise",
+      "strategic consulting",
+      "strategic advisory",
+      "wealth management",
+      "financial services innovation",
+      "wealthtech",
+      "fintech growth capital",
+      "market research",
+      "fintech growth",
+      "fintech private equity deals",
+      "fintech sector trends",
+      "fintech strategic insights",
+      "capital raising",
+      "fintech industry reports",
+      "fintech sector analysis",
+      "fintech innovation labs",
+      "digital banking",
+      "capital markets",
+      "investment banking",
+      "alternative lending",
+      "innovation",
+      "fintech sector",
+      "financial technology",
+      "insurtech",
+      "growth",
+      "fintech ipo advisory",
+      "financial advisory",
+      "cross-border transactions",
+      "fintech market insights",
+      "payments",
+      "fintech research",
+      "fintech sector deep dives",
+      "digital assets",
+      "regtech advisory",
+      "fintech market analysis",
+      "fintech deal advisory",
+      "fintech ecosystem",
+      "fintech transactions",
+      "fintech investment banking",
+      "fintech",
+      "fintech analysis",
+      "fintech market data",
+      "cross-border payments",
+      "auto fintech solutions",
+      "fintech growth strategies",
+      "deal structuring",
+      "auto fintech",
+      "fintech ipos",
+      "fintech startups",
+      "fintech funding",
+      "fintech private equity",
+      "mergers and acquisitions",
+      "regulatory compliance",
+      "fintech investor relations",
+      "digital asset transactions",
+      "fintech valuation models",
+      "finance",
+      "management consulting",
+      "investment management",
+      "finance technology",
+      "information technology & services",
+      "financial consulting",
+      "mergers & acquisitions"
+    ],
+    "organization_revenue_printed": "300M",
+    "organization_revenue": 300000000.0,
+    "industries": [
+      "investment banking",
+      "capital markets"
+    ],
+    "secondary_industries": [
+      "capital markets"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567e1ab7369641f6d660100",
+    "industry_tag_hash": {
+      "investment banking": "5567e1ab7369641f6d660100",
+      "capital markets": "5567cdb773696439a9080000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "100 California St, 7th Floor, Suite 700, San Francisco, California 94111, US",
+    "street_address": "100 California St",
+    "city": "San Francisco",
+    "state": "California",
+    "postal_code": "94111-4502",
+    "country": "United States",
+    "owned_by_organization_id": null,
+    "num_languages": 1,
+    "num_retail_locations": 0,
+    "short_description": "Financial Technology Partners (FT Partners) is a global investment banking firm dedicated exclusively to the financial technology (FinTech) sector. Headquartered in San Francisco, with additional offices in New York, Miami, and London, FT Partners provides strategic and financial advisory services to FinTech CEOs, founders, and investors. Founded in 2001 by Steve McLaughlin, the firm has built a reputation for its specialized approach to mission-critical transactions.\n\nFT Partners offers a range of advisory services, including mergers and acquisitions, private capital raising, IPO guidance, debt advisory, and valuation services. The firm has been recognized for its achievements, earning titles such as \"Dealmaker of the Year\" and \"Investment Banking Firm of the Year\" from The M&A Advisor. With a focus on the integration of technology and financial services, FT Partners serves clients across various categories, including payments, investment services, and technology solutions.",
+    "suborganizations": [],
+    "num_suborganizations": 0,
+    "annual_revenue_printed": "300M",
+    "annual_revenue": 300000000.0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      "AI",
+      "Alteryx",
+      "CloudFlare",
+      "CloudFlare CDN",
+      "Cloudflare DNS",
+      "Cloudflare Insights",
+      "Django",
+      "Excel4Apps",
+      "Google Analytics",
+      "Google Analytics 4 (GA4)",
+      "Google Font API",
+      "Google Tag Manager",
+      "Greenhouse",
+      "JangoMail",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Email Providers",
+      "Microsoft Entra ID",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Microsoft Office",
+      "Microsoft PowerPoint",
+      "Microsoft Teams",
+      "Mobile Friendly",
+      "MySQL",
+      "OpenAI",
+      "Outlook",
+      "PostgreSQL",
+      "Proofpoint",
+      "Python",
+      "React",
+      "Remote",
+      "SAP Financial Supply Chain Management (FSCM)",
+      "Salesforce",
+      "Salesforce Sales Cloud",
+      "Secured MVC Forum on Windows 2012 R2",
+      "Sendgrid",
+      "Slack",
+      "Tableau",
+      "Twilio SendGrid Email API",
+      "Twilio SendGrid Email Marketing Campaigns",
+      "TypeScript",
+      "Viewport Meta",
+      "Vimeo",
+      "Zoomdata",
+      "eDirectory",
+      "reCAPTCHA"
+    ],
+    "current_technologies": [
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "alteryx",
+        "name": "Alteryx",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cloudflare",
+        "name": "CloudFlare",
+        "category": "Web Accelerators"
+      },
+      {
+        "uid": "cloudflare_cdn",
+        "name": "CloudFlare CDN",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "cloudflare_dns",
+        "name": "Cloudflare DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "cloudflare_insights",
+        "name": "Cloudflare Insights",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "django",
+        "name": "Django",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "excel4apps",
+        "name": "Excel4Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "google_analytics",
+        "name": "Google Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_analytics_4_ga4",
+        "name": "Google Analytics 4 (GA4)",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_font_api",
+        "name": "Google Font API",
+        "category": "Fonts"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "greenhouse",
+        "name": "Greenhouse",
+        "category": "Other"
+      },
+      {
+        "uid": "jangomail",
+        "name": "JangoMail",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_email_providers",
+        "name": "Microsoft Email Providers",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_entra_id",
+        "name": "Microsoft Entra ID",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_office",
+        "name": "Microsoft Office",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_powerpoint",
+        "name": "Microsoft PowerPoint",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "microsoft_teams",
+        "name": "Microsoft Teams",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "openai",
+        "name": "OpenAI",
+        "category": "Other"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "postgresql",
+        "name": "PostgreSQL",
+        "category": "Database"
+      },
+      {
+        "uid": "proofpoint",
+        "name": "Proofpoint",
+        "category": "Security"
+      },
+      {
+        "uid": "python",
+        "name": "Python",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "sap_financial_supply_chain_management_fscm",
+        "name": "SAP Financial Supply Chain Management (FSCM)",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_sales_cloud",
+        "name": "Salesforce Sales Cloud",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "secured_mvc_forum_on_windows_2012_r2",
+        "name": "Secured MVC Forum on Windows 2012 R2",
+        "category": "CMS"
+      },
+      {
+        "uid": "sendgrid",
+        "name": "Sendgrid",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "tableau",
+        "name": "Tableau",
+        "category": "Widgets"
+      },
+      {
+        "uid": "twilio_sendgrid_email_api",
+        "name": "Twilio SendGrid Email API",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "twilio_sendgrid_email_marketing_campaigns",
+        "name": "Twilio SendGrid Email Marketing Campaigns",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "typescript",
+        "name": "TypeScript",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "vimeo",
+        "name": "Vimeo",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "zoomdata",
+        "name": "Zoomdata",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "edirectory",
+        "name": "eDirectory",
+        "category": "CMS"
+      },
+      {
+        "uid": "recaptcha",
+        "name": "reCAPTCHA",
+        "category": "Captcha"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "66f4542ab29c40000155df0e"
+    ],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "finance": 136,
+      "human_resources": 12,
+      "sales": 6,
+      "accounting": 5,
+      "operations": 13,
+      "arts_and_design": 3,
+      "engineering": 7,
+      "legal": 7,
+      "marketing": 2,
+      "consulting": 2,
+      "business_development": 3,
+      "entrepreneurship": 4,
+      "data_science": 1,
+      "product_management": 1,
+      "administrative": 8,
+      "information_technology": 0,
+      "education": 0,
+      "media_and_commmunication": 0,
+      "support": 0
+    },
+    "organization_headcount_six_month_growth": 0.107981220657277,
+    "organization_headcount_twelve_month_growth": 0.06306306306306306,
+    "organization_headcount_twenty_four_month_growth": 0.2553191489361702
+  }
+}

@@ -1,0 +1,68 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Not specified",
+        "location": "United States",
+        "department": "Not specified",
+        "date": "Not specified",
+        "confidence": 0.5,
+        "source": "We believe that technology with purpose has the potential to solve the greatest challenges of our time.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.4,
+            "evidence_density": 0.13
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Bringing physical AI to the factory floor - Siemens partners with Humanoid to deploy the HMND 01 Alpha robot",
+        "date": "Not specified",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "We're partnering with Humanoid to deploy the HMND 01 Alpha robot in our Erlangen factory.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.21,
+            "evidence_density": 1.21
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Digitalizing New York City's iconic Fulton Line - Siemens awarded a contract by the MTA to modernize the Fulton-Liberty Lines",
+        "date": "Not specified",
+        "news_type": "Contract",
+        "confidence": 0.8,
+        "source": "We've been awarded a contract by the MTA to modernize the Fulton-Liberty Lines with CBTC signaling technology, upgrading 23 stations and 65 track kilometers across Brooklyn and Queens.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.31,
+            "evidence_density": 0.68
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Gridscale X redefines system operations - The latest evolution of the Gridscale X platform brings AI-powered, agentic capabilities to PSS®E transmission planning",
+        "date": "Not specified",
+        "news_type": "Product Launch",
+        "confidence": 0.8,
+        "source": "The latest evolution of our Gridscale X platform brings AI-powered, agentic capabilities to PSS®E transmission planning to accelerate studies and expand team capacity for grid operators.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.13,
+            "evidence_density": 0.87
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Realize LIVE 2026 | Global events - Join us to explore the future of engineering, simulation and industrial AI",
+        "date": "2026",
+        "news_type": "Event",
+        "confidence": 0.9,
+        "source": "Join us to explore the future of engineering, simulation and industrial AI. Pick your location and register now.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.23,
+            "evidence_density": 0.98
+        }
+    }
+]

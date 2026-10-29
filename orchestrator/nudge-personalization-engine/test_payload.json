@@ -1,0 +1,70 @@
+{
+  "lead_id": "test-lead-001",
+  "campaign_id": "campaign_q2_2026",
+  "entreprise": "Ramp",
+  "contact_info": {
+    "full_name": "Sarah Chen",
+    "nom": "Sarah Chen",
+    "job_title": "VP of Sales",
+    "titre": "VP of Sales",
+    "email": "sarah.chen@ramp.com",
+    "country": "United States",
+    "city": "New York",
+    "location": "New York, United States",
+    "linkedin": "https://linkedin.com/in/sarahchen",
+    "phone": ""
+  },
+  "contexte_web": {
+    "profil_brut": "Sarah is VP of Sales at Ramp, a fintech company. Recently posted about scaling outbound sales teams and experimenting with AI-powered prospecting tools. Active on LinkedIn, engages with sales methodology content.",
+    "offer_context": "AI-powered outreach automation platform that personalizes multi-channel sequences",
+    "icp_description": "B2B SaaS companies with 50-500 employees, sales teams doing outbound prospecting"
+  },
+  "research_signals": [
+    {
+      "type": "recent_post",
+      "content": "Posted about scaling SDR teams with AI tooling",
+      "strength": "high",
+      "why_relevant": "Directly related to our offer"
+    },
+    {
+      "type": "job_change",
+      "content": "Promoted to VP of Sales 3 months ago",
+      "strength": "medium",
+      "why_relevant": "New role likely means new budget and mandate to improve processes"
+    }
+  ],
+  "is_connected_on_linkedin": false,
+  "use_native_language": false,
+  "message_language": null,
+  "approval_mode": "per_sequence",
+  "sender_company": "OutreachAI",
+  "sender_elevator_pitch": "We help B2B sales teams automate personalized outreach across email and LinkedIn",
+  "offer_name": "OutreachAI Pro",
+  "solution_summary": "AI-powered multi-channel outreach sequences that write like your best SDR",
+  "cta": "Book a 15-min demo to see it in action",
+  "max_touches": 4,
+  "max_days": 14,
+  "preferred_first_channel": "linkedin_dm",
+  "sequence_options": {
+    "vary_tone": true,
+    "include_breakup": true,
+    "reference_previous": true,
+    "escalate_urgency": true,
+    "cross_channel": true
+  },
+  "stage_instructions": {
+    "first_touch": "Be casual, reference their recent LinkedIn post about AI tooling, don't pitch yet",
+    "second_touch": "Share a relevant insight about SDR team scaling, soft mention of our approach",
+    "third_touch": "Be more direct, propose the demo, show specific value metrics"
+  },
+  "personality_config": {
+    "base_template": "value_based",
+    "personality_traits": ["Data-driven", "Direct"],
+    "always_include_phrases": ["15-min demo", "AI-powered"],
+    "never_use_phrases": ["game-changer", "revolutionary", "synergy"],
+    "urgency_level": 4,
+    "humor_sarcasm": 3,
+    "touchdowns_per_message": 2
+  },
+  "debug_mode": true
+}

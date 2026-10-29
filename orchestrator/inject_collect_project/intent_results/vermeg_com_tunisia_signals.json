@@ -1,0 +1,18 @@
+{
+    "target_domain": "vermeg.com",
+    "target_country_filter": "Tunisia",
+    "organization_id": "6182fffb7bcc9300f6b4b60b",
+    "extracted_jobs": [
+        {
+            "id": "69e1bdd8b90adc000179a094",
+            "title": "Senior Cloud / DevOps Engineer (AWS)",
+            "url": "https://www.vermeg.com/job/senior-cloud-devops-engineer-aws",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-06-02T03:33:39.000+00:00",
+            "posted_at": "2026-04-16T16:10:48.000+00:00"
+        }
+    ],
+    "extracted_news": []
+}

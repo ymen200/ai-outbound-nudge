@@ -1,0 +1,78 @@
+services:
+  # Main application service - data collection, enrichment, and persona discovery pipeline
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: inject_collector
+    working_dir: /app
+    
+    # Load environment variables from .env file
+    # Required: APOLLO_API_KEY, GEMINI_API_KEY, NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
+    # Optional (for persona enrichment): SERPER_API_KEY, HUNTER_API_KEY, SNOVIO_CLIENT_ID/SECRET, TOMBA_API_KEY/SECRET, AEROLEADS_API_KEY
+    env_file:
+      - .env
+    
+    # Environment variables (override or supplement .env)
+    environment:
+      PYTHONUNBUFFERED: "1"
+      PYTHONDONTWRITEBYTECODE: "1"
+    
+    # Mount volumes for persistent data
+    volumes:
+      # Output data directories
+      - ./scraped_data:/app/scraped_data
+      - ./merged_profiles:/app/merged_profiles
+      - ./comparisons:/app/comparisons
+      - ./personas_discovered:/app/personas_discovered
+      
+      # Optional: Source code for live development (uncomment for development)
+      # - .:/app
+    
+    # Keep container from exiting immediately (for interactive use)
+    stdin_open: true
+    tty: true
+    
+    # Resource limits (adjust based on your system)
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+        reservations:
+          cpus: '1'
+          memory: 2G
+    
+    # Restart policy for production
+    restart: "no"
+    
+    # Network configuration
+    networks:
+      - scraper_network
+
+  # Optional: Local Neo4j service for development/testing
+  # Uncomment below if you want to test with local Neo4j instead of Neo4j AuraDB
+  # neo4j:
+  #   image: neo4j:5.17-community
+  #   container_name: neo4j_local
+  #   environment:
+  #     NEO4J_AUTH: neo4j/password123
+  #     NEO4J_PLUGINS: '["apoc"]'
+  #   volumes:
+  #     - neo4j_data:/var/lib/neo4j/data
+  #   ports:
+  #     - "7687:7687"  # Bolt protocol
+  #     - "7474:7474"  # HTTP interface
+  #   networks:
+  #     - scraper_network
+  #   restart: unless-stopped
+  #   healthcheck:
+  #     test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:7474/browser/"]
+  #     interval: 10s
+  #     timeout: 5s
+  #     retries: 5
+
+# Network configuration
+networks:
+  scraper_network:
+    driver: bridge

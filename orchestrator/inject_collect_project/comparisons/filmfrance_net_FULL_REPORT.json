@@ -1,0 +1,356 @@
+{
+    "domain": "filmfrance.net",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Film France-CNC",
+            "ai_value": "Film France - CNC"
+        },
+        "domain": {
+            "database_value": "filmfrance.net",
+            "ai_value": "filmfrance.net"
+        },
+        "industry": {
+            "database_value": "media production",
+            "ai_value": "Government Administration / Film Production"
+        },
+        "founded_year": {
+            "database_value": 1994,
+            "ai_value": null
+        },
+        "short_description": {
+            "database_value": "Film France-CNC is the French Film Commission and a department of the CNC (Centre national du cinéma et de l'image animée). Established in 1946, it serves as a key resource for foreign productions and individuals looking to film in France. The organization operates with legal and financial autonomy and is publicly owned.\n\nFilm France-CNC provides a range of services for international filmmakers and production companies. It offers production support and promotion, tax rebate management with potential rebates of up to 40%, location scouting, logistics assistance, and regulatory guidance. The organization also supports XR and video game projects. Led by Daphné Lora, the team includes specialists in various areas to assist with the needs of filmmakers. As part of the CNC, Film France-CNC contributes to the promotion and regulation of cinematic and audiovisual arts in France and is affiliated with the AFCI and the EuFCN Network.",
+            "ai_value": "The one-stop shop for foreign productions and individuals preparing to film in France."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Film France CNC - The French Film Commission"
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": "Publicly Funded"
+        },
+        "estimated_num_employees": {
+            "database_value": 10,
+            "ai_value": "11-50"
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/film-france",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "https://twitter.com/Film_France",
+            "ai_value": "https://twitter.com/Film_France"
+        },
+        "facebook_url": {
+            "database_value": "https://www.facebook.com/FilmFrance",
+            "ai_value": null
+        },
+        "phone": {
+            "database_value": "+33 3 20 28 26 53",
+            "ai_value": "+33 (0)1 44 34 35 68"
+        },
+        "raw_address": {
+            "database_value": "9 rue du château d'eau, paris, île-de-france, france",
+            "ai_value": "9 Rue du Chateau d'Eau, 75010 Paris, France"
+        },
+        "city": {
+            "database_value": "Paris",
+            "ai_value": "Paris"
+        },
+        "country": {
+            "database_value": "France",
+            "ai_value": "France"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": 0
+        },
+        "keywords": {
+            "database_value": [
+                "b2b",
+                "animation",
+                "talent acquisition",
+                "film support services",
+                "film regulation guidance",
+                "film production services",
+                "studio stages",
+                "government",
+                "film production support",
+                "consulting",
+                "film industry training",
+                "film legal advice",
+                "film industry marketing",
+                "location services",
+                "film location services",
+                "film france",
+                "film safety regulations",
+                "vfx rebate bonus",
+                "film studio access",
+                "animation production support",
+                "production financing support",
+                "film industry consulting",
+                "postproduction services and other motion picture and video industries",
+                "film industry promotion",
+                "virtual studio access",
+                "animation industry",
+                "green filming guidance",
+                "film visa support",
+                "tax rebate",
+                "film project planning",
+                "film industry support",
+                "film industry network",
+                "film industry partnerships",
+                "film regulation and permits",
+                "vfx and animation studios",
+                "animation studios",
+                "location finding",
+                "film commissions",
+                "cnc",
+                "international production assistance",
+                "film industry events",
+                "film permit regulations",
+                "film project management",
+                "filming in france",
+                "film production consulting",
+                "vfx studios",
+                "services",
+                "insurance",
+                "vfx industry",
+                "film production legal compliance",
+                "film permit assistance",
+                "location scouting",
+                "legal"
+            ],
+            "ai_value": "Film Commission, Tax Rebate, Film Production, VFX Studios, Animation Studios, Cinema, CNC, France, Location Scouting"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "gmail",
+                    "name": "Gmail",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "google_apps",
+                    "name": "Google Apps",
+                    "category": "Other"
+                },
+                {
+                    "uid": "google_meet",
+                    "name": "Google Meet",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "google_search_central",
+                    "name": "Google Search Central",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_search_console",
+                    "name": "Google Search Console",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_tag_manager",
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "google workspace",
+                    "name": "Google Workspace",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "href_lang",
+                    "name": "HREF Lang",
+                    "category": "Other"
+                },
+                {
+                    "uid": "hsts",
+                    "name": "HSTS",
+                    "category": "Security"
+                },
+                {
+                    "uid": "infinite_scroll",
+                    "name": "Infinite Scroll",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "lightbox",
+                    "name": "Lightbox",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "nginx",
+                    "name": "Nginx",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "open_graph",
+                    "name": "Open Graph",
+                    "category": "Other"
+                },
+                {
+                    "uid": "primeng",
+                    "name": "PrimeNG",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "sendgrid",
+                    "name": "Sendgrid",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "twilio_sendgrid_email_api",
+                    "name": "Twilio SendGrid Email API",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "twilio_sendgrid_email_marketing_campaigns",
+                    "name": "Twilio SendGrid Email Marketing Campaigns",
+                    "category": "Email Marketing"
+                },
+                {
+                    "uid": "underscore.js",
+                    "name": "Underscore.js",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "viewport_meta",
+                    "name": "Viewport Meta",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "vimeo",
+                    "name": "Vimeo",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "wordpress_org",
+                    "name": "WordPress.org",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "wordpress",
+                    "name": "Wordpress",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "yoast",
+                    "name": "Yoast",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "youtube",
+                    "name": "YouTube",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "jquery",
+                    "name": "jQuery",
+                    "category": "CSS and JavaScript Libraries"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "WordPress",
+                    "category": "CMS",
+                    "confidence": 0.99,
+                    "source": "Detected via wp-json and wp-* CSS prefixes",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.72,
+                        "evidence_density": 0.21
+                    }
+                },
+                {
+                    "name": "Nginx",
+                    "category": "Web Server",
+                    "confidence": 0.99,
+                    "source": "server: nginx header",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.59,
+                        "evidence_density": 0.25
+                    }
+                },
+                {
+                    "name": "Google Tag Manager",
+                    "category": "Analytics",
+                    "confidence": 0.99,
+                    "source": "www.googletagmanager.com script",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.34,
+                        "evidence_density": 0.58
+                    }
+                },
+                {
+                    "name": "Axept.io",
+                    "category": "Consent Management",
+                    "confidence": 0.99,
+                    "source": "static.axept.io script",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.46,
+                        "evidence_density": 0.36
+                    }
+                },
+                {
+                    "name": "Vimeo",
+                    "category": "Video Player",
+                    "confidence": 0.95,
+                    "source": "player.vimeo.com script",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.59,
+                        "evidence_density": 0.22
+                    }
+                },
+                {
+                    "name": "Yoast SEO",
+                    "category": "SEO",
+                    "confidence": 0.95,
+                    "source": "yoast-* CSS prefixes",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.4,
+                        "evidence_density": 0.45
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "funding_events": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Spain Film Commission",
+                "British Film Commission",
+                "Italian Film Commission",
+                "German Film Commissions",
+                "Screen Ireland"
+            ]
+        }
+    }
+}

@@ -1,0 +1,409 @@
+{
+    "domain": "nouvelair.com",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "Nouvelair Tunisia",
+                "ai": "Nouvelair"
+            },
+            "domain": {
+                "apollo": "nouvelair.com",
+                "ai": "nouvelair.com"
+            },
+            "industry": {
+                "apollo": "airlines/aviation",
+                "ai": "Compagnie aérienne / Voyages"
+            },
+            "founded_year": {
+                "apollo": 1989,
+                "ai": null
+            },
+            "short_description": {
+                "apollo": "Nouvelair Tunisie is a privately owned airline based in Tunisia, established in 1989 and known for its tourist charter flights. The airline operates primarily from Monastir Habib Bourguiba International Airport, with additional bases at Tunis–Carthage International Airport and Djerba–Zarzis International Airport. It specializes in connecting various European cities to popular Tunisian holiday resorts, making it a key player in the country's travel services.\n\nThe airline operates a modern fleet consisting entirely of Airbus A320-200 aircraft, ensuring efficiency for its charter services. Nouvelair is committed to providing affordable flights for leisure travelers, focusing on enhancing the tourism experience in Tunisia. The company is led by CEO Chokri Zarrad and is part of the Tunisian Travel Service group, which holds a majority stake in the airline.",
+                "ai": "Nouvelair est une compagnie aérienne tunisienne proposant des vols pas chers vers la Tunisie (Tunis, Monastir, Djerba) depuis plus de 130 aéroports dans plus de 30 pays."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Vols pas chers Tunisie | vente billets d'avion nouvelair"
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": 350000000.0,
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_num_employees": {
+                "apollo": 940,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/nouvelair-tunisia",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "https://twitter.com/NouvelairTN",
+                "ai": "https://twitter.com/NouvelairTN"
+            },
+            "facebook_url": {
+                "apollo": "https://facebook.com/Nouvelair.PageOfficielle?fref=ts",
+                "ai": "https://www.facebook.com/Nouvelair.PageOfficielle?fref=ts"
+            },
+            "phone": {
+                "apollo": "+216 70 020 900",
+                "ai": "+216 70 020 920"
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "Zone Touristique DKHILA, Monastir, Monastir, Monastir 5056, TN",
+                "ai": null
+            },
+            "city": {
+                "apollo": "Monastir",
+                "ai": null
+            },
+            "country": {
+                "apollo": "Tunisia",
+                "ai": "Tunisia"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": null
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "airlines & aviation",
+                    "cheap flights",
+                    "réservation en ligne",
+                    "compagnie aérienne tunisienne",
+                    "billets d'avion",
+                    "destinations tunisie",
+                    "programme de fidélité",
+                    "customer support",
+                    "offres personnalisées",
+                    "b2c",
+                    "online booking",
+                    "airlines",
+                    "e-commerce",
+                    "flight booking",
+                    "tunisia destinations",
+                    "airline",
+                    "promotions",
+                    "transportation & logistics",
+                    "vols pas chers tunisie",
+                    "scheduled air transportation",
+                    "fidelity program",
+                    "service client",
+                    "mobile app",
+                    "travel services",
+                    "destinations estivales",
+                    "d2c",
+                    "services",
+                    "réseau de points de vente",
+                    "airlines/aviation",
+                    "aviation & aerospace",
+                    "consumer internet",
+                    "consumers",
+                    "internet",
+                    "information technology & services"
+                ],
+                "ai": "vols pas chers, Tunisie, billets d'avion, nouvelair, voyage, aérien, destinations, réservation, Tunis, Monastir, Djerba, application mobile, programme de fidélité, Jasmin"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "ai",
+                        "name": "AI",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "android",
+                        "name": "Android",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "azure_blob_storage",
+                        "name": "Azure Blob Storage",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "drupal",
+                        "name": "Drupal",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "google_play",
+                        "name": "Google Play",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "google_search_console",
+                        "name": "Google Search Console",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_tag_manager",
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "href_lang",
+                        "name": "HREF Lang",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "mui",
+                        "name": "MUI",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "mapbox",
+                        "name": "Mapbox",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "material_ui",
+                        "name": "Material UI",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365_apps_services",
+                        "name": "Microsoft 365 Apps & Services",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft",
+                        "name": "Microsoft Azure Hosting",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "microsoft_exchange",
+                        "name": "Microsoft Exchange",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_exchange_online",
+                        "name": "Microsoft Exchange Online",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "office_365",
+                        "name": "Microsoft Office 365",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "nextjs",
+                        "name": "Next.js",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "nginx",
+                        "name": "Nginx",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "ovhcloud",
+                        "name": "OVHcloud",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "office365",
+                        "name": "Office365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "outlook",
+                        "name": "Outlook",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "slack",
+                        "name": "Slack",
+                        "category": "Chats"
+                    },
+                    {
+                        "uid": "ubuntu",
+                        "name": "Ubuntu",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "viewport_meta",
+                        "name": "Viewport Meta",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "recaptcha",
+                        "name": "reCAPTCHA",
+                        "category": "Captcha"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "Nginx",
+                        "category": "Serveur Web",
+                        "confidence": 0.99,
+                        "source": "HEADERS HTTP : server: nginx/1.14.0 (Ubuntu)",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.79,
+                            "evidence_density": 0.11
+                        }
+                    },
+                    {
+                        "name": "Next.js",
+                        "category": "Framework Web",
+                        "confidence": 0.99,
+                        "source": "HEADERS HTTP : x-powered-by: Next.js ; MATCHES REGEX CLASSIQUES : Next.js",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.81,
+                            "evidence_density": 0.1
+                        }
+                    },
+                    {
+                        "name": "Ubuntu",
+                        "category": "Système d'exploitation",
+                        "confidence": 0.99,
+                        "source": "HEADERS HTTP : server: nginx/1.14.0 (Ubuntu)",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.75,
+                            "evidence_density": 0.14
+                        }
+                    },
+                    {
+                        "name": "Google",
+                        "category": "Publicité / Analytics / Services Web",
+                        "confidence": 0.95,
+                        "source": "SCRIPTS EXTERNES CHARGÉS : www.google.com, www.gstatic.com ; COLLABORATION PARTENAIRES : Google Ads, Google Analytics, Google Tag Manager",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.87,
+                            "evidence_density": 0.04
+                        }
+                    },
+                    {
+                        "name": "Zowie",
+                        "category": "Chatbot / Service Client",
+                        "confidence": 0.9,
+                        "source": "SCRIPTS EXTERNES CHARGÉS : nouvelair.chat.getzowie.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.73,
+                            "evidence_density": 0.09
+                        }
+                    },
+                    {
+                        "name": "React",
+                        "category": "Bibliothèque JavaScript",
+                        "confidence": 0.99,
+                        "source": "MATCHES REGEX CLASSIQUES : React",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.72,
+                            "evidence_density": 0.16
+                        }
+                    },
+                    {
+                        "name": "Google Tag Manager",
+                        "category": "Gestion de balises",
+                        "confidence": 0.99,
+                        "source": "MATCHES REGEX CLASSIQUES : Google Tag Manager ; COLLABORATION PARTENAIRES : Google Tag Manager",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.67,
+                            "evidence_density": 0.19
+                        }
+                    },
+                    {
+                        "name": "Google Ads",
+                        "category": "Publicité",
+                        "confidence": 0.95,
+                        "source": "COLLABORATION PARTENAIRES : Google Ads",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.53,
+                            "evidence_density": 0.26
+                        }
+                    },
+                    {
+                        "name": "Google Analytics",
+                        "category": "Analyse Web",
+                        "confidence": 0.95,
+                        "source": "COLLABORATION PARTENAIRES : Google Analytics",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.42,
+                            "evidence_density": 0.36
+                        }
+                    },
+                    {
+                        "name": "Facebook Pixel",
+                        "category": "Tracking Publicitaire",
+                        "confidence": 0.95,
+                        "source": "COLLABORATION PARTENAIRES : Facebook Pixel",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.45,
+                            "evidence_density": 0.33
+                        }
+                    },
+                    {
+                        "name": "Material-UI (MUI)",
+                        "category": "Bibliothèque UI",
+                        "confidence": 0.9,
+                        "source": "PRÉFIXES CSS DÉTECTÉS : MuiGrid-*, MuiButtonBase-*, MuiButton-*, MuiTouchRipple-*, MuiSvgIcon-*, MuiIconButton-*, MuiPaper-*, MuiDivider-*, MuiList-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.83,
+                            "evidence_density": 0.11
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [],
+                "ai": []
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Tunisair",
+                    "Tunisair Express",
+                    "Transavia",
+                    "Air France",
+                    "TUI fly"
+                ]
+            }
+        }
+    }
+}

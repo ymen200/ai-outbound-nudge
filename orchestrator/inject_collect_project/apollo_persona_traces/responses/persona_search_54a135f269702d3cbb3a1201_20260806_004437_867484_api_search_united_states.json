@@ -1,0 +1,28 @@
+{
+  "total_entries": 1,
+  "people": [
+    {
+      "id": "66f2813b91e1e200014b6744",
+      "first_name": "Susan",
+      "last_name_obfuscated": "St***y",
+      "title": "Head of Event Sales & Licensing at Business Insurance",
+      "last_refreshed_at": "2026-07-13T16:52:44.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "Business Insurance",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

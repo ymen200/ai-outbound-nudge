@@ -1,0 +1,100 @@
+{
+  "person": {
+    "id": "6331696f215b720001351569",
+    "first_name": "Arnaud",
+    "last_name": "Leclair",
+    "name": "Arnaud Leclair",
+    "linkedin_url": "http://www.linkedin.com/in/arnaud-leclair-5b82a7224",
+    "title": "Sales and Business Development Manager",
+    "photo_url": "https://media-exp1.licdn.com/dms/image/C4D03AQEa82oYSCUFhg/profile-displayphoto-shrink_200_200/0/1635374707639?e=1669852800&v=beta&t=uqIqcSrwAVX6na22BjQS848TpKx79k-kyH7hnxiGPsA",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Sales and Business Development Manager chez Sopra Steria",
+    "organization_id": "556dbaad73696412082b7901",
+    "employment_history": [
+      {
+        "_id": "689e22417aafa600013a7b5e",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": null,
+        "organization_id": "556dbaad73696412082b7901",
+        "organization_name": "Sopra Steria",
+        "raw_address": null,
+        "start_date": "2015-01-01",
+        "title": "Sales and Business Development Manager",
+        "updated_at": null,
+        "id": "689e22417aafa600013a7b5e",
+        "key": "689e22417aafa600013a7b5e"
+      },
+      {
+        "_id": "689e22417aafa600013a7b60",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2014-12-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": null,
+        "organization_id": "60dc79690c9f20008c5df5b2",
+        "organization_name": "EQUANS",
+        "raw_address": null,
+        "start_date": "2011-09-01",
+        "title": "Assistant Responsable Technique",
+        "updated_at": null,
+        "id": "689e22417aafa600013a7b60",
+        "key": "689e22417aafa600013a7b60"
+      }
+    ],
+    "street_address": "",
+    "city": "Paris",
+    "state": "Ile-de-France",
+    "country": "France",
+    "postal_code": null,
+    "formatted_address": "Paris, France",
+    "time_zone": "Europe/Paris",
+    "email": "arnaud.leclair@soprasteria.com",
+    "email_status": "verified",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development",
+      "sales"
+    ],
+    "seniority": "manager",
+    "functions": [
+      "sales",
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": true,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": [
+      "arnaud.leclair@soprasteria.com"
+    ]
+  },
+  "phone_enrichment": {
+    "request_id": "6a5eb37f1da3d60014d181d1",
+    "status": "pending",
+    "message": "Phone enrichment is processing asynchronously. Retrieve the result by polling GET /api/v1/webhook_result/{request_id} with the top-level `request_id` field from this response. Retry after ~10 seconds."
+  },
+  "request_id": -7973517021094611828
+}

@@ -1,0 +1,91 @@
+{
+    "annual_revenue": null,
+    "apollo_id": "54a1356669702d407f24a100",
+    "city": "Matlock",
+    "country": "United Kingdom",
+    "domain": "yha.org.uk",
+    "estimated_num_employees": 590,
+    "facebook_url": "https://www.facebook.com/WeAreYHA",
+    "founded_year": 1930,
+    "funding_events": [],
+    "industry": "Hospitality / Non-profit Organization",
+    "keywords": [
+        "Hostels",
+        "camping",
+        "glamping",
+        "England",
+        "Wales",
+        "charity",
+        "youth travel",
+        "outdoor activities",
+        "budget accommodation"
+    ],
+    "latest_funding_stage": "Charity / Non-Profit",
+    "linkedin_url": "http://www.linkedin.com/company/youth-hostel-association",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/68709e4c94d73200019e7ce4/picture",
+    "name": "YHA (England & Wales)",
+    "num_suborganizations": 0,
+    "phone": "+44 800 019 5465",
+    "postal_code": "DE4 3YH",
+    "raw_address": "Dimple Road, Matlock, United Kingdom",
+    "seo_description": "Hostels, camping & glamping | YHA",
+    "short_description": "Organisation caritative proposant des services d'hébergement en auberges de jeunesse, camping et glamping en Angleterre et au Pays de Galles.",
+    "state": "England",
+    "street_address": "Dimple Road",
+    "suborganizations": "Non renseigné",
+    "technologies": [
+        {
+            "uid": "drupal_10",
+            "name": "Drupal 10",
+            "category": "CMS"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "Cloudflare",
+            "category": "CDN / Security / Hosting"
+        },
+        {
+            "uid": "varnish",
+            "name": "Varnish",
+            "category": "Cache"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "hotjar",
+            "name": "Hotjar",
+            "category": "Analytics / UX"
+        },
+        {
+            "uid": "monsido",
+            "name": "Monsido",
+            "category": "Compliance / Accessibility"
+        },
+        {
+            "uid": "cookiehub",
+            "name": "CookieHub",
+            "category": "Consent Management"
+        },
+        {
+            "uid": "usersnap",
+            "name": "Usersnap",
+            "category": "Feedback Management"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/yhaofficial",
+    "website_url": "http://www.yha.org.uk",
+    "is_subsidiary": true,
+    "parent_company": "Hostelling International",
+    "competitors": [
+        "Hostelworld",
+        "The Camping and Caravanning Club",
+        "Travelodge UK",
+        "Hostelling Scotland (SYHA)",
+        "Premier Inn"
+    ],
+    "data_quality_score": 0.94
+}

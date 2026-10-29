@@ -1,0 +1,27 @@
+@startuml
+' Component diagram for Inject-Collect
+!define AWSPUML https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/Advanced/AWSPUML
+skinparam componentStyle rectangle
+
+package "Inject-Collect" {
+  [Orchestrator] as Orchestrator
+  [Injector Adapter\n(e.g., HTTP, Queue, Device)] as Injector
+  [Collector Adapter] as Collector
+}
+
+database "Primary DB (Postgres)" as DB
+cloud "Object Store (S3)" as S3
+queue "Message Broker (Kafka/RabbitMQ)" as Broker
+folder "Monitoring\n(Prometheus/Grafana, Logs)" as Monitoring
+
+Orchestrator --> Broker : enqueue job
+Orchestrator --> Injector : schedule/send job
+Injector --> "Target System" : send payload
+"Target System" --> Collector : response / webhook
+Collector --> DB : persist result
+Collector --> S3 : store large payloads
+Orchestrator --> DB : read/write job state
+Monitoring ..> Orchestrator : metrics
+Monitoring ..> Injector : metrics
+Monitoring ..> Collector : metrics
+@enduml

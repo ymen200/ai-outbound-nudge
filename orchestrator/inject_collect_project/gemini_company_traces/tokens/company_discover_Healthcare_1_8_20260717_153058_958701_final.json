@@ -1,0 +1,139 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 4,
+    "successful_calls": 4,
+    "failed_calls": 0,
+    "prompt_tokens": 3996,
+    "candidates_tokens": 1321,
+    "thoughts_tokens": 1625,
+    "cached_content_tokens": 0,
+    "total_tokens": 6942,
+    "by_model": {
+      "gemini-3.1-flash-lite-preview": {
+        "calls": 2,
+        "total_tokens": 325,
+        "prompt_tokens": 299,
+        "candidates_tokens": 26
+      },
+      "gemini-3-flash-preview": {
+        "calls": 2,
+        "total_tokens": 6617,
+        "prompt_tokens": 3697,
+        "candidates_tokens": 1295
+      }
+    },
+    "by_operation": {
+      "browser_config": {
+        "calls": 1,
+        "total_tokens": 150,
+        "prompt_tokens": 125,
+        "candidates_tokens": 25
+      },
+      "extract_apollo": {
+        "calls": 1,
+        "total_tokens": 4043,
+        "prompt_tokens": 1998,
+        "candidates_tokens": 1094
+      },
+      "navigation": {
+        "calls": 1,
+        "total_tokens": 175,
+        "prompt_tokens": 174,
+        "candidates_tokens": 1
+      },
+      "post_process": {
+        "calls": 1,
+        "total_tokens": 2574,
+        "prompt_tokens": 1699,
+        "candidates_tokens": 201
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T15:30:11.553382",
+        "prompt_token_count": 125,
+        "candidates_token_count": 25,
+        "total_token_count": 150,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T15:30:47.226910",
+        "prompt_token_count": 1998,
+        "candidates_token_count": 1094,
+        "total_token_count": 4043,
+        "thoughts_token_count": 951,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T15:30:47.721854",
+        "prompt_token_count": 174,
+        "candidates_token_count": 1,
+        "total_token_count": 175,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T15:30:54.524488",
+        "prompt_token_count": 1699,
+        "candidates_token_count": 201,
+        "total_token_count": 2574,
+        "thoughts_token_count": 674,
+        "cached_content_token_count": 0
+      }
+    ],
+    "companies_scraped_attempted": 1,
+    "companies_scraped_succeeded": 1,
+    "industries": [
+      "Healthcare"
+    ],
+    "locations": [
+      "France",
+      "Germany",
+      "United Kingdom",
+      "Italy",
+      "Spain",
+      "Poland",
+      "Russia",
+      "Netherlands"
+    ]
+  }
+}

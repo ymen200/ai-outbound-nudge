@@ -1,0 +1,137 @@
+{
+  "person": {
+    "id": "5e70f1c09ed3ea0001050ec0",
+    "first_name": "Sebastien",
+    "last_name": "Pavan",
+    "name": "Sebastien Pavan",
+    "linkedin_url": "http://www.linkedin.com/in/sebastien-pavan-79340512b",
+    "title": "Business Development Manager",
+    "photo_url": "https://media.licdn.com/dms/image/v2/D4E03AQEn1nG6ASNrwg/profile-displayphoto-scale_200_200/B4EZ22sc9sHMAY-/0/1776886601591?e=2147483647&v=beta&t=XTpeBojgvIaW2DPMQE6X6uyPa6eaj9-RW3a9qS0YYSo",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": 0.69,
+    "headline": "Sales Manager Savoie Maurienne / Tarentaise",
+    "organization_id": "54a1293f69702d979c759601",
+    "employment_history": [
+      {
+        "_id": "6a3a3cf0576fd100011561fa",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1293f69702d979c759601",
+        "organization_name": "Randstad France",
+        "raw_address": null,
+        "start_date": "2026-04-01",
+        "title": "Business Development Manager",
+        "updated_at": null,
+        "id": "6a3a3cf0576fd100011561fa",
+        "key": "6a3a3cf0576fd100011561fa"
+      },
+      {
+        "_id": "6a3a3cf0576fd100011561fb",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2026-04-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "621783b5e1bf5600a68f4ae6",
+        "organization_name": "Randstad",
+        "raw_address": null,
+        "start_date": "2025-09-01",
+        "title": "Consultant",
+        "updated_at": null,
+        "id": "6a3a3cf0576fd100011561fb",
+        "key": "6a3a3cf0576fd100011561fb"
+      },
+      {
+        "_id": "6a3a3cf0576fd100011561fc",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2008-05-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1293f69702d979c759601",
+        "organization_name": "Randstad France",
+        "raw_address": null,
+        "start_date": "2006-01-01",
+        "title": "Consultant Commercial RH",
+        "updated_at": null,
+        "id": "6a3a3cf0576fd100011561fc",
+        "key": "6a3a3cf0576fd100011561fc"
+      }
+    ],
+    "street_address": "",
+    "city": "Chambery",
+    "state": "Auvergne-Rhone-Alpes",
+    "country": "France",
+    "postal_code": "73000",
+    "formatted_address": "73000 Chambéry, France",
+    "time_zone": "Europe/Paris",
+    "email": "sebastien.pavan@randstad.fr",
+    "email_status": "extrapolated",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development"
+    ],
+    "seniority": "manager",
+    "functions": [
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": true,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [
+      {
+        "_id": "6a5ea409945df0000151fd86",
+        "confidence_cd": "high",
+        "dnc_other_info": null,
+        "dnc_status_cd": null,
+        "dnc_status_updated_at": null,
+        "raw_number": "+33 4 79 68 97 38",
+        "sanitized_number": "+33479689738",
+        "status_cd": "valid_number",
+        "type_cd": "mobile",
+        "id": "6a5ea409945df0000151fd86",
+        "key": "6a5ea409945df0000151fd86"
+      }
+    ],
+    "emails": [],
+    "sanitized_numbers": [
+      "+33479689738"
+    ],
+    "raw_numbers": [
+      "+33 4 79 68 97 38"
+    ],
+    "sanitized_emails": [
+      "sebastien.pavan@randstad.fr"
+    ]
+  },
+  "phone_enrichment": {
+    "request_id": "6a5ea409239394000c8b2ea7",
+    "status": "pending",
+    "message": "Phone enrichment is processing asynchronously. Retrieve the result by polling GET /api/v1/webhook_result/{request_id} with the top-level `request_id` field from this response. Retry after ~10 seconds."
+  },
+  "request_id": 3969293730073560920
+}

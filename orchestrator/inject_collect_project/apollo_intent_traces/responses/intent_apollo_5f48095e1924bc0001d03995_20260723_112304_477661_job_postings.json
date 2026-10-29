@@ -1,0 +1,100 @@
+{
+  "organization_job_postings": [
+    {
+      "id": "6a1f9dd11a3038000127d457",
+      "title": "Senior Python Software Engineer, ML Developer Tools - EMEA Remote",
+      "url": "https://apply.workable.com/huggingface/j/CB1DEFE6CE",
+      "city": "La Rochelle",
+      "state": "Nouvelle-Aquitaine",
+      "country": "France",
+      "last_seen_at": "2026-07-21T01:45:54.000+00:00",
+      "posted_at": "2026-06-02T19:14:13.000+00:00"
+    },
+    {
+      "id": "6a1fa11869b6060001763819",
+      "title": "Senior Python Software Engineer, ML Developer Tools - US Remote",
+      "url": "https://apply.workable.com/huggingface/j/F8427A442D",
+      "city": "Northern Cambria",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "last_seen_at": "2026-07-22T02:02:10.000+00:00",
+      "posted_at": "2026-06-02T19:14:13.000+00:00"
+    },
+    {
+      "id": "6a1a5a40bcb8f40001dd6ca1",
+      "title": "Open-Source Machine Learning Engineer - US Remote",
+      "url": "https://apply.workable.com/huggingface/j/19A136F8E2",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "last_seen_at": "2026-07-22T17:07:38.000+00:00",
+      "posted_at": "2026-05-29T19:26:26.000+00:00"
+    },
+    {
+      "id": "6a1a58713a8fa00001949749",
+      "title": "Data/Infrastructure Advocate Engineer - US Remote",
+      "url": "https://apply.workable.com/huggingface/j/CEACA06A2D",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "last_seen_at": "2026-07-22T17:07:38.000+00:00",
+      "posted_at": "2026-05-29T19:26:26.000+00:00"
+    },
+    {
+      "id": "6a1a5628fcc5360001241eba",
+      "title": "Open-Source Machine Learning Engineer - EMEA Remote",
+      "url": "https://apply.workable.com/huggingface/j/81B46579FE",
+      "city": "Paris",
+      "state": "Ile-de-France",
+      "country": "France",
+      "last_seen_at": "2026-07-22T17:07:38.000+00:00",
+      "posted_at": "2026-05-29T19:26:26.000+00:00"
+    },
+    {
+      "id": "69a7a58308ed08000174f026",
+      "title": "Developer Relations/ML Engineer, AI for Robotics - Paris Office",
+      "url": "https://www.linkedin.com/jobs/view/4366363166/",
+      "city": "Paris",
+      "state": "Ile-de-France",
+      "country": "France",
+      "last_seen_at": "2026-05-27T22:00:00.000+00:00",
+      "posted_at": "2026-01-31T23:33:46.000+00:00"
+    },
+    {
+      "id": "699d1ed589fb0b0001a9bb84",
+      "title": "Machine Learning Test Engineer, Transformers team - US Remote",
+      "url": "https://www.linkedin.com/jobs/view/4333686319/",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "last_seen_at": "2026-07-21T13:57:45.000+00:00",
+      "posted_at": "2025-11-07T21:54:26.000+00:00"
+    },
+    {
+      "id": "690973fbb0650b00011ccd11",
+      "title": "IT Front Desk Support - Paris Office",
+      "url": "https://www.linkedin.com/jobs/view/4182023431/",
+      "city": "Paris",
+      "state": "Ile-de-France",
+      "country": "France",
+      "last_seen_at": "2026-07-21T13:57:45.000+00:00",
+      "posted_at": "2025-03-15T06:19:19.000+00:00"
+    },
+    {
+      "id": "690999d92c91b70001f95bb1",
+      "title": "Machine Learning Engineer, Audio/Speech Recognition - EMEA Remote",
+      "url": "https://www.linkedin.com/jobs/view/4130721178/",
+      "city": "Paris",
+      "state": "Ile-de-France",
+      "country": "France",
+      "last_seen_at": "2026-07-21T13:57:45.000+00:00",
+      "posted_at": "2025-01-01T21:56:52.000+00:00"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "per_page": 10000,
+    "total_entries": 9,
+    "total_pages": 1
+  }
+}

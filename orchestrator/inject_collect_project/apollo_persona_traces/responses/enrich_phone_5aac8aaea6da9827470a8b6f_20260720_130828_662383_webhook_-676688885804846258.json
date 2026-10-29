@@ -1,0 +1,37 @@
+{
+  "request_id": -676688885804846258,
+  "webhook_status": "success",
+  "request_type": "phone",
+  "last_dispatched_at": "2026-07-20T12:08:27Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "unique_enriched_records": 1,
+    "missing_records": 0,
+    "credits_consumed": 8,
+    "people": [
+      {
+        "id": "5aac8aaea6da9827470a8b6f",
+        "status": "success",
+        "phone_numbers": [
+          {
+            "_id": "6a0588bf2ba99b00014ab374",
+            "confidence_cd": "high",
+            "dnc_other_info": {
+              "country": "United States"
+            },
+            "dnc_status_cd": "not_found",
+            "dnc_status_updated_at": "2026-05-09T03:39:31.490Z",
+            "raw_number": "+1 347-750-3309",
+            "sanitized_number": "+13477503309",
+            "status_cd": "valid_number",
+            "type_cd": "mobile",
+            "id": "6a0588bf2ba99b00014ab374",
+            "key": "6a0588bf2ba99b00014ab374"
+          }
+        ]
+      }
+    ]
+  }
+}

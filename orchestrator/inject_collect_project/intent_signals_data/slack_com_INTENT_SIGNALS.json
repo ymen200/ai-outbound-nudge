@@ -1,0 +1,42 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Staff Software Engineer, Slack Desktop Client",
+        "location": "Atlanta, United States",
+        "department": "Software Engineering",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Staff Software Engineer, Slack Desktop Client, Georgia - Atlanta",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.07,
+            "evidence_density": 0.7
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Slack Introduces AI-Powered Features - Enhancing Work Life Simplicity",
+        "date": "Not specified",
+        "news_type": "Product Launch",
+        "confidence": 0.8,
+        "source": "Reimagine what’s possible with AI and agents.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.54,
+            "evidence_density": 1.53
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Slack Expands Partnership with Salesforce - Enhancing Customer Experience",
+        "date": "Not specified",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "As part of the global Salesforce family",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.37,
+            "evidence_density": 1.87
+        }
+    }
+]

@@ -1,0 +1,211 @@
+{
+  "member_id": "ACoAAEDVFF4BNHe3p5hK6PxltAPsseOHJDhy3R0",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7477656423993257984",
+        "share_url": "https://www.linkedin.com/posts/angelina-zhukivska_what-an-incredible-three-days-at-the-santander-activity-7477656426535075840-qSNX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1w",
+        "comment_counter": 5,
+        "impressions_counter": 0,
+        "reaction_counter": 48,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "What an incredible three days at the Santander Digital Retail Talent Program Global Hackathon! 🚀\n\nOk now that I got your attention with my chat-enhanced hook let me tell you about my lastest trip to Madrid.\n\nLast week I had the absolute pleasure of getting to know my fellow retail grads from Spain, Mexico and Chile. In just a few hours, we were able to brainstorm, design, prototype and pitch 2 AI agents focused on scalable and reusable solutions for business roles.\n\nI’m incredibly proud of what each team achieved in such a short time period, and I’m returning with massive momentum to start implementing agentic thinking into my daily workflows as a Product Owner.\n\nBeing selected for this hackaton was an absolute privilege and it proved me once more how this program is a perfect blueprint for the future of high-impact corporate talent: empowering early-career professionals to integrate the latest technology trends directly into daily business operations to create immediate, scalable value.\n\nYet, my absolute favorite takeaway from this experience was the human element. Collaborating with colleagues from different countries and professional backgrounds taught me so much. Beyond navigating the fun challenge of a slight language barrier (I really need to improve my Spanish!), it was a powerful reminder that the ultimate fuel for growth is learning from others, challenging each other’s ideas, and embracing the discomfort.\n\nA massive thank you to the incredible leaders who shared their time and wisdom with us:\n\n💡 Daniel Villatoro – Thank you for pushing us to question ourselves, true confidence only comes when we’ve evaluated a problem through different lenses.\n✨ Amaya Casero – Thank you for empowering us and believing so deeply in the impact of letting younger generations be heard.\n🎨 Franco Luigi Fasoli – Thank you for reminding us that banking doesn’t have to look boring, and that we should always prioritize the customer experience.\n🚀 Daniel Barriuso – Thank you for sharing your own experiences and proving that times really are changing and our opinions truly matter.\n\nThank you to Ironhack and all the amazing people we met along the bootcamp and hackathon. \n\nA very special thank you to María Cantó Pérez for all the support and encouragement along the way! Without you this experience wouldn’t have been possible.\n\nForever grateful for this experience and everything it has taught me. I am so excited for what is still to come in my journey! 🚀",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAjYeYwBokmcD5A-apQr8Iu3CmnWV7jOzLo",
+            "length": 16,
+            "start": 1531
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAACe8yIBqtyzYeFT8tgbbIo4dd26jv_u6M4",
+            "length": 12,
+            "start": 1684
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAMsPl0BkiWTlMMxThmsWFRx1Dz8EpqkwGY",
+            "length": 19,
+            "start": 1808
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAAqhJEBY1lFqFHu3s8n3TGYNB-rHjztBjA",
+            "length": 15,
+            "start": 1963
+          },
+          {
+            "url": "https://www.linkedin.com/company/ironhack/",
+            "length": 8,
+            "start": 2112
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAgNrCYBPK8ngYN1hmtK4InTMwyVz5xov2A",
+            "length": 17,
+            "start": 2219
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E22AQFO6J7P5_sMEw",
+            "sticker": false,
+            "size": {
+              "height": 600,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQFO6J7P5_sMEw/feedshare-shrink_800/B4EZ8X45LqJkAc-/0/1782812218473?e=1785369600&v=beta&t=xxpkWIkI1ePrrYu9ydemMUPF42UoAB7XiI47-Iv2m90"
+          },
+          {
+            "id": "D4E22AQFoUQA6zfXqcA",
+            "sticker": false,
+            "size": {
+              "height": 600,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQFoUQA6zfXqcA/feedshare-shrink_800/B4EZ8X447WKIAo-/0/1782812217361?e=1785369600&v=beta&t=qR-p4ei9UlzxuPLWLmgLjV1rL3dQHm-a25rmNtnIgGo"
+          },
+          {
+            "id": "D4E22AQGRm7d3UYOiyQ",
+            "sticker": false,
+            "size": {
+              "height": 450,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGRm7d3UYOiyQ/feedshare-shrink_800/B4EZ8X44_KHkAc-/0/1782812217602?e=1785369600&v=beta&t=34jICBEptuoXNme2tfOXZGWEKfihVLspRU3fD1dE-hY"
+          },
+          {
+            "id": "D4E22AQFQjuYez4dzaA",
+            "sticker": false,
+            "size": {
+              "height": 450,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQFQjuYez4dzaA/feedshare-shrink_800/B4EZ8X44.dJYAk-/0/1782812217513?e=1785369600&v=beta&t=5Xh_Al46LEEb54IXJ5VWNetMKMlwnH_ck0d7D8x7VK4"
+          }
+        ],
+        "author": {
+          "public_identifier": "angelina-zhukivska",
+          "id": "ACoAAEDVFF4BNHe3p5hK6PxltAPsseOHJDhy3R0",
+          "name": "Angelina Zhukivska",
+          "is_company": false,
+          "headline": "Insurance Transformation & Business Development | Banking | Building Scalable, Future-Focused Solutions",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQHRBI7u0f82Nw/profile-displayphoto-shrink_400_400/B4DZUJO4YDHYAg-/0/1739616651426?e=1785369600&v=beta&t=a9kydeHiaIpdl37fGxS4_dp2l12CnVOo8vgwIsnl_fs"
+        },
+        "id": "7477656426535075840",
+        "is_repost": false,
+        "parsed_datetime": "2026-06-30T09:37:00.224Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7381710518564331520",
+        "share_url": "https://www.linkedin.com/posts/angelina-zhukivska_im-thrilled-to-share-that-ive-officially-activity-7381710518564331520-x4kV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "9mo",
+        "comment_counter": 11,
+        "impressions_counter": 0,
+        "reaction_counter": 62,
+        "repost_counter": 5,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I’m thrilled to share that I’ve officially started my journey at Santander as part of the Graduate Programme 2025, alongside an amazing group of 7 talented colleagues! 🚀\n\nOver the next months, we’ll be developing our skills, tackling real business challenges, and contributing to innovative projects that make a difference in the financial world. I’m especially looking forward to learning from inspiring professionals and growing both personally and professionally within such a dynamic environment.\n\nI’m grateful for the warm welcome from everyone I met so far, and the constant support from my colleagues, Beatriz Vivas Matias, Diogo Costa, Fábio Simão, Francisco Almeida Mendes, Leonor Caetano Nunes, Marcelo Junior, Maria do Carmo Lobo. I can’t wait to see what we’ll achieve together, and what challenges lie ahead! 🚀",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAADKDw1kBoaUcMYQdrw9KaAR5rMGwWK_qP8k",
+            "length": 20,
+            "start": 609
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAFqPbPABstL6eVf7Pb3MDB_KBRfB_e5lass",
+            "length": 11,
+            "start": 631
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAEGd9dEBNA-qR246qUZqMtLfH0lEbzzYals",
+            "length": 11,
+            "start": 644
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADJgxCABB0FFQiKiw45NiAYXxH2FqdqxDw8",
+            "length": 24,
+            "start": 657
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAEu1EWYBr2ah8_TMw5g6hjfTp8-P95NA-B0",
+            "length": 20,
+            "start": 683
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADq8KncBw7UOOhRHVyCMQ5D9O1a8gnZoe4Q",
+            "length": 14,
+            "start": 705
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAEaKLb4ByThJzgS5PsyEclZdX3sXjBq1UQ8",
+            "length": 19,
+            "start": 721
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4D22AQFHUZjnbleHSg",
+            "sticker": false,
+            "size": {
+              "height": 295,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQFHUZjnbleHSg/feedshare-shrink_480/B4DZnEamLbJIAY-/0/1759936931479?e=1785369600&v=beta&t=CxKHeYIQnm1fWgV2qE8gFvFjYUaMiXME1j2WlS7Fzto"
+          }
+        ],
+        "author": {
+          "public_identifier": "angelina-zhukivska",
+          "id": "ACoAAEDVFF4BNHe3p5hK6PxltAPsseOHJDhy3R0",
+          "name": "Angelina Zhukivska",
+          "is_company": false,
+          "headline": "Insurance Transformation & Business Development | Banking | Building Scalable, Future-Focused Solutions",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQHRBI7u0f82Nw/profile-displayphoto-shrink_400_400/B4DZUJO4YDHYAg-/0/1739616651426?e=1785369600&v=beta&t=a9kydeHiaIpdl37fGxS4_dp2l12CnVOo8vgwIsnl_fs"
+        },
+        "id": "7381710518564331520",
+        "is_repost": false,
+        "parsed_datetime": "2025-10-08T15:22:13.175Z"
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAEDVFF4BNHe3p5hK6PxltAPsseOHJDhy3R0"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 2,
+      "total_count": 2
+    },
+    "cursor": null
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "member_id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7481273150391910400",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_breaking-anthropic-just-dropped-3-new-activity-7481273150391910400-L3iR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1d",
+        "comment_counter": 63,
+        "impressions_counter": 0,
+        "reaction_counter": 1250,
+        "repost_counter": 79,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "🚨 Breaking: Anthropic just dropped 3 new Claude certifications.\nHere's the one you need \n\nAnthropic already had the Claude Certified Architect exam\nNow they're launching 3 more, all going live July 13th.\n\nHere's the full lineup 👇\n\n1️⃣ Claude Certified Associate (Foundations)\n- For consultants, sellers, and delivery leads.\n- No coding required.\n- It tests whether you can guide a client toward the right Claude use case.\n\n2️⃣ Claude Certified Developer (Foundations)\n- For engineers building with the Claude API, Claude Code, and MCP.\n- This is your first real proof you can ship with Claude, not just talk about it.\n\n3️⃣ Claude Certified Architect (Foundations → Professional)\n- The most technical track \n- Covers agentic architecture, orchestration, and production-grade system design\n- Professional is the tier beyond Foundations, for people designing full end-to-end solutions\n\n\nThis is the AWS certification playbook, applied to Claude.\nEarly movers usually win the credibility race.\n\nIf you build with Claude for a living, this is worth 15 minutes of your attention.\n\n📌 Which one would you go for: Associate, Developer, or Architect?\n\n📩 Join 30K builders and execs who never miss an AI agent update :\n→ Weekly AI agent briefings\n→ Free templates & exclusive giveaways\n👉 https://lnkd.in/dvvUD3hA",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/anthropicresearch/",
+            "length": 9,
+            "start": 12
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E22AQEFFWhbEKKmkg",
+            "sticker": false,
+            "size": {
+              "height": 191,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEFFWhbEKKmkg/feedshare-shrink_480/B4EZ9LSSY.HoAg-/0/1783674513174?e=1785369600&v=beta&t=uPpV0J3JJRZhoa-6yRqgc9XcdQjWq_AHCbrteYzLPSA"
+          }
+        ],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7481273150391910400",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-10T09:08:34.387Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7480908783087616000",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_nvidia-ai-sent-me-their-deskside-ai-supercomputer-activity-7480908783087616000-r1do?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "2d",
+        "comment_counter": 209,
+        "impressions_counter": 0,
+        "reaction_counter": 3179,
+        "repost_counter": 63,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "NVIDIA AI sent me their deskside AI supercomputer, the DGX Spark\n\nSo I went all in: 3 Agents built and running 100% locally, in one weekend👇\n\nAll things I either couldn't run locally before, or paid the cloud a lot of money for\nNow running on my desk, for free:\n\n✅ 𝗔𝗴𝗲𝗻𝘁 𝟭: 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗮𝗴𝗲𝗻𝘁\n→ Qwen3-30B via Ollama + Open WebUI\n→ Around 50 tokens/sec, fully local inference\n→ Drafts posts in my voice from my own post library\n→ Zero API costs for something I run daily\n\n✅ 𝗔𝗴𝗲𝗻𝘁 𝟮: 𝗥𝗔𝗚 𝗮𝗴𝗲𝗻𝘁 𝗼𝘃𝗲𝗿 𝗺𝘆 𝗯𝗼𝗼𝘁𝗰𝗮𝗺𝗽 𝗺𝗮𝘁𝗲𝗿𝗶𝗮𝗹\n→ Qwen3-Embedding + local vector store\n→ Answers student questions from 100+ pages of my own docs\n→ The part that matters: nothing ever touches an external API\n\n✅ 𝗔𝗴𝗲𝗻𝘁 𝟯: 𝗠𝘂𝗹𝘁𝗶-𝗮𝗴𝗲𝗻𝘁 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝘀𝘆𝘀𝘁𝗲𝗺\n→ Supervisor agent on gpt-oss-120B\n→ Worker agents for search, summarization, drafting\n→ All running in parallel, ~110GB of the 128GB memory utilized\n→ This setup alone would cost me real money in cloud API calls\n\n𝗧𝗵𝗲 𝗵𝗮𝗿𝗱𝘄𝗮𝗿𝗲:\n- GB10 Grace Blackwell Superchip\n- 128GB unified memory\n- 1 PFLOPS of FP4 AI performance\n- Runs models up to 200B parameters\n- 1.2 kg, sitting on my desk\n\nMy verdict after one weekend:\nCloud still wins for production and scale\nBut for building, testing, and iterating on agents, local is now my default\n\nThe agentic AI stack is moving to the desktop!\n\nGet yours  🔗 https://lnkd.in/e2ABmmqf\n\nWould you run your agents locally or in the cloud? 👇\n\nIf you want the tests and raw results. I'm sharing it all on my new X account : https://lnkd.in/eF-g6rev",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/nvidia-ai/",
+            "length": 9,
+            "start": 0
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E22AQHezLCs2Ctf_w",
+            "sticker": false,
+            "size": {
+              "height": 606,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHezLCs2Ctf_w/feedshare-shrink_480/B4EZ9GG5YkJYAg-/0/1783587641205?e=1785369600&v=beta&t=I5W7qZp4tMF8czXlnk4pCSPCxewEvWwZN27L2q5_GJo"
+          }
+        ],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7480908783087616000",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-09T09:00:42.452Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7480658494094815232",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_simple-software-is-dying-simplicity-only-activity-7480658494711373824-DZOQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "2d",
+        "comment_counter": 15,
+        "impressions_counter": 0,
+        "reaction_counter": 27,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Most teams won't get ROI from another chatbot.\n\nThey'll get it from the boring places where work leaks every day:\n\nForms nobody follows up on Responses sitting in spreadsheets Leads going to the wrong person Manual emails that happen too late\n\nThat's why this Fillout launch is interesting.\n\nIt puts AI inside a workflow companies already use every day.\n\nNot a new tab. A better system around work that already exists.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7480658494094815232",
+        "is_repost": true,
+        "repost_id": "7480658494711373824",
+        "parsed_datetime": "2026-07-08T16:26:08.906Z",
+        "repost_content": {
+          "id": "7480637417830367232",
+          "date": "2d",
+          "parsed_datetime": "2026-07-08T15:02:23.933Z",
+          "text": "Simple software is dying.\n\nSimplicity only mattered when humans had to use every feature.\n\nNow that agents can operate software for you, it’s the most capable tool that wins.\n\nFillout reached 12,000 paying customers by focusing on depth over simplicity.\n\nIt turns out we may have also built the best form builder for agents.\n\nMeet the new Fillout:",
+          "author": {
+            "public_identifier": "dominicwhyte",
+            "id": "ACoAAB0ckiUBUtznrIibnhnueF6MNGGPoNh6lww",
+            "name": "Dominic Whyte",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7480547013902766080",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_ploylaunch-activity-7480548472039927810-BViz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "3d",
+        "comment_counter": 31,
+        "impressions_counter": 0,
+        "reaction_counter": 114,
+        "repost_counter": 11,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I rebuilt my entire academy website in one sitting\nNo designer. No dev. No code.\nJust me, a URL, and an AI agent that did everything 👇\n\nFor 9 months I ran AgentX Academy on Skool. It worked, but it was never really mine\nSomeone else's platform, someone else's design, someone else's limits.\n\nSo I rebuilt the whole thing on my own site with Ploy\n\nI gave it my URL and it slurped my entire design system, my dark theme, my orange accent, my typography, and rebuilt my pages so they looked native to my brand\n\nAnd it's not just a page generator. Ploy handles the whole stack:\n→ Design, frontend and backend\n→ SEO and AI searchability\n→ Deployment and hosting\n→ A full analytics dashboard\n\nFrom there I generated my cohort page and my July bootcamp landing page, then spun up 3 variants to A/B test in minutes\n\n9 months on a platform that wasn't mine\nOne sitting to finally own it\n\n🔗 Free to try right now : https://ploy.ai/\nIf you want to test it on your own site 👇\n\nWhat would you rebuild first?\n\n#PloyLaunch",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/ploy-ai/",
+            "length": 4,
+            "start": 341
+          },
+          {
+            "url": "https://www.linkedin.com/company/ploy-ai/",
+            "length": 4,
+            "start": 544
+          }
+        ],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D4E05AQFZBex3edn22A",
+            "size": {
+              "height": 1152,
+              "width": 720
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFZBex3edn22A/mp4-720p-30fp-crf28/B4EZ9A_HRVKQCQ-/0/1783501726415?e=1784376000&v=beta&t=9La-bhtu_LXbNwLPV52Md4zW8qTNUiohmaQ12bptfSo"
+          }
+        ],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7480548472039927810",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-08T09:08:57.604Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7480216915496439808",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_i-compiled-every-claude-code-tool-repo-activity-7480216915496439808-Qqt9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "4d",
+        "comment_counter": 36,
+        "impressions_counter": 0,
+        "reaction_counter": 115,
+        "repost_counter": 8,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I compiled every Claude Code tool, repo, and tutorial worth knowing. 54 resources. One place 👇 \n\nI spent weeks piecing this together from scattered threads\nA GitHub repo here. A blog post there. No clear map.\n\nSo I built one\n\n54 tools, repos, and tutorials organized into 8 categories :\n\n1️⃣ Official Anthropic resources (docs, certs, MCP repo)\n2️⃣ Mega directories and curated lists\n3️⃣ MCP servers for every use case (DB, browser, monitoring, messaging)\n4️⃣ Articles and blogs worth reading\n5️⃣ Skills and extensions to supercharge your setup\n6️⃣ Terminal multiplexers for running multi-agent workflows\n7️⃣ Agent frameworks for coordination and automation\n8️⃣ Infra tools for shipping to production\n\nThe ones I'd install today if starting from scratch :\n→ Context7 (live docs, game-changer for accuracy)\n→ Playwright MCP (browser automation built in)\n→ claude-squad (multi-agent management)\n→ Taste Skill (better frontend output, immediately)\n→ n8n-as-code (your agentic workflows, version-controlled)\n\nClaude Code is becoming a full dev environment\nThis list proves it\n\nSave it. Come back when you need a tool !\n\nWant more AI guides and updates like these ?\n\n📩 Join 30K builders and execs who never miss an AI agent update :\n→ Weekly AI agent briefings\n→ Free templates & exclusive giveaways\n👉 https://lnkd.in/dvvUD3hA",
+        "mentions": [],
+        "attachments": [
+          {
+            "id": "D4E22AQGsEj2WlEz6iw",
+            "sticker": false,
+            "size": {
+              "height": 537,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGsEj2WlEz6iw/feedshare-shrink_480/B4EZ88RpYHHMAg-/0/1783422686966?e=1785369600&v=beta&t=ZOUxx_kngmyVzbEwRxLVm3X_MBlAK1yXZHDaDEQ-OxE"
+          }
+        ],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7480216915496439808",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-07T11:11:28.364Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7479852702697660416",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_claude-fable-5-just-came-back-and-someone-activity-7479852702697660416-nRar?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "5d",
+        "comment_counter": 74,
+        "impressions_counter": 0,
+        "reaction_counter": 265,
+        "repost_counter": 32,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "🚨 Claude Fable 5 just came back and someone has already leaked its entire system prompt.\n\nThis isn't just a simple prompt.\n\nIt's 𝟭𝟮𝟬,𝟬𝟬𝟬+ 𝗰𝗵𝗮𝗿𝗮𝗰𝘁𝗲𝗿𝘀, 𝟭,𝟱𝟬𝟬+ 𝗹𝗶𝗻𝗲𝘀, and contains the exact instructions Anthropic uses to guide how its most powerful model thinks, plans, reasons, and gets things done.\n\nHere's the interesting part:\n\nYou can take these same instructions and inject them into cheaper open-source models like 𝗚𝗟𝗠-𝟱.𝟮 or 𝗞𝗶𝗺𝗶 𝗞𝟮.𝟳.\n\nThat means those models can follow the same playbook Anthropic built for one of the world's best AI models.\n\nThe result?\n\nBetter outputs, stronger reasoning, and the ability to get much more from models that cost a fraction of the price.\n\nWant it for yourself?\n\nYou can get it here : https://lnkd.in/eNqfFkqx\n\nIf you want to get the practical side of my posts\n\n📩 Join 30K builders and execs who never miss an AI agent update :\n→ Weekly AI agent briefings\n→ Free templates & exclusive giveaways\n👉 https://lnkd.in/dvvUD3hA",
+        "mentions": [],
+        "attachments": [
+          {
+            "id": "D4E22AQEzUOCW_bT31g",
+            "sticker": false,
+            "size": {
+              "height": 640,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEzUOCW_bT31g/feedshare-shrink_480/B4EZ83GZWKK4Ag-/0/1783335851731?e=1785369600&v=beta&t=4YZqkax2XJC8NrL0UfDGO0A99o9JQQ-XtXApYEJ_pF0"
+          }
+        ],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7479852702697660416",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-06T11:04:13.266Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7479472707244531713",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_you-can-now-use-claude-code-for-0-what-activity-7479472707244531713-x1aE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "6d",
+        "comment_counter": 63,
+        "impressions_counter": 0,
+        "reaction_counter": 609,
+        "repost_counter": 78,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "🚨 You can Now use Claude Code for $0\nWhat used to require paid API calls now runs completely FREE using Ollama\n\nUntil this week, Anthropic's agentic coding tool ran exclusively on their API\nEvery token = money out of your pocket\nThat just changed\n\nOllama now supports Anthropic's API format !\nTranslation : Run Claude Code with open-source models. Locally. Free.\n\n𝗛𝗲𝗿𝗲'𝘀 𝘁𝗵𝗲 𝟱-𝗺𝗶𝗻𝘂𝘁𝗲 𝘀𝗲𝘁𝘂𝗽 :\n1. Install Ollama \n\n2. Pull a coding model\nollama pull qwen2.5-coder \n\n3. Install Claude Code\nnpm install -g @anthropic-ai/claude-code \n\n4. Point to localhost\nexport ANTHROPIC_AUTH_TOKEN=ollama\nexport ANTHROPIC_BASE_URL=http://localhost:11434\n\n5. Run it\nclaude --model qwen2.5-coder\n\nWhat you get: \n→ Full agentic coding capabilities \n→ Multi-turn reasoning & tool calling \n→ 32K+ context window \n→ Your code never leaves your machine \n→ Zero API costs\n\nThe barrier to agentic coding just dropped to zero\nNo credit card. No cloud dependency. No excuses.\n\n📩 Join 30K builders and execs who never miss an AI agent update :\n→ Weekly AI agent briefings\n→ Free templates & exclusive giveaways\n👉 https://lnkd.in/dvvUD3hA",
+        "mentions": [],
+        "attachments": [
+          {
+            "id": "D4E22AQEAdvK1g8wuAw",
+            "sticker": false,
+            "size": {
+              "height": 498,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEAdvK1g8wuAw/feedshare-shrink_480/B4EZ8xsy4UJYAg-/0/1783245254422?e=1785369600&v=beta&t=GY-O61CMqDPfHKpRWIgv4Jo9uvyTDyHfezVtnne0c3w"
+          }
+        ],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7479472707244531713",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-05T09:54:15.290Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7479115207076810752",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_google-released-a-5-day-intensive-course-activity-7479115207076810752-_TZ9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1w",
+        "comment_counter": 29,
+        "impressions_counter": 0,
+        "reaction_counter": 234,
+        "repost_counter": 45,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "🚨 Google released a 5-day intensive course on AI agents !\n5 days. 250+ pages of insights. 100% FREE\nHere's what you'll learn day-by-day👇 \n\n𝗗𝗮𝘆 𝟭: 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝘁𝗼 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 (50 pages)\nMost agents are just LLMs with tool calling\nReal agents run a loop: Think → Act → Observe → Repeat\n\nArchitecture and security patterns that actually work\n🔗 https://lnkd.in/dfQcgXjS\n\n𝗗𝗮𝘆 𝟮: 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗠𝗖𝗣 (50 Pages)\nTools give agents power. \nMCP gives them new power… even ones you didn’t approve.\n\nTool design, the Model Context Protocol, and the security risks nobody is talking about.\n🔗 https://lnkd.in/dn6u6prB\n\n𝗗𝗮𝘆 𝟯: 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 & 𝗠𝗲𝗺𝗼𝗿𝘆 (70 pages)\nAgents with no memory act like you’re meeting for the first time, every time\n\nSessions, dynamic context, multimodal recall, and how to design agents that curate context rather than drown in it\n🔗 https://lnkd.in/ddB-uFtm\n\n𝗗𝗮𝘆 𝟰: 𝗔𝗴𝗲𝗻𝘁 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 (50 pages)\nYou can’t unit test judgment\nThat’s why traditional QA fails\n\nFour pillars of agent quality:\neffectiveness, efficiency, robustness, and safety\n🔗 https://lnkd.in/dw3aQXB6\n\n𝗗𝗮𝘆 𝟱: 𝗣𝗿𝗼𝗺𝗽𝘁 → 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 (40 pages)\nBuilding an agent takes 2 weeks\nTrusting it takes 6 months\n\nEvaluation gates, circuit breakers, and evolution             \n🔗 https://lnkd.in/dBa_c8gj\n\n\nIf you wanna go deeper\n\n📩 Join 30K builders and execs who never miss an AI agent update :\n→ Weekly AI agent briefings\n→ Free templates & exclusive giveaways\n👉 https://lnkd.in/dvvUD3hA",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/google/",
+            "length": 6,
+            "start": 2
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E22AQHW5VZCwOaotw",
+            "sticker": false,
+            "size": {
+              "height": 1000,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHW5VZCwOaotw/feedshare-shrink_800/B4EZ8snpelHMAc-/0/1783160019182?e=1785369600&v=beta&t=hPDgZ0A0utabtgsW3QwleUHGVLkVn8Ab8JcQEkH7CKg"
+          }
+        ],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7479115207076810752",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-04T10:13:40.608Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7478782310671261696",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_spacex-just-bought-an-ai-coding-company-for-activity-7478782436051689472-OZJm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1w",
+        "comment_counter": 175,
+        "impressions_counter": 0,
+        "reaction_counter": 979,
+        "repost_counter": 17,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "SpaceX just bought an AI coding company for $60 billion.\nNot a rocket company. \nNot a satellite company.\n\nA coding assistant.\n\nCursor. 1 million paying users. 50,000 corporate customers.\nAll-stock deal. Closed days after SpaceX's own IPO.\n\nThis wasn't a tech acquisition.\nIt was a power move.\n\nElon just bought his way into the one part of AI\nthat's actually making money right now.\n\nBroke the whole deal down in Gamma.\nIf a deal this big can be this easy to explain,\nyour next client pitch has no excuse looking average.\n\nThis is the acquisition everyone will be talking about by next week.\n\nDeliver the story in minutes.\nStart building in Gamma \n➔ https://lnkd.in/epjGzfXj",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/gamma-app/",
+            "length": 5,
+            "start": 413
+          },
+          {
+            "url": "https://www.linkedin.com/company/gamma-app/",
+            "length": 5,
+            "start": 641
+          }
+        ],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D4E05AQE1Qe5FdHJ2fQ",
+            "size": {
+              "height": 720,
+              "width": 984
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE1Qe5FdHJ2fQ/mp4-720p-30fp-crf28/B4EZ8n48QzHMB8-/0/1783080674477?e=1784376000&v=beta&t=-K69m-l3CXRWvPPEJRJoR-xcQ4qYUlfSUsmOy08XyQc"
+          }
+        ],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7478782436051689472",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-03T12:11:21.813Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7478749680319942656",
+        "share_url": "https://www.linkedin.com/posts/chorouk-malmoum_im-an-ai-engineer-ive-led-real-projects-activity-7478749680319942656-iUdy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1w",
+        "comment_counter": 190,
+        "impressions_counter": 0,
+        "reaction_counter": 1702,
+        "repost_counter": 67,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I'm an AI engineer.\nI’ve led real projects and touched real systems.\n\nAnd yet… I hesitate to call myself an “expert.”\nBecause I know how complex, evolving, and humbling this field really is.\n\nBut every time I scroll, I feel like I’m watching a parade of overnight experts.\n\nPeople throwing around buzzwords. Selling courses.\nTelling others how to “not get left behind” in AI\nWhen they barely understand the difference between machine learning and magic.\n\nLet’s be clear:\nAI is powerful.\nIt is changing industries.\nBut it’s not a magic trick, and it shouldn’t be treated like one.\n\nFear marketing?\nPromising secret formulas?\nPretending they’ve decoded the universe after 2 hours on ChatGPT?\n\nWe owe better to the people we’re trying to educate.\nAnd I say this as someone who’s still learning too\nBecause anyone who really works in AI knows:\n\n\"The more you learn, the more humble you become\"\n\nIf you’re new to AI:\nDon’t be afraid to learn.\nJust be mindful of who you learn from.\n\nWe don’t need more AI gurus.\nWe need real experts.\n\n\nImage credits to Eduardo Ordax",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAJXQIEBA0FD4IckM2LrQQQUyKaXcBEIz68",
+            "length": 13,
+            "start": 1048
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E22AQG1_EPVDl_iaw",
+            "sticker": false,
+            "size": {
+              "height": 633,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQG1_EPVDl_iaw/feedshare-shrink_480/B4EZ8nbNOHKIAk-/0/1783072871636?e=1785369600&v=beta&t=7S_r1Zrlnkj41U72wjzLa0tIHHtpwcM8MtraEHddFKo"
+          }
+        ],
+        "author": {
+          "public_identifier": "chorouk-malmoum",
+          "id": "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw",
+          "name": "Chorouk Malmoum",
+          "is_company": false,
+          "headline": "Founder AgentX Academy | Follow for insights on AI & Business automation | Vivatech 2026 Ambassador | Trusted by 100+ Global Brands",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHk7ZXI5P5YEw/profile-displayphoto-scale_400_400/B4EZ6ZDY2tIkAk-/0/1780684265153?e=1785369600&v=beta&t=NfmwByyrphwBVmE0efV0HqQ7wXIqq9Jn4d4BKwolf50"
+        },
+        "id": "7478749680319942656",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-03T10:01:12.238Z"
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAADxbV0ABp1E1XJSGQxQ48podVizSS0dugLw"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 10,
+      "total_count": 250
+    },
+    "cursor": "eyJhY2NvdW50X2lkIjoiWV85d1VxWmpTekNtR3ViM05VTzFndyIsImxpbWl0IjoxMCwic3RhcnQiOjEwLCJwYXJhbXMiOnsiYXBpIjoiY2xhc3NpYyIsImNhdGVnb3J5IjoicG9zdHMiLCJwb3N0ZWRfYnkiOnsibWVtYmVyIjpbIkFDb0FBRHhiVjBBQnAxRTFYSlNHUXhRNDhwb2RWaXpTUzBkdWdMdyJdfSwic29ydF9ieSI6ImRhdGUifX0="
+  }
+}

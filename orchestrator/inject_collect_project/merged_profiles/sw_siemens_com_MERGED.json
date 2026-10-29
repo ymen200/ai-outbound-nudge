@@ -1,0 +1,117 @@
+{
+    "annual_revenue": 21500000000,
+    "apollo_id": "5f843630ce89850114d27837",
+    "city": "Plano",
+    "country": "United States",
+    "domain": "siemens.com",
+    "estimated_num_employees": 22000,
+    "facebook_url": "https://www.facebook.com/siemenssoftware",
+    "founded_year": "2007",
+    "funding_events": [
+        {
+            "id": "Non renseigné",
+            "date": "2007-05-04",
+            "type": "Acquisition",
+            "amount": "$3.5 Billion",
+            "currency": "Non renseigné",
+            "investors": "Non renseigné"
+        }
+    ],
+    "industry": "Industrial Engineering Software",
+    "keywords": [
+        "Industrial AI",
+        "Digital Twin",
+        "PLM",
+        "NX",
+        "Teamcenter",
+        "CAD",
+        "Simulation",
+        "Xcelerator",
+        "Industrial Automation"
+    ],
+    "latest_funding_stage": "Acquired",
+    "linkedin_url": "http://www.linkedin.com/company/siemenssoftware",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b1406451d7da0001a55f98/picture",
+    "name": "Siemens Digital Industries Software",
+    "num_suborganizations": 0,
+    "phone": "+1 972-987-3000",
+    "postal_code": "75024",
+    "raw_address": "5800 Granite Pkwy, Plano, TX 75024, United States",
+    "seo_description": "Siemens Digital Industries Software helps designers and manufacturers deliver better products faster using the digital twin.",
+    "short_description": "Global provider of software solutions for product lifecycle management (PLM) and manufacturing operations management (MOM).",
+    "state": "Texas",
+    "street_address": "5800 Granite Pkwy",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "Mendix",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Polarion",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Supplyframe",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Avasis",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Sustaira",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "Frontend Framework"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "CDN"
+        },
+        {
+            "uid": "amazon_s3",
+            "name": "Amazon S3",
+            "category": "Hosting"
+        },
+        {
+            "uid": "usercentrics",
+            "name": "Usercentrics",
+            "category": "Consent Management"
+        },
+        {
+            "uid": "nice_incontact",
+            "name": "Nice InContact",
+            "category": "Customer Support"
+        },
+        {
+            "uid": "swiper",
+            "name": "Swiper",
+            "category": "UI Components"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/siemenssoftware",
+    "website_url": "http://sw.siemens.com",
+    "fiscal_year_end": "September",
+    "is_subsidiary": true,
+    "parent_company": "Siemens AG",
+    "competitors": [
+        "Dassault Systèmes",
+        "PTC",
+        "Autodesk",
+        "Ansys",
+        "SAP"
+    ],
+    "data_quality_score": 0.98
+}

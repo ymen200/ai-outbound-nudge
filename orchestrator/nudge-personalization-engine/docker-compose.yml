@@ -1,0 +1,101 @@
+# Unified compose — starts all three services + infrastructure in one network.
+# Usage: docker compose up --build   (from the project root)
+
+services:
+  # ── Infrastructure ──────────────────────────────────────────────
+  temporal:
+    image: temporalio/auto-setup:latest
+    ports:
+      - "7233:7233"       # gRPC
+      - "8080:8080"       # Web UI
+    environment:
+      - DB=sqlite
+      - DYNAMIC_CONFIG_FILE_PATH=config/dynamicconfig/development-sqlite.yaml
+    volumes:
+      - temporal_data:/data
+    healthcheck:
+      test: ["CMD", "temporal", "server", "status"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  # ── Application ─────────────────────────────────────────────────
+  message-generator:
+    build:
+      context: ./message generator and sender
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./message generator and sender/.env
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  sequence-generator:
+    build:
+      context: ./sequence generator
+      dockerfile: Dockerfile
+    ports:
+      - "8001:8001"
+    env_file:
+      - ./sequence generator/.env
+    environment:
+      - TEMPORAL_ADDRESS=temporal:7233
+      - MESSAGE_GENERATOR_URL=http://message-generator:8000
+    depends_on:
+      temporal:
+        condition: service_healthy
+    restart: unless-stopped
+    volumes:
+      - ./sequence generator:/app
+    command: ["python", "-m", "uvicorn", "scripts.api_server:app", "--host", "0.0.0.0", "--port", "8001"]
+
+  outreach-orchestrator:
+    build:
+      context: ./outreach orchestrator
+      dockerfile: Dockerfile
+    ports:
+      - "8002:8002"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8002
+      - SEQUENCE_GENERATOR_URL=http://sequence-generator:8001
+      - MESSAGE_GENERATOR_URL=http://message-generator:8000
+    depends_on:
+      - sequence-generator
+      - message-generator
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8002/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+volumes:
+  temporal_data:
+  redis_data:

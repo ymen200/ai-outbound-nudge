@@ -1,0 +1,32 @@
+{
+  "account_snapshot": {
+    "status": "error",
+    "code": 401
+  },
+  "connected_accounts": {
+    "status": "error",
+    "code": 401
+  },
+  "session_consumption": {
+    "api_calls_consumed": 1,
+    "successful_calls": 0,
+    "failed_calls": 1,
+    "endpoints": {
+      "POST /api/v1/linkedin": 1
+    },
+    "calls_detail": [
+      {
+        "endpoint": "/api/v1/linkedin",
+        "method": "POST",
+        "status_code": 401,
+        "success": false,
+        "timestamp": "2026-07-23T17:38:17.263483",
+        "rate_limit_headers": {}
+      }
+    ],
+    "posts_retrieved": 0,
+    "linkedin_url": "https://www.linkedin.com/in/joshkaye0704/",
+    "posted_limit": "year",
+    "target_count": 8
+  }
+}

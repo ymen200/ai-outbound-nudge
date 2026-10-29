@@ -1,0 +1,52 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Shreyas Vora",
+        "clean_name_used": "Shreyas Vora",
+        "linkedin_url": "https://in.linkedin.com/in/shreyasvora",
+        "company": "Sbi",
+        "email": "shreyas.vora@sbi.co.in",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Mohnish R",
+        "clean_name_used": "Mohnish R",
+        "linkedin_url": "https://in.linkedin.com/in/mohnish-r-208ab2135",
+        "company": "Sbi",
+        "email": "mohnish.r@sbi.co.in",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Neeraj Yadav",
+        "clean_name_used": "Neeraj Yadav",
+        "linkedin_url": "https://in.linkedin.com/in/neeraj-yadav-996a189",
+        "company": "Sbi",
+        "email": "neeraj.yadav@sbi.co.in",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Dzouza Leena",
+        "clean_name_used": "Dzouza Leena",
+        "linkedin_url": "linkedin.com/in/dzouza-leena-54b70a73",
+        "company": "state bank of india",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "banking",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

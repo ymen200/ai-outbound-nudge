@@ -1,0 +1,784 @@
+{
+    "domain": "canadapost-postescanada.ca",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "Canada Post / Postes Canada",
+                "ai": "Canada Post / Postes Canada"
+            },
+            "domain": {
+                "apollo": "canadapost-postescanada.ca",
+                "ai": "canadapost-postescanada.ca"
+            },
+            "industry": {
+                "apollo": "package/freight delivery",
+                "ai": "Postal & Logistics Services"
+            },
+            "founded_year": {
+                "apollo": "Non renseigné",
+                "ai": 1867
+            },
+            "short_description": {
+                "apollo": "As the country's postal service and leading ecommerce delivery company, we're committed to serving Canadians and Canadian businesses, working for the greener good, and delivering a stronger Canada.\n\nWe are the only delivery organization with the network and commitment to serve all of the more than 17 million addresses across Canada. We operate the largest retail network in Canada, with almost 5,900 post offices in every corner of the country. Our nearly 68,000 employees connect us with Canadians and are proud to serve the communities where they live and work.\n\nCanadians are at the heart of everything we do. We are dedicated to meeting their rapidly evolving needs and expectations. Our purpose, A Stronger Canada – Delivered, is anchored in our commitment to provide a service all Canadians can count on; demonstrate environmental and social leadership; and create a safe and welcoming workplace for all employees.\n\nEn tant que service postal et chef de file de la livraison des colis du cybercommerce au pays, nous sommes déterminés à servir la population et les entreprises d'ici, et à être porteurs d'un Canada plus fort et plus vert.\n\nGrâce à notre réseau de livraison inégalé, nous avons la responsabilité de servir plus de 17 millions d'adresses d'un océan à l'autre. Avec près de 5 900 bureaux de poste, nous exploitons le plus vaste réseau de vente au détail au pays. Nos gens – quelque 68 000 employées et employés – servent fièrement les collectivités où ils vivent et travaillent, et nous relient à la population.\n\nLes Canadiennes et les Canadiens sont au cœur de tout ce que nous faisons, et nous mettons tout en œuvre pour répondre à leurs besoins et à leurs attentes qui évoluent rapidement. Notre raison d'être, Porteurs d'un Canada plus fort, repose sur notre volonté d'offrir un service sur lequel tout le monde peut compter, de faire preuve de leadership en matière d'environnement et de responsabilité sociale, et de créer un milieu de travail sécuritaire et accueillant.\n\n",
+                "ai": "Primary postal operator in Canada providing mailing, shipping, and business solutions."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Mailing and shipping for Personal and Business | Canada Post"
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": 6721000000.0,
+                "ai": 5093550000
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": "Government Owned"
+            },
+            "estimated_num_employees": {
+                "apollo": 63000,
+                "ai": "64,000"
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/canada-post",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "Non renseigné",
+                "ai": "https://x.com/canadapostcorp"
+            },
+            "facebook_url": {
+                "apollo": "Non renseigné",
+                "ai": "https://www.facebook.com/canadapost"
+            },
+            "phone": {
+                "apollo": "+1 780-492-7716",
+                "ai": "1-866-607-6301"
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "2701 riverside drive, suite n1200, ottawa, ontario, canada",
+                "ai": "2701 Riverside Dr, Ottawa, ON K1A 0B1, Canada"
+            },
+            "city": {
+                "apollo": "Ottawa",
+                "ai": "Ottawa"
+            },
+            "country": {
+                "apollo": "Canada",
+                "ai": "Canada"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": 3
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "transactional mail courrier transactionnel",
+                    "direct marketing marketing direct",
+                    "parcel delivery livraisons des colis",
+                    "freight & package transportation",
+                    "postal service digital transformation",
+                    "mail security",
+                    "e-commerce logistics",
+                    "postal rates",
+                    "online shipping tools",
+                    "digital tracking solutions",
+                    "postal services",
+                    "canada post app",
+                    "community mailbox support",
+                    "community mailbox services",
+                    "parcel delivery",
+                    "postal service app",
+                    "postal service history",
+                    "postal service operational efficiency",
+                    "postal boxes",
+                    "package tracking",
+                    "e-commerce parcel delivery",
+                    "e-commerce support",
+                    "mail forwarding for relocation",
+                    "mail delivery optimization",
+                    "post office services",
+                    "digital mail management",
+                    "parcel shipping",
+                    "service alerts",
+                    "mail security systems",
+                    "mail management",
+                    "postal service digital tools",
+                    "delivery notifications",
+                    "government",
+                    "mail security technology",
+                    "postal codes",
+                    "mail forwarding",
+                    "retail network",
+                    "community mailbox management",
+                    "postal stamps",
+                    "b2b",
+                    "mail management technology",
+                    "b2c",
+                    "operational efficiency",
+                    "shipping",
+                    "e-commerce",
+                    "delivery standards",
+                    "postal service customer trust",
+                    "logistics and transportation",
+                    "postal service reliability",
+                    "mail forwarding for moving",
+                    "postal code lookup",
+                    "postal service sustainability",
+                    "parcel pickup points",
+                    "parcel delivery solutions",
+                    "postal service customer engagement",
+                    "last-mile delivery",
+                    "mail delivery tracking",
+                    "postal service",
+                    "international mail tracking",
+                    "retail",
+                    "d2c",
+                    "postal service innovation",
+                    "mail forwarding service",
+                    "services",
+                    "hold mail",
+                    "international shipping",
+                    "mail security enhancements",
+                    "mail hold service",
+                    "shipping solutions",
+                    "postal service solutions",
+                    "customer engagement",
+                    "mail delivery",
+                    "postal service logistics",
+                    "postal service automation",
+                    "mailing",
+                    "delivery tracking",
+                    "rate finder",
+                    "post office locator",
+                    "money transfer",
+                    "flexdelivery",
+                    "customs forms",
+                    "business shipping solutions",
+                    "return labels",
+                    "service updates",
+                    "hold mail service",
+                    "small business solutions",
+                    "delivery interruptions",
+                    "automated tracking",
+                    "drop-off services",
+                    "pickup scheduling",
+                    "money orders",
+                    "parcel redirection",
+                    "express shipping",
+                    "business account management",
+                    "address verification",
+                    "bulk mailing",
+                    "direct mail campaigns",
+                    "neighborhood mail",
+                    "customer support",
+                    "shipping insurance",
+                    "tracking number input",
+                    "mailing tips",
+                    "customer notifications",
+                    "mobile app features",
+                    "email notifications",
+                    "tax slip delivery",
+                    "online shopping returns",
+                    "holiday mail services",
+                    "environmentally friendly options",
+                    "flat rate shipping",
+                    "transit times",
+                    "business marketing tools",
+                    "finance",
+                    "distribution",
+                    "transportation & logistics",
+                    "package/freight delivery",
+                    "logistics & supply chain",
+                    "consumer internet",
+                    "consumers",
+                    "internet",
+                    "information technology & services",
+                    "financial services",
+                    "post offices",
+                    "public services & government"
+                ],
+                "ai": "Mailing, Shipping, Logistics, Personal, Business, Track packages, Post office, Canada Shops, FlexDelivery, Small Business solutions"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "gis",
+                        "name": ".GIS",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "net",
+                        "name": ".NET",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "aws_analytics",
+                        "name": "AWS Analytics",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "aws_cloud",
+                        "name": "AWS Cloud",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "aws_cloud",
+                        "name": "AWS Cloud",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "adobe",
+                        "name": "Adobe",
+                        "category": "Content Management Platform"
+                    },
+                    {
+                        "uid": "adobe_analytics",
+                        "name": "Adobe Analytics",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "adobe_dtm",
+                        "name": "Adobe DTM",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "adobe_experience_cloud",
+                        "name": "Adobe Experience Cloud",
+                        "category": "Marketing Automation"
+                    },
+                    {
+                        "uid": "adobe_experience_cloud",
+                        "name": "Adobe Experience Cloud",
+                        "category": "Marketing Automation"
+                    },
+                    {
+                        "uid": "adobe_experience_cloud",
+                        "name": "Adobe Experience Cloud",
+                        "category": "Marketing Automation"
+                    },
+                    {
+                        "uid": "adobe_tag_management",
+                        "name": "Adobe Tag Management",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "amazon_aws",
+                        "name": "Amazon AWS",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "amazon_cloudfront",
+                        "name": "Amazon CloudFront",
+                        "category": "Content Delivery Networks"
+                    },
+                    {
+                        "uid": "amazon_linux_2",
+                        "name": "Amazon Linux 2",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "amazon_route_53",
+                        "name": "Amazon Route 53",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "amazon_route_53",
+                        "name": "Amazon Route 53",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "amazon_ses",
+                        "name": "Amazon SES",
+                        "category": "Email Delivery"
+                    },
+                    {
+                        "uid": "amazon_ses",
+                        "name": "Amazon SES",
+                        "category": "Email Delivery"
+                    },
+                    {
+                        "uid": "apple_ios",
+                        "name": "Apple iOS",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "arena_plm",
+                        "name": "Arena PLM",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "azure_analysis_services",
+                        "name": "Azure Analysis Services",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "azure_linux_virtual_machines",
+                        "name": "Azure Linux Virtual Machines",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "bill",
+                        "name": "BILL",
+                        "category": "Payments"
+                    },
+                    {
+                        "uid": "backblaze_computer_backup",
+                        "name": "Backblaze Computer Backup",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "cat",
+                        "name": "CAT",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "cascade_cms",
+                        "name": "Cascade CMS",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "cisco_adaptive_security_appliance_software",
+                        "name": "Cisco Adaptive Security Appliance Software",
+                        "category": "Event Management"
+                    },
+                    {
+                        "uid": "cisco_aggregation_services_routers",
+                        "name": "Cisco Aggregation Services Routers",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "commission_junction",
+                        "name": "Commission Junction",
+                        "category": "Affiliate Advertising Network"
+                    },
+                    {
+                        "uid": "cross_pixel_media",
+                        "name": "Cross Pixel Media",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "drift",
+                        "name": "Drift",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "evolve_ip",
+                        "name": "Evolve IP",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "excel_impact",
+                        "name": "Excel Impact",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "excel4apps",
+                        "name": "Excel4Apps",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "eyefinity_officemate",
+                        "name": "Eyefinity OfficeMate",
+                        "category": "Appointment Scheduling"
+                    },
+                    {
+                        "uid": "format",
+                        "name": "Format",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "gem",
+                        "name": "Gem",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "google_ads_conversion",
+                        "name": "Google Ads Conversion",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_search_central",
+                        "name": "Google Search Central",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_search_console",
+                        "name": "Google Search Console",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "href_lang",
+                        "name": "HREF Lang",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "ibm_ilog_cplex_optimization_studio",
+                        "name": "IBM ILOG CPLEX Optimization Studio",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "linkedin_display_ads__formerly_bizo",
+                        "name": "Linkedin Marketing Solutions",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "mag",
+                        "name": "Mag+",
+                        "category": "Content Management Platform"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365_apps_services",
+                        "name": "Microsoft 365 Apps & Services",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_access",
+                        "name": "Microsoft Access",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "microsoft_email_providers",
+                        "name": "Microsoft Email Providers",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "microsoft_excel",
+                        "name": "Microsoft Excel",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "microsoft_exchange",
+                        "name": "Microsoft Exchange",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_exchange_online",
+                        "name": "Microsoft Exchange Online",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "microsoft_office",
+                        "name": "Microsoft Office",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_powerpoint",
+                        "name": "Microsoft PowerPoint",
+                        "category": "Web Presentation Tools"
+                    },
+                    {
+                        "uid": "microsoft_windows_defender_antivirus",
+                        "name": "Microsoft Windows Defender Antivirus",
+                        "category": "Event Management"
+                    },
+                    {
+                        "uid": "microsoft_windows_server_2012",
+                        "name": "Microsoft Windows Server 2012",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "mysql",
+                        "name": "MySQL",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "onetrust",
+                        "name": "OneTrust",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "oracle_bluekai_data_management_platform",
+                        "name": "Oracle BlueKai Data Management Platform",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "oracle_virtualization",
+                        "name": "Oracle Virtualization",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "outlook",
+                        "name": "Outlook",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "point",
+                        "name": "POINT",
+                        "category": "Recruitment"
+                    },
+                    {
+                        "uid": "postmark",
+                        "name": "Postmark",
+                        "category": "Email Delivery"
+                    },
+                    {
+                        "uid": "postpresso",
+                        "name": "Postpresso",
+                        "category": "Affiliate Advertising Network"
+                    },
+                    {
+                        "uid": "power_query",
+                        "name": "Power Query",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "powerbi_tiles",
+                        "name": "PowerBI Tiles",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "python",
+                        "name": "Python",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "qualtrics_intercept",
+                        "name": "Qualtrics",
+                        "category": "Support and Feedback"
+                    },
+                    {
+                        "uid": "qualtrics_employee_experience",
+                        "name": "Qualtrics Employee Experience",
+                        "category": "HR Solutions"
+                    },
+                    {
+                        "uid": "qualtrics_xm",
+                        "name": "Qualtrics XM",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "qualtrics_xm",
+                        "name": "Qualtrics XM",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "remote",
+                        "name": "Remote",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "route",
+                        "name": "Route",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "sap",
+                        "name": "SAP",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "sap_business_role_management_brm",
+                        "name": "SAP Business Role Management (BRM)",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "salesforce",
+                        "name": "Salesforce",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforce crm analytics",
+                        "name": "Salesforce CRM Analytics",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "scorecardresearch",
+                        "name": "ScorecardResearch",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "secured_mvc_forum_on_windows_2012_r2",
+                        "name": "Secured MVC Forum on Windows 2012 R2",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "taleo",
+                        "name": "Taleo",
+                        "category": "Recruitment"
+                    },
+                    {
+                        "uid": "tor",
+                        "name": "Tor",
+                        "category": "Security"
+                    },
+                    {
+                        "uid": "viewport_meta",
+                        "name": "Viewport Meta",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "winshuttle_foundation",
+                        "name": "Winshuttle Foundation",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "youtube",
+                        "name": "YouTube",
+                        "category": "Online Video Platforms"
+                    },
+                    {
+                        "uid": "accessibe",
+                        "name": "accessiBe",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "comscore",
+                        "name": "comScore",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "emaint_cmms",
+                        "name": "eMaint CMMS",
+                        "category": "Field Service Management"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "CloudFront",
+                        "category": "CDN",
+                        "confidence": 1.0,
+                        "source": "server: CloudFront",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.29,
+                            "evidence_density": 0.56
+                        }
+                    },
+                    {
+                        "name": "Adobe Experience Cloud (DTM)",
+                        "category": "Tag Management",
+                        "confidence": 1.0,
+                        "source": "assets.adobedtm.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.66,
+                            "evidence_density": 1.47
+                        }
+                    },
+                    {
+                        "name": "OneTrust",
+                        "category": "Consent Management",
+                        "confidence": 1.0,
+                        "source": "cdn.cookielaw.org / optanon-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.89,
+                            "evidence_density": 0.28
+                        }
+                    },
+                    {
+                        "name": "Qualtrics",
+                        "category": "Experience Management",
+                        "confidence": 1.0,
+                        "source": "canadapostdigital.siteintercept.qualtrics.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.67,
+                            "evidence_density": 0.2
+                        }
+                    },
+                    {
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management",
+                        "confidence": 1.0,
+                        "source": "www.googletagmanager.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.24,
+                            "evidence_density": 0.75
+                        }
+                    },
+                    {
+                        "name": "Foundation",
+                        "category": "Front-end Framework",
+                        "confidence": 0.95,
+                        "source": "foundation-* CSS classes",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.36,
+                            "evidence_density": 0.42
+                        }
+                    },
+                    {
+                        "name": "Adobe Analytics",
+                        "category": "Analytics",
+                        "confidence": 0.9,
+                        "source": "assets.adobedtm.com integration",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.51,
+                            "evidence_density": 0.48
+                        }
+                    },
+                    {
+                        "name": "Google Ads",
+                        "category": "Advertising",
+                        "confidence": 1.0,
+                        "source": "googleads.g.doubleclick.net",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.51,
+                            "evidence_density": 0.37
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [],
+                "ai": [
+                    "Purolator",
+                    "SCI Group",
+                    "Innovapost"
+                ]
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "UPS",
+                    "FedEx",
+                    "DHL",
+                    "Canpar Express"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "domain": "rbs.co.uk",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Royal Bank of Scotland Business",
+            "ai_value": "Royal Bank of Scotland (36 Saint Andrew Square Branch)"
+        },
+        "domain": {
+            "database_value": "rbs.co.uk",
+            "ai_value": "rbs.co.uk"
+        },
+        "industry": {
+            "database_value": "banking",
+            "ai_value": "Banking and Financial Services"
+        },
+        "founded_year": {
+            "database_value": 1727,
+            "ai_value": null
+        },
+        "short_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Retail and commercial bank providing accounts, mortgages, loans, and investment services."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Royal Bank of Scotland Online – Bank Accounts, Mortgages, Loans and Savings"
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "estimated_num_employees": {
+            "database_value": 56000,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/royal-bank-of-scotland-business",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "http://twitter.com/rbs_help",
+            "ai_value": null
+        },
+        "facebook_url": {
+            "database_value": "http://www.facebook.com/royalbankofscotland",
+            "ai_value": null
+        },
+        "phone": {
+            "database_value": "+44 34 5600 2230",
+            "ai_value": null
+        },
+        "raw_address": {
+            "database_value": "36 st andrew square, edinburgh, scotland eh2 2, gb",
+            "ai_value": "36 Saint Andrew Square, Edinburgh, United Kingdom"
+        },
+        "city": {
+            "database_value": "Non renseigné",
+            "ai_value": "Edinburgh"
+        },
+        "country": {
+            "database_value": "United Kingdom",
+            "ai_value": "United Kingdom"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": null
+        },
+        "keywords": {
+            "database_value": "Non renseigné",
+            "ai_value": "Banking, Mortgages, Savings, Loans, ISA, Credit Score, Financial Health, Fraud Prevention, APP Scams, Personal Accounts"
+        },
+        "technologies": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                {
+                    "name": "LivePerson",
+                    "category": "Customer Service / Chat",
+                    "confidence": 0.99,
+                    "source": "lpcdn.lpsnmedia.net, lptag.liveperson.net",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.6,
+                        "evidence_density": 0.24
+                    }
+                },
+                {
+                    "name": "OneTrust",
+                    "category": "Compliance / Cookie Management",
+                    "confidence": 0.99,
+                    "source": "cdn.cookielaw.org",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.75,
+                        "evidence_density": 0.47
+                    }
+                },
+                {
+                    "name": "Adobe Launch / DTM",
+                    "category": "Tag Management",
+                    "confidence": 0.95,
+                    "source": "assets.adobedtm.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.52,
+                        "evidence_density": 0.95
+                    }
+                },
+                {
+                    "name": "Adobe Experience Manager / Helix",
+                    "category": "CMS",
+                    "confidence": 0.9,
+                    "source": "rum.hlx.page",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.67,
+                        "evidence_density": 2.67
+                    }
+                },
+                {
+                    "name": "Cora AI",
+                    "category": "Conversational AI",
+                    "confidence": 0.98,
+                    "source": "webserver.chatcora.natwest.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.71,
+                        "evidence_density": 0.23
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": "Non renseigné",
+            "ai_value": []
+        },
+        "funding_events": {
+            "database_value": "Non renseigné",
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Barclays",
+                "HSBC UK",
+                "Lloyds Bank",
+                "Santander UK",
+                "Bank of Scotland"
+            ]
+        }
+    }
+}

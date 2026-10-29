@@ -1,0 +1,5111 @@
+{
+  "person": {
+    "id": "60ce5e277738f4000187e2d7",
+    "first_name": "Wolfgang",
+    "last_name": "Betz",
+    "name": "Wolfgang Betz",
+    "linkedin_url": "http://www.linkedin.com/in/wolfgang-betz-449aa8156",
+    "title": "Director Sales and Business Development",
+    "photo_url": "https://media.licdn.com/dms/image/v2/D4E03AQHlJGRX0ACDNw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677252195112?e=2147483647&v=beta&t=q1nU0Rpx1pO66WThcvdWZLsNeQR6OBAnx0RgmKM15hY",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Division Director & Global Account Manager BMW at ALTEN",
+    "organization_id": "54a1353569702d333d31b500",
+    "employment_history": [
+      {
+        "_id": "6a34ec32f10e5a00018354f7",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1353569702d333d31b500",
+        "organization_name": "ALTEN Germany",
+        "raw_address": null,
+        "start_date": "2025-01-01",
+        "title": "Director Sales and Business Development",
+        "updated_at": null,
+        "id": "6a34ec32f10e5a00018354f7",
+        "key": "6a34ec32f10e5a00018354f7"
+      },
+      {
+        "_id": "6a34ec32f10e5a00018354f8",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1353569702d333d31b500",
+        "organization_name": "ALTEN Germany",
+        "raw_address": null,
+        "start_date": "2022-07-01",
+        "title": "Division Director",
+        "updated_at": null,
+        "id": "6a34ec32f10e5a00018354f8",
+        "key": "6a34ec32f10e5a00018354f8"
+      },
+      {
+        "_id": "6a34ec32f10e5a00018354f9",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2022-06-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1353569702d333d31b500",
+        "organization_name": "ALTEN GmbH / ALTEN SW GmbH",
+        "raw_address": null,
+        "start_date": "2020-07-01",
+        "title": "Senior Manager",
+        "updated_at": null,
+        "id": "6a34ec32f10e5a00018354f9",
+        "key": "6a34ec32f10e5a00018354f9"
+      },
+      {
+        "_id": "6a34ec32f10e5a00018354fa",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2020-06-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1353569702d333d31b500",
+        "organization_name": "ALTEN GmbH / ALTEN SW GmbH",
+        "raw_address": null,
+        "start_date": "2019-01-01",
+        "title": "Manager",
+        "updated_at": null,
+        "id": "6a34ec32f10e5a00018354fa",
+        "key": "6a34ec32f10e5a00018354fa"
+      },
+      {
+        "_id": "6a34ec32f10e5a00018354fb",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2018-12-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1353569702d333d31b500",
+        "organization_name": "ALTEN GmbH / ALTEN SW GmbH",
+        "raw_address": null,
+        "start_date": "2018-01-01",
+        "title": "Experienced Business Manager",
+        "updated_at": null,
+        "id": "6a34ec32f10e5a00018354fb",
+        "key": "6a34ec32f10e5a00018354fb"
+      },
+      {
+        "_id": "6a34ec32f10e5a00018354fc",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2017-12-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1353569702d333d31b500",
+        "organization_name": "ALTEN GmbH / ALTEN SW GmbH",
+        "raw_address": null,
+        "start_date": "2016-09-01",
+        "title": "Business Manager",
+        "updated_at": null,
+        "id": "6a34ec32f10e5a00018354fc",
+        "key": "6a34ec32f10e5a00018354fc"
+      },
+      {
+        "_id": "6a34ec32f10e5a00018354fd",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2014-04-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5f703d333cc412008cd776c7",
+        "organization_name": "Rolls-Royce Motor Cars",
+        "raw_address": null,
+        "start_date": "2013-09-01",
+        "title": "Total Vehicle Validation and Integration",
+        "updated_at": null,
+        "id": "6a34ec32f10e5a00018354fd",
+        "key": "6a34ec32f10e5a00018354fd"
+      },
+      {
+        "_id": "6a34ec32f10e5a00018354fe",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2013-08-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "618217fcc80c3200dbad9286",
+        "organization_name": "BMW Group",
+        "raw_address": null,
+        "start_date": "2013-02-01",
+        "title": "Einkauf und Lieferantennetzwerk QMT Fahrzeugprojektleitung",
+        "updated_at": null,
+        "id": "6a34ec32f10e5a00018354fe",
+        "key": "6a34ec32f10e5a00018354fe"
+      }
+    ],
+    "street_address": "",
+    "city": "Isen",
+    "state": "Bavaria",
+    "country": "Germany",
+    "postal_code": null,
+    "formatted_address": "Isen, Germany",
+    "time_zone": "Europe/Berlin",
+    "email": "email_not_unlocked@domain.com",
+    "email_status": "verified",
+    "organization": {
+      "id": "54a1353569702d333d31b500",
+      "name": "ALTEN Germany",
+      "website_url": "http://www.alten-germany.de",
+      "angellist_url": null,
+      "linkedin_url": "http://www.linkedin.com/company/altengermany",
+      "twitter_url": null,
+      "facebook_url": null,
+      "primary_phone": {},
+      "languages": [
+        "German"
+      ],
+      "alexa_ranking": 320538,
+      "phone": null,
+      "linkedin_uid": "1615845",
+      "founded_year": 1988,
+      "publicly_traded_symbol": null,
+      "publicly_traded_exchange": null,
+      "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/695acebb1be10b00015491f4/picture",
+      "crunchbase_url": null,
+      "primary_domain": "alten-germany.de",
+      "sic_codes": [
+        "8711",
+        "7371"
+      ],
+      "naics_codes": [
+        "541330",
+        "541512"
+      ],
+      "industry": "information technology & services",
+      "estimated_num_employees": 2300,
+      "keywords": [
+        "naval",
+        "rail",
+        "telecommunication",
+        "energietechnik",
+        "halbleiter",
+        "engineering services",
+        "energy",
+        "medizintechnik",
+        "aeronautics & space",
+        "it consulting",
+        "multimedia & electronic",
+        "it",
+        "anlagentechnik",
+        "elektronik",
+        "telekommunikation",
+        "medical technology",
+        "defence & security",
+        "automotive",
+        "luft und raumfahrt",
+        "elektrik",
+        "finance & tertiary",
+        "technology consulting",
+        "it services & it consulting",
+        "big data",
+        "telecommunications",
+        "certifications",
+        "systems engineering",
+        "retail",
+        "data management",
+        "product lifecycle",
+        "software development",
+        "sustainability",
+        "artificial intelligence",
+        "supply chain",
+        "environmental consulting",
+        "process optimization",
+        "industrial sectors",
+        "visualization",
+        "project management",
+        "rail transport solutions",
+        "life sciences",
+        "innovation support",
+        "industrial equipment",
+        "complex project management",
+        "product development",
+        "technical expertise",
+        "it services",
+        "aerospace projects",
+        "manufacturing",
+        "b2b",
+        "collaboration models",
+        "defense technology",
+        "defense",
+        "customer engagement",
+        "r&d outsourcing",
+        "banking",
+        "government",
+        "cybersecurity",
+        "project support",
+        "operational efficiency",
+        "industrial automation",
+        "telecommunications infrastructure",
+        "sustainable development",
+        "application software",
+        "healthcare",
+        "automotive engineering",
+        "digital transformation",
+        "insurance",
+        "innovation",
+        "engineering",
+        "services",
+        "environmental safety",
+        "energy sector support",
+        "consulting",
+        "quality assurance",
+        "cloud services",
+        "cloud computing",
+        "healthcare it",
+        "aerospace",
+        "finance",
+        "ai",
+        "embedded software",
+        "machine learning",
+        "construction services",
+        "health and safety",
+        "business analysis",
+        "infrastructure management",
+        "green it",
+        "automotive industry",
+        "rail mobility",
+        "public services",
+        "environmental technology",
+        "safety standards",
+        "technical support",
+        "strategic development",
+        "client management",
+        "project execution",
+        "technical consulting",
+        "workforce solutions",
+        "temporary staffing",
+        "outsourcing services",
+        "voluntary program v.i.e",
+        "career development",
+        "internship programs",
+        "business management",
+        "resource planning",
+        "client relations",
+        "collaboration",
+        "technological solutions",
+        "market analysis",
+        "transportation & logistics",
+        "energy & utilities",
+        "information technology & services",
+        "management consulting",
+        "enterprise software",
+        "enterprises",
+        "computer software",
+        "environmental services",
+        "renewables & environment",
+        "productivity",
+        "mechanical or industrial engineering",
+        "financial services",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "health & safety",
+        "aviation & aerospace",
+        "staffing & recruiting"
+      ],
+      "organization_revenue_printed": "317M",
+      "organization_revenue": 317000000.0,
+      "industries": [
+        "information technology & services",
+        "mechanical or industrial engineering",
+        "telecommunications",
+        "automotive"
+      ],
+      "secondary_industries": [
+        "mechanical or industrial engineering",
+        "telecommunications",
+        "automotive"
+      ],
+      "snippets_loaded": true,
+      "industry_tag_id": "5567cd4773696439b10b0000",
+      "industry_tag_hash": {
+        "information technology & services": "5567cd4773696439b10b0000",
+        "mechanical or industrial engineering": "5567ce2673696453d95c0000",
+        "telecommunications": "5567cd4c7369644d39080000",
+        "automotive": "5567cdf27369644cfd800000"
+      },
+      "retail_location_count": 0,
+      "raw_address": "Frankfurter Ring 81a, Munich, Bavaria 80807, DE",
+      "street_address": "81A Frankfurter Ring",
+      "city": "Munich",
+      "state": "Bavaria",
+      "postal_code": "80807",
+      "country": "Germany",
+      "owned_by_organization_id": "54a1297869702d8b190c1e02",
+      "owned_by_organization": {
+        "id": "54a1297869702d8b190c1e02",
+        "name": "ALTEN",
+        "website_url": "http://www.alten.com"
+      },
+      "short_description": "ALTEN Germany, officially known as ALTEN GmbH, is a prominent engineering and IT service provider based in Coburg, Bavaria. As a subsidiary of the international ALTEN Group, which was founded in 1988, ALTEN Germany plays a vital role in delivering engineering, R&D, and IT services across various sectors. The company employs around 3,000 professionals from over 70 nations and operates multiple offices throughout Germany, including major cities like Munich, Hamburg, and Berlin.\n\nThe company specializes in a wide range of services, including product design and development, embedded software, application development, and data management. ALTEN Germany also focuses on digital transformation, offering solutions in big data, AI, cloud infrastructure, and cybersecurity. Their expertise extends to R&D outsourcing, project management, and quality assurance, supporting clients in industries such as automotive, aerospace, energy, life sciences, and telecommunications. With a strong commitment to innovation, ALTEN Germany partners with clients to enhance their development strategies and drive technological advancements.",
+      "suborganizations": [],
+      "num_suborganizations": 0,
+      "annual_revenue_printed": "317M",
+      "annual_revenue": 317000000.0,
+      "total_funding": null,
+      "total_funding_printed": null,
+      "latest_funding_round_date": null,
+      "latest_funding_stage": null,
+      "funding_events": [],
+      "technology_names": [
+        ".GIS",
+        ".NET",
+        "3DEXPERIENCE Platform",
+        "ABAP",
+        "ABB Robotics",
+        "AC500 PLC",
+        "ADP Applicant Tracking System",
+        "AI",
+        "AMP",
+        "ANSYS",
+        "API Gateway",
+        "AT&T",
+        "AVEVA PDMS",
+        "AWS Analytics",
+        "AWS App Mesh",
+        "AWS Application Load Balancer",
+        "AWS Database Migration Service",
+        "AWS SDK for JavaScript",
+        "Abaqus Unified FEA",
+        "Acme Packet",
+        "Acoustic Analytics",
+        "Act!",
+        "Actionstep",
+        "Adara",
+        "Adconion",
+        "Adform DMP",
+        "Adition Technologies - Advertisers",
+        "Adobe Character Animator",
+        "Agilent SLIMS",
+        "Agilent Technologies",
+        "Air",
+        "Akamai App & API Protector",
+        "Alexa Metrics",
+        "Altair Hypermesh",
+        "Alteryx",
+        "Altium",
+        "Altium 365",
+        "Altium Designer",
+        "Amazon AMS",
+        "Amazon Associates",
+        "Amazon CloudWatch",
+        "Amazon FreeRTOS",
+        "Amazon Kinesis",
+        "Amazon Linux 2",
+        "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+        "Amazon S3",
+        "Amazon SES",
+        "Analyzer",
+        "Android",
+        "Angular",
+        "Angular Material",
+        "Ansible",
+        "Ansys HFSS",
+        "Ansys LS-DYNA",
+        "Apache Kafka",
+        "Apache Spark",
+        "Apache Spark",
+        "Apache Subversion (SVN) Server on Ubuntu 18.04 LTS",
+        "Aqua",
+        "Archer Integrated Risk Management",
+        "Arena PLM",
+        "Argo",
+        "Argon CI/CD Security",
+        "Aryson MySQL to MSSQL Converter",
+        "Assemble",
+        "Atlas",
+        "Atlassian",
+        "Atlassian Bitbucket",
+        "Atlassian Confluence",
+        "Atlassian Confluence",
+        "AutoCAD",
+        "Autodesk",
+        "Autodesk 3ds Max",
+        "Autodesk BIM Collaborate",
+        "Autodesk CFD",
+        "Automic Automation",
+        "Azure Active Directory",
+        "Azure Active Directory B2C",
+        "Azure Analysis Services",
+        "Azure App Service",
+        "Azure Cloud Services",
+        "Azure Cloud Shell",
+        "Azure Data Factory",
+        "Azure Devops",
+        "Azure Face API",
+        "Azure Key Vault",
+        "Azure Linux Virtual Machines",
+        "Azure Log Analytics",
+        "Azure Storage Explorer",
+        "Azure Synapse Analytics",
+        "Azure Virtual Machines",
+        "Azure Virtual Network",
+        "BASE",
+        "Bamboo",
+        "Barracuda MSP",
+        "Barracuda Spam Firewall",
+        "Bash",
+        "Batch",
+        "Bevywise MQTT Broker",
+        "Bigtincan Engagement",
+        "Black Duck",
+        "BlackBerry QNX",
+        "Brocade Switches",
+        "Buffer",
+        "Buildkite",
+        "C#",
+        "C/C++",
+        "CANalyzer",
+        "CANoe",
+        "CAPTCHA",
+        "CAT",
+        "CATIA",
+        "CMake",
+        "CNC Software",
+        "CPI",
+        "CPMStar",
+        "CR-8000 Design Force",
+        "CRM+",
+        "CSS",
+        "CUICK TRAC - DFARS and NIST 800-171 compliance solution",
+        "Cadence",
+        "Cadence Virtuoso",
+        "Calypso",
+        "Cameo Systems Modeler",
+        "Canon Printers",
+        "Cascade CMS",
+        "CascadeHR",
+        "Celonis",
+        "CentOS",
+        "Check Point CloudGuard Harmony Connect (CloudGuard Connect)",
+        "CheckPoint",
+        "Chili Piper",
+        "Chorus by ZoomInfo",
+        "Cisco ASA 5555",
+        "Cisco Integrated Services Routers",
+        "Cisco Nexus Switches",
+        "Cisco Routers",
+        "Cisco Secure Firewall Management Center",
+        "Cisco Unified Intelligence Center",
+        "Cisco VPN",
+        "Cisco WebEx Teams",
+        "Citrix",
+        "ClickDimensions",
+        "ClickHouse",
+        "CloudFlare Hosting",
+        "Cloudsuite WMS",
+        "CoStar Connect",
+        "Cognos TM1",
+        "Commscope Ruckus",
+        "Conan",
+        "ConnectWise Control",
+        "ConnectWise PSA",
+        "Conversant",
+        "ConvertCart",
+        "Corel",
+        "Coupa",
+        "Creo Parametric",
+        "Creo+",
+        "Cross Pixel Media",
+        "Crossfuze TFS Integration",
+        "Cursor",
+        "DATAVERSE LTD",
+        "DDS-CAD",
+        "Dassault Dymola",
+        "Dassault Icem Surf",
+        "Dassault MagicDraw",
+        "Dassault SOLIDWORKS",
+        "Databricks",
+        "Databricks",
+        "Databricks Unity Catalog",
+        "Datadog",
+        "Dell Encryption",
+        "Dexter",
+        "Django",
+        "Docker",
+        "Docking & MDI for WPF",
+        "DotNetNuke",
+        "Dspace",
+        "Dynamics 365 Customer Insights",
+        "E-planning",
+        "EFI",
+        "ELK Stack",
+        "ENTERPRISE ARCHITECT",
+        "ETAP",
+        "Eaglestats",
+        "Eclipse",
+        "Ektron",
+        "Electron",
+        "Epic Prelude",
+        "Etsy",
+        "Excel Impact",
+        "Excel4Apps",
+        "Eyefinity OfficeMate",
+        "F5 NGINX Ingress Controller",
+        "FACTS",
+        "FICO Safe Driving Score",
+        "FIS",
+        "FME Platform",
+        "Fastapi",
+        "FiberHome",
+        "Flask",
+        "FlipHTML5",
+        "Fortinet",
+        "Frame",
+        "Fresh",
+        "Frosmo",
+        "G5",
+        "GEODIS",
+        "GRPC",
+        "Gem",
+        "Git",
+        "GitHub",
+        "GitHub Actions",
+        "GitHub Copilot",
+        "GitLab",
+        "GitLab CI/CD",
+        "GoDataFeed",
+        "GoSystem Tax RS",
+        "GoToAssist",
+        "Google",
+        "Google AdWords Conversion",
+        "Google AlloyDB for PostgreSQL",
+        "Google Analytics",
+        "Google Analytics 4 (GA4)",
+        "Google Cloud",
+        "Google Cloud Data Loss Prevention",
+        "Google Cloud Dialogflow",
+        "Google Cloud Looker",
+        "Google Cloud Scheduler",
+        "Google Search Console",
+        "Google Tag Manager",
+        "Google Workspace",
+        "Gradle",
+        "Grafana",
+        "Groovy",
+        "HELM",
+        "HP Poly",
+        "HPE 3PAR",
+        "HPE MSA",
+        "HPE ProLiant DL Servers",
+        "HREF Lang",
+        "HTML Pro",
+        "HTML5 Maker",
+        "Hach WIMS",
+        "Harness",
+        "Homestead",
+        "Horizon",
+        "IBM Cloudability",
+        "IBM Db2 for Linux, UNIX, and Microsoft Windows",
+        "IBM Engineering Requirements Management DOORS Next",
+        "IBM Planning Analytics",
+        "IBM Rational DOORS",
+        "IBM Rational Rhapsody Architect for Systems Engineers",
+        "IBM SPSS Modeler",
+        "IBM Spectrum LSF",
+        "ICE",
+        "ICP",
+        "ISO+™",
+        "InTouch",
+        "InfluxDB",
+        "Infolinks",
+        "Integral Ad Science",
+        "Inventor",
+        "IoT",
+        "Istio",
+        "Ivalua",
+        "JFrog Artifactory",
+        "JUnit",
+        "Jama Connect for Requirements Management",
+        "JangoMail",
+        "Java EE",
+        "Javascript",
+        "JazzHR",
+        "Jenkins",
+        "JetBrains",
+        "Jira",
+        "Jira",
+        "Jira Service Management",
+        "Jitterbit",
+        "Kanbanize",
+        "Kotlin",
+        "Kubernetes",
+        "LabVIEW",
+        "LabWare LIMS",
+        "Lambda Cloud",
+        "LeanIX Enterprise Architecture Management",
+        "Less",
+        "LinkedIn Ads",
+        "Linkedin Marketing Solutions",
+        "Listrak",
+        "Litmus",
+        "LogIC",
+        "LucidLink",
+        "MATLAB",
+        "Mag+",
+        "Make",
+        "Manhattan SCALE",
+        "Marc",
+        "Mathcad Prime",
+        "Mentor",
+        "Merge",
+        "Micro",
+        "MicroStation",
+        "Microsoft 365",
+        "Microsoft 365 Apps & Services",
+        "Microsoft Active Directory Federation Services",
+        "Microsoft Advanced Group Policy Management",
+        "Microsoft Application Insights",
+        "Microsoft Azure Hosting",
+        "Microsoft Azure Monitor",
+        "Microsoft Azure Monitor",
+        "Microsoft Distributed File System (DFS)",
+        "Microsoft Dynamics",
+        "Microsoft Endpoint Configuration Manager (MECM)",
+        "Microsoft Entra ID",
+        "Microsoft Excel",
+        "Microsoft Exchange",
+        "Microsoft Exchange Server 2003",
+        "Microsoft Fabric",
+        "Microsoft Hyper-V Server",
+        "Microsoft Intune Enterprise Application Management",
+        "Microsoft Office",
+        "Microsoft Power Apps",
+        "Microsoft Power Automate",
+        "Microsoft Power Platform",
+        "Microsoft PowerPoint",
+        "Microsoft PowerShell",
+        "Microsoft Project",
+        "Microsoft SQL Server Reporting Services",
+        "Microsoft Sharepoint",
+        "Microsoft Sharepoint",
+        "Microsoft Sql Server",
+        "Microsoft System Center Configuration Manager",
+        "Microsoft Teams",
+        "Microsoft Teams Rooms",
+        "Microsoft Windows Server 2000",
+        "Microsoft Windows Server 2012",
+        "Microsoft.NET Core 3.1",
+        "Mist",
+        "Mobile Friendly",
+        "Modbus",
+        "Mode",
+        "ModelSim",
+        "MongoDB",
+        "Mongoose",
+        "MySQL",
+        "MySQL",
+        "NPD",
+        "NVIDIA A100 Tensor Core GPU",
+        "National Instruments",
+        "Neo4j",
+        "NeoData",
+        "NetApp Common Internet File System (CIFS)",
+        "NetApp FAS Series Storage Systems",
+        "Ning",
+        "Node.js",
+        "Nokia",
+        "NuGet",
+        "Nuix Discover",
+        "NumPy",
+        "Nutanix",
+        "OSIsoft PI",
+        "Olo",
+        "OpenLDAP",
+        "OpenText ECM in the Cloud",
+        "OpenVMS",
+        "OrCAD PSpice Designer",
+        "Oracle Analytics Cloud",
+        "Oracle Bare Metal Cloud Services",
+        "Oracle E Business Suite",
+        "Oracle Passlogix",
+        "Oracle XML DB",
+        "Outlook",
+        "PHP",
+        "PL/SQL",
+        "POINT",
+        "PTC Arbortext",
+        "PTC Creo",
+        "PVsyst",
+        "Palantir Gotham",
+        "Pantheon",
+        "Parallels Mac Management for Microsoft SCCM",
+        "Perforce Visualization",
+        "Perl",
+        "Planne",
+        "Playwright",
+        "Plotly Dash",
+        "Plotly.js",
+        "Podman",
+        "Polarion",
+        "PortSwigger",
+        "Portal",
+        "PostgreSQL",
+        "Postman",
+        "Power BI Documenter",
+        "PowerBI Tiles",
+        "Prometheus",
+        "Proxmox VE",
+        "Pulumi",
+        "PySpark",
+        "Pytest",
+        "Python",
+        "QMetry Automation Studio",
+        "Qt",
+        "Qualcomm Snapdragon",
+        "Quartic",
+        "QuerySurge",
+        "Quip",
+        "REACH",
+        "REST",
+        "RIB Software iTWO",
+        "RSLogix",
+        "RabbitMQ",
+        "Rancher Labs",
+        "Rapid7 InsightVM",
+        "Rational ClearCase",
+        "Rational ClearQuest",
+        "RawGit",
+        "React",
+        "React Router",
+        "Red Hat Enterprise Linux",
+        "Red Hat Enterprise Linux AI",
+        "Red Hat JBoss Enterprise SOA Platform",
+        "Red Hat OpenShift",
+        "Redis",
+        "Revit",
+        "Rhino",
+        "Robot Framework",
+        "Rockwell Automation",
+        "S&P Capital IQ Pro",
+        "SAP",
+        "SAP Advanced Data Migration and Management (SAP ADMM) by Syniti",
+        "SAP Analytics Cloud",
+        "SAP Ariba",
+        "SAP Ariba Supplier Lifecycle and Performance",
+        "SAP Basis",
+        "SAP Crystal Reports",
+        "SAP Data Migration",
+        "SAP ECC",
+        "SAP ECTR",
+        "SAP ERP",
+        "SAP Fiori",
+        "SAP GRC",
+        "SAP HANA",
+        "SAP Integration Suite",
+        "SAP PLM",
+        "SAP R/3",
+        "SAP S/4HANA",
+        "SAP Solution Manager",
+        "SAP SuccessFactors",
+        "SAP SuccessFactors Learning",
+        "SDS/2",
+        "SIMATIC WinCC",
+        "SMART Board",
+        "SQLite",
+        "SS&C",
+        "SYNERGY",
+        "SYSPRO ERP",
+        "Saba Talentlink",
+        "SafeSend",
+        "Salesforce",
+        "Scala",
+        "Scipy",
+        "Scrum Do",
+        "Secured MVC Forum on Windows 2012 R2",
+        "Security",
+        "Sender",
+        "Senior Sistemas",
+        "Sensor Tower",
+        "ServiceNow",
+        "ServiceNow IT Service Management (ITSM)",
+        "Shutterstock",
+        "Siemens COMOS",
+        "Siemens NX",
+        "Siemens PLM",
+        "Siemens PROFIBUS",
+        "Siemens SIMATIC HMI (Human Machine Interface)",
+        "Siemens SIMATIC PCS 7",
+        "Siemens SIMATIC S7",
+        "Siemens SIMATIC S7-1500",
+        "Siemens SIMATIC SCADA",
+        "Siemens SIMATIC STEP 7",
+        "Siemens SINAMICS",
+        "Sigma",
+        "Signal",
+        "Simcenter STAR-CCM+",
+        "Simulink",
+        "Sitetracker",
+        "SmartCOMM",
+        "SnapApp",
+        "Snowflake",
+        "Soap Media",
+        "Software Advice",
+        "Solid Edge",
+        "Sonar",
+        "SonarQube",
+        "SourcingUp",
+        "SpiceThemes SpicePress",
+        "Splunk",
+        "Splunk User Behavior Analytics",
+        "Spring Boot",
+        "Sqlalchemy",
+        "Star",
+        "Starburst",
+        "Subversion",
+        "Swagger UI",
+        "Switch Concepts",
+        "Symfony",
+        "SysTools VBA Password Recovery",
+        "SystemVerilog",
+        "TSYS",
+        "TUNE",
+        "Tableau",
+        "Tailwind",
+        "TeamCity",
+        "Teamcenter",
+        "Tenable Nessus",
+        "Terraform",
+        "Testng",
+        "Tor",
+        "TrackWise",
+        "TurboTax Self Employed",
+        "Twitter Widgets",
+        "TypeScript",
+        "UPS",
+        "Ubuntu",
+        "UniFi Security Gateway",
+        "Unix",
+        "Unreal Engine",
+        "UptimeRobot",
+        "VHDL",
+        "VISI",
+        "VMware",
+        "VMware SD-WAN",
+        "Vector",
+        "Vera",
+        "VeriStand",
+        "Verilog",
+        "Viewport Meta",
+        "Vimeo",
+        "Visio",
+        "Visual Studio",
+        "Vscode",
+        "VueJS",
+        "WISE",
+        "WMS",
+        "WPML",
+        "WebCube",
+        "WebOffice",
+        "Webgains",
+        "Webtrends Analytics for Sharepoint",
+        "WellSaid Labs",
+        "Whipple Hill",
+        "Wider Planet",
+        "Wind River VxWorks",
+        "Windchill PDMLink",
+        "Windchill+",
+        "Windows Server",
+        "WordPress.org",
+        "Wordpress",
+        "WorkSafeBC",
+        "Workday",
+        "Wowanalytics",
+        "Xilinx Vivado",
+        "Xpedition Enterprise",
+        "Xray",
+        "Yoast",
+        "Yocto",
+        "Zephyr",
+        "Zuken",
+        "ePlan",
+        "ebs",
+        "gandi.net",
+        "iCIMS SkillSurvey Reference",
+        "iFix",
+        "matplotlib",
+        "pandas",
+        "tarteaucitron",
+        "vLLM",
+        "vSphere",
+        "zenon"
+      ],
+      "current_technologies": [
+        {
+          "uid": "gis",
+          "name": ".GIS",
+          "category": "Other"
+        },
+        {
+          "uid": "net",
+          "name": ".NET",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "3dexperience_platform",
+          "name": "3DEXPERIENCE Platform",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "abap",
+          "name": "ABAP",
+          "category": "ERP"
+        },
+        {
+          "uid": "abb_robotics",
+          "name": "ABB Robotics",
+          "category": "Robotic Process Automation"
+        },
+        {
+          "uid": "ac500_plc",
+          "name": "AC500 PLC",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "adp_applicant_tracking_system",
+          "name": "ADP Applicant Tracking System",
+          "category": "Recruitment"
+        },
+        {
+          "uid": "ai",
+          "name": "AI",
+          "category": "Other"
+        },
+        {
+          "uid": "amp",
+          "name": "AMP",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "ansys",
+          "name": "ANSYS",
+          "category": "Other"
+        },
+        {
+          "uid": "api_gateway",
+          "name": "API Gateway",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "at&t",
+          "name": "AT&T",
+          "category": "Hosting"
+        },
+        {
+          "uid": "aveva_pdms",
+          "name": "AVEVA PDMS",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "aws_analytics",
+          "name": "AWS Analytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "aws_app_mesh",
+          "name": "AWS App Mesh",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "aws_application_load_balancer",
+          "name": "AWS Application Load Balancer",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "aws_database_migration_service",
+          "name": "AWS Database Migration Service",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "aws_sdk_for_javascript",
+          "name": "AWS SDK for JavaScript",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "abaqus_unified_fea",
+          "name": "Abaqus Unified FEA",
+          "category": "Other"
+        },
+        {
+          "uid": "acme_packet",
+          "name": "Acme Packet",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "acoustic_analytics",
+          "name": "Acoustic Analytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "act",
+          "name": "Act!",
+          "category": "Other"
+        },
+        {
+          "uid": "actionstep",
+          "name": "Actionstep",
+          "category": "Case Management"
+        },
+        {
+          "uid": "adara",
+          "name": "Adara",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "adconion",
+          "name": "Adconion",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "adform_dmp",
+          "name": "Adform DMP",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "adition_technologies_-_advertisers",
+          "name": "Adition Technologies - Advertisers",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "adobe_character_animator",
+          "name": "Adobe Character Animator",
+          "category": "Web Presentation Tools"
+        },
+        {
+          "uid": "agilent_slims",
+          "name": "Agilent SLIMS",
+          "category": "Other"
+        },
+        {
+          "uid": "agilent_technologies",
+          "name": "Agilent Technologies",
+          "category": "Other"
+        },
+        {
+          "uid": "air",
+          "name": "Air",
+          "category": "Other"
+        },
+        {
+          "uid": "akamai_app_api_protector",
+          "name": "Akamai App & API Protector",
+          "category": "Security"
+        },
+        {
+          "uid": "alexa_metrics",
+          "name": "Alexa Metrics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "altair_hypermesh",
+          "name": "Altair Hypermesh",
+          "category": "Other"
+        },
+        {
+          "uid": "alteryx",
+          "name": "Alteryx",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "altium",
+          "name": "Altium",
+          "category": "Other"
+        },
+        {
+          "uid": "altium_365",
+          "name": "Altium 365",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "altium_designer",
+          "name": "Altium Designer",
+          "category": "Other"
+        },
+        {
+          "uid": "amazon_ams",
+          "name": "Amazon AMS",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "amazon_associates",
+          "name": "Amazon Associates",
+          "category": "Affiliate Advertising Network"
+        },
+        {
+          "uid": "amazon_cloudwatch",
+          "name": "Amazon CloudWatch",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "amazon_freertos",
+          "name": "Amazon FreeRTOS",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "amazon_kinesis",
+          "name": "Amazon Kinesis",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "amazon_linux_2",
+          "name": "Amazon Linux 2",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "amazon_managed_streaming_for_apache_kafka_amazon_msk",
+          "name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "amazon_s3",
+          "name": "Amazon S3",
+          "category": "Content Delivery Networks"
+        },
+        {
+          "uid": "amazon_ses",
+          "name": "Amazon SES",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "analyzer",
+          "name": "Analyzer",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "android",
+          "name": "Android",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "angular",
+          "name": "Angular",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "angular_material",
+          "name": "Angular Material",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "ansible",
+          "name": "Ansible",
+          "category": "Other"
+        },
+        {
+          "uid": "ansys_hfss",
+          "name": "Ansys HFSS",
+          "category": "Other"
+        },
+        {
+          "uid": "ansys_lsdyna",
+          "name": "Ansys LS-DYNA",
+          "category": "Other"
+        },
+        {
+          "uid": "apache_kafka",
+          "name": "Apache Kafka",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "apache_spark",
+          "name": "Apache Spark",
+          "category": "Database"
+        },
+        {
+          "uid": "apache_spark",
+          "name": "Apache Spark",
+          "category": "Database"
+        },
+        {
+          "uid": "apache_subversion_svn_server_on_ubuntu_1804_lts",
+          "name": "Apache Subversion (SVN) Server on Ubuntu 18.04 LTS",
+          "category": "Hosting"
+        },
+        {
+          "uid": "aqua",
+          "name": "Aqua",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "archer_integrated_risk_management",
+          "name": "Archer Integrated Risk Management",
+          "category": "ERP"
+        },
+        {
+          "uid": "arena_plm",
+          "name": "Arena PLM",
+          "category": "ERP"
+        },
+        {
+          "uid": "argo",
+          "name": "Argo",
+          "category": "Other"
+        },
+        {
+          "uid": "argon_cicd_security",
+          "name": "Argon CI/CD Security",
+          "category": "Security"
+        },
+        {
+          "uid": "aryson_mysql_to_mssql_converter",
+          "name": "Aryson MySQL to MSSQL Converter",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "assemble",
+          "name": "Assemble",
+          "category": "Other"
+        },
+        {
+          "uid": "atlas",
+          "name": "Atlas",
+          "category": "Other"
+        },
+        {
+          "uid": "atlassian",
+          "name": "Atlassian",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "atlassian_bitbucket",
+          "name": "Atlassian Bitbucket",
+          "category": "CMS"
+        },
+        {
+          "uid": "atlassian_confluence",
+          "name": "Atlassian Confluence",
+          "category": "CMS"
+        },
+        {
+          "uid": "atlassian_confluence",
+          "name": "Atlassian Confluence",
+          "category": "CMS"
+        },
+        {
+          "uid": "autocad",
+          "name": "AutoCAD",
+          "category": "Contruction Management Platform"
+        },
+        {
+          "uid": "autodesk",
+          "name": "Autodesk",
+          "category": "Other"
+        },
+        {
+          "uid": "autodesk_3ds_max",
+          "name": "Autodesk 3ds Max",
+          "category": "Other"
+        },
+        {
+          "uid": "autodesk_bim_collaborate",
+          "name": "Autodesk BIM Collaborate",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "autodesk_cfd",
+          "name": "Autodesk CFD",
+          "category": "Other"
+        },
+        {
+          "uid": "automic_automation",
+          "name": "Automic Automation",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_active_directory",
+          "name": "Azure Active Directory",
+          "category": "Security"
+        },
+        {
+          "uid": "azure_active_directory_b2c",
+          "name": "Azure Active Directory B2C",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_analysis_services",
+          "name": "Azure Analysis Services",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "azure_app_service",
+          "name": "Azure App Service",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_cloud_services",
+          "name": "Azure Cloud Services",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_cloud_shell",
+          "name": "Azure Cloud Shell",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_data_factory",
+          "name": "Azure Data Factory",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure devops",
+          "name": "Azure Devops",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "azure_face_api",
+          "name": "Azure Face API",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_key_vault",
+          "name": "Azure Key Vault",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_linux_virtual_machines",
+          "name": "Azure Linux Virtual Machines",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_log_analytics",
+          "name": "Azure Log Analytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "azure_storage_explorer",
+          "name": "Azure Storage Explorer",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_synapse_analytics",
+          "name": "Azure Synapse Analytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "azure_virtual_machines",
+          "name": "Azure Virtual Machines",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "azure_virtual_network",
+          "name": "Azure Virtual Network",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "base",
+          "name": "BASE",
+          "category": "Other"
+        },
+        {
+          "uid": "bamboo",
+          "name": "Bamboo",
+          "category": "Other"
+        },
+        {
+          "uid": "barracuda",
+          "name": "Barracuda MSP",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "barracuda_spam_firewall",
+          "name": "Barracuda Spam Firewall",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "bash",
+          "name": "Bash",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "batch",
+          "name": "Batch",
+          "category": "Other"
+        },
+        {
+          "uid": "bevywise_mqtt_broker",
+          "name": "Bevywise MQTT Broker",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "bigtincan_engagement",
+          "name": "Bigtincan Engagement",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "black_duck",
+          "name": "Black Duck",
+          "category": "Security"
+        },
+        {
+          "uid": "blackberry_qnx",
+          "name": "BlackBerry QNX",
+          "category": "Other"
+        },
+        {
+          "uid": "brocade_switches",
+          "name": "Brocade Switches",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "buffer",
+          "name": "Buffer",
+          "category": "Social Media Marketing"
+        },
+        {
+          "uid": "buildkite",
+          "name": "Buildkite",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "c#",
+          "name": "C#",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "c_c++",
+          "name": "C/C++",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "canalyzer",
+          "name": "CANalyzer",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "canoe",
+          "name": "CANoe",
+          "category": "Other"
+        },
+        {
+          "uid": "captcha",
+          "name": "CAPTCHA",
+          "category": "Captcha"
+        },
+        {
+          "uid": "cat",
+          "name": "CAT",
+          "category": "ERP"
+        },
+        {
+          "uid": "catia",
+          "name": "CATIA",
+          "category": "Other"
+        },
+        {
+          "uid": "cmake",
+          "name": "CMake",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "cnc_software",
+          "name": "CNC Software",
+          "category": "Other"
+        },
+        {
+          "uid": "cpi",
+          "name": "CPI",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "cpmstar",
+          "name": "CPMStar",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "cr8000_design_force",
+          "name": "CR-8000 Design Force",
+          "category": "Other"
+        },
+        {
+          "uid": "crm+",
+          "name": "CRM+",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "css",
+          "name": "CSS",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "cuick_trac_dfars_and_nist_800171_compliance_solution",
+          "name": "CUICK TRAC - DFARS and NIST 800-171 compliance solution",
+          "category": "Security"
+        },
+        {
+          "uid": "cadence",
+          "name": "Cadence",
+          "category": "Other"
+        },
+        {
+          "uid": "cadence_virtuoso",
+          "name": "Cadence Virtuoso",
+          "category": "Other"
+        },
+        {
+          "uid": "calypso",
+          "name": "Calypso",
+          "category": "Other"
+        },
+        {
+          "uid": "cameo_systems_modeler",
+          "name": "Cameo Systems Modeler",
+          "category": "Other"
+        },
+        {
+          "uid": "canon_printers",
+          "name": "Canon Printers",
+          "category": "Other"
+        },
+        {
+          "uid": "cascade_cms",
+          "name": "Cascade CMS",
+          "category": "CMS"
+        },
+        {
+          "uid": "cascadehr",
+          "name": "CascadeHR",
+          "category": "HR Solutions"
+        },
+        {
+          "uid": "celonis",
+          "name": "Celonis",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "centos",
+          "name": "CentOS",
+          "category": "Hosting"
+        },
+        {
+          "uid": "check_point_cloudguard_harmony_connect_cloudguard_connect",
+          "name": "Check Point CloudGuard Harmony Connect (CloudGuard Connect)",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "checkpoint",
+          "name": "CheckPoint",
+          "category": "Security"
+        },
+        {
+          "uid": "chili_piper",
+          "name": "Chili Piper",
+          "category": "Appointment Scheduling"
+        },
+        {
+          "uid": "chorus_by_zoominfo",
+          "name": "Chorus by ZoomInfo",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "cisco_asa_5555",
+          "name": "Cisco ASA 5555",
+          "category": "Event Management"
+        },
+        {
+          "uid": "cisco_integrated_services_routers",
+          "name": "Cisco Integrated Services Routers",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "cisco_nexus_switches",
+          "name": "Cisco Nexus Switches",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "cisco_routers",
+          "name": "Cisco Routers",
+          "category": "Other"
+        },
+        {
+          "uid": "cisco_secure_firewall_management_center",
+          "name": "Cisco Secure Firewall Management Center",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "cisco_unified_intelligence_center",
+          "name": "Cisco Unified Intelligence Center",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "cisco_vpn",
+          "name": "Cisco VPN",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "cisco_webex_teams",
+          "name": "Cisco WebEx Teams",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "citrix",
+          "name": "Citrix",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "clickdimensions",
+          "name": "ClickDimensions",
+          "category": "Marketing Automation"
+        },
+        {
+          "uid": "clickhouse",
+          "name": "ClickHouse",
+          "category": "Database"
+        },
+        {
+          "uid": "cloudflare_hosting",
+          "name": "CloudFlare Hosting",
+          "category": "Hosting"
+        },
+        {
+          "uid": "cloudsuite_wms",
+          "name": "Cloudsuite WMS",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "costar_connect",
+          "name": "CoStar Connect",
+          "category": "Other"
+        },
+        {
+          "uid": "cognos_tm1",
+          "name": "Cognos TM1",
+          "category": "ERP"
+        },
+        {
+          "uid": "commscope_ruckus",
+          "name": "Commscope Ruckus",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "conan",
+          "name": "Conan",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "connectwise_control",
+          "name": "ConnectWise Control",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "connectwise_psa",
+          "name": "ConnectWise PSA",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "conversant",
+          "name": "Conversant",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "convertcart",
+          "name": "ConvertCart",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "corel",
+          "name": "Corel",
+          "category": "Other"
+        },
+        {
+          "uid": "coupa",
+          "name": "Coupa",
+          "category": "Other"
+        },
+        {
+          "uid": "creo_parametric",
+          "name": "Creo Parametric",
+          "category": "Other"
+        },
+        {
+          "uid": "creo",
+          "name": "Creo+",
+          "category": "Other"
+        },
+        {
+          "uid": "cross_pixel_media",
+          "name": "Cross Pixel Media",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "crossfuze_tfs_integration",
+          "name": "Crossfuze TFS Integration",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "cursor",
+          "name": "Cursor",
+          "category": "Other"
+        },
+        {
+          "uid": "dataverse_ltd",
+          "name": "DATAVERSE LTD",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "ddscad",
+          "name": "DDS-CAD",
+          "category": "Contruction Management Platform"
+        },
+        {
+          "uid": "dassault_dymola",
+          "name": "Dassault Dymola",
+          "category": "Other"
+        },
+        {
+          "uid": "dassault_icem_surf",
+          "name": "Dassault Icem Surf",
+          "category": "Other"
+        },
+        {
+          "uid": "dassault_magicdraw",
+          "name": "Dassault MagicDraw",
+          "category": "Other"
+        },
+        {
+          "uid": "dassault_solidworks",
+          "name": "Dassault SOLIDWORKS",
+          "category": "Other"
+        },
+        {
+          "uid": "databricks",
+          "name": "Databricks",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "databricks",
+          "name": "Databricks",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "databricks_unity_catalog",
+          "name": "Databricks Unity Catalog",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "datadog",
+          "name": "Datadog",
+          "category": "Web Performance Monitoring"
+        },
+        {
+          "uid": "dell_encryption",
+          "name": "Dell Encryption",
+          "category": "Security"
+        },
+        {
+          "uid": "dexter",
+          "name": "Dexter",
+          "category": "Online Testing Platforms"
+        },
+        {
+          "uid": "django",
+          "name": "Django",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "docker",
+          "name": "Docker",
+          "category": "Other"
+        },
+        {
+          "uid": "docking_mdi_for_wpf",
+          "name": "Docking & MDI for WPF",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "dotnetnuke",
+          "name": "DotNetNuke",
+          "category": "CMS"
+        },
+        {
+          "uid": "dspace",
+          "name": "Dspace",
+          "category": "Content Management Platform"
+        },
+        {
+          "uid": "dynamics_365_customer_insights",
+          "name": "Dynamics 365 Customer Insights",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "e-planning",
+          "name": "E-planning",
+          "category": "Ad Servers"
+        },
+        {
+          "uid": "efi",
+          "name": "EFI",
+          "category": "Other"
+        },
+        {
+          "uid": "elk_stack",
+          "name": "ELK Stack",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "enterprise_architect",
+          "name": "ENTERPRISE ARCHITECT",
+          "category": "ERP"
+        },
+        {
+          "uid": "etap",
+          "name": "ETAP",
+          "category": "Other"
+        },
+        {
+          "uid": "eaglestats",
+          "name": "Eaglestats",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "eclipse",
+          "name": "Eclipse",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "ektron",
+          "name": "Ektron",
+          "category": "CMS"
+        },
+        {
+          "uid": "electron",
+          "name": "Electron",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "epic_prelude",
+          "name": "Epic Prelude",
+          "category": "Other"
+        },
+        {
+          "uid": "etsy",
+          "name": "Etsy",
+          "category": "E-commerce Tools"
+        },
+        {
+          "uid": "excel_impact",
+          "name": "Excel Impact",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "excel4apps",
+          "name": "Excel4Apps",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "eyefinity_officemate",
+          "name": "Eyefinity OfficeMate",
+          "category": "Appointment Scheduling"
+        },
+        {
+          "uid": "f5_nginx_ingress_controller",
+          "name": "F5 NGINX Ingress Controller",
+          "category": "Load Balancers"
+        },
+        {
+          "uid": "facts",
+          "name": "FACTS",
+          "category": "ERP"
+        },
+        {
+          "uid": "fico_safe_driving_score",
+          "name": "FICO Safe Driving Score",
+          "category": "Financial Software"
+        },
+        {
+          "uid": "fis",
+          "name": "FIS",
+          "category": "Financial Software"
+        },
+        {
+          "uid": "fme_platform",
+          "name": "FME Platform",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "fastapi",
+          "name": "Fastapi",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "fiberhome",
+          "name": "FiberHome",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "flask",
+          "name": "Flask",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "fliphtml5",
+          "name": "FlipHTML5",
+          "category": "Content Management Platform"
+        },
+        {
+          "uid": "fortinet",
+          "name": "Fortinet",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "frame",
+          "name": "Frame",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "fresh",
+          "name": "Fresh",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "frosmo",
+          "name": "Frosmo",
+          "category": "E-commerce Platforms"
+        },
+        {
+          "uid": "g5",
+          "name": "G5",
+          "category": "Other"
+        },
+        {
+          "uid": "geodis",
+          "name": "GEODIS",
+          "category": "Shipping"
+        },
+        {
+          "uid": "grpc",
+          "name": "GRPC",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "gem",
+          "name": "Gem",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "git",
+          "name": "Git",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "github",
+          "name": "GitHub",
+          "category": "Hosting"
+        },
+        {
+          "uid": "github_actions",
+          "name": "GitHub Actions",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "github_copilot",
+          "name": "GitHub Copilot",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "gitlab",
+          "name": "GitLab",
+          "category": "CMS"
+        },
+        {
+          "uid": "gitlab_ci/cd",
+          "name": "GitLab CI/CD",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "godatafeed",
+          "name": "GoDataFeed",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "gosystem_tax_rs",
+          "name": "GoSystem Tax RS",
+          "category": "Financial Software"
+        },
+        {
+          "uid": "gotoassist",
+          "name": "GoToAssist",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google",
+          "name": "Google",
+          "category": "Other"
+        },
+        {
+          "uid": "google_adwords_conversion",
+          "name": "Google AdWords Conversion",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "google_alloydb_for_postgresql",
+          "name": "Google AlloyDB for PostgreSQL",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google_analytics",
+          "name": "Google Analytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "google_analytics_4_ga4",
+          "name": "Google Analytics 4 (GA4)",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "google_cloud",
+          "name": "Google Cloud",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google_cloud_data_loss_prevention",
+          "name": "Google Cloud Data Loss Prevention",
+          "category": "Event Management"
+        },
+        {
+          "uid": "google_cloud_dialogflow",
+          "name": "Google Cloud Dialogflow",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "google_cloud_looker",
+          "name": "Google Cloud Looker",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "google_cloud_scheduler",
+          "name": "Google Cloud Scheduler",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "google_search_console",
+          "name": "Google Search Console",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "google_tag_manager",
+          "name": "Google Tag Manager",
+          "category": "Tag Management"
+        },
+        {
+          "uid": "google workspace",
+          "name": "Google Workspace",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "gradle",
+          "name": "Gradle",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "grafana",
+          "name": "Grafana",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "groovy",
+          "name": "Groovy",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "helm",
+          "name": "HELM",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "hp_poly",
+          "name": "HP Poly",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "hpe_3par",
+          "name": "HPE 3PAR",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "hpe_msa",
+          "name": "HPE MSA",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "hpe_proliant_dl_servers",
+          "name": "HPE ProLiant DL Servers",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "href_lang",
+          "name": "HREF Lang",
+          "category": "Other"
+        },
+        {
+          "uid": "html_pro",
+          "name": "HTML Pro",
+          "category": "Web Presentation Tools"
+        },
+        {
+          "uid": "html5_maker",
+          "name": "HTML5 Maker",
+          "category": "Web Presentation Tools"
+        },
+        {
+          "uid": "hach_wims",
+          "name": "Hach WIMS",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "harness",
+          "name": "Harness",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "homestead",
+          "name": "Homestead",
+          "category": "CMS"
+        },
+        {
+          "uid": "horizon",
+          "name": "Horizon",
+          "category": "Other"
+        },
+        {
+          "uid": "ibm_cloudability",
+          "name": "IBM Cloudability",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "ibm_db2_for_linux_unix_and_microsoft_windows",
+          "name": "IBM Db2 for Linux, UNIX, and Microsoft Windows",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "ibm_engineering_requirements_management_doors_next",
+          "name": "IBM Engineering Requirements Management DOORS Next",
+          "category": "Other"
+        },
+        {
+          "uid": "ibm_planning_analytics",
+          "name": "IBM Planning Analytics",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "ibm_rational_doors",
+          "name": "IBM Rational DOORS",
+          "category": "Other"
+        },
+        {
+          "uid": "ibm_rational_rhapsody_architect_for_systems_engineers",
+          "name": "IBM Rational Rhapsody Architect for Systems Engineers",
+          "category": "Other"
+        },
+        {
+          "uid": "ibm_spss_modeler",
+          "name": "IBM SPSS Modeler",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "ibm_spectrum_lsf",
+          "name": "IBM Spectrum LSF",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "ice",
+          "name": "ICE",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "icp",
+          "name": "ICP",
+          "category": "Other"
+        },
+        {
+          "uid": "iso",
+          "name": "ISO+™",
+          "category": "Other"
+        },
+        {
+          "uid": "intouch",
+          "name": "InTouch",
+          "category": "Other"
+        },
+        {
+          "uid": "influxdb",
+          "name": "InfluxDB",
+          "category": "Database"
+        },
+        {
+          "uid": "infolinks",
+          "name": "Infolinks",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "integral_ad_science",
+          "name": "Integral Ad Science",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "inventor",
+          "name": "Inventor",
+          "category": "Other"
+        },
+        {
+          "uid": "iot",
+          "name": "IoT",
+          "category": "Other"
+        },
+        {
+          "uid": "istio",
+          "name": "Istio",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "ivalua",
+          "name": "Ivalua",
+          "category": "ERP"
+        },
+        {
+          "uid": "jfrog_artifactory",
+          "name": "JFrog Artifactory",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "junit",
+          "name": "JUnit",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "jama_connect_for_requirements_management",
+          "name": "Jama Connect for Requirements Management",
+          "category": "Other"
+        },
+        {
+          "uid": "jangomail",
+          "name": "JangoMail",
+          "category": "Email Marketing"
+        },
+        {
+          "uid": "java ee",
+          "name": "Java EE",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "javascript",
+          "name": "Javascript",
+          "category": "Other"
+        },
+        {
+          "uid": "jazzhr",
+          "name": "JazzHR",
+          "category": "HR Solutions"
+        },
+        {
+          "uid": "jenkins",
+          "name": "Jenkins",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "jetbrains",
+          "name": "JetBrains",
+          "category": "Hosting"
+        },
+        {
+          "uid": "jira",
+          "name": "Jira",
+          "category": "CMS"
+        },
+        {
+          "uid": "jira",
+          "name": "Jira",
+          "category": "CMS"
+        },
+        {
+          "uid": "jira_service_management",
+          "name": "Jira Service Management",
+          "category": "Support and Feedback"
+        },
+        {
+          "uid": "jitterbit",
+          "name": "Jitterbit",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "kanbanize",
+          "name": "Kanbanize",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "kotlin",
+          "name": "Kotlin",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "kubernetes",
+          "name": "Kubernetes",
+          "category": "Other"
+        },
+        {
+          "uid": "labview",
+          "name": "LabVIEW",
+          "category": "Other"
+        },
+        {
+          "uid": "labware_lims",
+          "name": "LabWare LIMS",
+          "category": "Other"
+        },
+        {
+          "uid": "lambda_cloud",
+          "name": "Lambda Cloud",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "leanix_enterprise_architecture_management",
+          "name": "LeanIX Enterprise Architecture Management",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "less",
+          "name": "Less",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "linkedin_ads",
+          "name": "LinkedIn Ads",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "linkedin_display_ads__formerly_bizo",
+          "name": "Linkedin Marketing Solutions",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "listrak",
+          "name": "Listrak",
+          "category": "Email Marketing"
+        },
+        {
+          "uid": "litmus",
+          "name": "Litmus",
+          "category": "Online Testing Platforms"
+        },
+        {
+          "uid": "logic",
+          "name": "LogIC",
+          "category": "Other"
+        },
+        {
+          "uid": "lucidlink",
+          "name": "LucidLink",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "matlab",
+          "name": "MATLAB",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "mag",
+          "name": "Mag+",
+          "category": "Content Management Platform"
+        },
+        {
+          "uid": "make.com",
+          "name": "Make",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "manhattan_scale",
+          "name": "Manhattan SCALE",
+          "category": "Other"
+        },
+        {
+          "uid": "marc",
+          "name": "Marc",
+          "category": "Other"
+        },
+        {
+          "uid": "mathcad_prime",
+          "name": "Mathcad Prime",
+          "category": "Other"
+        },
+        {
+          "uid": "mentor",
+          "name": "Mentor",
+          "category": "Education Management Software"
+        },
+        {
+          "uid": "merge",
+          "name": "Merge",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "micro",
+          "name": "Micro",
+          "category": "Other"
+        },
+        {
+          "uid": "microstation",
+          "name": "MicroStation",
+          "category": "Other"
+        },
+        {
+          "uid": "microsoft_365",
+          "name": "Microsoft 365",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_365_apps_services",
+          "name": "Microsoft 365 Apps & Services",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_active_directory_federation_services",
+          "name": "Microsoft Active Directory Federation Services",
+          "category": "Event Management"
+        },
+        {
+          "uid": "microsoft_advanced_group_policy_management",
+          "name": "Microsoft Advanced Group Policy Management",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "microsoft_application_insights",
+          "name": "Microsoft Application Insights",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "microsoft",
+          "name": "Microsoft Azure Hosting",
+          "category": "Hosting"
+        },
+        {
+          "uid": "microsoft_azure_monitor",
+          "name": "Microsoft Azure Monitor",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "microsoft_azure_monitor",
+          "name": "Microsoft Azure Monitor",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "microsoft_distributed_file_system_dfs",
+          "name": "Microsoft Distributed File System (DFS)",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "microsoft_dynamics",
+          "name": "Microsoft Dynamics",
+          "category": "ERP"
+        },
+        {
+          "uid": "microsoft_endpoint_configuration_manager_mecm",
+          "name": "Microsoft Endpoint Configuration Manager (MECM)",
+          "category": "Enterprise Mobility Management"
+        },
+        {
+          "uid": "microsoft_entra_id",
+          "name": "Microsoft Entra ID",
+          "category": "Enterprise Mobility Management"
+        },
+        {
+          "uid": "microsoft_excel",
+          "name": "Microsoft Excel",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "microsoft_exchange",
+          "name": "Microsoft Exchange",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_exchange_server_2003",
+          "name": "Microsoft Exchange Server 2003",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "microsoft_fabric",
+          "name": "Microsoft Fabric",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "microsoft_hyperv_server",
+          "name": "Microsoft Hyper-V Server",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "microsoft_intune_enterprise_application_management",
+          "name": "Microsoft Intune Enterprise Application Management",
+          "category": "Enterprise Mobility Management"
+        },
+        {
+          "uid": "microsoft_office",
+          "name": "Microsoft Office",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_power_apps",
+          "name": "Microsoft Power Apps",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "microsoft_power_automate",
+          "name": "Microsoft Power Automate",
+          "category": "Robotic Process Automation"
+        },
+        {
+          "uid": "microsoft_power_platform",
+          "name": "Microsoft Power Platform",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "microsoft_powerpoint",
+          "name": "Microsoft PowerPoint",
+          "category": "Web Presentation Tools"
+        },
+        {
+          "uid": "microsoft_powershell",
+          "name": "Microsoft PowerShell",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "microsoft project",
+          "name": "Microsoft Project",
+          "category": "Other"
+        },
+        {
+          "uid": "microsoft_sql_server_reporting_services",
+          "name": "Microsoft SQL Server Reporting Services",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "microsoft_sharepoint",
+          "name": "Microsoft Sharepoint",
+          "category": "CMS"
+        },
+        {
+          "uid": "microsoft_sharepoint",
+          "name": "Microsoft Sharepoint",
+          "category": "CMS"
+        },
+        {
+          "uid": "microsoft sql server",
+          "name": "Microsoft Sql Server",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "microsoft_system_center_configuration_manager",
+          "name": "Microsoft System Center Configuration Manager",
+          "category": "Enterprise Mobility Management"
+        },
+        {
+          "uid": "microsoft_teams",
+          "name": "Microsoft Teams",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_teams_rooms",
+          "name": "Microsoft Teams Rooms",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_windows_server_2000",
+          "name": "Microsoft Windows Server 2000",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "microsoft_windows_server_2012",
+          "name": "Microsoft Windows Server 2012",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "microsoftnet_core_31",
+          "name": "Microsoft.NET Core 3.1",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "mist",
+          "name": "Mist",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "mobile_friendly",
+          "name": "Mobile Friendly",
+          "category": "Other"
+        },
+        {
+          "uid": "modbus",
+          "name": "Modbus",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "mode",
+          "name": "Mode",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "modelsim",
+          "name": "ModelSim",
+          "category": "Other"
+        },
+        {
+          "uid": "mongodb",
+          "name": "MongoDB",
+          "category": "Database"
+        },
+        {
+          "uid": "mongoose",
+          "name": "Mongoose",
+          "category": "Database"
+        },
+        {
+          "uid": "mysql",
+          "name": "MySQL",
+          "category": "Database"
+        },
+        {
+          "uid": "mysql",
+          "name": "MySQL",
+          "category": "Database"
+        },
+        {
+          "uid": "npd",
+          "name": "NPD",
+          "category": "Other"
+        },
+        {
+          "uid": "nvidia_a100_tensor_core_gpu",
+          "name": "NVIDIA A100 Tensor Core GPU",
+          "category": "Other"
+        },
+        {
+          "uid": "national_instruments",
+          "name": "National Instruments",
+          "category": "Other"
+        },
+        {
+          "uid": "neo4j",
+          "name": "Neo4j",
+          "category": "Database"
+        },
+        {
+          "uid": "neodata",
+          "name": "NeoData",
+          "category": "Case Management"
+        },
+        {
+          "uid": "netapp_common_internet_file_system_cifs",
+          "name": "NetApp Common Internet File System (CIFS)",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "netapp_fas_series_storage_systems",
+          "name": "NetApp FAS Series Storage Systems",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "ning",
+          "name": "Ning",
+          "category": "CMS"
+        },
+        {
+          "uid": "node.js",
+          "name": "Node.js",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "nokia",
+          "name": "Nokia",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "nuget",
+          "name": "NuGet",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "nuix_discover",
+          "name": "Nuix Discover",
+          "category": "ERP"
+        },
+        {
+          "uid": "numpy",
+          "name": "NumPy",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "nutanix",
+          "name": "Nutanix",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "osisoft_pi",
+          "name": "OSIsoft PI",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "olo",
+          "name": "Olo",
+          "category": "Food Ordering Services"
+        },
+        {
+          "uid": "openldap",
+          "name": "OpenLDAP",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "opentext_ecm_in_the_cloud",
+          "name": "OpenText ECM in the Cloud",
+          "category": "ERP"
+        },
+        {
+          "uid": "openvms",
+          "name": "OpenVMS",
+          "category": "Other"
+        },
+        {
+          "uid": "orcad_pspice_designer",
+          "name": "OrCAD PSpice Designer",
+          "category": "Other"
+        },
+        {
+          "uid": "oracle_analytics_cloud",
+          "name": "Oracle Analytics Cloud",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "oracle_bare_metal_cloud_services",
+          "name": "Oracle Bare Metal Cloud Services",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "oracle e business suite",
+          "name": "Oracle E Business Suite",
+          "category": "ERP"
+        },
+        {
+          "uid": "oracle_passlogix",
+          "name": "Oracle Passlogix",
+          "category": "Event Management"
+        },
+        {
+          "uid": "oracle_xml_db",
+          "name": "Oracle XML DB",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "outlook",
+          "name": "Outlook",
+          "category": "Email Providers"
+        },
+        {
+          "uid": "php",
+          "name": "PHP",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "plsql",
+          "name": "PL/SQL",
+          "category": "Database"
+        },
+        {
+          "uid": "point",
+          "name": "POINT",
+          "category": "Recruitment"
+        },
+        {
+          "uid": "ptc_arbortext",
+          "name": "PTC Arbortext",
+          "category": "Content Management Platform"
+        },
+        {
+          "uid": "ptc_creo",
+          "name": "PTC Creo",
+          "category": "Other"
+        },
+        {
+          "uid": "pvsyst",
+          "name": "PVsyst",
+          "category": "Other"
+        },
+        {
+          "uid": "palantir_gotham",
+          "name": "Palantir Gotham",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "pantheon",
+          "name": "Pantheon",
+          "category": "CMS"
+        },
+        {
+          "uid": "parallels_mac_management_for_microsoft_sccm",
+          "name": "Parallels Mac Management for Microsoft SCCM",
+          "category": "Enterprise Mobility Management"
+        },
+        {
+          "uid": "perforce_visualization",
+          "name": "Perforce Visualization",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "perl",
+          "name": "Perl",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "planne",
+          "name": "Planne",
+          "category": "Event Management"
+        },
+        {
+          "uid": "playwright",
+          "name": "Playwright",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "plotly_dash",
+          "name": "Plotly Dash",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "plotlyjs",
+          "name": "Plotly.js",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "podman",
+          "name": "Podman",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "polarion",
+          "name": "Polarion",
+          "category": "Other"
+        },
+        {
+          "uid": "portswigger",
+          "name": "PortSwigger",
+          "category": "Event Management"
+        },
+        {
+          "uid": "portal",
+          "name": "Portal",
+          "category": "CMS"
+        },
+        {
+          "uid": "postgresql",
+          "name": "PostgreSQL",
+          "category": "Database"
+        },
+        {
+          "uid": "postman",
+          "name": "Postman",
+          "category": "Other"
+        },
+        {
+          "uid": "power_bi_documenter",
+          "name": "Power BI Documenter",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "powerbi_tiles",
+          "name": "PowerBI Tiles",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "prometheus",
+          "name": "Prometheus",
+          "category": "Database"
+        },
+        {
+          "uid": "proxmox_ve",
+          "name": "Proxmox VE",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "pulumi",
+          "name": "Pulumi",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "pyspark",
+          "name": "PySpark",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "pytest",
+          "name": "Pytest",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "python",
+          "name": "Python",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "qmetry_automation_studio",
+          "name": "QMetry Automation Studio",
+          "category": "Robotic Process Automation"
+        },
+        {
+          "uid": "qt",
+          "name": "Qt",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "qualcomm_snapdragon",
+          "name": "Qualcomm Snapdragon",
+          "category": "ERP"
+        },
+        {
+          "uid": "quartic",
+          "name": "Quartic",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "querysurge",
+          "name": "QuerySurge",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "quip",
+          "name": "Quip",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "reach",
+          "name": "REACH",
+          "category": "Other"
+        },
+        {
+          "uid": "rest",
+          "name": "REST",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "rib_software_itwo",
+          "name": "RIB Software iTWO",
+          "category": "Contruction Management Platform"
+        },
+        {
+          "uid": "rslogix",
+          "name": "RSLogix",
+          "category": "Other"
+        },
+        {
+          "uid": "rabbitmq",
+          "name": "RabbitMQ",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "rancher_labs",
+          "name": "Rancher Labs",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "rapid7_insightvm",
+          "name": "Rapid7 InsightVM",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "rational_clearcase",
+          "name": "Rational ClearCase",
+          "category": "Other"
+        },
+        {
+          "uid": "rational_clearquest",
+          "name": "Rational ClearQuest",
+          "category": "Case Management"
+        },
+        {
+          "uid": "rawgit",
+          "name": "RawGit",
+          "category": "Content Delivery Networks"
+        },
+        {
+          "uid": "react",
+          "name": "React",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "react_router",
+          "name": "React Router",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "red_hat_enterprise_linux",
+          "name": "Red Hat Enterprise Linux",
+          "category": "Other"
+        },
+        {
+          "uid": "red_hat_enterprise_linux_ai",
+          "name": "Red Hat Enterprise Linux AI",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "red_hat_jboss_enterprise_soa_platform",
+          "name": "Red Hat JBoss Enterprise SOA Platform",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "red_hat_openshift",
+          "name": "Red Hat OpenShift",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "redis",
+          "name": "Redis",
+          "category": "Database"
+        },
+        {
+          "uid": "revit",
+          "name": "Revit",
+          "category": "Contruction Management Platform"
+        },
+        {
+          "uid": "rhino",
+          "name": "Rhino",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "robot_framework",
+          "name": "Robot Framework",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "rockwell_automation",
+          "name": "Rockwell Automation",
+          "category": "Other"
+        },
+        {
+          "uid": "sp_capital_iq_pro",
+          "name": "S&P Capital IQ Pro",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "sap",
+          "name": "SAP",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "sap_advanced_data_migration_and_management_sap_admm_by_syniti",
+          "name": "SAP Advanced Data Migration and Management (SAP ADMM) by Syniti",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "sap analytics cloud",
+          "name": "SAP Analytics Cloud",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "sap_ariba",
+          "name": "SAP Ariba",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_ariba_supplier_lifecycle_and_performance",
+          "name": "SAP Ariba Supplier Lifecycle and Performance",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_basis",
+          "name": "SAP Basis",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "sap_crystal_reports",
+          "name": "SAP Crystal Reports",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "sap_data_migration",
+          "name": "SAP Data Migration",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "sap_ecc",
+          "name": "SAP ECC",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_ectr",
+          "name": "SAP ECTR",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_erp",
+          "name": "SAP ERP",
+          "category": "Enterprise Resource Planning"
+        },
+        {
+          "uid": "sap_fiori",
+          "name": "SAP Fiori",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_grc",
+          "name": "SAP GRC",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_hana",
+          "name": "SAP HANA",
+          "category": "Database"
+        },
+        {
+          "uid": "sap_integration_suite",
+          "name": "SAP Integration Suite",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "sap_plm",
+          "name": "SAP PLM",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_r3",
+          "name": "SAP R/3",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_s4hana",
+          "name": "SAP S/4HANA",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_solution_manager",
+          "name": "SAP Solution Manager",
+          "category": "ERP"
+        },
+        {
+          "uid": "sap_successfactors",
+          "name": "SAP SuccessFactors",
+          "category": "Human Capital Management"
+        },
+        {
+          "uid": "sap_successfactors_learning",
+          "name": "SAP SuccessFactors Learning",
+          "category": "Education Management Software"
+        },
+        {
+          "uid": "sds2",
+          "name": "SDS/2",
+          "category": "Contruction Management Platform"
+        },
+        {
+          "uid": "simatic_wincc",
+          "name": "SIMATIC WinCC",
+          "category": "Other"
+        },
+        {
+          "uid": "smart_board",
+          "name": "SMART Board",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "sqlite",
+          "name": "SQLite",
+          "category": "Database"
+        },
+        {
+          "uid": "ssc",
+          "name": "SS&C",
+          "category": "Financial Software"
+        },
+        {
+          "uid": "synergy",
+          "name": "SYNERGY",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "syspro_erp",
+          "name": "SYSPRO ERP",
+          "category": "ERP"
+        },
+        {
+          "uid": "saba_talentlink",
+          "name": "Saba Talentlink",
+          "category": "HR Solutions"
+        },
+        {
+          "uid": "safesend",
+          "name": "SafeSend",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "salesforce",
+          "name": "Salesforce",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "scala",
+          "name": "Scala",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "scipy",
+          "name": "Scipy",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "scrum_do",
+          "name": "Scrum Do",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "secured_mvc_forum_on_windows_2012_r2",
+          "name": "Secured MVC Forum on Windows 2012 R2",
+          "category": "CMS"
+        },
+        {
+          "uid": "security",
+          "name": "Security",
+          "category": "Security"
+        },
+        {
+          "uid": "sender",
+          "name": "Sender",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "senior_sistemas",
+          "name": "Senior Sistemas",
+          "category": "ERP"
+        },
+        {
+          "uid": "sensor_tower",
+          "name": "Sensor Tower",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "service_now",
+          "name": "ServiceNow",
+          "category": "Case Management"
+        },
+        {
+          "uid": "servicenow_it_service_management_itsm",
+          "name": "ServiceNow IT Service Management (ITSM)",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "shutterstock",
+          "name": "Shutterstock",
+          "category": "Other"
+        },
+        {
+          "uid": "siemens_comos",
+          "name": "Siemens COMOS",
+          "category": "ERP"
+        },
+        {
+          "uid": "siemens_nx",
+          "name": "Siemens NX",
+          "category": "Other"
+        },
+        {
+          "uid": "siemens_plm",
+          "name": "Siemens PLM",
+          "category": "ERP"
+        },
+        {
+          "uid": "siemens_profibus",
+          "name": "Siemens PROFIBUS",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "siemens_simatic_hmi_human_machine_interface",
+          "name": "Siemens SIMATIC HMI (Human Machine Interface)",
+          "category": "Other"
+        },
+        {
+          "uid": "siemens_simatic_pcs_7",
+          "name": "Siemens SIMATIC PCS 7",
+          "category": "Other"
+        },
+        {
+          "uid": "siemens_simatic_s7",
+          "name": "Siemens SIMATIC S7",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "siemens_simatic_s71500",
+          "name": "Siemens SIMATIC S7-1500",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "siemens_simatic_scada",
+          "name": "Siemens SIMATIC SCADA",
+          "category": "Other"
+        },
+        {
+          "uid": "siemens_simatic_step_7",
+          "name": "Siemens SIMATIC STEP 7",
+          "category": "Other"
+        },
+        {
+          "uid": "siemens_sinamics",
+          "name": "Siemens SINAMICS",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "sigma",
+          "name": "Sigma",
+          "category": "Business Intelligence"
+        },
+        {
+          "uid": "signal",
+          "name": "Signal",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "simcenter_starccm",
+          "name": "Simcenter STAR-CCM+",
+          "category": "Other"
+        },
+        {
+          "uid": "simulink",
+          "name": "Simulink",
+          "category": "Other"
+        },
+        {
+          "uid": "sitetracker",
+          "name": "Sitetracker",
+          "category": "Contruction Management Platform"
+        },
+        {
+          "uid": "smartcomm",
+          "name": "SmartCOMM",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "snapapp",
+          "name": "SnapApp",
+          "category": "Marketing Automation"
+        },
+        {
+          "uid": "snowflake",
+          "name": "Snowflake",
+          "category": "Data Management Platform"
+        },
+        {
+          "uid": "soap_media",
+          "name": "Soap Media",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "software_advice",
+          "name": "Software Advice",
+          "category": "Customer Reviews"
+        },
+        {
+          "uid": "solid_edge",
+          "name": "Solid Edge",
+          "category": "Other"
+        },
+        {
+          "uid": "sonar",
+          "name": "Sonar",
+          "category": "Customer Relationship Management"
+        },
+        {
+          "uid": "sonarqube",
+          "name": "SonarQube",
+          "category": "Other"
+        },
+        {
+          "uid": "sourcingup",
+          "name": "SourcingUp",
+          "category": "E-commerce Tools"
+        },
+        {
+          "uid": "spicethemes_spicepress",
+          "name": "SpiceThemes SpicePress",
+          "category": "CMS"
+        },
+        {
+          "uid": "splunk",
+          "name": "Splunk",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "splunk_user_behavior_analytics",
+          "name": "Splunk User Behavior Analytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "spring_boot",
+          "name": "Spring Boot",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "sqlalchemy",
+          "name": "Sqlalchemy",
+          "category": "Database"
+        },
+        {
+          "uid": "star",
+          "name": "Star",
+          "category": "Other"
+        },
+        {
+          "uid": "starburst",
+          "name": "Starburst",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "subversion",
+          "name": "Subversion",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "swagger_ui",
+          "name": "Swagger UI",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "switch_concepts",
+          "name": "Switch Concepts",
+          "category": "Ad Servers"
+        },
+        {
+          "uid": "symfony",
+          "name": "Symfony",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "systools_vba_password_recovery",
+          "name": "SysTools VBA Password Recovery",
+          "category": "Security"
+        },
+        {
+          "uid": "systemverilog",
+          "name": "SystemVerilog",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "tsys",
+          "name": "TSYS",
+          "category": "Payments"
+        },
+        {
+          "uid": "tune",
+          "name": "TUNE",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "tableau",
+          "name": "Tableau",
+          "category": "Widgets"
+        },
+        {
+          "uid": "tailwind",
+          "name": "Tailwind",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "teamcity",
+          "name": "TeamCity",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "teamcenter",
+          "name": "Teamcenter",
+          "category": "Enterprise Resource Planning"
+        },
+        {
+          "uid": "tenable_nessus",
+          "name": "Tenable Nessus",
+          "category": "Security"
+        },
+        {
+          "uid": "terraform",
+          "name": "Terraform",
+          "category": "Deployment Tools"
+        },
+        {
+          "uid": "testng",
+          "name": "Testng",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "tor",
+          "name": "Tor",
+          "category": "Security"
+        },
+        {
+          "uid": "trackwise",
+          "name": "TrackWise",
+          "category": "Case Management"
+        },
+        {
+          "uid": "turbotax_self_employed",
+          "name": "TurboTax Self Employed",
+          "category": "Financial Software"
+        },
+        {
+          "uid": "twitter_login_widget",
+          "name": "Twitter Widgets",
+          "category": "Social Login"
+        },
+        {
+          "uid": "typescript",
+          "name": "TypeScript",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "ups",
+          "name": "UPS",
+          "category": "Shipping"
+        },
+        {
+          "uid": "ubuntu",
+          "name": "Ubuntu",
+          "category": "Load Balancers"
+        },
+        {
+          "uid": "unifi_security_gateway",
+          "name": "UniFi Security Gateway",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "unix",
+          "name": "Unix",
+          "category": "Other"
+        },
+        {
+          "uid": "unreal_engine",
+          "name": "Unreal Engine",
+          "category": "Other"
+        },
+        {
+          "uid": "uptimerobot",
+          "name": "UptimeRobot",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "vhdl",
+          "name": "VHDL",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "visi",
+          "name": "VISI",
+          "category": "Other"
+        },
+        {
+          "uid": "vmware",
+          "name": "VMware",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "vmware_sdwan",
+          "name": "VMware SD-WAN",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "vector",
+          "name": "Vector",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "vera",
+          "name": "Vera",
+          "category": "Other"
+        },
+        {
+          "uid": "veristand",
+          "name": "VeriStand",
+          "category": "Other"
+        },
+        {
+          "uid": "verilog",
+          "name": "Verilog",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "viewport_meta",
+          "name": "Viewport Meta",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "vimeo",
+          "name": "Vimeo",
+          "category": "Online Video Platforms"
+        },
+        {
+          "uid": "visio",
+          "name": "Visio",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "visual_studio",
+          "name": "Visual Studio",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "vscode",
+          "name": "Vscode",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "vue_js_library",
+          "name": "VueJS",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "wise",
+          "name": "WISE",
+          "category": "Other"
+        },
+        {
+          "uid": "wms",
+          "name": "WMS",
+          "category": "Other"
+        },
+        {
+          "uid": "wpml",
+          "name": "WPML",
+          "category": "CMS"
+        },
+        {
+          "uid": "webcube",
+          "name": "WebCube",
+          "category": "CMS"
+        },
+        {
+          "uid": "weboffice",
+          "name": "WebOffice",
+          "category": "CMS"
+        },
+        {
+          "uid": "webgains",
+          "name": "Webgains",
+          "category": "Affiliate Advertising Network"
+        },
+        {
+          "uid": "webtrends_analytics_for_sharepoint",
+          "name": "Webtrends Analytics for Sharepoint",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "wellsaid_labs",
+          "name": "WellSaid Labs",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "whipple_hill",
+          "name": "Whipple Hill",
+          "category": "CMS"
+        },
+        {
+          "uid": "wider_planet",
+          "name": "Wider Planet",
+          "category": "Advertising Networks"
+        },
+        {
+          "uid": "wind_river_vxworks",
+          "name": "Wind River VxWorks",
+          "category": "Other"
+        },
+        {
+          "uid": "windchill_pdmlink",
+          "name": "Windchill PDMLink",
+          "category": "Other"
+        },
+        {
+          "uid": "windchill",
+          "name": "Windchill+",
+          "category": "Other"
+        },
+        {
+          "uid": "windows_server",
+          "name": "Windows Server",
+          "category": "Other"
+        },
+        {
+          "uid": "wordpress_org",
+          "name": "WordPress.org",
+          "category": "CMS"
+        },
+        {
+          "uid": "wordpress",
+          "name": "Wordpress",
+          "category": "CMS"
+        },
+        {
+          "uid": "worksafebc",
+          "name": "WorkSafeBC",
+          "category": "Insurance Software"
+        },
+        {
+          "uid": "workday",
+          "name": "Workday",
+          "category": "CMS"
+        },
+        {
+          "uid": "wowanalytics",
+          "name": "Wowanalytics",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "xilinx_vivado",
+          "name": "Xilinx Vivado",
+          "category": "Other"
+        },
+        {
+          "uid": "xpedition_enterprise",
+          "name": "Xpedition Enterprise",
+          "category": "Enterprise Resource Planning"
+        },
+        {
+          "uid": "xray",
+          "name": "Xray",
+          "category": "Other"
+        },
+        {
+          "uid": "yoast",
+          "name": "Yoast",
+          "category": "Content Management Platform"
+        },
+        {
+          "uid": "yocto",
+          "name": "Yocto",
+          "category": "Other"
+        },
+        {
+          "uid": "zephyr",
+          "name": "Zephyr",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "zuken",
+          "name": "Zuken",
+          "category": "Other"
+        },
+        {
+          "uid": "eplan",
+          "name": "ePlan",
+          "category": "Other"
+        },
+        {
+          "uid": "ebs",
+          "name": "ebs",
+          "category": "Other"
+        },
+        {
+          "uid": "gandinet",
+          "name": "gandi.net",
+          "category": "Domain Name Services"
+        },
+        {
+          "uid": "icims_skillsurvey_reference",
+          "name": "iCIMS SkillSurvey Reference",
+          "category": "HR Solutions"
+        },
+        {
+          "uid": "ifix",
+          "name": "iFix",
+          "category": "Other"
+        },
+        {
+          "uid": "matplotlib",
+          "name": "matplotlib",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "pandas",
+          "name": "pandas",
+          "category": "Frameworks and Programming Languages"
+        },
+        {
+          "uid": "tarteaucitron",
+          "name": "tarteaucitron",
+          "category": "Other"
+        },
+        {
+          "uid": "vllm",
+          "name": "vLLM",
+          "category": "Database"
+        },
+        {
+          "uid": "vsphere",
+          "name": "vSphere",
+          "category": "ERP"
+        },
+        {
+          "uid": "zenon",
+          "name": "zenon",
+          "category": "Other"
+        }
+      ],
+      "org_chart_root_people_ids": [],
+      "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+      "org_chart_removed": null,
+      "org_chart_show_department_filter": null,
+      "employee_metrics": [
+        {
+          "start_date": "2024-07-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 1
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 18,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 8,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-08-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 0,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 17,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 8,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-09-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 18,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 9,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-10-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 18,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 9,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-11-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 18,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 9,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-12-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 18,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 9,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-01-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 5,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 17,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 9,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "arts_and_design",
+              "new": 0,
+              "retained": 0,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-02-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 17,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 9,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-03-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 1,
+              "retained": 17,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 9,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-04-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 18,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 9,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-05-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 3,
+              "churned": 1
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 15,
+              "churned": 3
+            },
+            {
+              "functions": "consulting",
+              "new": 1,
+              "retained": 7,
+              "churned": 2
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-06-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 3,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 2
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-07-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 1,
+              "retained": 3,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 1
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-08-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-09-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-10-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "marketing",
+              "new": 0,
+              "retained": 0,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 1,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 0,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-11-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-12-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 11,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 1
+            },
+            {
+              "functions": "data_science",
+              "new": 0,
+              "retained": 0,
+              "churned": 1
+            }
+          ]
+        },
+        {
+          "start_date": "2026-01-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 1,
+              "retained": 11,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 1,
+              "retained": 5,
+              "churned": 1
+            }
+          ]
+        },
+        {
+          "start_date": "2026-02-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-03-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-04-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-05-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-06-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 4,
+              "churned": 0
+            },
+            {
+              "functions": "information_technology",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "engineering",
+              "new": 0,
+              "retained": 12,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            }
+          ]
+        }
+      ],
+      "organization_headcount_six_month_growth": null,
+      "organization_headcount_twelve_month_growth": null,
+      "organization_headcount_twenty_four_month_growth": null
+    },
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development",
+      "sales"
+    ],
+    "seniority": "director",
+    "functions": [
+      "sales",
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": true,
+    "email_domain_catchall_verdict": "allow"
+  }
+}

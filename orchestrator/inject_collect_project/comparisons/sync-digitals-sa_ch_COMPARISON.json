@@ -1,0 +1,231 @@
+{
+    "domain": "sync-digitals-sa.ch",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "SYNC DIGITALS TUNISIA",
+                "ai": "Groupe Sync Digitals"
+            },
+            "industry": {
+                "apollo": "management consulting",
+                "ai": "Transformation digitale, Télécommunications, Industrie"
+            },
+            "founded_year": {
+                "apollo": 2020,
+                "ai": 2017
+            },
+            "short_description": {
+                "apollo": "SYNC DIGITALS TUNISIA is a technology company located in Tunisia, specializing in strategic management services and digital solutions development. With a small team of about four employees, the company focuses on web and mobile development, e-commerce platforms, and digital marketing strategies. They aim to transform business concepts into digital realities, enhancing online experiences for their clients.\n\nThe company also engages in recruitment activities for various roles, including Social Media Strategist and Ticket Agent. SYNC DIGITALS TUNISIA is part of a broader network of SYNC entities, which emphasizes delivering secure and high-quality digital solutions. Their work has been recognized by various clients, including organizations like UNICEF and UNESCO, showcasing their commitment to effective project management and timely delivery.",
+                "ai": "Groupe de services et solutions informatiques qui s'est agrandi par rachats et prises de participations, proposant ses services à travers 5 marques distinctes dans la transformation digitale, les télécommunications et l'industrie."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Innovations et technologies. Un groupe. Plusieurs expertises."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_employees": {
+                "apollo": 3,
+                "ai": "30"
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/sync-digitals-tunisia",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "facebook_url": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "phone": {
+                "apollo": "Non renseigné",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "Immeuble city centre , Centre Urbain Nord, Tunis, Ariana centre Urbain Nord 1082, TN",
+                "ai": null
+            },
+            "city": {
+                "apollo": "Tunis",
+                "ai": "Tunis"
+            },
+            "country": {
+                "apollo": "Tunisia",
+                "ai": "Tunisia"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": 5
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "developper",
+                    "gestion des talents",
+                    "recrutement",
+                    "it",
+                    "strategic management services",
+                    "employee development",
+                    "solutions matérielles et logicielles",
+                    "process optimization",
+                    "innovation",
+                    "telecommunications solutions",
+                    "industrial testing solutions",
+                    "consulting",
+                    "project management",
+                    "enterprise software",
+                    "system integration",
+                    "industry testing and measurement",
+                    "technological innovation",
+                    "measurement solutions",
+                    "services",
+                    "business consulting",
+                    "sustainable development",
+                    "leadership development",
+                    "computer systems design and related services",
+                    "business intelligence",
+                    "solutions innovantes",
+                    "confiance",
+                    "cloud computing",
+                    "conseil en technologie",
+                    "data analytics",
+                    "monitoring système",
+                    "corporate social initiatives",
+                    "it services",
+                    "information technology",
+                    "full-cycle it solutions",
+                    "connectivity solutions",
+                    "client consulting",
+                    "client-centric solutions",
+                    "data management",
+                    "intelligence artificielle",
+                    "multi-brand group",
+                    "cloud solutions",
+                    "technology consulting",
+                    "b2b",
+                    "software development",
+                    "cross-industry expertise",
+                    "technological r&d",
+                    "connectivité",
+                    "développement de compétences",
+                    "information technology and services",
+                    "software and hardware solutions",
+                    "environmental responsibility",
+                    "mobilité",
+                    "monitoring system design",
+                    "digital transformation",
+                    "system testing",
+                    "tests et mesures",
+                    "telecommunications",
+                    "mobility solutions",
+                    "télécommunications",
+                    "solutions d'entreprise",
+                    "ai solutions",
+                    "corporate social responsibility",
+                    "customer engagement",
+                    "ai implementation",
+                    "responsabilité sociale",
+                    "respect",
+                    "transformation digitale",
+                    "recruitment",
+                    "management consulting",
+                    "productivity",
+                    "enterprises",
+                    "computer software",
+                    "information technology & services",
+                    "sustainability",
+                    "environmental services",
+                    "renewables & environment",
+                    "analytics"
+                ],
+                "ai": "innovations, technologies, transformation digitale, télécommunications, industrie, solutions informatiques, services informatiques, connectivité, mobilité, tests et mesures"
+            },
+            "technologies": {
+                "apollo": [
+                    "Apache",
+                    "Bootstrap Framework",
+                    "Google Font API",
+                    "Google Tag Manager",
+                    "Mobile Friendly",
+                    "WordPress.org",
+                    "reCAPTCHA"
+                ],
+                "ai": [
+                    "Apache",
+                    "Google Analytics",
+                    "Google Tag Manager",
+                    "WordPress",
+                    "Yoast SEO"
+                ]
+            }
+        }
+    },
+    "apollo_only_attributes": {
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66f68482ac38380001d71902/picture",
+        "departments": {
+            "accounting": 0,
+            "sales": 0,
+            "operations": 0,
+            "finance": 0,
+            "marketing": 0,
+            "human_resources": 0,
+            "information_technology": 0,
+            "legal": 0,
+            "engineering": 0,
+            "business_development": 0,
+            "product_management": 0,
+            "consulting": 0,
+            "education": 0,
+            "administrative": 0,
+            "media_and_commmunication": 0,
+            "arts_and_design": 0,
+            "entrepreneurship": 0,
+            "support": 0,
+            "data_science": 0
+        }
+    },
+    "ai_only_attributes": {
+        "data_quality_score": {
+            "value": 0.65,
+            "confidence": 0.95,
+            "source": "Évaluation basée sur la présence de données d'identité, de l'empreinte technologique et des mots-clés, pondérée par l'absence de données financières et de liens sociaux valides."
+        },
+        "market_intelligence": {
+            "competitors": [
+                "Oxia",
+                "Sofrecom Tunisia",
+                "Talan Tunisia",
+                "Focus",
+                "Business & Decision Tunisia"
+            ]
+        },
+        "fiscal_year_end": null,
+        "annual_revenue_USD": null,
+        "is_subsidiary": false,
+        "parent_company": null,
+        "subsidiaries_list": []
+    }
+}

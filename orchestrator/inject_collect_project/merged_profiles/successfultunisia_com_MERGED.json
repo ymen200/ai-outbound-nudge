@@ -1,0 +1,309 @@
+{
+    "alexa_ranking": 491735,
+    "annual_revenue": null,
+    "apollo_id": "5ed368a8bc54880001b68f36",
+    "city": null,
+    "country": "Tunisia",
+    "departments": {
+        "operations": 1,
+        "information_technology": 2,
+        "education": 1,
+        "marketing": 1,
+        "arts_and_design": 1,
+        "entrepreneurship": 1,
+        "accounting": 0,
+        "sales": 0,
+        "finance": 0,
+        "human_resources": 0,
+        "legal": 0,
+        "engineering": 0,
+        "business_development": 0,
+        "product_management": 0,
+        "consulting": 0,
+        "administrative": 0,
+        "media_and_commmunication": 0,
+        "support": 0,
+        "data_science": 0
+    },
+    "domain": "successfultunisia.com",
+    "estimated_num_employees": 75,
+    "facebook_url": "https://www.facebook.com/successfultunisia",
+    "founded_year": 2020,
+    "funding_events": [],
+    "industry": "Média d'actualités et d'informations, portail de réussites",
+    "keywords": [
+        "journalisme",
+        "mobile journalisme",
+        "digital marketing",
+        "social media",
+        "press relations",
+        "website development",
+        "economy",
+        "montage video",
+        "photography",
+        "infography",
+        "communication dentreprise",
+        "email marketing",
+        "communique de presse",
+        "personal branding",
+        "redaction de contenu web",
+        "content marketing",
+        "b2b marketing",
+        "ereputation",
+        "digital branding",
+        "online audio & video media",
+        "marketing & advertising",
+        "consumer internet",
+        "consumers",
+        "internet",
+        "information technology & services",
+        "web development",
+        "online media",
+        "Tunisie",
+        "actualités",
+        "succès",
+        "économie",
+        "culture",
+        "sport",
+        "innovation",
+        "social",
+        "entreprise",
+        "technologie",
+        "développement durable",
+        "initiatives"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/successful-tunisia",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66f237290f8fa600010ce1a7/picture",
+    "name": "Successful Tunisia",
+    "num_suborganizations": 0,
+    "phone": null,
+    "raw_address": "les Berges du Lac , Tunis 1053, TN",
+    "seo_description": "Découvrez les dernières actualités, les histoires de réussite, les innovations et les événements marquants en Tunisie dans les domaines de l'économie, de la culture, du sport et de la technologie.",
+    "short_description": "Successful Tunisia est un portail d'actualités et de récits de succès axé sur la Tunisie, couvrant des domaines variés tels que l'économie, l'innovation, la culture, le sport et les initiatives sociales.",
+    "suborganizations": [],
+    "technologies": [
+        {
+            "uid": "apache",
+            "name": "Apache",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "apache_http_server",
+            "name": "Apache HTTP Server",
+            "category": "Hosting"
+        },
+        {
+            "uid": "captcha",
+            "name": "CAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "contact_form_7",
+            "name": "Contact Form 7",
+            "category": "CMS"
+        },
+        {
+            "uid": "cookie_yes",
+            "name": "CookieYes",
+            "category": "Widgets"
+        },
+        {
+            "uid": "facebook",
+            "name": "Facebook",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "facebook_like_button",
+            "name": "Facebook Like Button",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_meta",
+            "name": "Facebook Meta",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "facebook_sdk",
+            "name": "Facebook SDK",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "facebook_share_button",
+            "name": "Facebook Social Plugins",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "facebook_widget",
+            "name": "Facebook Widget",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_adsense",
+            "name": "Google AdSense",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_async",
+            "name": "Google Custom Search",
+            "category": "Search Appliances"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_hosted_libraries",
+            "name": "Google Hosted Libraries",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+        },
+        {
+            "uid": "lightbox",
+            "name": "Lightbox",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "modernizr",
+            "name": "Modernizr",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "ovh",
+            "name": "OVH",
+            "category": "Hosting"
+        },
+        {
+            "uid": "ovh_hosting",
+            "name": "OVH Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "ovhcloud",
+            "name": "OVHcloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+        },
+        {
+            "uid": "php",
+            "name": "PHP",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "rss",
+            "name": "RSS",
+            "category": "Other"
+        },
+        {
+            "uid": "sassy_social_share",
+            "name": "Sassy Social Share",
+            "category": "Widgets"
+        },
+        {
+            "uid": "site_kit",
+            "name": "Site Kit",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "twitter_sharing",
+            "name": "Twitter Sharing",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "ultimatelysocial",
+            "name": "UltimatelySocial",
+            "category": "CMS"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+        },
+        {
+            "uid": "yoast",
+            "name": "Yoast",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "jquery_migrate",
+            "name": "jQuery Migrate",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "facebook_connect",
+            "name": "Facebook Connect",
+            "category": "Social Media Integration"
+        },
+        {
+            "uid": "yoast_seo",
+            "name": "Yoast SEO",
+            "category": "SEO Plugin"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.successfultunisia.com",
+    "is_subsidiary": false,
+    "competitors": [
+        "Managers.tn",
+        "IlBoursa.com",
+        "Entreprises Magazine",
+        "THD.tn",
+        "Business News Tunisia"
+    ],
+    "data_quality_score": 0.92
+}

@@ -1,0 +1,322 @@
+{
+  "member_id": "ACoAADTuoPIBhW6nf19IxQnJJyn_v6pR_wWHoaQ",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7480898635355004928",
+        "share_url": "https://www.linkedin.com/posts/asma-a-1824a8209_recrute-activity-7480898635355004928-JTdz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "2d",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 3,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Marie BARLET #recrute. Connaissez-vous quelqu’un qui pourrait être intéressé ?",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "asma-a-1824a8209",
+          "id": "ACoAADTuoPIBhW6nf19IxQnJJyn_v6pR_wWHoaQ",
+          "name": "Asma A.",
+          "is_company": false,
+          "headline": "Business Partner Recrutement | Profils Cadres & Dirigeants | Auvergne-Rhône-Alpes | Spécialiste Fonctions Supports & Tertiaire",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQG__9sNv_8SkA/profile-displayphoto-scale_400_400/B4EZ22wzvLKcAg-/0/1776887742618?e=1785369600&v=beta&t=WjByxvRr9zF2LDJ9-Vcvd8ZhtrAZmJe5z2kPt0LCGuc"
+        },
+        "id": "7480898635355004928",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-09T08:20:23.044Z",
+        "job_posting": {
+          "id": "4437800169",
+          "title": "Responsable magasin et approvisionnements (F/H)",
+          "location": "Commercy, Grand Est, France (On-site)",
+          "company": {
+            "id": "2754199",
+            "name": "Randstad France",
+            "picture_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHsZuyHowy0lw/company-logo_200_200/company-logo_200_200/0/1635863229782/randstad_france_logo?e=1785369600&v=beta&t=fpBELhFacEIToEVVLAqpQ9Ufs-s4SjXPcxI1JxfC5eI"
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7475524862065741825",
+        "share_url": "https://www.linkedin.com/posts/asma-a-1824a8209_recrute-activity-7475524862065741825-4jIb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "2w",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 7,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "AUDE-BERANGERE PEILLON #recrute. Connaissez-vous quelqu’un qui pourrait être intéressé ?",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "asma-a-1824a8209",
+          "id": "ACoAADTuoPIBhW6nf19IxQnJJyn_v6pR_wWHoaQ",
+          "name": "Asma A.",
+          "is_company": false,
+          "headline": "Business Partner Recrutement | Profils Cadres & Dirigeants | Auvergne-Rhône-Alpes | Spécialiste Fonctions Supports & Tertiaire",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQG__9sNv_8SkA/profile-displayphoto-scale_400_400/B4EZ22wzvLKcAg-/0/1776887742618?e=1785369600&v=beta&t=WjByxvRr9zF2LDJ9-Vcvd8ZhtrAZmJe5z2kPt0LCGuc"
+        },
+        "id": "7475524862065741825",
+        "is_repost": false,
+        "parsed_datetime": "2026-06-24T12:26:55.652Z",
+        "job_posting": {
+          "id": "4432569358",
+          "title": "Responsable financier",
+          "location": "Commercy, Grand Est, France (On-site)",
+          "company": {
+            "id": "2754199",
+            "name": "Randstad France",
+            "picture_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHsZuyHowy0lw/company-logo_200_200/company-logo_200_200/0/1635863229782/randstad_france_logo?e=1785369600&v=beta&t=fpBELhFacEIToEVVLAqpQ9Ufs-s4SjXPcxI1JxfC5eI"
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7470395494813503488",
+        "share_url": "https://www.linkedin.com/posts/asma-a-1824a8209_randstad-professional-talent-solutions-activity-7470395494813503488-U6zM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1mo",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 9,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "🎉 Heureuse de partager l’obtention de la certification Expert en conseil certifié (Certified Advisory Expert) délivrée par Randstad Professional Talent Solutions.\n\nUne étape supplémentaire dans mon parcours professionnel et le développement de mon expertise en accompagnement des talents.\n\n#Certification #Randstad #RH #RessourcesHumaines #TalentManagement #DéveloppementProfessionnel #FormationContinue #CareerGrowth",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "asma-a-1824a8209",
+          "id": "ACoAADTuoPIBhW6nf19IxQnJJyn_v6pR_wWHoaQ",
+          "name": "Asma A.",
+          "is_company": false,
+          "headline": "Business Partner Recrutement | Profils Cadres & Dirigeants | Auvergne-Rhône-Alpes | Spécialiste Fonctions Supports & Tertiaire",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQG__9sNv_8SkA/profile-displayphoto-scale_400_400/B4EZ22wzvLKcAg-/0/1776887742618?e=1785369600&v=beta&t=WjByxvRr9zF2LDJ9-Vcvd8ZhtrAZmJe5z2kPt0LCGuc"
+        },
+        "id": "7470395494813503488",
+        "is_repost": false,
+        "parsed_datetime": "2026-06-10T08:44:39.200Z",
+        "article": {
+          "id": "7771330728046046728",
+          "title": "Randstad Professional Talent Solutions - Certified Advisory Expert was issued by Randstad to Asma AMRI.",
+          "author": "credly.com",
+          "url": "https://www.credly.com/badges/82e92044-d44b-406c-a8fb-824ea8a3cf7b/linked_in?t=tgeqye",
+          "published_at": "2028-09-17T18:53:49.909Z",
+          "picture_url": "https://media.licdn.com/dms/image/v2/D4E10AQE0WN0jo48zng/image-shrink_480/B4EZ6wtHxRJIAQ-/0/1781081079196?e=1784419200&v=beta&t=05AbPiLITJzKpngsAd64OasKrCPYU98mJQsFZEhm4lo"
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7459958143750610948",
+        "share_url": "https://www.linkedin.com/posts/asma-a-1824a8209_recrute-activity-7459958143750610948-wIAh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 2,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "AUDE-BERANGERE PEILLON #recrute. Connaissez-vous quelqu’un qui pourrait être intéressé ?",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "asma-a-1824a8209",
+          "id": "ACoAADTuoPIBhW6nf19IxQnJJyn_v6pR_wWHoaQ",
+          "name": "Asma A.",
+          "is_company": false,
+          "headline": "Business Partner Recrutement | Profils Cadres & Dirigeants | Auvergne-Rhône-Alpes | Spécialiste Fonctions Supports & Tertiaire",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQG__9sNv_8SkA/profile-displayphoto-scale_400_400/B4EZ22wzvLKcAg-/0/1776887742618?e=1785369600&v=beta&t=WjByxvRr9zF2LDJ9-Vcvd8ZhtrAZmJe5z2kPt0LCGuc"
+        },
+        "id": "7459958143750610948",
+        "is_repost": false,
+        "parsed_datetime": "2026-05-12T13:30:20.790Z",
+        "job_posting": {
+          "id": "4413419702",
+          "title": "Chef de mission/Cheffe de mission",
+          "location": "Dardilly, Auvergne-Rhône-Alpes, France (On-site)",
+          "company": {
+            "id": "2754199",
+            "name": "Randstad France",
+            "picture_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHsZuyHowy0lw/company-logo_200_200/company-logo_200_200/0/1635863229782/randstad_france_logo?e=1785369600&v=beta&t=fpBELhFacEIToEVVLAqpQ9Ufs-s4SjXPcxI1JxfC5eI"
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7452626466921553920",
+        "share_url": "https://www.linkedin.com/posts/asma-a-1824a8209_on-ne-tourne-pas-une-page-on-%C3%A9crit-un-nouveau-activity-7452626621490089984-HuI2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "2mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 37,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "On ne tourne pas une page, on écrit un nouveau chapitre. 📖\n\nDepuis 25 ans, Expectra est synonyme d'expertise RH pointue. Nous avons grandi et réussi à vos côtés dans le recrutement de profils cadres et experts en IT, industrie & Ingénierie et tertiaire.\n\nAujourd'hui, cette expertise change de nom : Randstad professional.\n\nL'ADN reste le même :\n• La même passion pour vos métiers.\n• Les mêmes consultants (moi compris !).\n• Les mêmes savoir-faire.\n\nOn ne remplace pas une expertise, on lui donne une nouvelle envergure. 🚀\n\nPrêt à passer à l’étape suivante ? Je reste votre interlocuteur privilégié pour toutes vos questions.",
+        "mentions": [],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D4E05AQE6r_TozGgzPA",
+            "size": {
+              "height": 720,
+              "width": 1280
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE6r_TozGgzPA/mp4-720p-30fp-crf28/B4EZ20MXB5IgB8-/0/1776844641832?e=1784419200&v=beta&t=rXXJFd5ODTR4EhNNwlKZArk4RmzcOeQgxb6Eb4H9ExM"
+          }
+        ],
+        "author": {
+          "public_identifier": "asma-a-1824a8209",
+          "id": "ACoAADTuoPIBhW6nf19IxQnJJyn_v6pR_wWHoaQ",
+          "name": "Asma A.",
+          "is_company": false,
+          "headline": "Business Partner Recrutement | Profils Cadres & Dirigeants | Auvergne-Rhône-Alpes | Spécialiste Fonctions Supports & Tertiaire",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQG__9sNv_8SkA/profile-displayphoto-scale_400_400/B4EZ22wzvLKcAg-/0/1776887742618?e=1785369600&v=beta&t=WjByxvRr9zF2LDJ9-Vcvd8ZhtrAZmJe5z2kPt0LCGuc"
+        },
+        "id": "7452626621490089984",
+        "is_repost": false,
+        "parsed_datetime": "2026-04-22T07:57:29.670Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7450521697725665280",
+        "share_url": "https://www.linkedin.com/posts/asma-a-1824a8209_expectra-randstad-recrutement-activity-7450521732509024256-_wyr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "2mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 29,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Quelque chose se prépare en coulisses... et j'ai hâte de vous en dire plus. 🤫\n\nOn me demande souvent : \"Qu’est-ce qui fait la force d'Expectra Search?\"\nMa réponse est toujours la même : l'expertise métier et nos standards de qualité. \n\nAu sein de l'équipe Comptabilité, Finance et RH nous parlons votre langage.\n\nAujourd'hui, le marché a changé. Les attentes des talents ont muté. Et votre partenaire de recrutement doit évoluer avec vous.\n\nPour relever les défis de demain, nous changeons de dimension. 🚀\n\nRendez-vous le 22 avril pour découvrir le nouveau visage d'Expectra. 👀\n\n#EXPECTRA #RANDSTAD #RECRUTEMENT #RH #NOUVEAUTÉS",
+        "mentions": [],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D4E05AQE-LwmJUp0ujA",
+            "size": {
+              "height": 640,
+              "width": 1138
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE-LwmJUp0ujA/mp4-720p-30fp-crf28/B4EZ2WSA0IIoCI-/0/1776342800269?e=1784419200&v=beta&t=sxDb-9l4fvupJfjKfF0WccdxKqnEWodEWOlVd03wqoE"
+          }
+        ],
+        "author": {
+          "public_identifier": "asma-a-1824a8209",
+          "id": "ACoAADTuoPIBhW6nf19IxQnJJyn_v6pR_wWHoaQ",
+          "name": "Asma A.",
+          "is_company": false,
+          "headline": "Business Partner Recrutement | Profils Cadres & Dirigeants | Auvergne-Rhône-Alpes | Spécialiste Fonctions Supports & Tertiaire",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQG__9sNv_8SkA/profile-displayphoto-scale_400_400/B4EZ22wzvLKcAg-/0/1776887742618?e=1785369600&v=beta&t=WjByxvRr9zF2LDJ9-Vcvd8ZhtrAZmJe5z2kPt0LCGuc"
+        },
+        "id": "7450521732509024256",
+        "is_repost": false,
+        "parsed_datetime": "2026-04-16T12:33:25.030Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7431735557489160192",
+        "share_url": "https://www.linkedin.com/posts/asma-a-1824a8209_activity-7431735557489160192-8jsg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "4mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 3,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "DAVID GARZA #recrute. Connaissez-vous quelqu’un qui pourrait être intéressé ?",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "asma-a-1824a8209",
+          "id": "ACoAADTuoPIBhW6nf19IxQnJJyn_v6pR_wWHoaQ",
+          "name": "Asma A.",
+          "is_company": false,
+          "headline": "Business Partner Recrutement | Profils Cadres & Dirigeants | Auvergne-Rhône-Alpes | Spécialiste Fonctions Supports & Tertiaire",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQG__9sNv_8SkA/profile-displayphoto-scale_400_400/B4EZ22wzvLKcAg-/0/1776887742618?e=1785369600&v=beta&t=WjByxvRr9zF2LDJ9-Vcvd8ZhtrAZmJe5z2kPt0LCGuc"
+        },
+        "id": "7431735557489160192",
+        "is_repost": true,
+        "repost_id": "7431735557489160192",
+        "parsed_datetime": "2026-02-23T16:23:51.875Z",
+        "repost_content": {
+          "id": "7431735000083066881",
+          "date": "4mo",
+          "parsed_datetime": "2026-02-23T16:21:38.979Z",
+          "text": "",
+          "author": {
+            "public_identifier": "david-garza-2b73616a",
+            "id": "ACoAAA6lcmsBAmh5H63Uyj9Ax46GY8N9x8F6qOY",
+            "name": "David Garza",
+            "is_company": false
+          },
+          "job_posting": {
+            "id": "4376816432",
+            "title": "Directeur Technique Construction",
+            "location": "Greater Lyon Area (On-site)",
+            "company": {
+              "id": "12214",
+              "name": "Expectra",
+              "picture_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFb1E5wKgANjQ/company-logo_200_200/B4EZ20eTUfJcAI-/0/1776849335961/expectra_logo?e=1785369600&v=beta&t=EfXZkEx1JqEOLi74XnUxchmitFJIRgqF2PkHYZdmCLo"
+            }
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAADTuoPIBhW6nf19IxQnJJyn_v6pR_wWHoaQ"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 7,
+      "total_count": 7
+    },
+    "cursor": null
+  }
+}

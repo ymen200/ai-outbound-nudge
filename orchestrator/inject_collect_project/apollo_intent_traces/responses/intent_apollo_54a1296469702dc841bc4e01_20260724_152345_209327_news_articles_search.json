@@ -1,0 +1,110 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 7,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "69051b7a7612da001db4093c",
+      "url": "https://www.insurancejournal.com/news/east/2025/10/31/845880.htm",
+      "domain": "insurancejournal.com",
+      "title": "Five Correctional Department Employees Charged With Workers' Compensation Fraud",
+      "snippet": "Paulino previously resigned from DOCCS.",
+      "organization_ids": [
+        "54a1296469702dc841bc4e01"
+      ],
+      "published_at": "2025-10-31T05:00:13.000+00:00",
+      "event_categories": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "69008bf2ee8fc7001d09df0c",
+      "url": "https://cointelegraph.com/news/kalshi-sues-ny-regulator-overreach-event-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "domain": "cointelegraph.com",
+      "title": "Predictions platform Kalshi sues NY regulator, claiming overreach",
+      "snippet": "Trading platform Kalshi has sued the New York State Gaming Commission, accusing it of overstepping its jurisdiction by issuing a cease and desist order for allegedly illegally offering sports betting in the state.",
+      "organization_ids": [
+        "5d29083abbaa4e0b665da0da",
+        "54a1296469702dc841bc4e01"
+      ],
+      "published_at": "2025-10-28T06:15:08.000+00:00",
+      "event_categories": [
+        "files_suit_against"
+      ]
+    },
+    {
+      "id": "68fbfce23c00eb000d64a4f7",
+      "url": "https://news.bloomberglaw.com/ip-law/greenberg-traurig-adds-ex-government-energy-lawyer-in-albany",
+      "domain": "bloomberglaw.com",
+      "title": "Greenberg Traurig Adds Ex-Government Energy Lawyer in Albany",
+      "snippet": "Rosenthal joins from the New York Public Service Commission and Department of Public Service.",
+      "organization_ids": [
+        "54a1296469702dc841bc4e01"
+      ],
+      "published_at": "2025-10-23T19:05:00.000+00:00",
+      "event_categories": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "6900d29e9c29f0000d0bdce2",
+      "url": "https://rochesterbiz.com/governor-hochul-announces-winners-of-round-eight-of-luminate-ny-opi-accelerator-competition",
+      "domain": "rochesterbiz.com",
+      "title": "GOVERNOR HOCHUL ANNOUNCES WINNERS OF ROUND EIGHT OF LUMINATE NY OPI ACCELERATOR COMPETITION",
+      "snippet": "Pensievision will receive $1 million in investment from New York State through the Finger Lakes Forward Upstate Revitalization Initiative.",
+      "organization_ids": [
+        "54a1296469702dc841bc4e01",
+        "5e57b88ad5bd4a000175b20f"
+      ],
+      "published_at": "2025-10-23T00:00:00.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "68fc7e5fc53edb0015e02f09",
+      "url": "https://www.marketbeat.com/instant-alerts/american-battery-technology-nasdaqabat-lowered-to-sell-rating-by-wall-street-zen-2025-10-19",
+      "domain": "marketbeat.com",
+      "title": "American Battery Technology (NASDAQ:ABAT) Lowered to Sell Rating by Wall Street Zen",
+      "snippet": "New York State Common Retirement Fund purchased a new stake in American Battery Technology in the 2nd quarter worth $120,000.",
+      "organization_ids": [
+        "54a1296469702dc841bc4e01"
+      ],
+      "published_at": "2025-10-19T00:00:00.000+00:00",
+      "event_categories": [
+        "invests_into_assets"
+      ]
+    },
+    {
+      "id": "68efe5a5844221000df46b51",
+      "url": "https://www.wrfalp.com/nys-launches-retirement-savings-program-for-private-sector-employees",
+      "domain": "wrfalp.com",
+      "title": "NYS Launches Retirement Savings Program For Private Sector Employees",
+      "snippet": "NYS launches retirement Savings Program for private sector employees.",
+      "organization_ids": [
+        "54a1296469702dc841bc4e01"
+      ],
+      "published_at": "2025-10-15T10:56:37.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "68f86a6e15b4a300213bb708",
+      "url": "https://www.hardestyhanover.com/harry-white-ii-pe-joins-hh-as-chief-bridge-engineer",
+      "domain": "hardestyhanover.com",
+      "title": "Harry White II, PE, Joins H&H As Chief Bridge Engineer",
+      "snippet": "Harry joins H&H after 33 years with NYSDOT, having served as a Design Engineer, Unit Squad Leader, Unit Supervisor, and Unit Manager, with specialties in design, standards, and materials.",
+      "organization_ids": [
+        "54a1296469702dc841bc4e01"
+      ],
+      "published_at": "2025-10-09T15:15:29.000+00:00",
+      "event_categories": [
+        "leaves"
+      ]
+    }
+  ]
+}

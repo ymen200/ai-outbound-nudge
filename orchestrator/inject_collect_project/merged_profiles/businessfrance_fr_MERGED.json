@@ -1,0 +1,644 @@
+{
+    "alexa_ranking": 301637,
+    "annual_revenue": 236520000,
+    "apollo_id": "5ed4de85a9a67f0001e3055e",
+    "city": "Paris",
+    "country": "France",
+    "departments": {
+        "sales": 25,
+        "operations": 34,
+        "business_development": 135,
+        "finance": 38,
+        "marketing": 32,
+        "information_technology": 13,
+        "consulting": 25,
+        "media_and_commmunication": 47,
+        "accounting": 12,
+        "legal": 6,
+        "engineering": 17,
+        "human_resources": 27,
+        "administrative": 14,
+        "arts_and_design": 10,
+        "support": 10,
+        "entrepreneurship": 5,
+        "product_management": 2,
+        "data_science": 4,
+        "education": 0
+    },
+    "domain": "businessfrance.fr",
+    "estimated_num_employees": "1400",
+    "facebook_url": "https://facebook.com/BusinessFrance",
+    "founded_year": "2015",
+    "funding_events": [
+        {
+            "id": "Non renseigné",
+            "date": "2025",
+            "type": "Public Endowment",
+            "amount": "89,000,000 EUR",
+            "currency": "Non renseigné",
+            "investors": "Non renseigné"
+        }
+    ],
+    "industry": "Conseil et développement international / Secteur public",
+    "keywords": [
+        "teamfranceexport",
+        "investment",
+        "attractivite",
+        "export",
+        "exportation",
+        "teamfranceinvest",
+        "choose france",
+        "vie",
+        "vierh",
+        "investissement",
+        "export & investment",
+        "b2b",
+        "enterprise software",
+        "software",
+        "information technology",
+        "sustainability",
+        "global expansion tools",
+        "vie program",
+        "territorial promotion",
+        "government",
+        "foreign investment",
+        "green investment attraction",
+        "economic development",
+        "export assistance",
+        "trade missions",
+        "consulting",
+        "services",
+        "social advocacy organizations",
+        "sustainable development",
+        "brand promotion",
+        "sme support",
+        "supply chain management",
+        "export promotion",
+        "business networking",
+        "sector promotion",
+        "public-private partnerships",
+        "start-up internationalization",
+        "business intelligence",
+        "business matchmaking",
+        "tech innovation promotion",
+        "business development",
+        "talent mobility",
+        "agriculture",
+        "international trade and development",
+        "france attractiveness",
+        "sme export growth",
+        "financial advisory",
+        "digital marketing",
+        "climate-friendly practices",
+        "global markets",
+        "innovation support",
+        "cross-border cooperation",
+        "investment facilitation",
+        "decarbonization support",
+        "event management",
+        "internationalization",
+        "market entry services",
+        "artificial intelligence",
+        "healthcare",
+        "international business support",
+        "sustainable export",
+        "export training",
+        "regional economic development",
+        "government agency",
+        "investment promotion",
+        "esg evaluation",
+        "market research",
+        "aerospace",
+        "renewable energy",
+        "investment advisory",
+        "economic growth",
+        "business connect",
+        "market exploration",
+        "talent recruitment",
+        "international internships",
+        "economic attractiveness",
+        "export growth",
+        "business support",
+        "global reach",
+        "business partnership",
+        "trade promotion",
+        "investment attraction",
+        "market analysis",
+        "sector expertise",
+        "entrepreneur support",
+        "trade facilitation",
+        "consulting services",
+        "training and workshops",
+        "project financing",
+        "networking opportunities",
+        "market entry strategy",
+        "export planning",
+        "digital promotion",
+        "sustainability initiatives",
+        "local market insights",
+        "company relocation",
+        "cross-border trade",
+        "stakeholder engagement",
+        "corporate responsibility",
+        "job creation",
+        "market intelligence",
+        "community partnerships",
+        "export performance",
+        "business integration",
+        "startup support",
+        "foreign economic relations",
+        "trade consultations",
+        "international trade policies",
+        "business modeling",
+        "cultural exchange",
+        "nps evaluation",
+        "supply chain optimization",
+        "international trade & development",
+        "enterprises",
+        "computer software",
+        "information technology & services",
+        "environmental services",
+        "renewables & environment",
+        "logistics & supply chain",
+        "analytics",
+        "financial consulting",
+        "financial services",
+        "management consulting",
+        "marketing & advertising",
+        "events services",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "clean energy & technology",
+        "Internationalisation",
+        "V.I.E",
+        "Attractivité",
+        "Team France Export",
+        "Conseil public"
+    ],
+    "latest_funding_stage": "Publicly Funded Agency",
+    "linkedin_url": "http://www.linkedin.com/company/business-france",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a81cd854d606000184999f/picture",
+    "name": "Business France",
+    "num_suborganizations": "1 établissement secondaire mentionné",
+    "phone": "01 40 73 30 00",
+    "postal_code": "75014",
+    "raw_address": "77 bd Saint-Jacques, 75998 Paris cedex 14",
+    "seo_description": "Business France, créateurs d'opportunités business",
+    "short_description": "Établissement public chargé du développement international des entreprises, des exportations et de l’accueil des investissements étrangers.",
+    "state": "Ile-de-France",
+    "street_address": "77 Boulevard Saint-Jacques",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "Établissement de Marseille",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "asp_net",
+            "name": "ASP.NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "aws_elastic_load_balancing",
+            "name": "AWS Elastic Load Balancing",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "aws_vpn",
+            "name": "AWS VPN",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "akamai_cdn_solutions",
+            "name": "Akamai CDN Solutions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_linux_2",
+            "name": "Amazon Linux 2",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apache",
+            "name": "Apache",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "azure_active_directory",
+            "name": "Azure Active Directory",
+            "category": "Security"
+        },
+        {
+            "uid": "azure_active_directory_b2c",
+            "name": "Azure Active Directory B2C",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_analysis_services",
+            "name": "Azure Analysis Services",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "azure_app_service",
+            "name": "Azure App Service",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_bot_service",
+            "name": "Azure Bot Service",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "azure devops",
+            "name": "Azure Devops",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "azure_functions",
+            "name": "Azure Functions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_purview",
+            "name": "Azure Purview",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "azure_web_apps",
+            "name": "Azure Web Apps",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "backblaze_computer_backup",
+            "name": "Backblaze Computer Backup",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cisco_webex_teams",
+            "name": "Cisco WebEx Teams",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "concur",
+            "name": "Concur",
+            "category": "Other"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "eyefinity_officemate",
+            "name": "Eyefinity OfficeMate",
+            "category": "Appointment Scheduling"
+        },
+        {
+            "uid": "facebook",
+            "name": "Facebook",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "github",
+            "name": "GitHub",
+            "category": "Hosting"
+        },
+        {
+            "uid": "google_adwords_conversion",
+            "name": "Google AdWords Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_cloud_storage",
+            "name": "Google Cloud Storage",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_search_central",
+            "name": "Google Search Central",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+        },
+        {
+            "uid": "hootsuite",
+            "name": "Hootsuite",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "instagram",
+            "name": "Instagram",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "leaflet",
+            "name": "Leaflet",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "magento",
+            "name": "Magento",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "magento_2_enterprise",
+            "name": "Magento 2 Enterprise",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "magento_enterprise",
+            "name": "Magento Enterprise",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "mailchimp_mandrill",
+            "name": "Mailchimp Mandrill",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "mailchimp_transactional_email_formerly_mandrill",
+            "name": "Mailchimp Transactional Email (formerly Mandrill)",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "mapbox",
+            "name": "Mapbox",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft",
+            "name": "Microsoft Azure Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "microsoft_bot_framework",
+            "name": "Microsoft Bot Framework",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_defender_for_cloud",
+            "name": "Microsoft Defender for Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft_email_providers",
+            "name": "Microsoft Email Providers",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_powerpoint",
+            "name": "Microsoft PowerPoint",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "microsoft_windows_server_2000",
+            "name": "Microsoft Windows Server 2000",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft-iis",
+            "name": "Microsoft-IIS",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "multilingual",
+            "name": "Multilingual",
+            "category": "Widgets"
+        },
+        {
+            "uid": "nuxtjs",
+            "name": "Nuxtjs",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Widgets"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "prismic",
+            "name": "Prismic",
+            "category": "CMS"
+        },
+        {
+            "uid": "react_redux",
+            "name": "React Redux",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce_experience_cloud_suite",
+            "name": "Salesforce Experience Cloud Suite",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "sentinel",
+            "name": "Sentinel",
+            "category": "Security"
+        },
+        {
+            "uid": "sizmek_mediamind",
+            "name": "Sizmek (MediaMind)",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "tailwind",
+            "name": "Tailwind",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "talkwalker",
+            "name": "Talkwalker",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "terraform",
+            "name": "Terraform",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "vue_js_library",
+            "name": "VueJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "weboffice",
+            "name": "WebOffice",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+        },
+        {
+            "uid": "x_twitter",
+            "name": "X (Twitter)",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "yoast",
+            "name": "Yoast",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "zopim",
+            "name": "Zopim",
+            "category": "Chats"
+        },
+        {
+            "uid": "nuxt.js",
+            "name": "Nuxt.js",
+            "category": "Frontend Framework"
+        },
+        {
+            "uid": "didomi",
+            "name": "Didomi",
+            "category": "Consent Management Platform"
+        },
+        {
+            "uid": "at_internet",
+            "name": "AT Internet",
+            "category": "Analytics"
+        },
+        {
+            "uid": "orange_business_services",
+            "name": "Orange Business Services",
+            "category": "Hosting"
+        }
+    ],
+    "total_funding": "89 Million EUR (Public Endowment)",
+    "twitter_url": "https://x.com/businessfrance",
+    "website_url": "http://www.businessfrance.fr",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "État Français (Ministères de l'Économie, des Affaires Étrangères et de l'Aménagement du Territoire)",
+    "competitors": [
+        "Germany Trade & Invest (GTAI)",
+        "Department for Business and Trade (UK)",
+        "Italian Trade Agency (ITA)",
+        "Enterprise Ireland",
+        "ICEX Spain Trade and Investment"
+    ],
+    "data_quality_score": 0.97
+}

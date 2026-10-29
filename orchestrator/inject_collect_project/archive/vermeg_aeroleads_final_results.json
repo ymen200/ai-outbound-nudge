@@ -1,0 +1,315 @@
+[
+    {
+        "full_name": "Boujemaa Khaldi",
+        "email": "bkhaldi@vermeg.com",
+        "phone": "Non trouvé",
+        "method": "AeroLeads LinkedIn API",
+        "raw_data": {
+            "first_name": "Boujemaa",
+            "full_name": "Boujemaa Khaldi",
+            "last_name": "Khaldi",
+            "gender": "male",
+            "address": "Tunis, Tunisia, Tunisia",
+            "city": "Tunis",
+            "country": "Tunisia",
+            "job_summary": null,
+            "job_title_role": null,
+            "job_title_level": "director",
+            "job_company_name": "VERMEG for Banking & Insurance Software",
+            "job_company_website": "vermeg.com",
+            "job_description": null,
+            "job_company_linkedin_url": "linkedin.com/company/vermeg",
+            "education": [
+                {
+                    "start_time": 2011,
+                    "school": {
+                        "name": "Mediterranean School of Business"
+                    },
+                    "end_time": 2013,
+                    "degree": [
+                        "Master of Business Administration (MBA)",
+                        "Finance and Manageent"
+                    ]
+                },
+                {
+                    "start_time": 1992,
+                    "school": {
+                        "lnkd_url1": "linkedin.com/school/centralesupelec/",
+                        "name": "Ecole Supérieure d'Electricité"
+                    },
+                    "end_time": 1996,
+                    "degree": [
+                        "Doctor of Philosophy (PhD)",
+                        "Computer Science"
+                    ]
+                },
+                {
+                    "start_time": 1989,
+                    "school": {
+                        "lnkd_url1": "linkedin.com/school/centralesupelec/",
+                        "name": "Ecole Supérieure d'Electricité"
+                    },
+                    "end_time": 1992,
+                    "degree": [
+                        "Master of Engineering (M.Eng.)",
+                        "Electronics & Computer Science Engineering"
+                    ]
+                },
+                {
+                    "start_time": 1986,
+                    "school": {
+                        "name": "Lycée Henri IV"
+                    },
+                    "end_time": 1989,
+                    "degree": [
+                        "Bachelor of Mathematics",
+                        "Mathematics and Physics"
+                    ]
+                },
+                {
+                    "start_time": 1980,
+                    "school": {
+                        "name": "Lycée Cité des Jeunes de Gafsa"
+                    },
+                    "end_time": 1986,
+                    "degree": [
+                        "Baccalauréat"
+                    ]
+                }
+            ],
+            "experience": [
+                {
+                    "duration": "9 years 10 months",
+                    "start_time": 2015,
+                    "current": true,
+                    "location": "Tunisia",
+                    "company": {
+                        "lnkd_url1": "linkedin.com/company/vermeg",
+                        "name": "VERMEG for Banking & Insurance Software"
+                    },
+                    "title": "Director",
+                    "date1": "Jan 2015 - Present"
+                },
+                {
+                    "duration": "4 years 7 months",
+                    "start_time": 2015,
+                    "current": false,
+                    "end_time": 2020,
+                    "location": "Tunisia",
+                    "company": {
+                        "lnkd_url1": "linkedin.com/company/vermeg",
+                        "name": "Vermeg"
+                    },
+                    "title": "Business Development Director",
+                    "date1": "Dec 2015 - Jun 2020"
+                },
+                {
+                    "duration": "5 years 1 month",
+                    "start_time": 2010,
+                    "current": false,
+                    "end_time": 2015,
+                    "company": {
+                        "lnkd_url1": "linkedin.com/company/vermeg",
+                        "name": "Vermeg"
+                    },
+                    "title": "Sales & Marketing Director",
+                    "date1": "Jan 2010 - Jan 2015"
+                },
+                {
+                    "duration": "2 years 5 months",
+                    "start_time": 2007,
+                    "current": false,
+                    "end_time": 2009,
+                    "company": {
+                        "lnkd_url1": "linkedin.com/company/vermeg",
+                        "name": "Vermeg"
+                    },
+                    "title": "Head of Pre-Sales",
+                    "date1": "Aug 2007 - Dec 2009"
+                },
+                {
+                    "duration": "1 year 8 months",
+                    "start_time": 2006,
+                    "current": false,
+                    "end_time": 2007,
+                    "description": "Deployment of the Megara solution, in a Custody and Depository department, BRD Bank.",
+                    "location": "Romania",
+                    "company": {
+                        "lnkd_url1": "linkedin.com/company/vermeg",
+                        "name": "Vermeg"
+                    },
+                    "title": "Project Manager",
+                    "date1": "Jan 2006 - Aug 2007"
+                },
+                {
+                    "duration": "10 months",
+                    "start_time": 2005,
+                    "current": false,
+                    "end_time": 2005,
+                    "description": "Intellectual Propriety Rights, working in close collaboration with US lawyers specialized in IPR.",
+                    "location": "United States",
+                    "company": {
+                        "name": "Vermeg"
+                    },
+                    "title": "Legal Consultant",
+                    "date1": "Mar 2005 - Dec 2005"
+                },
+                {
+                    "duration": "1 year 1 month",
+                    "start_time": 2004,
+                    "current": false,
+                    "end_time": 2005,
+                    "description": "Installing and integrating MegaCor (Corporate Actions processing system) in a wealth management environment.",
+                    "location": "United States",
+                    "company": {
+                        "lnkd_url1": "linkedin.com/company/vermeg",
+                        "name": "Vermeg"
+                    },
+                    "title": "Project Manager",
+                    "date1": "Mar 2004 - Mar 2005"
+                },
+                {
+                    "duration": "11 months",
+                    "start_time": 2003,
+                    "current": false,
+                    "end_time": 2004,
+                    "description": "Analysis, design and deployment of a cash management system",
+                    "location": "South Africa",
+                    "company": {
+                        "lnkd_url1": "linkedin.com/company/vermeg",
+                        "name": "Vermeg"
+                    },
+                    "title": "Project Manager",
+                    "date1": "Apr 2003 - Feb 2004"
+                },
+                {
+                    "duration": "1 year 8 months",
+                    "start_time": 2001,
+                    "current": false,
+                    "end_time": 2003,
+                    "description": "Analysis and deployment of Megara, the securities processing platform, in the custody department of Santander Bank and BBVA.",
+                    "location": "Spain",
+                    "company": {
+                        "lnkd_url1": "linkedin.com/company/vermeg",
+                        "name": "Vermeg"
+                    },
+                    "title": "Project Manager",
+                    "date1": "Aug 2001 - Mar 2003"
+                },
+                {
+                    "duration": "1 year",
+                    "start_time": 2000,
+                    "current": false,
+                    "end_time": 2001,
+                    "description": "Development and packaging of Megara suite platform.",
+                    "location": "Tunisia",
+                    "company": {
+                        "name": "BFI"
+                    },
+                    "title": "Head of R&D",
+                    "date1": "Aug 2000 - Jul 2001"
+                },
+                {
+                    "duration": "1 year 1 month",
+                    "start_time": 1999,
+                    "current": false,
+                    "end_time": 2000,
+                    "description": "Analysis and deployment of Megara securities processing platform. Integration with the CSD STRATE system.",
+                    "location": "South Africa",
+                    "company": {
+                        "name": "BFI"
+                    },
+                    "title": "Project Manager",
+                    "date1": "Jul 1999 - Jul 2000"
+                },
+                {
+                    "duration": "9 months",
+                    "start_time": 1998,
+                    "current": false,
+                    "end_time": 1999,
+                    "description": "Design and development of a cash management solution, in the context of Wealth Management environment, for the SGSS UK office.",
+                    "location": "United Kingdom",
+                    "company": {
+                        "name": "BFI"
+                    },
+                    "title": "Project Manager",
+                    "date1": "Oct 1998 - Jun 1999"
+                },
+                {
+                    "duration": "1 year 5 months",
+                    "start_time": 1997,
+                    "current": false,
+                    "end_time": 1998,
+                    "description": "Design and development of the BFI System, a securities processing platform.",
+                    "location": "Tunisia",
+                    "company": {
+                        "name": "BFI"
+                    },
+                    "title": "Team Leader, R&D",
+                    "date1": "May 1997 - Sep 1998"
+                },
+                {
+                    "duration": "1 year 3 months",
+                    "start_time": 1996,
+                    "current": false,
+                    "end_time": 1997,
+                    "description": "Design of Caching protocol for a new supercomputer based on standard processors",
+                    "location": "France",
+                    "company": {
+                        "name": "Internationl Supercomputing Technology Institute"
+                    },
+                    "title": "Computer Architect",
+                    "date1": "Feb 1996 - Apr 1997"
+                },
+                {
+                    "duration": "3 years 5 months",
+                    "start_time": 1992,
+                    "current": false,
+                    "end_time": 1996,
+                    "description": "Teaching programming and algorithms",
+                    "location": "France",
+                    "company": {
+                        "name": "Ecole Supérieure d'Electricité"
+                    },
+                    "title": "Professor Assistant",
+                    "date1": "Sep 1992 - Jan 1996"
+                }
+            ],
+            "interests": [
+                "education",
+                "economic empowerment"
+            ],
+            "skills": [
+                "business strategy",
+                "project management",
+                "team management",
+                "business analysis",
+                "management",
+                "pre sales",
+                "software project management",
+                "change management"
+            ],
+            "languages": {},
+            "emails": [
+                {
+                    "usability": "current",
+                    "address": "bkhaldi@vermeg.com",
+                    "type": "professional"
+                }
+            ],
+            "phone_numbers": [],
+            "cb_rank": null,
+            "cb_logo_url": null,
+            "profile_picture_url": null,
+            "job_company_size": 1670,
+            "industry": "information technology and services",
+            "job_title_detailed_role_s2": null,
+            "organization_founded_year_s2": null,
+            "organization_facebook_url_s2": null,
+            "organization_twitter_url_s2": null,
+            "organization_current_technologies_s2": null,
+            "emails_s2": null,
+            "phone_numbers_s2": null
+        }
+    }
+]

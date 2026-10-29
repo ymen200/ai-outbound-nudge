@@ -1,0 +1,1534 @@
+{
+  "person": {
+    "id": "608a87e16b2cf600013077a2",
+    "first_name": "Dario",
+    "last_name": "Cappellani",
+    "name": "Dario Cappellani",
+    "linkedin_url": "http://www.linkedin.com/in/dariocappellani",
+    "title": "Sales Director",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": 0.6,
+    "headline": "Senior Information Technology Consultant",
+    "organization_id": "5f426b96c31d000001d7aec9",
+    "employment_history": [
+      {
+        "_id": "6a51bc0bb5c37b00011470ab",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": null,
+        "organization_id": "5f426b96c31d000001d7aec9",
+        "organization_name": "Ministry of Enterprises and Made in Italy",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Sales Director",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470ab",
+        "key": "6a51bc0bb5c37b00011470ab"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470ac",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": null,
+        "organization_name": "Ministero delle Imprese e del Made in Italy",
+        "raw_address": null,
+        "start_date": "2024-08-01",
+        "title": "Senior Information Technology Consultant",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470ac",
+        "key": "6a51bc0bb5c37b00011470ac"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470ad",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": null,
+        "organization_name": "Self-employed",
+        "raw_address": null,
+        "start_date": "2024-01-01",
+        "title": "Sales Director",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470ad",
+        "key": "6a51bc0bb5c37b00011470ad"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470ae",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2023-12-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a11c2069702d94a4487a00",
+        "organization_name": "Sysdata S.p.A. | A Globant Division",
+        "raw_address": null,
+        "start_date": "2022-10-01",
+        "title": "Client Partner",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470ae",
+        "key": "6a51bc0bb5c37b00011470ae"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470af",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2022-10-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5b15bd17a6da9870fa405aa3",
+        "organization_name": "Oracle",
+        "raw_address": null,
+        "start_date": "2015-08-01",
+        "title": "Sales Executive",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470af",
+        "key": "6a51bc0bb5c37b00011470af"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b0",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2015-07-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1a1827468694012ab4f03",
+        "organization_name": "Cedacri",
+        "raw_address": null,
+        "start_date": "2010-08-01",
+        "title": "Team Manager",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b0",
+        "key": "6a51bc0bb5c37b00011470b0"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b1",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2010-07-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": true,
+        "organization_id": "6994564f222eae00010d74fa",
+        "organization_name": "ETHRA",
+        "raw_address": null,
+        "start_date": "2002-02-01",
+        "title": "Partner",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b1",
+        "key": "6a51bc0bb5c37b00011470b1"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b2",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2002-02-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": null,
+        "organization_name": "Informatica e Telecomunicazioni",
+        "raw_address": null,
+        "start_date": "2000-01-01",
+        "title": "Banking and Insurance Business Unit Director",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b2",
+        "key": "6a51bc0bb5c37b00011470b2"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b3",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2000-01-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5da4273e04a1370001f43d5d",
+        "organization_name": "Object Design the Maker of ObjectStore",
+        "raw_address": null,
+        "start_date": "1998-09-01",
+        "title": "Managing Director",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b3",
+        "key": "6a51bc0bb5c37b00011470b3"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b4",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "1998-09-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "559237997369641b33759a00",
+        "organization_name": "Informix",
+        "raw_address": null,
+        "start_date": "1997-06-01",
+        "title": "Banking and Insurance Business Unit Manager",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b4",
+        "key": "6a51bc0bb5c37b00011470b4"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b5",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "1997-06-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": null,
+        "organization_name": "Logicasiel (Logica Ltd)",
+        "raw_address": null,
+        "start_date": "1996-03-01",
+        "title": "Banking Business Unit Manager",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b5",
+        "key": "6a51bc0bb5c37b00011470b5"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b6",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "1996-03-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "56dd0d18f3e5bb1ac9000fea",
+        "organization_name": "Hewlett Packard",
+        "raw_address": null,
+        "start_date": "1993-10-01",
+        "title": "Banking and Insurance Marketing Manager",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b6",
+        "key": "6a51bc0bb5c37b00011470b6"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b7",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "1993-10-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5d33d0d1a3ae6113e19b1674",
+        "organization_name": "IBM",
+        "raw_address": null,
+        "start_date": "1989-07-01",
+        "title": "Banking Senior Sales Representative",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b7",
+        "key": "6a51bc0bb5c37b00011470b7"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b8",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "1989-07-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5c1e574bf6512572c12eae69",
+        "organization_name": "Olivetti",
+        "raw_address": null,
+        "start_date": "1986-10-01",
+        "title": "Banking Senior Sales Representative",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b8",
+        "key": "6a51bc0bb5c37b00011470b8"
+      },
+      {
+        "_id": "6a51bc0bb5c37b00011470b9",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "1986-06-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5f444822ed2a76000138d53e",
+        "organization_name": "Polizia di Stato",
+        "raw_address": null,
+        "start_date": "1985-07-01",
+        "title": "Policeman",
+        "updated_at": null,
+        "id": "6a51bc0bb5c37b00011470b9",
+        "key": "6a51bc0bb5c37b00011470b9"
+      }
+    ],
+    "street_address": "",
+    "city": "Milan",
+    "state": "Lombardy",
+    "country": "Italy",
+    "postal_code": null,
+    "formatted_address": "Milan, Italy",
+    "time_zone": "Europe/Rome",
+    "email": "dario.cappellani@mimit.gov.it",
+    "email_status": "extrapolated",
+    "organization": {
+      "id": "5f426b96c31d000001d7aec9",
+      "name": "Ministry of Enterprises and Made in Italy",
+      "website_url": "http://www.mimit.gov.it",
+      "angellist_url": null,
+      "linkedin_url": "http://www.linkedin.com/company/ministero-sviluppo-economico",
+      "twitter_url": null,
+      "facebook_url": null,
+      "primary_phone": {},
+      "languages": [],
+      "alexa_ranking": null,
+      "phone": null,
+      "linkedin_uid": "18753821",
+      "founded_year": 2013,
+      "publicly_traded_symbol": null,
+      "publicly_traded_exchange": null,
+      "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/68b69ba788528b0001c8b8d4/picture",
+      "crunchbase_url": null,
+      "primary_domain": "mimit.gov.it",
+      "sic_codes": [
+        "9431",
+        "91",
+        "95"
+      ],
+      "naics_codes": [
+        "92119",
+        "92111",
+        "92612"
+      ],
+      "industry": "government administration",
+      "estimated_num_employees": 1900,
+      "keywords": [
+        "il consumatore",
+        "servizi di comunicazione elettronica",
+        "la competitivita e le piccole e medie imprese",
+        "politiche di internazionalizzazione e la promozione degli scambi",
+        "politica industriale",
+        "sicurezza dellapprovvigionamento e per le infrastrutture energetiche",
+        "pmi",
+        "le rinnovabili e lefficienza energetica",
+        "pianificazione e la gestione dello spettro radioelettrico",
+        "il sistema cooperativo e le gestioni commissariali",
+        "lotta alla contraffazione ufficio italiano brevetti e marchi",
+        "di radiodiffusione e postali",
+        "politica commerciale internazionale",
+        "sicurezza anche ambientale delle attivita minerarie ed energetiche ufficio nazionale minerario per gl",
+        "incentivi alle imprese",
+        "la vigilanza e la normativa tecnica",
+        "vigilanza sugli enti",
+        "imprese",
+        "istituto superiore delle comunicazioni e delle tecnologie dellinformazione",
+        "bonustv",
+        "attivita territoriali",
+        "mercato elettrico",
+        "bonus rottamazione tv",
+        "il nucleare",
+        "start up",
+        "mercato",
+        "la concorrenza",
+        "telecommunications",
+        "public engagement campaigns",
+        "energy",
+        "digitalization",
+        "public communication",
+        "services",
+        "energy policy tools",
+        "sector development",
+        "other general government support",
+        "sector-specific incentives",
+        "economic development",
+        "consumer rights",
+        "industrial clusters",
+        "investment support",
+        "international trade",
+        "energy policy",
+        "business support",
+        "sectoral policies",
+        "energy management",
+        "innovation hubs",
+        "international cooperation programs",
+        "industrial competitiveness",
+        "policy implementation",
+        "trade policy",
+        "export readiness programs",
+        "trade policy frameworks",
+        "public engagement",
+        "compliance",
+        "made in italy",
+        "public-private partnerships",
+        "innovation support",
+        "government agency",
+        "technology development",
+        "regulatory compliance",
+        "investment promotion",
+        "trade regulation",
+        "energy efficiency initiatives",
+        "economic policy",
+        "industrial sectors",
+        "consumer protection",
+        "manufacturing",
+        "energy efficiency",
+        "tourism",
+        "industrial policy",
+        "b2b",
+        "industrial innovation hubs",
+        "digital transformation",
+        "trade agreements",
+        "regulatory framework",
+        "sme support",
+        "export promotion",
+        "digital infrastructure",
+        "international cooperation",
+        "economic growth",
+        "digital economy support",
+        "market access strategies",
+        "telecommunications regulation",
+        "industrial development",
+        "trade facilitation",
+        "renewable energy",
+        "trade promotion",
+        "sme digitalization",
+        "export support",
+        "business incentives",
+        "industrial policy implementation",
+        "digital skills",
+        "manufacturing support",
+        "manufacturing excellence",
+        "policy advocacy",
+        "innovation policy",
+        "energy sustainability",
+        "export enhancement",
+        "made in italy brand",
+        "market oversight",
+        "digital skills development",
+        "industrial innovation",
+        "public policy",
+        "digital skills training",
+        "market regulation",
+        "government",
+        "public services",
+        "industrial modernization",
+        "energy transition",
+        "trade diplomacy",
+        "industrial growth",
+        "public administration",
+        "innovation",
+        "ministry of enterprises",
+        "energy transformation",
+        "investment incentives",
+        "financial support",
+        "research funding",
+        "startup support",
+        "credit access",
+        "public transparency",
+        "enterprise support",
+        "patents",
+        "trademarks",
+        "industry policy",
+        "smes",
+        "global competitiveness",
+        "recovery plan",
+        "productivity",
+        "digital technologies",
+        "sustainable development",
+        "business opportunities",
+        "access to finance",
+        "strategic planning",
+        "risk assessments",
+        "future initiatives",
+        "energy services company",
+        "investment projects",
+        "financial contributions",
+        "business growth",
+        "sustainable investments",
+        "economic recovery",
+        "circular economy",
+        "business transformation",
+        "entrepreneurship support",
+        "technological innovation",
+        "energy dashboarding",
+        "energy consumption reduction",
+        "training programs",
+        "business management software",
+        "eu funding",
+        "financial incentives",
+        "modernization programs",
+        "energy & utilities",
+        "oil & energy",
+        "mechanical or industrial engineering",
+        "environmental services",
+        "renewables & environment",
+        "clean energy & technology",
+        "sustainability"
+      ],
+      "organization_revenue_printed": null,
+      "organization_revenue": 0.0,
+      "industries": [
+        "government administration",
+        "international trade & development"
+      ],
+      "secondary_industries": [
+        "international trade & development"
+      ],
+      "snippets_loaded": true,
+      "industry_tag_id": "5567cd527369643981050000",
+      "industry_tag_hash": {
+        "government administration": "5567cd527369643981050000",
+        "international trade & development": "5567ce9c7369644eed680000"
+      },
+      "retail_location_count": 0,
+      "raw_address": "via Molise, 2, roma, italia 00187 , IT",
+      "street_address": "2 Via Molise",
+      "city": "Rome",
+      "state": "Lazio",
+      "postal_code": "00187",
+      "country": "Italy",
+      "owned_by_organization_id": null,
+      "short_description": "The Ministry of Enterprises and Made in Italy (MIMIT) is a central government ministry in Italy dedicated to supporting businesses and promoting industrial policies. It focuses on protecting the quality and excellence of the \"Made in Italy\" brand. MIMIT was established from the reorganization of the Ministry of Productive Activities in 2006 and has evolved to include various responsibilities aimed at enhancing the productive sector.\n\nMIMIT's core activities include developing integrated industrial strategies, reducing bureaucratic burdens, and ensuring market functionality. It oversees key economic areas such as industrial policies, research, innovation, and consumer protection. The ministry also promotes youth entrepreneurship and attracts foreign investment, particularly in sectors like energy, telecommunications, and technology. With a commitment to international cooperation, MIMIT engages in initiatives that foster innovation and sustainability.",
+      "suborganizations": [],
+      "num_suborganizations": 0,
+      "total_funding": null,
+      "total_funding_printed": null,
+      "latest_funding_round_date": null,
+      "latest_funding_stage": null,
+      "funding_events": [],
+      "technology_names": [
+        "HREF Lang",
+        "Joomla",
+        "Matomo",
+        "Matomo",
+        "Matomo",
+        "Microsoft 365",
+        "Microsoft 365 Apps & Services",
+        "Microsoft Exchange",
+        "Microsoft Exchange Online",
+        "Microsoft Office 365",
+        "Mobile Friendly",
+        "Multilingual",
+        "Office365",
+        "Outlook",
+        "Viewport Meta",
+        "reCAPTCHA"
+      ],
+      "current_technologies": [
+        {
+          "uid": "href_lang",
+          "name": "HREF Lang",
+          "category": "Other"
+        },
+        {
+          "uid": "joomla",
+          "name": "Joomla",
+          "category": "CMS"
+        },
+        {
+          "uid": "matomo",
+          "name": "Matomo",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "matomo",
+          "name": "Matomo",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "matomo",
+          "name": "Matomo",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "microsoft_365",
+          "name": "Microsoft 365",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_365_apps_services",
+          "name": "Microsoft 365 Apps & Services",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_exchange",
+          "name": "Microsoft Exchange",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "microsoft_exchange_online",
+          "name": "Microsoft Exchange Online",
+          "category": "Email Providers"
+        },
+        {
+          "uid": "office_365",
+          "name": "Microsoft Office 365",
+          "category": "Other"
+        },
+        {
+          "uid": "mobile_friendly",
+          "name": "Mobile Friendly",
+          "category": "Other"
+        },
+        {
+          "uid": "multilingual",
+          "name": "Multilingual",
+          "category": "Widgets"
+        },
+        {
+          "uid": "office365",
+          "name": "Office365",
+          "category": "Communication and Collaboration"
+        },
+        {
+          "uid": "outlook",
+          "name": "Outlook",
+          "category": "Email Providers"
+        },
+        {
+          "uid": "viewport_meta",
+          "name": "Viewport Meta",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "recaptcha",
+          "name": "reCAPTCHA",
+          "category": "Captcha"
+        }
+      ],
+      "org_chart_root_people_ids": [
+        "5d5a0694f651258557a8253c"
+      ],
+      "org_chart_sector": null,
+      "org_chart_removed": null,
+      "org_chart_show_department_filter": null,
+      "employee_metrics": [
+        {
+          "start_date": "2024-07-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-08-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-09-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-10-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-11-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-12-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-01-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-02-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-03-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-04-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-05-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-06-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-07-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-08-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-09-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-10-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-11-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-12-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-01-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-02-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-03-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-04-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-05-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-06-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 10,
+              "churned": 0
+            },
+            {
+              "functions": "operations",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "finance",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "media_and_commmunication",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            }
+          ]
+        }
+      ],
+      "organization_headcount_six_month_growth": null,
+      "organization_headcount_twelve_month_growth": null,
+      "organization_headcount_twenty_four_month_growth": null
+    },
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "sales"
+    ],
+    "seniority": "director",
+    "functions": [
+      "sales"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 71,
+    "total_pages": 4
+  },
+  "news_articles": [
+    {
+      "id": "6a55de97bc67b6001418c993",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-07-13:newsml_Zaw266wMB:0-adx-lists-6-new-single-stock-futures",
+      "domain": "tradingview.com",
+      "title": "ADX lists 6 new Single Stock Futures.",
+      "snippet": "As part of this expansion, ADX's derivatives market data is now fully integrated into the Bloomberg Terminal, providing financial professionals globally with real-time access to pricing, market data, and trading information.",
+      "organization_ids": [
+        "636a5cfb05b2e600a377228d",
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-07-13T00:00:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a554839d959aa0018e8bd25",
+      "url": "https://www.leaprate.com/forex/institutional/bloomberg-launches-pre-trade-tca-api-to-bring-execution-analytics-into-trading-workflows-at-scale",
+      "domain": "leaprate.com",
+      "title": "Bloomberg launches Pre-Trade TCA API to bring execution analytics into trading workflows at scale.",
+      "snippet": "Bloomberg launches Pre-Trade TCA API to bring execution analytics into trading workflows at scale.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-07-08T20:49:08.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a53c702623fa800149608ad",
+      "url": "https://www.finopotamus.com/post/bloomberg-launches-pre-trade-tca-api-bringing-execution-intelligence-into-proprietary-trading-workfl",
+      "domain": "finopotamus.com",
+      "title": "Bloomberg launches Pre-Trade TCA API bringing execution intelligence into proprietary trading workflows.",
+      "snippet": "NEW YORK, July 8, 2026 - Bloomberg today announced the launch of its multi-asset Pre-Trade Transaction Cost Analysis (TCA) API, allowing clients to bring pre-trade and in-trade execution intelligence and analytics directly into their proprietary fixed income and equities trading and investment workflows.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-07-08T14:53:57.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a4f6388bfa1230010d4a939",
+      "url": "https://talkingbiznews.com/media-news/middle-east-reporter-dagher-departs-bloomberg",
+      "domain": "talkingbiznews.com",
+      "title": "Middle East reporter Dagher departs Bloomberg.",
+      "snippet": "Bloomberg News senior Middle East reporter Sam Dagher has left for another opportunity.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-07-07T12:24:00.000+00:00",
+      "event_categories": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "6a47cebb23fed0001c23f6ac",
+      "url": "https://talkingbiznews.com/media-news/bloomberg-hires-gerace-as-a-reporter",
+      "domain": "talkingbiznews.com",
+      "title": "Bloomberg hires Gerace as a reporter.",
+      "snippet": "Bloomberg News has hired Sofia Gerace as a reporter covering earnings.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-07-02T18:41:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6a427585b4f0c0000cb7b7f5",
+      "url": "https://eulerpool.com/news/wealth/engaging-investors-bloomberg-launches-interactive-quiz-to-boost-financial-literacy",
+      "domain": "eulerpool.com",
+      "title": "Engaging investors: Bloomberg launches interactive quiz to boost financial literacy.",
+      "snippet": "Engaging investors: Bloomberg launches interactive quiz to boost financial literacy.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-27T15:35:17.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a3afa29a9abe4001f83e807",
+      "url": "https://talkingbiznews.com/media-news/bloomberg-hires-sackel-as-senior-producer",
+      "domain": "talkingbiznews.com",
+      "title": "Bloomberg hires Sackel as senior producer.",
+      "snippet": "Bloomberg News has hired Anna Sackel as a senior producer for \"Businessweek Daily.\"",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-23T00:18:42.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6a3396685aec0300103a7bcb",
+      "url": "https://talkingbiznews.com/media-news/bloomberg-hires-foster-as-personal-finance-reporter",
+      "domain": "talkingbiznews.com",
+      "title": "Bloomberg hires Foster as personal finance reporter.",
+      "snippet": "Bloomberg News has hired Sarah Foster as a personal finance reporter.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-16T18:10:49.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6a326b33020b60000c83ac6b",
+      "url": "https://talkingbiznews.com/media-news/bloomberg-businessweek-hires-vella-as-international-editor",
+      "domain": "talkingbiznews.com",
+      "title": "Bloomberg Businessweek hires Vella as international editor.",
+      "snippet": "Team, I'm thrilled to welcome Matt Vella as international editor of Bloomberg Businessweek.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-15T15:38:16.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6a2fc97a364c1600204b2d67",
+      "url": "https://ajoobz.com/article/pyth-network-targets-bloomberg-s-50-billion-market-data-empire",
+      "domain": "ajoobz.com",
+      "title": "Pyth Network targets Bloomberg's $50 billion market-data empire.",
+      "snippet": "Pyth Network is expanding its market data services to compete with Bloomberg, launching 247 indices and surpassing $1 million in annual revenue.",
+      "organization_ids": [
+        "61404736ab845c00da3938df",
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-14T04:45:43.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "6a30211a2e96b0001094539c",
+      "url": "https://talkingbiznews.com/media-news/bloomberg-tv-anchor-hyde-is-departing",
+      "domain": "talkingbiznews.com",
+      "title": "Bloomberg TV anchor Hyde is departing.",
+      "snippet": "Bloomberg TV anchor Hyde is departing.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-12T18:19:09.000+00:00",
+      "event_categories": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "6a2eff732c5cab001c245a63",
+      "url": "https://carbonherald.com/sylvera-ratings-join-bloomberg-terminal-as-carbon-markets-mature",
+      "domain": "carbonherald.com",
+      "title": "Sylvera ratings join Bloomberg Terminal as carbon markets mature.",
+      "snippet": "Carbon data provider Sylvera and software, data and media major Bloomberg have struck a collaboration that will embed Sylvera's carbon project ratings directly into the Bloomberg Terminal, a move framed as a sign of carbon markets entering a more institutional phase.",
+      "organization_ids": [
+        "5e8e3ff03fa54000de0031e8",
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-12T13:14:20.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a2effa1f636fc0014f9db27",
+      "url": "https://carbonmeld.com/en/articles/when-carbon-credit-ratings-enter-the-bloomberg-terminal-what-it-means-for-market-pricing-trust-and-institutional-demand",
+      "domain": "carbonmeld.com",
+      "title": "When carbon credit ratings enter the Bloomberg Terminal: what it means for market pricing, trust, and institutional demand.",
+      "snippet": "Bloomberg's new carbon credit ratings feed signals a more institutional voluntary market, shaping price discovery, trust, due diligence, and demand.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-12T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a2a7efac4d796001866fd01",
+      "url": "https://financialpost.com/pmn/business-pmn/global-firms-rebuff-private-credit-fears-at-bloomberg-hk-invest",
+      "domain": "financialpost.com",
+      "title": "Global firms rebuff private credit fears at Bloomberg HK invest.",
+      "snippet": "Global investors struck a bullish tone on the private credit market at Bloomberg's Invest Hong Kong event on Wednesday, shrugging off fears that have swirled around the sector since last year.",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-10T00:00:00.000+00:00",
+      "event_categories": [
+        "attends_event"
+      ]
+    },
+    {
+      "id": "6a293a1398d2b1001c7d1f65",
+      "url": "https://www.fi-desk.com/bloomberg-and-directbooks-collaborate-on-primary-market-workflows",
+      "domain": "fi-desk.com",
+      "title": "Bloomberg and DirectBooks collaborate on primary market workflows.",
+      "snippet": "Bloomberg and DirectBooks have announced a collaboration on automated primary bond market workflows is now live.",
+      "organization_ids": [
+        "5e73b85516efec008c751897",
+        "5e56bbd11935c50001ea2366"
+      ],
+      "published_at": "2026-06-09T16:40:07.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a27fddc98e45c001883ca87",
+      "url": "https://www.prnewswire.com/news-releases/touchstone-investments-chooses-bloomberg-equity-indices-to-support-active-strategies-302793356.html",
+      "domain": "prnewswire.com",
+      "title": "Touchstone Investments chooses Bloomberg Equity Indices to support active strategies.",
+      "snippet": "Touchstone Investments chooses Bloomberg Equity Indices to support active strategies.",
+      "organization_ids": [
+        "5e73b85516efec008c751897",
+        "54a11bd469702d8ccc3e6300"
+      ],
+      "published_at": "2026-06-08T13:30:00.000+00:00",
+      "event_categories": [
+        "signs_new_client"
+      ]
+    },
+    {
+      "id": "6a2f40e8f9ada3001c06313d",
+      "url": "https://kdhnews.com/online_features/press_releases/bloomberg-selects-apptopia-to-provide-mobile-app-data-on-the-terminal/article_d928c0b3-d191-5cd3-89fd-e19d5a9b03e1.html",
+      "domain": "kdhnews.com",
+      "title": "Bloomberg selects Apptopia to provide mobile app data on the Terminal.",
+      "snippet": "Bloomberg selects Apptopia to provide mobile app data on the Terminal.",
+      "organization_ids": [
+        "5569d54e73696425b2d49f00",
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-04T12:59:00.000+00:00",
+      "event_categories": [
+        "signs_new_client"
+      ]
+    },
+    {
+      "id": "6a2f40e98d9b210018c0eedb",
+      "url": "https://kdhnews.com/online_features/press_releases/bloomberg-selects-apptopia-to-provide-mobile-app-data-on-the-terminal/article_d928c0b3-d191-5cd3-89fd-e19d5a9b03e1.html",
+      "domain": "kdhnews.com",
+      "title": "Bloomberg selects Apptopia to provide mobile app data on the Terminal.",
+      "snippet": "Integrating Apptopia's data directly into the Bloomberg Terminal gives Terminal users a more complete, multi-dimensional view of company performance.",
+      "organization_ids": [
+        "5569d54e73696425b2d49f00",
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-04T12:59:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a243e4d11d58000101cddf3",
+      "url": "https://technologymagazine.com/news/understanding-bloombergs-agentic-ai-for-high-stakes-data",
+      "domain": "technologymagazine.com",
+      "title": "Understanding Bloomberg's agentic AI for high-stakes data.",
+      "snippet": "Bloomberg's Amanda Stent explains how the firm is providing trusted data for high-stake business environments through the new agentic AI solution ASKB",
+      "organization_ids": [
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-04T09:00:41.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a24458f720c48001050fd5e",
+      "url": "https://www.arabiya-capital.com/editors-pick/emirates-nbd-integrates-bloomberg-sustainability-data-and-analytics-to-help-uae-companies-assess-financially-material-risks-and-opportunities",
+      "domain": "arabiya-capital.com",
+      "title": "Emirates NBD integrates Bloomberg sustainability data and analytics to help UAE companies assess financially material risks and opportunities.",
+      "snippet": "Emirates NBD integrates Bloomberg sustainability data and analytics to help UAE companies assess financially material risks and opportunities.",
+      "organization_ids": [
+        "54a1290c69702dab37c78001",
+        "5e73b85516efec008c751897"
+      ],
+      "published_at": "2026-06-03T20:56:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "account_snapshot": {
+    "id": "LaeC3qgIQz-ACPonHOuFFg",
+    "name": "Ridha Mami",
+    "type": "LINKEDIN",
+    "created_at": "2026-07-22T16:10:27.923Z",
+    "sources": [
+      {
+        "id": "LaeC3qgIQz-ACPonHOuFFg_MESSAGING",
+        "status": "OK"
+      }
+    ]
+  },
+  "connected_accounts": {
+    "count": 6,
+    "types": {
+      "GOOGLE_OAUTH": 2,
+      "LINKEDIN": 2,
+      "WHATSAPP": 2
+    }
+  },
+  "session_consumption": {
+    "api_calls_consumed": 2,
+    "successful_calls": 2,
+    "failed_calls": 0,
+    "endpoints": {
+      "POST /api/v1/linkedin": 1,
+      "POST /api/v1/linkedin/search": 1
+    },
+    "calls_detail": [
+      {
+        "endpoint": "/api/v1/linkedin",
+        "method": "POST",
+        "status_code": 200,
+        "success": true,
+        "timestamp": "2026-08-05T18:47:20.518427",
+        "rate_limit_headers": {}
+      },
+      {
+        "endpoint": "/api/v1/linkedin/search",
+        "method": "POST",
+        "status_code": 200,
+        "success": true,
+        "timestamp": "2026-08-05T18:47:21.498701",
+        "rate_limit_headers": {}
+      }
+    ],
+    "posts_retrieved": 0,
+    "linkedin_url": "https://www.linkedin.com/in/rob-riley-3112a34/",
+    "posted_limit": "year",
+    "target_count": 8
+  }
+}

@@ -1,0 +1,465 @@
+{
+    "domain": "klinger.co.uk",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "KLINGER United Kingdom",
+                "ai": "KLINGER United Kingdom"
+            },
+            "domain": {
+                "apollo": "klinger.co.uk",
+                "ai": "klinger.co.uk"
+            },
+            "industry": {
+                "apollo": "machinery",
+                "ai": "Industrial Sealing & Fluid Control"
+            },
+            "founded_year": {
+                "apollo": 1923,
+                "ai": null
+            },
+            "short_description": {
+                "apollo": "KLINGER United Kingdom, officially known as KLINGER Ltd., is a leading provider of sealing solutions and joint integrity services. Established in 1923 and headquartered in Bradford, West Yorkshire, the company operates as a private limited entity and is part of the global KLINGER Group, which has a rich history dating back to 1886. KLINGER UK coordinates a network of six regional manufacturing and distribution facilities across the UK, ensuring efficient service delivery.\n\nThe company specializes in a wide range of services, including the design and supply of metallic and non-metallic gaskets, joint integrity management, and precision engineering. KLINGER UK is known for its \"Total Integrity Solution,\" which integrates engineering, design, and on-site support to enhance reliability and safety in critical industries. Its diverse client base spans sectors such as oil and gas, offshore wind energy, pharmaceuticals, and aerospace, making it a trusted partner for high-performance sealing and fluid control systems.",
+                "ai": "World’s leading developer and manufacturer of quality sealing products, level gauges, valves, and integrity services."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Level Gauges, Valves, Gaskets and Integrity Services designed for performance, reliability, and safety."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": 46000000.0,
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_num_employees": {
+                "apollo": 99,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/klinger-ltd",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "https://twitter.com/Klinger_Ltd",
+                "ai": null
+            },
+            "facebook_url": {
+                "apollo": "https://facebook.com/KlingerLtd",
+                "ai": null
+            },
+            "phone": {
+                "apollo": "+44 1274 688222",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "klinger building bldg, bradford, west yorkshire, united kingdom",
+                "ai": "Bradford, United Kingdom"
+            },
+            "city": {
+                "apollo": "Bradford",
+                "ai": "Bradford"
+            },
+            "country": {
+                "apollo": "United Kingdom",
+                "ai": "United Kingdom"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": null
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "ring joint gasket",
+                    "gasket insertion tool",
+                    "flange management",
+                    "kammprofile gasket",
+                    "hydraulic seals",
+                    "joint integrity",
+                    "bolting",
+                    "leak testing",
+                    "helium leak testing",
+                    "onsite machining",
+                    "spiral wound gasket",
+                    "qaqc",
+                    "industrial machinery manufacturing",
+                    "integrity services",
+                    "repair services",
+                    "fluid monitoring systems",
+                    "b2b",
+                    "petrochemical industry",
+                    "industrial industry",
+                    "oil and gas",
+                    "global supply chain",
+                    "material finder",
+                    "renewables",
+                    "certified products",
+                    "industrial manufacturing",
+                    "precision machining",
+                    "services",
+                    "certification",
+                    "corrugated graphite gaskets",
+                    "pressure sealing",
+                    "controlled bolting",
+                    "leakage reduction",
+                    "technical support",
+                    "asset reliability",
+                    "nuclear industry seals",
+                    "petrochemical",
+                    "industrial project support",
+                    "nuclear power seals",
+                    "ring type joints",
+                    "sealing technology",
+                    "seawater applications",
+                    "safety standards compliance",
+                    "industrial safety",
+                    "high-pressure seals",
+                    "advanced manufacturing",
+                    "fugitive emissions control",
+                    "consulting",
+                    "e-commerce",
+                    "power boiler and heat exchanger manufacturing",
+                    "supply chain management",
+                    "operational efficiency",
+                    "metallic gaskets",
+                    "gasket materials",
+                    "industrial equipment",
+                    "industrial valves",
+                    "customer support",
+                    "spiral wound gaskets",
+                    "testing services",
+                    "power-to-x industry",
+                    "pharmaceutical",
+                    "oilfield sealing systems",
+                    "industrial sealing",
+                    "corrosion resistant alloys",
+                    "gasket design software",
+                    "compression packings",
+                    "renewable energy seals",
+                    "sealing solutions",
+                    "safety standards",
+                    "automotive",
+                    "sustainable manufacturing",
+                    "power generation",
+                    "aerospace",
+                    "industrial repair",
+                    "corrosion protection",
+                    "marine gasket solutions",
+                    "metal jacketed gaskets",
+                    "environmental compliance",
+                    "energy",
+                    "chemical industry seals",
+                    "corrosion resistant gaskets",
+                    "kammprofile gaskets",
+                    "seawater gasket applications",
+                    "flange integrity",
+                    "offshore sealing solutions",
+                    "oil and gas industry",
+                    "asset management",
+                    "high temperature seals",
+                    "high temperature gasket materials",
+                    "marine",
+                    "power plant seals",
+                    "chemical",
+                    "leak prevention",
+                    "gas industry seals",
+                    "engineering consultancy",
+                    "nuclear",
+                    "gasket installation",
+                    "industrial engineering",
+                    "fluid control",
+                    "product innovation",
+                    "industrial automation",
+                    "hydrogen sealing",
+                    "gaskets",
+                    "semi-metallic gaskets",
+                    "energy efficiency",
+                    "energy sector",
+                    "on-site machining",
+                    "metal sheet materials",
+                    "infrastructure",
+                    "metal gaskets",
+                    "graphite gaskets",
+                    "ptfe gaskets",
+                    "compressed fibre sheeting",
+                    "oil and gas sealing",
+                    "petrochemical sealing solutions",
+                    "aerospace gaskets",
+                    "hydrogen sealing solutions",
+                    "joint integrity management",
+                    "ultrasonic bolt monitoring",
+                    "corrosion control gaskets",
+                    "dynamic sealing solutions",
+                    "static sealing solutions",
+                    "rubber metal gaskets",
+                    "low emissions gaskets",
+                    "expansion joints",
+                    "jointing materials",
+                    "class 6 gaskets",
+                    "sentry gaskets",
+                    "maxiflex gaskets",
+                    "maxiprofile gaskets",
+                    "maxigraph gaskets",
+                    "rtj (ring type joint) gaskets",
+                    "piping seals",
+                    "screw seals",
+                    "valve sealing solutions",
+                    "gasket selection software",
+                    "precision engineering",
+                    "quality management",
+                    "iso 9001:2015",
+                    "fire safe solutions",
+                    "engineering support",
+                    "environmental standards",
+                    "manufacturing solutions",
+                    "sustainability in sealing",
+                    "tailored sealing solutions",
+                    "manufacturing",
+                    "distribution",
+                    "oil & energy",
+                    "environmental services",
+                    "consumer internet",
+                    "consumers",
+                    "internet",
+                    "information technology & services",
+                    "logistics & supply chain",
+                    "medical",
+                    "mechanical or industrial engineering",
+                    "renewables & environment"
+                ],
+                "ai": "Sealing technologies, Gaskets, Valves, Fluid Control, Integrity Services, Flange Management, Level Gauges, Industrial Engineering, Bradford, UK"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "amazon_ses",
+                        "name": "Amazon SES",
+                        "category": "Email Delivery"
+                    },
+                    {
+                        "uid": "amazon_simple_email_service_amazon_ses",
+                        "name": "Amazon Simple Email Service (Amazon SES)",
+                        "category": "Email Delivery"
+                    },
+                    {
+                        "uid": "azure_dns",
+                        "name": "Azure DNS",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "azure_dns_zones",
+                        "name": "Azure DNS Zones",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "cloudflare_rocket_loader",
+                        "name": "Cloudflare Rocket Loader",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "doubleclick",
+                        "name": "DoubleClick",
+                        "category": "Ad Servers"
+                    },
+                    {
+                        "uid": "google_maps",
+                        "name": "Google Maps",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "google_maps_non_paid_users",
+                        "name": "Google Maps (Non Paid Users)",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "google_search_console",
+                        "name": "Google Search Console",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_tag_manager",
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365_apps_services",
+                        "name": "Microsoft 365 Apps & Services",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft",
+                        "name": "Microsoft Azure Hosting",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "microsoft_exchange",
+                        "name": "Microsoft Exchange",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_exchange_online",
+                        "name": "Microsoft Exchange Online",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "office_365",
+                        "name": "Microsoft Office 365",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "mimecast",
+                        "name": "Mimecast",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "nginx",
+                        "name": "Nginx",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "office365",
+                        "name": "Office365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "outlook",
+                        "name": "Outlook",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "remote",
+                        "name": "Remote",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "shutterstock",
+                        "name": "Shutterstock",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "viewport_meta",
+                        "name": "Viewport Meta",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "vincere",
+                        "name": "Vincere",
+                        "category": "Recruitment"
+                    },
+                    {
+                        "uid": "wordpress_org",
+                        "name": "WordPress.org",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "wordpress",
+                        "name": "Wordpress",
+                        "category": "CMS"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "WordPress",
+                        "category": "CMS",
+                        "confidence": 1.0,
+                        "source": "wp-json, wp-*, WordPress",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.45,
+                            "evidence_density": 0.38
+                        }
+                    },
+                    {
+                        "name": "Nginx",
+                        "category": "Web Server",
+                        "confidence": 1.0,
+                        "source": "server: nginx/1.29.5",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.6,
+                            "evidence_density": 0.25
+                        }
+                    },
+                    {
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management",
+                        "confidence": 1.0,
+                        "source": "www.googletagmanager.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.24,
+                            "evidence_density": 0.75
+                        }
+                    },
+                    {
+                        "name": "Bricks Builder",
+                        "category": "WordPress Page Builder",
+                        "confidence": 0.95,
+                        "source": "brx-*, bricks-*, brxe-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.46,
+                            "evidence_density": 0.61
+                        }
+                    },
+                    {
+                        "name": "Revolution Slider",
+                        "category": "WordPress Plugin",
+                        "confidence": 0.9,
+                        "source": "rs-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.71,
+                            "evidence_density": 4.25
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [],
+                "ai": []
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Flexitallic",
+                    "James Walker",
+                    "Garlock Sealing Technologies",
+                    "Chesterton",
+                    "Freudenberg Sealing Technologies"
+                ]
+            }
+        }
+    }
+}

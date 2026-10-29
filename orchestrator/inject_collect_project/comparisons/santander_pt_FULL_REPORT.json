@@ -1,0 +1,895 @@
+{
+    "domain": "santander.pt",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Santander Portugal",
+            "ai_value": "Banco Santander Totta, S.A."
+        },
+        "domain": {
+            "database_value": "santander.pt",
+            "ai_value": "santander.pt"
+        },
+        "industry": {
+            "database_value": "banking",
+            "ai_value": "Banking & Financial Services"
+        },
+        "founded_year": {
+            "database_value": 1988,
+            "ai_value": null
+        },
+        "short_description": {
+            "database_value": "Somos um banco de referência em Portugal, reconhecido pela solidez, inovação e resultados consistentes, refletidos na confiança de milhões de clientes e em prémios nacionais e internacionais. A nossa missão é clara: ajudar pessoas e empresas a prosperar, apoiando projetos de vida, o crescimento dos negócios e a transformação da economia.\n \nContamos com uma rede de balcões em todo o país, complementada por uma oferta digital robusta e pelos nossos WorkCafés, espaços abertos a clientes e não clientes que reinventam a experiência bancária, promovendo colaboração e estreitando relações com a comunidade.\n \nAqui partilhamos o que somos por dentro e por fora - das nossas iniciativas e cultura aos eventos onde estamos presentes, da literacia financeira às oportunidades de carreira. Siga-nos e subscreva a nossa newsletter, Looking Beyond, para acompanhar o que estamos a construir.",
+            "ai_value": "Commercial bank in Portugal providing retail, corporate, and investment banking services."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Santander - Particulares"
+        },
+        "annual_revenue": {
+            "database_value": 2235000000.0,
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "440M",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Debt Financing",
+            "ai_value": "Subsidiary"
+        },
+        "estimated_num_employees": {
+            "database_value": 4600,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/santanderpt",
+            "ai_value": "https://pt.linkedin.com/company/santanderpt"
+        },
+        "twitter_url": {
+            "database_value": "https://twitter.com/santanderpt",
+            "ai_value": null
+        },
+        "facebook_url": {
+            "database_value": "https://www.facebook.com/santanderpt/",
+            "ai_value": null
+        },
+        "phone": {
+            "database_value": "+351 21 780 7364",
+            "ai_value": null
+        },
+        "raw_address": {
+            "database_value": "Rua Aurea, n. 88, Lisbon, Lisbon District, Portugal, 1100-063",
+            "ai_value": "88 Rua Aurea, Lisboa, Portugal"
+        },
+        "city": {
+            "database_value": "Lisboa",
+            "ai_value": "Lisboa"
+        },
+        "country": {
+            "database_value": "Portugal",
+            "ai_value": "Portugal"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": 3
+        },
+        "keywords": {
+            "database_value": [
+                "branch network",
+                "market leader",
+                "market share portugal",
+                "private banking",
+                "banking network",
+                "financial performance 2024",
+                "retail",
+                "financial stability",
+                "digital transformation",
+                "online banking",
+                "sustainable finance",
+                "bank branches",
+                "innovation",
+                "financial planning",
+                "market position portugal",
+                "atm network",
+                "employee workforce",
+                "bank technology",
+                "banking technology",
+                "atm network coverage",
+                "private bank portugal",
+                "banking innovation",
+                "sustainable banking",
+                "digital customer experience",
+                "digital payments",
+                "banking services portugal",
+                "extensive branch network",
+                "market position",
+                "private banking services",
+                "banking customer base",
+                "loans",
+                "financial performance",
+                "market share portugal 2024",
+                "banking sustainability initiatives",
+                "financial stability portugal",
+                "digital banking innovation",
+                "banking",
+                "insurance products",
+                "sustainability",
+                "savings accounts",
+                "services",
+                "banking sector",
+                "mortgages",
+                "market share growth",
+                "investment banking services",
+                "private banking portugal",
+                "large customer base",
+                "financial performance analysis",
+                "financial products",
+                "mortgage loans",
+                "customer service",
+                "investment banking",
+                "portuguese market",
+                "banking sector analysis",
+                "financial services",
+                "banking sector portugal",
+                "commercial banking",
+                "portuguese banking sector",
+                "mobile banking",
+                "banking product innovation",
+                "health insurance",
+                "net income",
+                "insurance",
+                "cash flow management",
+                "digital channels",
+                "savings products",
+                "corporate banking",
+                "bank branch accessibility",
+                "banking digital transformation",
+                "net income 2024",
+                "customer experience",
+                "financial reporting portugal",
+                "digital banking",
+                "credit cards",
+                "loan services",
+                "corporate finance",
+                "employee count",
+                "banking technology investments",
+                "retail banking",
+                "customer support",
+                "market share",
+                "b2c",
+                "credit card services",
+                "banking employee numbers",
+                "market leader portugal",
+                "investment solutions",
+                "financial technology",
+                "online account opening",
+                "personal loans",
+                "mortgage options",
+                "debit cards",
+                "investment funds",
+                "mobile banking app",
+                "cash management",
+                "business accounts",
+                "credit solutions",
+                "economic sustainability",
+                "financial guidance",
+                "student banking",
+                "rewards programs",
+                "credit simulation",
+                "credit risk assessment",
+                "financial literacy",
+                "environmental impact",
+                "secure online payments",
+                "funding opportunities",
+                "retirement plans",
+                "money transfers",
+                "automated payments",
+                "financial health",
+                "equity funds",
+                "saving for retirement",
+                "financial education programs",
+                "disaster insurance",
+                "property insurance",
+                "ecological financing",
+                "community investment",
+                "inclusive finance",
+                "online banking security",
+                "credit score tracking",
+                "financial accountability",
+                "market access for smes",
+                "sustainable investment funds",
+                "green financing",
+                "digital payment solutions",
+                "cooperative banking",
+                "financial inclusion initiatives",
+                "wealth management solutions",
+                "finance",
+                "environmental services",
+                "renewables & environment",
+                "capital markets",
+                "finance technology",
+                "information technology & services"
+            ],
+            "ai_value": "Crédito Habitação, Crédito Pessoal, Empresas, Seguros, Poupança, Banca Responsável, PME, Cartões"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "ai",
+                    "name": "AI",
+                    "category": "Other"
+                },
+                {
+                    "uid": "aws_analytics",
+                    "name": "AWS Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "aws_transfer_for_sftp",
+                    "name": "AWS Transfer for SFTP",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_trusted_advisor",
+                    "name": "AWS Trusted Advisor",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "acronis_true_image",
+                    "name": "Acronis True Image",
+                    "category": "Security"
+                },
+                {
+                    "uid": "adobe",
+                    "name": "Adobe",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "adobe_cq",
+                    "name": "Adobe CQ",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "adobe_experience_manager",
+                    "name": "Adobe Experience Manager",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "adobe_target",
+                    "name": "Adobe Target",
+                    "category": "Personalization"
+                },
+                {
+                    "uid": "akamai",
+                    "name": "Akamai",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "akamai_cdn_solutions",
+                    "name": "Akamai CDN Solutions",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "akamai_dns",
+                    "name": "Akamai DNS",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "akamai_edge_dns",
+                    "name": "Akamai Edge DNS",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "akamai_web_application_api_protector",
+                    "name": "Akamai Web Application & API Protector",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "amazon_s3",
+                    "name": "Amazon S3",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "android",
+                    "name": "Android",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "apache",
+                    "name": "Apache",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "apache_kafka",
+                    "name": "Apache Kafka",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "apple_business_manager",
+                    "name": "Apple Business Manager",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "apple_school_manager",
+                    "name": "Apple School Manager",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "azure_analysis_services",
+                    "name": "Azure Analysis Services",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "azure_data_lake_analytics",
+                    "name": "Azure Data Lake Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "bing_ads",
+                    "name": "Bing Ads",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "cpi",
+                    "name": "CPI",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "css",
+                    "name": "CSS",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "cascade_cms",
+                    "name": "Cascade CMS",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "cisco_amp_for_email",
+                    "name": "Cisco AMP for Email",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "cisco_email_security",
+                    "name": "Cisco Email Security",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "cisco_ironport",
+                    "name": "Cisco IronPort",
+                    "category": "Security"
+                },
+                {
+                    "uid": "cisco_unified_intelligence_center",
+                    "name": "Cisco Unified Intelligence Center",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "databricks",
+                    "name": "Databricks",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "dell_avamar",
+                    "name": "Dell Avamar",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "doubleclick",
+                    "name": "DoubleClick",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "drupal",
+                    "name": "Drupal",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "dynatrace_application_monitoring",
+                    "name": "Dynatrace Application Monitoring",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "dynatrace_application_performance_monitoring",
+                    "name": "Dynatrace Application Performance Monitoring",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "dynatrace_oneagent",
+                    "name": "Dynatrace OneAgent",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "dynatrace_rum",
+                    "name": "Dynatrace RUM",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "excel4apps",
+                    "name": "Excel4Apps",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "fliphtml5",
+                    "name": "FlipHTML5",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "google_adwords_conversion",
+                    "name": "Google AdWords Conversion",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "google_play",
+                    "name": "Google Play",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "google_search_central",
+                    "name": "Google Search Central",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_search_console",
+                    "name": "Google Search Console",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_tag_manager",
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "href_lang",
+                    "name": "HREF Lang",
+                    "category": "Other"
+                },
+                {
+                    "uid": "hsts",
+                    "name": "HSTS",
+                    "category": "Security"
+                },
+                {
+                    "uid": "http/3",
+                    "name": "HTTP/3",
+                    "category": "Other"
+                },
+                {
+                    "uid": "ibm_ilog_cplex_optimization_studio",
+                    "name": "IBM ILOG CPLEX Optimization Studio",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "imperva",
+                    "name": "Imperva",
+                    "category": "Security"
+                },
+                {
+                    "uid": "imperva_secure_cdn",
+                    "name": "Imperva Secure CDN",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "imperva_web_application_firewall_waf",
+                    "name": "Imperva Web Application Firewall (WAF)",
+                    "category": "Security"
+                },
+                {
+                    "uid": "incapsula",
+                    "name": "Incapsula",
+                    "category": "Web Accelerators"
+                },
+                {
+                    "uid": "j2ee",
+                    "name": "J2EE",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "jwt",
+                    "name": "JWT",
+                    "category": "Security"
+                },
+                {
+                    "uid": "java ee",
+                    "name": "Java EE",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "javascript",
+                    "name": "Javascript",
+                    "category": "Other"
+                },
+                {
+                    "uid": "jira",
+                    "name": "Jira",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "linkedin_ads",
+                    "name": "LinkedIn Ads",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "linkedin_insight_tag",
+                    "name": "Linkedin Insight Tag",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_365_apps_services",
+                    "name": "Microsoft 365 Apps & Services",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_active_directory_federation_services",
+                    "name": "Microsoft Active Directory Federation Services",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "microsoft_advanced_group_policy_management",
+                    "name": "Microsoft Advanced Group Policy Management",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "microsoft_azure_monitor",
+                    "name": "Microsoft Azure Monitor",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "microsoft_email_providers",
+                    "name": "Microsoft Email Providers",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "microsoft_excel",
+                    "name": "Microsoft Excel",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "microsoft_exchange",
+                    "name": "Microsoft Exchange",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_exchange_online",
+                    "name": "Microsoft Exchange Online",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "microsoft_office",
+                    "name": "Microsoft Office",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "office_365",
+                    "name": "Microsoft Office 365",
+                    "category": "Other"
+                },
+                {
+                    "uid": "microsoft_powerpoint",
+                    "name": "Microsoft PowerPoint",
+                    "category": "Web Presentation Tools"
+                },
+                {
+                    "uid": "microsoft_powershell",
+                    "name": "Microsoft PowerShell",
+                    "category": "Deployment Tools"
+                },
+                {
+                    "uid": "microsoft_sql_server_reporting_services",
+                    "name": "Microsoft SQL Server Reporting Services",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "microsoft_sharepoint",
+                    "name": "Microsoft Sharepoint",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "microsoft_teams",
+                    "name": "Microsoft Teams",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_windows_server_2012",
+                    "name": "Microsoft Windows Server 2012",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "microsoft-iis",
+                    "name": "Microsoft-IIS",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "multilingual",
+                    "name": "Multilingual",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "mysql",
+                    "name": "MySQL",
+                    "category": "Database"
+                },
+                {
+                    "uid": "navex_global",
+                    "name": "NAVEX Global",
+                    "category": "Other"
+                },
+                {
+                    "uid": "office365",
+                    "name": "Office365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "open_adstream",
+                    "name": "Open AdStream",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "open_graph",
+                    "name": "Open Graph",
+                    "category": "Other"
+                },
+                {
+                    "uid": "openapi",
+                    "name": "OpenAPI",
+                    "category": "Other"
+                },
+                {
+                    "uid": "openldap",
+                    "name": "OpenLDAP",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "oracle_analytics_cloud",
+                    "name": "Oracle Analytics Cloud",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "outlook",
+                    "name": "Outlook",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "pwa",
+                    "name": "PWA",
+                    "category": "Other"
+                },
+                {
+                    "uid": "power_bi_documenter",
+                    "name": "Power BI Documenter",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "powerbi_tiles",
+                    "name": "PowerBI Tiles",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "priority_hints",
+                    "name": "Priority Hints",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "rest",
+                    "name": "REST",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "remote",
+                    "name": "Remote",
+                    "category": "Other"
+                },
+                {
+                    "uid": "ruxit",
+                    "name": "Ruxit",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "sap",
+                    "name": "SAP",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "sas_analytics_pro",
+                    "name": "SAS Analytics Pro",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "sas_enterprise_guide",
+                    "name": "SAS Enterprise Guide",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "salesforce",
+                    "name": "Salesforce",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "swiper",
+                    "name": "Swiper",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "tableau",
+                    "name": "Tableau",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "tealium",
+                    "name": "Tealium",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "tealium_iq_tag_management",
+                    "name": "Tealium iQ Tag Management",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "twilio_sendgrid_email_marketing_campaigns",
+                    "name": "Twilio SendGrid Email Marketing Campaigns",
+                    "category": "Email Marketing"
+                },
+                {
+                    "uid": "vmware",
+                    "name": "VMware",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "varonis_gdpr_patterns",
+                    "name": "Varonis GDPR Patterns",
+                    "category": "Security"
+                },
+                {
+                    "uid": "viewport_meta",
+                    "name": "Viewport Meta",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "wsus",
+                    "name": "WSUS",
+                    "category": "Deployment Tools"
+                },
+                {
+                    "uid": "youtube",
+                    "name": "YouTube",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "dynatrace",
+                    "name": "dynaTrace",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "ebs",
+                    "name": "ebs",
+                    "category": "Other"
+                },
+                {
+                    "uid": "jquery",
+                    "name": "jQuery",
+                    "category": "CSS and JavaScript Libraries"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "Adobe Experience Manager",
+                    "category": "CMS",
+                    "confidence": 0.95,
+                    "source": "CSS prefixes: aem-*, xf-*",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.79,
+                        "evidence_density": 0.96
+                    }
+                },
+                {
+                    "name": "OneTrust",
+                    "category": "Privacy and Compliance",
+                    "confidence": 0.99,
+                    "source": "cdn.cookielaw.org, css: onetrust-*",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.61,
+                        "evidence_density": 0.24
+                    }
+                },
+                {
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management",
+                    "confidence": 0.99,
+                    "source": "www.googletagmanager.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.23,
+                        "evidence_density": 0.75
+                    }
+                },
+                {
+                    "name": "Microsoft Clarity",
+                    "category": "Analytics",
+                    "confidence": 0.99,
+                    "source": "www.clarity.ms",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.54,
+                        "evidence_density": 1.21
+                    }
+                },
+                {
+                    "name": "Bing Ads",
+                    "category": "Advertising",
+                    "confidence": 0.99,
+                    "source": "bat.bing.com",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.59,
+                        "evidence_density": 0.67
+                    }
+                },
+                {
+                    "name": "Getnet",
+                    "category": "Payment Gateway",
+                    "confidence": 0.9,
+                    "source": "Conhecer TPAs Getnet",
+                    "xai_metrics": {
+                        "faithfulness_score": 1,
+                        "calibration_error": 0.44,
+                        "evidence_density": 0.3
+                    }
+                },
+                {
+                    "name": "Swiper",
+                    "category": "UI Library",
+                    "confidence": 0.95,
+                    "source": "CSS prefixes: swiper-*",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.52,
+                        "evidence_density": 0.27
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [],
+            "ai_value": [
+                "Santander Totta Seguros",
+                "Santander Asset Management",
+                "Santander Pensões"
+            ]
+        },
+        "funding_events": {
+            "database_value": [
+                {
+                    "id": "6966076b1bb259000187b1ae",
+                    "date": "2025-05-01T00:00:00.000+00:00",
+                    "type": "Debt Financing",
+                    "amount": "400M",
+                    "currency": "€",
+                    "investors": "European Investment Bank"
+                }
+            ],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Millennium bcp",
+                "Caixa Geral de Depósitos",
+                "Novo Banco",
+                "Banco BPI"
+            ]
+        }
+    }
+}

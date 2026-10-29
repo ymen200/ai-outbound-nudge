@@ -1,0 +1,256 @@
+{
+    "domain": "fintechgermanyaward.de",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "FinTech Germany Award",
+                "ai": "Fintech Germany Award"
+            },
+            "domain": {
+                "apollo": "fintechgermanyaward.de",
+                "ai": "fintechgermanyaward.de"
+            },
+            "industry": {
+                "apollo": "financial services",
+                "ai": "Fintech Awards & Events"
+            },
+            "founded_year": {
+                "apollo": 2016,
+                "ai": "2016"
+            },
+            "short_description": {
+                "apollo": "Since 2016, #FTGA has been honoring #startups and scaleups annually whose business ideas have the potential to shape or fundamentally change the financial sector.\n\nIn the categories Seed Stage, Early Stage, Late Stage, Growth Stage and Most Promising International Startup in Germany, young and growth companies are honored by the top-class FTGA Jury.\n\nIn addition, there are special awards. These are reserved for financial tech sectors that are very young or of strategic or outstanding importance from the Jury's point of view.\n\nThe Jury is a mix of highflyer's in their various fields of expertise, with different perspectives on digital topics in the financial industry. Quite a number of the Jury members have been on board for many years. \n\nThe Jury evaluates and compares the startups in their individual company phases, regardless of the respective #FinTech or #InsurTech subsector, according to various criteria. Based on a scoring process, the leading companies are identified, winners are chosen and ceremoniously honored at the awards ceremony.",
+                "ai": "The leading award for fintech companies in Germany, recognizing excellence and innovation in the fintech and insurtech sectors since 2016."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Fintech Germany Award is the leading German award recognizing excellence and innovation among fintech and insurtech startups across various stages and special categories, fostering the financial technology ecosystem since 2016."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_num_employees": {
+                "apollo": 1,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/fintech-germany-award",
+                "ai": "https://de.linkedin.com/company/fintech-germany-award"
+            },
+            "twitter_url": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "facebook_url": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "phone": {
+                "apollo": "Non renseigné",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "Berlin, DE",
+                "ai": null
+            },
+            "city": {
+                "apollo": "Berlin",
+                "ai": null
+            },
+            "country": {
+                "apollo": "Germany",
+                "ai": null
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": null
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "company shortlist",
+                    "ai in finance",
+                    "scale-ups",
+                    "growth stage",
+                    "blockchain",
+                    "germany",
+                    "fintech companies",
+                    "venture funding",
+                    "fintech industry growth",
+                    "valuation growth",
+                    "digital banking",
+                    "judging process",
+                    "artificial intelligence",
+                    "fintech ecosystem",
+                    "industry showcase",
+                    "digital assets",
+                    "fintech industry trends",
+                    "b2b",
+                    "innovation awards",
+                    "ipo",
+                    "innovation",
+                    "fintech industry networking",
+                    "special awards",
+                    "winners",
+                    "special sector awards",
+                    "unicorns",
+                    "industry community",
+                    "financial technology",
+                    "mergers and acquisitions",
+                    "european fintech",
+                    "networking event",
+                    "startups",
+                    "international startups",
+                    "judging criteria",
+                    "categories",
+                    "industry awards in germany",
+                    "user experience",
+                    "fintech industry recognition",
+                    "financial services",
+                    "judging jury",
+                    "fintech",
+                    "community",
+                    "seed stage",
+                    "fintech innovation",
+                    "investment",
+                    "insurtech",
+                    "fintech award",
+                    "services",
+                    "securities and commodity contracts intermediation and brokerage",
+                    "media coverage",
+                    "industry recognition",
+                    "fintech success stories",
+                    "start-up evaluation",
+                    "category awards",
+                    "unicorn startups",
+                    "venture capital",
+                    "fintech industry milestones",
+                    "social media",
+                    "regtech",
+                    "startup competition",
+                    "fintech ecosystem germany",
+                    "sustainable finance",
+                    "sponsorship",
+                    "top-tier jury",
+                    "industry consolidation",
+                    "event organization",
+                    "technology",
+                    "fintech industry awards",
+                    "company evaluation",
+                    "finance",
+                    "information technology & services",
+                    "finance technology",
+                    "mergers & acquisitions",
+                    "ux",
+                    "communities",
+                    "consumer internet",
+                    "consumers",
+                    "internet"
+                ],
+                "ai": "Fintech, Germany, Award, Startup, Innovation, Financial Technology, Event, Conference, Mentorship, Investors, Excellence, Digital Finance, Web3, AI, Sustainable Finance, Proptech, Seed Stage, Early Stage, Growth Stage"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "cloudflare_dns",
+                        "name": "Cloudflare DNS",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "wordpress_org",
+                        "name": "WordPress.org",
+                        "category": "CMS"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "Cloudflare",
+                        "category": "CDN/Security",
+                        "confidence": 0.99,
+                        "source": "Déduction IA depuis empreinte technique: server: cloudflare",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.7,
+                            "evidence_density": 0.17
+                        }
+                    },
+                    {
+                        "name": "CCM19",
+                        "category": "Cookie Consent Management",
+                        "confidence": 0.95,
+                        "source": "Déduction IA depuis empreinte technique: cloud.ccm19.de, Made & Hosted in Germany by CCM19",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.84,
+                            "evidence_density": 0.06
+                        }
+                    },
+                    {
+                        "name": "Tagembed / Tagbox",
+                        "category": "Social Media Aggregation/Widget",
+                        "confidence": 0.9,
+                        "source": "Déduction IA depuis empreinte technique: widget.tagembed.com, cloud.tagbox.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.58,
+                            "evidence_density": 0.22
+                        }
+                    },
+                    {
+                        "name": "Webflow",
+                        "category": "Website Builder/Hosting",
+                        "confidence": 0.8,
+                        "source": "Déduction IA depuis empreinte technique: cdn.prod.website-files.com, d3e54v103j8qbb.cloudfront.net (common Webflow CDNs)",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.69,
+                            "evidence_density": 0.06
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [],
+                "ai": []
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Payment & Banking (Banking-Exchange)",
+                    "Finance Forward Awards",
+                    "Handelsblatt Diamond Star (Digital Banking)",
+                    "Euro Finance Tech",
+                    "SBC Fintech Berlin"
+                ]
+            }
+        }
+    }
+}

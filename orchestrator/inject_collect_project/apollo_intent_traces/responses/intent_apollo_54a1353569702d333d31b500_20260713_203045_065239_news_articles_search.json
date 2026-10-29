@@ -1,0 +1,153 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 10,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "66ff0935aed77f02d48cbf07",
+      "url": "https://www.alten.com/in-an-era-of-rapid-technological-advancement",
+      "domain": "alten.com",
+      "title": "In an era of rapid technological advancement",
+      "snippet": "Since acquiring SDG Group in 2020, specialising in business analytics, data management, AI, and performance management, ALTEN has developed operational and commercial synergies, strengthening its market position and offerings.",
+      "organization_ids": [
+        "54a1353569702d333d31b500",
+        "5ed3564e74ba040001bbac2a"
+      ],
+      "published_at": "2024-09-30T08:11:02.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "66fb988ecdb03c01b4089507",
+      "url": "https://www.gsvglobal.network/news/alten-group-completes-the-acquisition-of-qualitance",
+      "domain": "gsvglobal.network",
+      "title": "Alten Group completes the acquisition of Qualitance",
+      "snippet": "Alten Group completes the acquisition of Qualitance.",
+      "organization_ids": [
+        "54a1353569702d333d31b500",
+        "54a129a769702dc128327b01"
+      ],
+      "published_at": "2024-09-18T00:00:00.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "65f891d473c41f01c62fadc1",
+      "url": "https://www.alten.com/alten-partners-with-bouygues-telecom-entreprises-to-accelerate-the-industrial-adoption-of-private-5g",
+      "domain": "alten.com",
+      "title": "ALTEN partners with Bouygues Telecom Entreprises to accelerate the industrial adoption of private 5G",
+      "snippet": "ALTEN partners with Bouygues Telecom Entreprises to accelerate the industrial adoption of private 5G.",
+      "organization_ids": [
+        "54a1353569702d333d31b500",
+        "556961ba73696425c0c51700"
+      ],
+      "published_at": "2024-03-18T10:53:51.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "65ebf9f63921f20300066d79",
+      "url": "https://www.alten.com/alten-is-hiring-4500-employees-in-france-in-2024",
+      "domain": "alten.com",
+      "title": "ALTEN is hiring 4,500 employees in France in 2024",
+      "snippet": "ALTEN is hiring 4,500 employees in France in 2024.",
+      "organization_ids": [
+        "54a1353569702d333d31b500"
+      ],
+      "published_at": "2024-03-06T09:10:56.000+00:00",
+      "event_categories": [
+        "increases_headcount_by"
+      ]
+    },
+    {
+      "id": "65967bbaccd59301c6268675",
+      "url": "https://bnnbreaking.com/world/us/acl-digital-celebrates-second-year-as-certified-great-place-to-work/",
+      "domain": "bnnbreaking.com",
+      "title": "ACL Digital Celebrates Second Year as Certified Great Place to Work",
+      "snippet": "ACL Digital, an ALTEN Group Company that specializes in digital product innovation, digital engineering, and digital transformation, has been recognized as a Great Place to Work for the second year in a row.",
+      "organization_ids": [
+        "54a1353569702d333d31b500"
+      ],
+      "published_at": "2024-01-03T11:53:40.000+00:00",
+      "event_categories": [
+        "recognized_as"
+      ]
+    },
+    {
+      "id": "65424a9b2dfef200a3298115",
+      "url": "https://www.alten.com/alten-group-receives-2023-bosch-global-supplier-award-as-a-recognition-of-supplier-excellence/",
+      "domain": "alten.com",
+      "title": "ALTEN Group receives 2023 Bosch Global Supplier Award as a recognition of supplier excellence",
+      "snippet": "ALTEN Group receives 2023 Bosch Global Supplier Award as a recognition of supplier excellence.",
+      "organization_ids": [
+        "54a1353569702d333d31b500"
+      ],
+      "published_at": "2023-10-27T09:23:38.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    },
+    {
+      "id": "61f7adfd24c3f200a5b576a8",
+      "url": "https://www.alten-germany.de/en/2022/01/20/alten-gmbh-awarded-as-top-employer-germany/",
+      "domain": "alten-germany.de",
+      "title": "ALTEN GmbH awarded as \"Top Employer Germany”",
+      "snippet": "For the 6th time, ALTEN Technology were awarded as a Top Employer in the category Engineers.",
+      "organization_ids": [
+        "54a1353569702d333d31b500"
+      ],
+      "published_at": "2019-12-28T00:00:00.000+00:00",
+      "event_categories": [
+        "recognized_as"
+      ]
+    },
+    {
+      "id": "61b724cd98a6e300a49652ed",
+      "url": "https://www.alten-germany.de/en/2021/09/10/alten-is-supplier-of-the-year-for-the-third-time/",
+      "domain": "alten-germany.de",
+      "title": "ALTEN \"Supplier of the Year\" in the Engineering category for the third time",
+      "snippet": "For the third time ALTEN Technology receive this year the international “Supplier of the Year” award in the category “Engineering”, which is awarded by Continental Automotive.",
+      "organization_ids": [
+        "54a1353569702d333d31b500"
+      ],
+      "published_at": "2019-12-13T00:00:00.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    },
+    {
+      "id": "61b724d498a6e3014c92b66c",
+      "url": "https://www.alten-germany.de/en/2021/08/09/alten-awarded-as-preferred-supplier-by-bosch/",
+      "domain": "alten-germany.de",
+      "title": "ALTEN awarded as preferred supplier by BOSCH",
+      "snippet": "In BOSCH’s diverse and innovative technology projects, ALTEN Technology has been able to demonstrate precisely this with more than 150 developers and are particularly proud to now be an officially awarded “Preferred Supplier” in the field of engineering.",
+      "organization_ids": [
+        "54a1353569702d333d31b500"
+      ],
+      "published_at": "2019-12-13T00:00:00.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    },
+    {
+      "id": "620b8b8e08286700a5ea3afb",
+      "url": "https://www.alten-germany.de/en/2021/11/11/employee-interview-business-management/",
+      "domain": "alten-germany.de",
+      "title": "Employee Interview Business Management I ALTEN Germany",
+      "snippet": "James Cunningham joined ALTEN Technology in 2017 as an Engineering Consultant and is now Coaching Business Manager since December 2019.",
+      "organization_ids": [
+        "54a1353569702d333d31b500"
+      ],
+      "published_at": "2019-12-01T00:00:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    }
+  ]
+}

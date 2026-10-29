@@ -1,0 +1,149 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 6,
+    "successful_calls": 4,
+    "failed_calls": 2,
+    "prompt_tokens": 7238,
+    "candidates_tokens": 1514,
+    "thoughts_tokens": 5176,
+    "cached_content_tokens": 0,
+    "total_tokens": 13928,
+    "by_model": {
+      "gemini-3.1-flash-lite-preview": {
+        "calls": 2,
+        "total_tokens": 330,
+        "prompt_tokens": 301,
+        "candidates_tokens": 29
+      },
+      "gemini-2.5-flash": {
+        "calls": 2,
+        "total_tokens": 13598,
+        "prompt_tokens": 6937,
+        "candidates_tokens": 1485
+      }
+    },
+    "by_operation": {
+      "browser_config": {
+        "calls": 1,
+        "total_tokens": 147,
+        "prompt_tokens": 119,
+        "candidates_tokens": 28
+      },
+      "extract_apollo": {
+        "calls": 1,
+        "total_tokens": 8095,
+        "prompt_tokens": 3491,
+        "candidates_tokens": 1315
+      },
+      "navigation": {
+        "calls": 1,
+        "total_tokens": 183,
+        "prompt_tokens": 182,
+        "candidates_tokens": 1
+      },
+      "post_process": {
+        "calls": 1,
+        "total_tokens": 5503,
+        "prompt_tokens": 3446,
+        "candidates_tokens": 170
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-23T13:09:06.991888",
+        "prompt_token_count": 119,
+        "candidates_token_count": 28,
+        "total_token_count": 147,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-23T13:09:35.478711"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-23T13:09:57.799782",
+        "prompt_token_count": 3491,
+        "candidates_token_count": 1315,
+        "total_token_count": 8095,
+        "thoughts_token_count": 3289,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-23T13:09:58.337152",
+        "prompt_token_count": 182,
+        "candidates_token_count": 1,
+        "total_token_count": 183,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-23T13:10:09.303019"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-23T13:10:21.650731",
+        "prompt_token_count": 3446,
+        "candidates_token_count": 170,
+        "total_token_count": 5503,
+        "thoughts_token_count": 1887,
+        "cached_content_token_count": 0
+      }
+    ],
+    "companies_scraped_attempted": 1,
+    "companies_scraped_succeeded": 1,
+    "industries": [
+      "Software",
+      "SaaS"
+    ],
+    "locations": [
+      "United States"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "USAMP Publishes Critical Materials in Light-Duty Vehicle Manufacturing White Paper - The United States Automotive Materials Partnership (USAMP) today announced it has published a white paper, “Critical Materials in Light-Duty Vehicle",
+        "date": "2026-02-12",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "USAMP Publishes Critical Materials in Light-Duty Vehicle Manufacturing White Paper",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.38,
+            "evidence_density": 2.84
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "694b0794b901f70021529114",
+        "url": "https://www.bestmag.co.uk/usabc-launches-nine-ev-battery-cell-rfpis",
+        "domain": "bestmag.co.uk",
+        "title": "USABC launches nine EV battery cell RFPIs",
+        "snippet": "USABC launches nine EV battery cell RFPIs.",
+        "organization_ids": [
+            "54a1a12b7468695860684403"
+        ],
+        "published_at": "2025-12-16T09:00:52.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "65cf6258f2b95201c601d4e2",
+        "url": "https://www.accesswire.com/viewarticle.aspx?id=833588&lang=en",
+        "domain": "accesswire.com",
+        "title": "USCAR Announces Publication of 'Roadmap for Automotive Smart Manufacturing'",
+        "snippet": "USCAR announces publication of 'Roadmap for Automotive Smart Manufacturing'",
+        "organization_ids": [
+            "54a1a12b7468695860684403"
+        ],
+        "published_at": "2024-02-14T00:00:00.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    }
+]

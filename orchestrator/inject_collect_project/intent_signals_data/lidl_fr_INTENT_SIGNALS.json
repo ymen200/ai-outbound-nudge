@@ -1,0 +1,80 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Lidl France - Un modèle commercial solide, une culture d'entreprise forte",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Lidl France, c’est l’assurance de la meilleure qualité au vrai prix des bonnes choses.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.42,
+            "evidence_density": 0.85
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Lidl France - Nos produits – La qualité pour tous",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Notre promesse : fraîcheur et qualité au meilleur prix possible – chaque jour.",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.47,
+            "evidence_density": 0.63
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Lidl France - La responsabilité sociétale de l’entreprise chez Lidl",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Chez Lidl, la responsabilité sociétale de l’entreprise est intrinsèque à notre modèle d’affaires.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.15,
+            "evidence_density": 0.69
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Lidl France - Performance et équité – faire carrière chez Lidl",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Chaque jour, nos employés contribuent à rendre possible le succès de Lidl en France.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.65,
+            "evidence_density": 0.74
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Lidl France - Lidl Real Estate - flexibilité et efficacité maximales",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "En centre-ville, en zone rurale, en périphérie ou au sein des métropoles, les supermarchés Lidl offrent toujours la meilleure solution pour chaque emplacement.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.59,
+            "evidence_density": 0.43
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Lidl France - Toute notre actualité Lidl – Consultez notre Espace Presse",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Informations et contacts média : l'Espace Presse Lidl vous donne directement accès à l’ensemble de notre actualité et aux principales informations concernant Lidl en France.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.51,
+            "evidence_density": 0.42
+        }
+    }
+]

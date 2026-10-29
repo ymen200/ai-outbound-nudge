@@ -1,0 +1,119 @@
+{
+    "target_domain": "soprahr.com",
+    "job_country_filter": "Tunisia",
+    "max_intent_age_days": 180,
+    "organization_id": "57c4f9c0a6da986a9894afea",
+    "extracted_jobs": [
+        {
+            "id": "6a1fa1e81a3038000127eeb6",
+            "title": "it support technician level 2",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000128530195-technicien-support-it-niveau-2",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-06-02T03:14:09.000+00:00",
+            "posted_at": "2026-06-02T02:13:44.000+00:00"
+        },
+        {
+            "id": "6a1fa2bf1851150001b08f6a",
+            "title": "messaging engineer",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000128532279-ingenieur-messagerie-h-f-",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-06-02T03:15:07.000+00:00",
+            "posted_at": "2026-06-02T02:13:44.000+00:00"
+        },
+        {
+            "id": "6a16743d2a9c48000196b63a",
+            "title": "Consultant exploitation informatique (Junior Reconversion)",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000128245050-consultant-exploitation-informatique-junior-reconversion-",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-06-02T02:13:44.000+00:00",
+            "posted_at": "2026-05-26T02:08:37.000+00:00"
+        },
+        {
+            "id": "69fab6ab9d784d0001a60f75",
+            "title": "network and systems architect",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000123740666-architecte-reseaux-et-systemes",
+            "city": "Tunis",
+            "state": "Tunis",
+            "country": "Tunisia",
+            "last_seen_at": "2026-05-28T10:45:34.000+00:00",
+            "posted_at": "2026-04-29T16:50:17.000+00:00"
+        },
+        {
+            "id": "69e83b64fe465a00013b0374",
+            "title": "Architecte Technique Senior – Cloud & Infrastructure",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000121251487-architecte-technique-senior-cloud-infrastructure",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-06-03T15:29:11.000+00:00",
+            "posted_at": "2026-04-21T01:13:09.000+00:00"
+        },
+        {
+            "id": "69df1b9a69240d00019b7972",
+            "title": "senior engineer",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000120356367-developpeur-senior",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-06-03T03:36:17.000+00:00",
+            "posted_at": "2026-04-14T01:01:17.000+00:00"
+        },
+        {
+            "id": "69cc9a77135fb2000183417b",
+            "title": "ai engineer",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000116630965-ai-engineer",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-06-03T03:36:24.000+00:00",
+            "posted_at": "2026-03-31T00:49:03.000+00:00"
+        },
+        {
+            "id": "69cc97f9a344cb0001dfdbed",
+            "title": "database administrator",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000116631797-administrateur-base-de-donnees-dba",
+            "city": "Tunis",
+            "state": "Tunis",
+            "country": "Tunisia",
+            "last_seen_at": "2026-06-03T03:35:53.000+00:00",
+            "posted_at": "2026-03-31T00:49:03.000+00:00"
+        },
+        {
+            "id": "69a7a40e13f7a10001708700",
+            "title": "Responsable Exploitation IT (HR Access)",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000111627392-responsable-exploitation-it-hr-access-",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-05-20T08:46:54.000+00:00",
+            "posted_at": "2026-03-03T01:02:30.000+00:00"
+        },
+        {
+            "id": "69a7ab518d10e80001bf3a6a",
+            "title": "Responsable d’intégration applicative (Produit Pléiade)",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000111628254-responsable-d-integration-applicative-produit-pleiade-",
+            "city": null,
+            "state": null,
+            "country": "Tunisia",
+            "last_seen_at": "2026-05-20T08:51:35.000+00:00",
+            "posted_at": "2026-03-03T01:02:30.000+00:00"
+        },
+        {
+            "id": "6a0bd7f02c95880001c011a2",
+            "title": "Responsable Production Applicative Cloud",
+            "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000110712514-responsable-production-applicative-cloud",
+            "city": "Tunis",
+            "state": "Tunis",
+            "country": "Tunisia",
+            "last_seen_at": "2026-05-21T17:35:41.000+00:00",
+            "posted_at": "2026-02-23T09:56:34.000+00:00"
+        }
+    ],
+    "extracted_news": []
+}

@@ -1,0 +1,29 @@
+{
+  "company": "NovaTech Solutions",
+  "contact": {
+    "full_name": "Amira Ben Salah",
+    "job_title": "Marketing Director",
+    "email": "amira.bensalah@novatech.tn",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "location": "Tunis, Tunisia",
+    "phone": "+216 71 234 567",
+    "linkedin": "linkedin.com/in/amirabensalah",
+    "is_connected_on_linkedin": false
+  },
+  "web_context": {
+    "profil_brut": "Amira Ben Salah is Marketing Director at NovaTech Solutions, a Tunisian IT company with 150 employees. She recently published LinkedIn articles about digital transformation and marketing automation in North Africa. NovaTech is expanding into the European market.",
+    "offer_context": "AI-powered outreach platform that automates multi-channel B2B sequences with smart timing, language detection, and human-in-the-loop approval.",
+    "icp_description": "B2B companies with 50-500 employees in North Africa and Europe, looking to improve outbound sales efficiency."
+  },
+  "sender_info": {
+    "company_name": "OutreachAI",
+    "elevator_pitch": "We help B2B teams automate personalized outreach at scale with AI-generated sequences and messages.",
+    "offer_name": "Outreach Automation Audit",
+    "solution_summary": "A free audit of your current outreach process to identify bottlenecks and show how AI can 2x your meeting rates.",
+    "cta": "Would you be open to a 15-minute call to discuss how this could help NovaTech's European expansion?"
+  },
+  "approval_mode": "per_sequence",
+  "use_native_language": false,
+  "message_language": null
+}

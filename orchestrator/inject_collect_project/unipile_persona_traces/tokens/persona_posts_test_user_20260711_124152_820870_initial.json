@@ -1,0 +1,20 @@
+{
+  "account_snapshot": {
+    "id": "Y_9wUqZjSzCmGub3NUO1gw",
+    "name": "Aymen Ouerghi",
+    "type": "LINKEDIN",
+    "created_at": "2026-07-04T23:18:31.399Z",
+    "sources": [
+      {
+        "id": "Y_9wUqZjSzCmGub3NUO1gw_MESSAGING",
+        "status": "OK"
+      }
+    ]
+  },
+  "connected_accounts": {
+    "count": 1,
+    "types": {
+      "LINKEDIN": 1
+    }
+  }
+}

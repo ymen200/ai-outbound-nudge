@@ -1,0 +1,40 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 2,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "6a424fe17d06e200187a7466",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/asseco-south-eastern-europe-updates-investor-materials-regional-it-peer/69610318",
+      "domain": "ad-hoc-news.de",
+      "title": "Asseco South Eastern Europe updates investor materials, regional IT peer comparison for the stock.",
+      "snippet": "In sector terms, Asseco South Eastern Europe competes for contracts with the local units of larger European IT providers such as Atos and Capgemini, which both run extensive consulting and outsourcing operations across the continent.",
+      "organization_ids": [
+        "5c212b41a3ae61858511e589",
+        "5f480c749c39680001856b60"
+      ],
+      "published_at": "2026-06-23T00:00:00.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "6a424fb756a8840020b6b46d",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/asseco-south-eastern-europe-updates-investor-materials-regional-it-peer/69610318",
+      "domain": "ad-hoc-news.de",
+      "title": "Asseco South Eastern Europe updates investor materials, regional IT peer comparison for the stock.",
+      "snippet": "In sector terms, Asseco South Eastern Europe competes for contracts with the local units of larger European IT providers such as Atos and Capgemini, which both run extensive consulting and outsourcing operations across the continent.",
+      "organization_ids": [
+        "5c212b41a3ae61858511e589",
+        "5d5d2c6ec8570e00d9c50aa5"
+      ],
+      "published_at": "2026-06-23T00:00:00.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+    "annual_revenue": null,
+    "apollo_id": "56d70620f3e5bb15f3002456",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "domain": "rbs.co.uk",
+    "estimated_num_employees": 56000,
+    "facebook_url": "http://www.facebook.com/royalbankofscotland",
+    "founded_year": 1727,
+    "funding_events": [],
+    "industry": "Banking and Financial Services",
+    "keywords": [
+        "Banking",
+        "Mortgages",
+        "Savings",
+        "Loans",
+        "ISA",
+        "Credit Score",
+        "Financial Health",
+        "Fraud Prevention",
+        "APP Scams",
+        "Personal Accounts"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/royal-bank-of-scotland-business",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a6a0c551b97600018d1a17/picture",
+    "name": "Royal Bank of Scotland (36 Saint Andrew Square Branch)",
+    "num_suborganizations": 0,
+    "phone": "+44 34 5600 2230",
+    "postal_code": "EH2 2AD",
+    "raw_address": "36 Saint Andrew Square, Edinburgh, United Kingdom",
+    "seo_description": "Royal Bank of Scotland Online – Bank Accounts, Mortgages, Loans and Savings",
+    "short_description": "Retail and commercial bank providing accounts, mortgages, loans, and investment services.",
+    "state": "Scotland",
+    "street_address": "36 Saint Andrew Square",
+    "suborganizations": "Non renseigné",
+    "technologies": [
+        {
+            "uid": "liveperson",
+            "name": "LivePerson",
+            "category": "Customer Service / Chat"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Compliance / Cookie Management"
+        },
+        {
+            "uid": "adobe_launch_/_dtm",
+            "name": "Adobe Launch / DTM",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "adobe_experience_manager_/_helix",
+            "name": "Adobe Experience Manager / Helix",
+            "category": "CMS"
+        },
+        {
+            "uid": "cora_ai",
+            "name": "Cora AI",
+            "category": "Conversational AI"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "http://twitter.com/rbs_help",
+    "website_url": "http://www.rbs.co.uk",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "NatWest Group",
+    "competitors": [
+        "Barclays",
+        "HSBC UK",
+        "Lloyds Bank",
+        "Santander UK",
+        "Bank of Scotland"
+    ],
+    "data_quality_score": 0.94
+}

@@ -1,0 +1,135 @@
+{
+    "annual_revenue": null,
+    "apollo_id": "5db07bba238a190001ec5b99",
+    "city": "Canberra",
+    "country": "Australia",
+    "departments": {
+        "human_resources": 9,
+        "consulting": 9,
+        "information_technology": 2,
+        "finance": 1,
+        "accounting": 0,
+        "sales": 0,
+        "operations": 0,
+        "marketing": 0,
+        "legal": 0,
+        "engineering": 0,
+        "business_development": 0,
+        "product_management": 0,
+        "education": 0,
+        "administrative": 0,
+        "media_and_commmunication": 0,
+        "arts_and_design": 0,
+        "entrepreneurship": 0,
+        "support": 0,
+        "data_science": 0
+    },
+    "domain": "www.italliance.com.au",
+    "estimated_num_employees": 30,
+    "facebook_url": null,
+    "founded_year": "2016",
+    "funding_events": [],
+    "industry": "IT Recruitment, ICT Resourcing, Consulting",
+    "keywords": [
+        "professional services",
+        "it recruitment",
+        "it advisory",
+        "hr advisory",
+        "corporate training",
+        "it resourcing",
+        "it resourcing & it recruitment",
+        "professional training & coaching",
+        "ICT Resourcing",
+        "Canberra",
+        "Australia",
+        "Government",
+        "Defence",
+        "Security Cleared Professionals",
+        "Staffing Solutions",
+        "Consulting",
+        "Contract recruitment",
+        "Permanent recruitment",
+        "SME",
+        "ISO 27001",
+        "DISP",
+        "Digital Marketplace Panel",
+        "ICTPA",
+        "Talent Acquisition"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/it-alliance-aus",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ae6406f68668000151455f/picture",
+    "name": "IT Alliance Australia",
+    "num_suborganizations": 0,
+    "phone": "1300 127 460",
+    "postal_code": "2600",
+    "raw_address": "10 National Circuit, Barton, ACT 2611",
+    "seo_description": "IT Recruitment Specialists in Canberra | IT Recruitment Agencies in Canberra | Best IT Recruitment Agencies in Australia | Top IT Recruitment Agencies in Canberra |",
+    "short_description": "IT Alliance Australia is a Canberra-based SME specializing in ICT recruitment and consulting services, providing security-cleared professionals for government and defence projects across Australia.",
+    "state": "Australian Capital Territory",
+    "street_address": "10 National Cct",
+    "suborganizations": [],
+    "technologies": [
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress",
+            "name": "WordPress",
+            "category": "CMS"
+        },
+        {
+            "uid": "elementor",
+            "name": "Elementor",
+            "category": "Page Builder"
+        },
+        {
+            "uid": "all_in_one_seo_(aioseo)",
+            "name": "All in One SEO (AIOSEO)",
+            "category": "SEO Plugin"
+        },
+        {
+            "uid": "font_awesome",
+            "name": "Font Awesome",
+            "category": "Icon Library"
+        },
+        {
+            "uid": "swiper",
+            "name": "Swiper",
+            "category": "Slider Library"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.italliance.com.au",
+    "is_subsidiary": false,
+    "competitors": [
+        "Paxus",
+        "Finite IT Recruitment",
+        "Talent International",
+        "RecruitAbility"
+    ],
+    "data_quality_score": 0.93
+}

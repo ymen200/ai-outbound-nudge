@@ -1,0 +1,119 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Frédéric Gauchet réélu président de France Chimie - L’Assemblée générale de France Chimie a élu à l’unanimité Frédéric Gauchet Président de France Chimie pour un second mandat.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "L’Assemblée générale de France Chimie a élu à l’unanimité Frédéric Gauchet Président de France Chimie pour un second mandat.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.03,
+            "evidence_density": 1.42
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Les lycéens champions de la Chimie récompensés lors des Olympiades Nationales de la Chimie - Les Olympiades de la Chimie sont organisées annuellement à l’échelle nationale et régionale afin de promouvoir l’intérêt des lycéens pour la discipline et d’illustrer son apport essentiel à la société.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Les Olympiades de la Chimie sont organisées annuellement à l’échelle nationale et régionale afin de promouvoir l’intérêt des lycéens pour la discipline et d’illustrer son apport essentiel à la société.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.69,
+            "evidence_density": 1.46
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "« Label RSE Chimie » : le label de référence pour une Chimie encore plus responsable - France Chimie lance le « Label RSE Chimie » en partenariat avec AFNOR Certification pour reconnaître et valoriser l’engagement RSE des entreprises de la chimie.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "France Chimie lance le « Label RSE Chimie » en partenariat avec AFNOR Certification pour reconnaître et valoriser l’engagement RSE des entreprises de la chimie.",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.01,
+            "evidence_density": 1.54
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Impact de la guerre au Moyen-Orient - Au sortir d’une année 2025 difficile pour la Chimie européenne, le conflit au Moyen-Orient risque de la fragiliser davantage.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Au sortir d’une année 2025 difficile pour la Chimie européenne, le conflit au Moyen-Orient risque de la fragiliser davantage.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.07,
+            "evidence_density": 1.3
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Des étudiants en Chimie primés pour leurs innovations pour une société plus durable - Décerné par un jury d’industriels de la Chimie, le Prix Jeunes pour l’Innovation récompense les projets d’innovation en faveur d’une société durable des étudiants ingénieurs des 20 écoles de chimie et génie des procédés de la Fédération Gay-Lussac.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Décerné par un jury d’industriels de la Chimie, le Prix Jeunes pour l’Innovation récompense les projets d’innovation en faveur d’une société durable des étudiants ingénieurs des 20 écoles de chimie et génie des procédés de la Fédération Gay-Lussac.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.05,
+            "evidence_density": 1.35
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "France Chimie salue les annonces du gouvernement en faveur de la Chimie - A l’issue d'une réunion organisée aujourd'hui à Bercy avec des représentants de l’industrie de la Chimie, le ministre délégué chargé de l’Industrie, Sébastien Martin, a annoncé des mesures pour répondre à la crise que traverse ce secteur.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "A l’issue d'une réunion organisée aujourd'hui à Bercy avec des représentants de l’industrie de la Chimie, le ministre délégué chargé de l’Industrie, Sébastien Martin, a annoncé des mesures pour répondre à la crise que traverse ce secteur.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.07,
+            "evidence_density": 1.31
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "La guerre au Moyen-Orient percute une Chimie toujours en crise - La restructuration de la Chimie en France et en Europe s’aggrave.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "La restructuration de la Chimie en France et en Europe s’aggrave.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.13,
+            "evidence_density": 2.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "La Chimie s'engage dans la démarche Achats Responsables - France Chimie et 30 entreprises ont signé la charte RFAR (Relation Fournisseur Achats Responsables)",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "France Chimie et 30 entreprises ont signé la charte RFAR (Relation Fournisseur Achats Responsables)",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.03,
+            "evidence_density": 1.59
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "7 entreprises de la Chimie récompensées pour leurs initiatives en matière de RSE - Les Trophées Responsible Care ont pour objectif de faire connaître, partager et valoriser les bonnes pratiques du secteur en matière de RSE en récompensant des actions innovantes de PME, ETI ou grands groupes de la Chimie.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Les Trophées Responsible Care ont pour objectif de faire connaître, partager et valoriser les bonnes pratiques du secteur en matière de RSE en récompensant des actions innovantes de PME, ETI ou grands groupes de la Chimie.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.04,
+            "evidence_density": 1.37
+        }
+    }
+]

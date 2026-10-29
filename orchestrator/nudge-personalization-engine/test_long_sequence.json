@@ -1,0 +1,57 @@
+{
+  "lead_id": "test-long-001",
+  "campaign_id": "campaign_long",
+  "entreprise": "Microsoft",
+  "contact_info": {
+    "full_name": "Satya Nadella",
+    "nom": "Satya Nadella",
+    "job_title": "CEO",
+    "titre": "CEO",
+    "email": "satya@microsoft.com",
+    "country": "United States",
+    "city": "Redmond",
+    "location": "Redmond, United States",
+    "linkedin": "https://linkedin.com/in/satyanadella",
+    "phone": "",
+    "is_connected_on_linkedin": false,
+    "has_inmail_credits": false
+  },
+  "contexte_web": {
+    "profil_brut": "Satya is CEO of Microsoft, leading the company's cloud and AI transformation. Recently spoke about AI democratization and responsible AI development.",
+    "offer_context": "AI governance and compliance platform for enterprise",
+    "icp_description": "Enterprise executives at Fortune 500 companies dealing with AI governance"
+  },
+  "use_native_language": false,
+  "message_language": null,
+  "approval_mode": "per_sequence",
+  "sender_company": "AIGov",
+  "sender_elevator_pitch": "Enterprise AI governance and compliance platform",
+  "offer_name": "AIGov Enterprise",
+  "solution_summary": "Complete AI governance solution for enterprise AI deployments",
+  "cta": "Schedule executive briefing",
+  "max_touches": 10,
+  "max_days": 30,
+  "preferred_first_channel": "email",
+  "sequence_options": {
+    "vary_tone": true,
+    "include_breakup": true,
+    "reference_previous": true,
+    "escalate_urgency": true,
+    "cross_channel": true
+  },
+  "stage_instructions": {
+    "first_touch": "Executive-level introduction, reference recent AI governance initiatives",
+    "second_touch": "Share industry insights on AI compliance challenges",
+    "third_touch": "Be more direct, propose executive briefing"
+  },
+  "personality_config": {
+    "base_template": "consultative",
+    "personality_traits": ["Executive", "Strategic"],
+    "always_include_phrases": ["AI governance", "enterprise compliance"],
+    "never_use_phrases": ["game-changer", "revolutionary"],
+    "urgency_level": 4,
+    "humor_sarcasm": 1,
+    "touchdowns_per_message": 3
+  },
+  "debug_mode": true
+}

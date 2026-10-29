@@ -1,0 +1,434 @@
+{
+    "domain": "successfultunisia.com",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "Successful Tunisia",
+                "ai": "Successful Tunisia"
+            },
+            "domain": {
+                "apollo": "successfultunisia.com",
+                "ai": "successfultunisia.com"
+            },
+            "industry": {
+                "apollo": "online media",
+                "ai": "Média d'actualités et d'informations, portail de réussites"
+            },
+            "founded_year": {
+                "apollo": 2020,
+                "ai": null
+            },
+            "short_description": {
+                "apollo": "Successful Tunisia is an online media platform based in Tunis that highlights economic, entrepreneurial, and societal success stories in Tunisia. With a team of around 27 employees, it focuses on showcasing Tunisian achievements, innovative companies, and prominent figures, aiming to promote a positive image of the country.\n\nThe platform publishes articles and features on various topics, including business and industry, entrepreneurship, and profiles of notable Tunisians. It covers success stories of companies like Unimed and Avionav, as well as distinguished professionals such as Nadia Dhouib. Successful Tunisia serves as a digital editorial outlet, providing visibility for featured companies and individuals, thereby enhancing their reputation in both local and international contexts.",
+                "ai": "Successful Tunisia est un portail d'actualités et de récits de succès axé sur la Tunisie, couvrant des domaines variés tels que l'économie, l'innovation, la culture, le sport et les initiatives sociales."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Découvrez les dernières actualités, les histoires de réussite, les innovations et les événements marquants en Tunisie dans les domaines de l'économie, de la culture, du sport et de la technologie."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_num_employees": {
+                "apollo": 75,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/successful-tunisia",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "facebook_url": {
+                "apollo": "https://www.facebook.com/successfultunisia",
+                "ai": null
+            },
+            "phone": {
+                "apollo": "Non renseigné",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "les Berges du Lac , Tunis 1053, TN",
+                "ai": null
+            },
+            "city": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "country": {
+                "apollo": "Tunisia",
+                "ai": "Tunisia"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": null
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "journalisme",
+                    "mobile journalisme",
+                    "digital marketing",
+                    "social media",
+                    "press relations",
+                    "website development",
+                    "economy",
+                    "montage video",
+                    "photography",
+                    "infography",
+                    "communication dentreprise",
+                    "email marketing",
+                    "communique de presse",
+                    "personal branding",
+                    "redaction de contenu web",
+                    "content marketing",
+                    "b2b marketing",
+                    "ereputation",
+                    "digital branding",
+                    "online audio & video media",
+                    "marketing & advertising",
+                    "consumer internet",
+                    "consumers",
+                    "internet",
+                    "information technology & services",
+                    "web development",
+                    "online media"
+                ],
+                "ai": "Tunisie, actualités, succès, économie, culture, sport, innovation, social, entreprise, technologie, développement durable, initiatives"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "apache",
+                        "name": "Apache",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "apache_http_server",
+                        "name": "Apache HTTP Server",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "captcha",
+                        "name": "CAPTCHA",
+                        "category": "Captcha"
+                    },
+                    {
+                        "uid": "contact_form_7",
+                        "name": "Contact Form 7",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "cookie_yes",
+                        "name": "CookieYes",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "facebook",
+                        "name": "Facebook",
+                        "category": "Social Media Marketing"
+                    },
+                    {
+                        "uid": "facebook_like_button",
+                        "name": "Facebook Like Button",
+                        "category": "Social Sharing"
+                    },
+                    {
+                        "uid": "facebook_login",
+                        "name": "Facebook Login (Connect)",
+                        "category": "Social Login"
+                    },
+                    {
+                        "uid": "facebook_meta",
+                        "name": "Facebook Meta",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "facebook_sdk",
+                        "name": "Facebook SDK",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "facebook_share_button",
+                        "name": "Facebook Social Plugins",
+                        "category": "Social Sharing"
+                    },
+                    {
+                        "uid": "facebook_widget",
+                        "name": "Facebook Widget",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "google_adsense",
+                        "name": "Google AdSense",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "google_analytics",
+                        "name": "Google Analytics",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_async",
+                        "name": "Google Custom Search",
+                        "category": "Search Appliances"
+                    },
+                    {
+                        "uid": "google_font_api",
+                        "name": "Google Font API",
+                        "category": "Fonts"
+                    },
+                    {
+                        "uid": "google_hosted_libraries",
+                        "name": "Google Hosted Libraries",
+                        "category": "Content Delivery Networks"
+                    },
+                    {
+                        "uid": "google_tag_manager",
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "hsts",
+                        "name": "HSTS",
+                        "category": "Security"
+                    },
+                    {
+                        "uid": "lightbox",
+                        "name": "Lightbox",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "modernizr",
+                        "name": "Modernizr",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "ovh",
+                        "name": "OVH",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "ovh_hosting",
+                        "name": "OVH Hosting",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "ovhcloud",
+                        "name": "OVHcloud",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "open_graph",
+                        "name": "Open Graph",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "php",
+                        "name": "PHP",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "priority_hints",
+                        "name": "Priority Hints",
+                        "category": "Web Performance Monitoring"
+                    },
+                    {
+                        "uid": "rss",
+                        "name": "RSS",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "sassy_social_share",
+                        "name": "Sassy Social Share",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "site_kit",
+                        "name": "Site Kit",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "twitter_sharing",
+                        "name": "Twitter Sharing",
+                        "category": "Social Sharing"
+                    },
+                    {
+                        "uid": "ultimatelysocial",
+                        "name": "UltimatelySocial",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "viewport_meta",
+                        "name": "Viewport Meta",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "wordpress_org",
+                        "name": "WordPress.org",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "wordpress",
+                        "name": "Wordpress",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "yoast",
+                        "name": "Yoast",
+                        "category": "Content Management Platform"
+                    },
+                    {
+                        "uid": "jquery",
+                        "name": "jQuery",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "jquery_migrate",
+                        "name": "jQuery Migrate",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "recaptcha",
+                        "name": "reCAPTCHA",
+                        "category": "Captcha"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "WordPress",
+                        "category": "CMS",
+                        "confidence": 1.0,
+                        "source": "link: <https://successfultunisia.com/wp-json/>; rel=\"https://api.w.org/\", MATCHES REGEX CLASSIQUES: WordPress",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.85,
+                            "evidence_density": 0.08
+                        }
+                    },
+                    {
+                        "name": "PHP",
+                        "category": "Langage de programmation",
+                        "confidence": 0.99,
+                        "source": "x-powered-by: PHP/8.2",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.74,
+                            "evidence_density": 0.14
+                        }
+                    },
+                    {
+                        "name": "Apache",
+                        "category": "Serveur web",
+                        "confidence": 0.99,
+                        "source": "server: Apache",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.39,
+                            "evidence_density": 0.43
+                        }
+                    },
+                    {
+                        "name": "Google Analytics",
+                        "category": "Web Analytics",
+                        "confidence": 1.0,
+                        "source": "SCRIPTS EXTERNES CHARGÉS (Échantillon): www.google-analytics.com, MATCHES REGEX CLASSIQUES: Google Analytics",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.74,
+                            "evidence_density": 0.15
+                        }
+                    },
+                    {
+                        "name": "Google Tag Manager",
+                        "category": "Gestionnaire de tags",
+                        "confidence": 1.0,
+                        "source": "SCRIPTS EXTERNES CHARGÉS (Échantillon): www.googletagmanager.com, MATCHES REGEX CLASSIQUES: Google Tag Manager",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.72,
+                            "evidence_density": 0.16
+                        }
+                    },
+                    {
+                        "name": "Google Adsense",
+                        "category": "Régie publicitaire",
+                        "confidence": 0.9,
+                        "source": "SCRIPTS EXTERNES CHARGÉS (Échantillon): pagead2.googlesyndication.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.71,
+                            "evidence_density": 0.2
+                        }
+                    },
+                    {
+                        "name": "Facebook Connect",
+                        "category": "Social Media Integration",
+                        "confidence": 0.9,
+                        "source": "SCRIPTS EXTERNES CHARGÉS (Échantillon): connect.facebook.net",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.61,
+                            "evidence_density": 0.27
+                        }
+                    },
+                    {
+                        "name": "Yoast SEO",
+                        "category": "SEO Plugin",
+                        "confidence": 0.9,
+                        "source": "PRÉFIXES CSS DÉTECTÉS: yoast-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.64,
+                            "evidence_density": 0.3
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [],
+                "ai": []
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Managers.tn",
+                    "IlBoursa.com",
+                    "Entreprises Magazine",
+                    "THD.tn",
+                    "Business News Tunisia"
+                ]
+            }
+        }
+    }
+}

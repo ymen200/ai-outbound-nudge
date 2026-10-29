@@ -1,0 +1,238 @@
+{
+  "organization": {
+    "id": "60489ff40028a70001ec385d",
+    "name": "Algerian Ministry of National Education",
+    "website_url": "http://www.education.gov.dz",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/algerian-ministry-of-national-education",
+    "twitter_url": null,
+    "facebook_url": null,
+    "primary_phone": {},
+    "languages": [],
+    "alexa_ranking": 36928,
+    "phone": null,
+    "linkedin_uid": "71140581",
+    "founded_year": null,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66f1c941de5195000159114d/picture",
+    "crunchbase_url": null,
+    "primary_domain": "education.gov.dz",
+    "sic_codes": [
+      "8299"
+    ],
+    "naics_codes": [
+      "61111",
+      "92311"
+    ],
+    "industry": "government administration",
+    "estimated_num_employees": 673000,
+    "keywords": [
+      "government communication",
+      "official education reports algeria",
+      "government reports",
+      "government sector oversight",
+      "official portals",
+      "official data",
+      "sector scheduling algeria",
+      "education",
+      "educational scheduling",
+      "government communication channels education",
+      "elementary and secondary schools",
+      "education statistics",
+      "public administration",
+      "algerian government education portals",
+      "public sector management",
+      "education oversight",
+      "government education data",
+      "government data",
+      "e-learning",
+      "education management",
+      "educational institutions",
+      "government",
+      "online learning",
+      "government websites",
+      "sector planning",
+      "official contact information",
+      "government portals",
+      "education sector planning algeria",
+      "algerian education",
+      "sector oversight",
+      "administrative data",
+      "policy planning",
+      "services",
+      "education policy",
+      "sector data",
+      "official reports",
+      "public education management algeria",
+      "public sector education algeria",
+      "public sector oversight",
+      "education sector algeria",
+      "education dates",
+      "government scheduling",
+      "administrative communication",
+      "official algerian education websites",
+      "public sector education",
+      "internet",
+      "information technology & services",
+      "computer software"
+    ],
+    "organization_revenue_printed": null,
+    "organization_revenue": 0.0,
+    "industries": [
+      "government administration"
+    ],
+    "secondary_industries": [],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd527369643981050000",
+    "industry_tag_hash": {
+      "government administration": "5567cd527369643981050000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "el mouradia, algiers province, algeria",
+    "street_address": "",
+    "city": "El Mouradia",
+    "state": "Algiers",
+    "postal_code": null,
+    "country": "Algeria",
+    "owned_by_organization_id": null,
+    "num_languages": 0,
+    "num_retail_locations": 0,
+    "short_description": "The Algerian Ministry of National Education is the governmental body responsible for overseeing education in Algeria. Headquartered in El Mouradia, Algiers Province, it employs over 10,001 staff members. The ministry manages the national education system, which includes preparatory, primary, secondary, vocational, and higher education levels. Education is compulsory and free for children from ages 6 to 9.\n\nThe ministry's responsibilities encompass policy-making, administration, and implementation of educational programs. It focuses on foundational learning in primary education, builds on this in secondary education, and promotes vocational and technical training. The ministry also oversees higher education, emphasizing scientific research and development. It collaborates with international organizations, such as ALECSO, to enhance vocational education initiatives.",
+    "suborganizations": [],
+    "num_suborganizations": 0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      "CAPTCHA",
+      "Font Awesome",
+      "Google Font API",
+      "Mobile Friendly",
+      "Open Graph",
+      "PrimeNG",
+      "Priority Hints",
+      "RSS",
+      "Viewport Meta",
+      "WordPress.org",
+      "Wordpress",
+      "Yoast",
+      "YouTube",
+      "cdnjs",
+      "jQuery",
+      "reCAPTCHA"
+    ],
+    "current_technologies": [
+      {
+        "uid": "captcha",
+        "name": "CAPTCHA",
+        "category": "Captcha"
+      },
+      {
+        "uid": "font_awesome",
+        "name": "Font Awesome",
+        "category": "Fonts"
+      },
+      {
+        "uid": "google_font_api",
+        "name": "Google Font API",
+        "category": "Fonts"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "open_graph",
+        "name": "Open Graph",
+        "category": "Other"
+      },
+      {
+        "uid": "primeng",
+        "name": "PrimeNG",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "priority_hints",
+        "name": "Priority Hints",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "rss",
+        "name": "RSS",
+        "category": "Other"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "wordpress_org",
+        "name": "WordPress.org",
+        "category": "CMS"
+      },
+      {
+        "uid": "wordpress",
+        "name": "Wordpress",
+        "category": "CMS"
+      },
+      {
+        "uid": "yoast",
+        "name": "Yoast",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "youtube",
+        "name": "YouTube",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "cdnjs",
+        "name": "cdnjs",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "jquery",
+        "name": "jQuery",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "recaptcha",
+        "name": "reCAPTCHA",
+        "category": "Captcha"
+      }
+    ],
+    "org_chart_root_people_ids": [],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "operations": 1,
+      "education": 368,
+      "engineering": 5,
+      "administrative": 4,
+      "information_technology": 3,
+      "finance": 4,
+      "accounting": 1,
+      "sales": 0,
+      "marketing": 0,
+      "human_resources": 0,
+      "legal": 0,
+      "business_development": 0,
+      "product_management": 0,
+      "consulting": 0,
+      "media_and_commmunication": 0,
+      "arts_and_design": 0,
+      "entrepreneurship": 0,
+      "support": 0,
+      "data_science": 0
+    },
+    "organization_headcount_six_month_growth": 0.002949852507374631,
+    "organization_headcount_twelve_month_growth": 0.03658536585365853,
+    "organization_headcount_twenty_four_month_growth": 0.1074918566775244
+  }
+}

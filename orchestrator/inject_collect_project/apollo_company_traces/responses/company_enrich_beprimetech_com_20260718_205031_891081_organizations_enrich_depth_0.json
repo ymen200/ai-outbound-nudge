@@ -1,0 +1,212 @@
+{
+  "organization": {
+    "id": "637c9f4a009ac60001489718",
+    "name": "BePrimeTech",
+    "website_url": "http://www.beprimetech.com",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/be-prime-tech",
+    "twitter_url": null,
+    "facebook_url": null,
+    "primary_phone": {},
+    "languages": [],
+    "alexa_ranking": null,
+    "phone": null,
+    "linkedin_uid": "84925327",
+    "founded_year": null,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/671a5a2f9376300001497f32/picture",
+    "crunchbase_url": null,
+    "primary_domain": "beprimetech.com",
+    "sic_codes": [
+      "7372",
+      "7371"
+    ],
+    "naics_codes": [
+      "51321"
+    ],
+    "industry": "information technology & services",
+    "estimated_num_employees": 13,
+    "keywords": [
+      "it services & it consulting",
+      "b2b",
+      "saas",
+      "services",
+      "information technology & services",
+      "computer software"
+    ],
+    "organization_revenue_printed": null,
+    "organization_revenue": 0.0,
+    "industries": [
+      "information technology & services",
+      "computer software"
+    ],
+    "secondary_industries": [
+      "computer software"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd4773696439b10b0000",
+    "industry_tag_hash": {
+      "information technology & services": "5567cd4773696439b10b0000",
+      "computer software": "5567cd4e7369643b70010000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "10 Avenue Abderrahmen Azzam, Tunis 1073, Tunis, TUNISIA 1073, TN",
+    "street_address": "12 شارع عبد الرحمان عزام",
+    "city": null,
+    "state": null,
+    "postal_code": null,
+    "country": "Tunisia",
+    "owned_by_organization_id": null,
+    "num_languages": 0,
+    "num_retail_locations": 0,
+    "short_description": "BePrimeTech est une Start-Up ayant comme spécialité la création et le développement des solutions logicielles adaptées à la croissance perpétuelle de la vie professionnelle et les exigences multiples y corrélatives notamment la digitalisation de l'amas des processus « métier ». \nSoucieux de répondre efficacement aux différentes aspirations et ambitions de nos potentiels clients, BePrimeTech, grâce à la qualité de ses départements organisationnels et opérationnels, se milite à vous fournir les services nécessaires pour un meilleur déroulement de la phase d'accompagnement et de suivi dans le cadre de la création d'une solution sur-mesure. D'ailleurs, un méli-mélo d'étapes se conjugue afin d'aboutir à des résultats pertinents et appropriés ; \n         - L'identification des besoins du client ;\n         -L'élaboration du cahier des charges ;   \n         - La détermination de la conception de la solution informatique ; \n         -La planification des différents stades du processus de la réalisation\n         - La mise en œuvre et le développement de la solution ; \n         - La soumission de la solution à un agrégat de Tests tels que la performance, la sécurité, le Graphique, la compatibilité et la robustesse ;  \n          - La mise en production ;  \n           - L'attribution d'une durée suffisante et raisonnable pour la phase d'essai et ce dans le but de cerner les potentielles anomalies caractérisant la solution lors de l'utilisation ; \n           -  La maintenance logicielle de la solution ;     \nBePrimeTech, propose, là encore, en faveur de ses clients des solutions spécifiques performantes et opérantes en tenant compte de la spécificité de chaque domaine de métier telles que la gestion commerciale, la gestion de production, la gestion comptable et financière, la gestion des stocks, la gestion de la relation client, etc…",
+    "suborganizations": [],
+    "num_suborganizations": 0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      "AI",
+      "Google Search Console",
+      "HREF Lang",
+      "MailJet",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Mobile Friendly",
+      "Next.js",
+      "Nginx",
+      "OVHcloud",
+      "Outlook",
+      "Remote",
+      "Slack",
+      "Viewport Meta"
+    ],
+    "current_technologies": [
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "href_lang",
+        "name": "HREF Lang",
+        "category": "Other"
+      },
+      {
+        "uid": "mailjet",
+        "name": "MailJet",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "nextjs",
+        "name": "Next.js",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "nginx",
+        "name": "Nginx",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "ovhcloud",
+        "name": "OVHcloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      }
+    ],
+    "org_chart_root_people_ids": [],
+    "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "engineering": 7,
+      "human_resources": 1,
+      "information_technology": 1,
+      "marketing": 1,
+      "arts_and_design": 1,
+      "accounting": 0,
+      "sales": 0,
+      "operations": 0,
+      "finance": 0,
+      "legal": 0,
+      "business_development": 0,
+      "product_management": 0,
+      "consulting": 0,
+      "education": 0,
+      "administrative": 0,
+      "media_and_commmunication": 0,
+      "entrepreneurship": 0,
+      "support": 0,
+      "data_science": 0
+    },
+    "organization_headcount_six_month_growth": 0.0,
+    "organization_headcount_twelve_month_growth": 0.0,
+    "organization_headcount_twenty_four_month_growth": 0.125
+  }
+}

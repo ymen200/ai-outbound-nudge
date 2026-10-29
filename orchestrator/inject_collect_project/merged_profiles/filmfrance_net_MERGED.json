@@ -1,0 +1,262 @@
+{
+    "alexa_ranking": 846243,
+    "annual_revenue": null,
+    "apollo_id": "54a11cba69702d7fe6fed900",
+    "city": "Paris",
+    "country": "France",
+    "departments": {
+        "accounting": 0,
+        "sales": 0,
+        "operations": 0,
+        "finance": 0,
+        "marketing": 0,
+        "human_resources": 0,
+        "information_technology": 0,
+        "legal": 0,
+        "engineering": 0,
+        "business_development": 0,
+        "product_management": 0,
+        "consulting": 0,
+        "education": 0,
+        "administrative": 0,
+        "media_and_commmunication": 0,
+        "arts_and_design": 0,
+        "entrepreneurship": 0,
+        "support": 0,
+        "data_science": 0
+    },
+    "domain": "filmfrance.net",
+    "estimated_num_employees": 10,
+    "facebook_url": "https://www.facebook.com/FilmFrance",
+    "founded_year": 1994,
+    "funding_events": [],
+    "industry": "Government Administration / Film Production",
+    "keywords": [
+        "b2b",
+        "animation",
+        "talent acquisition",
+        "film support services",
+        "film regulation guidance",
+        "film production services",
+        "studio stages",
+        "government",
+        "film production support",
+        "consulting",
+        "film industry training",
+        "film legal advice",
+        "film industry marketing",
+        "location services",
+        "film location services",
+        "film france",
+        "film safety regulations",
+        "vfx rebate bonus",
+        "film studio access",
+        "animation production support",
+        "production financing support",
+        "film industry consulting",
+        "postproduction services and other motion picture and video industries",
+        "film industry promotion",
+        "virtual studio access",
+        "animation industry",
+        "green filming guidance",
+        "film visa support",
+        "tax rebate",
+        "film project planning",
+        "film industry support",
+        "film industry network",
+        "film industry partnerships",
+        "film regulation and permits",
+        "vfx and animation studios",
+        "animation studios",
+        "location finding",
+        "film commissions",
+        "cnc",
+        "international production assistance",
+        "film industry events",
+        "film permit regulations",
+        "film project management",
+        "filming in france",
+        "film production consulting",
+        "vfx studios",
+        "services",
+        "insurance",
+        "vfx industry",
+        "film production legal compliance",
+        "film permit assistance",
+        "location scouting",
+        "legal",
+        "Film Commission",
+        "Film Production",
+        "Cinema",
+        "France"
+    ],
+    "latest_funding_stage": "Publicly Funded",
+    "linkedin_url": "http://www.linkedin.com/company/film-france",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/670331c7c799970001f301d7/picture",
+    "name": "Film France - CNC",
+    "num_suborganizations": 0,
+    "phone": "+33 (0)1 44 34 35 68",
+    "postal_code": "75010",
+    "raw_address": "9 Rue du Chateau d'Eau, 75010 Paris, France",
+    "seo_description": "Film France CNC - The French Film Commission",
+    "short_description": "The one-stop shop for foreign productions and individuals preparing to film in France.",
+    "state": "Ile-de-France",
+    "street_address": "9 Rue du Chateau d'Eau",
+    "suborganizations": [],
+    "technologies": [
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "google_apps",
+            "name": "Google Apps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "google_search_central",
+            "name": "Google Search Central",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+        },
+        {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+        },
+        {
+            "uid": "infinite_scroll",
+            "name": "Infinite Scroll",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "lightbox",
+            "name": "Lightbox",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+        },
+        {
+            "uid": "primeng",
+            "name": "PrimeNG",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "sendgrid",
+            "name": "Sendgrid",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "twilio_sendgrid_email_api",
+            "name": "Twilio SendGrid Email API",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "twilio_sendgrid_email_marketing_campaigns",
+            "name": "Twilio SendGrid Email Marketing Campaigns",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "underscore.js",
+            "name": "Underscore.js",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+        },
+        {
+            "uid": "yoast",
+            "name": "Yoast",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "axept.io",
+            "name": "Axept.io",
+            "category": "Consent Management"
+        },
+        {
+            "uid": "yoast_seo",
+            "name": "Yoast SEO",
+            "category": "SEO"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/Film_France",
+    "website_url": "http://www.filmfrance.net",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "CNC (Centre National du Cinéma et de l'image animée)",
+    "competitors": [
+        "Spain Film Commission",
+        "British Film Commission",
+        "Italian Film Commission",
+        "German Film Commissions",
+        "Screen Ireland"
+    ],
+    "data_quality_score": 0.97
+}

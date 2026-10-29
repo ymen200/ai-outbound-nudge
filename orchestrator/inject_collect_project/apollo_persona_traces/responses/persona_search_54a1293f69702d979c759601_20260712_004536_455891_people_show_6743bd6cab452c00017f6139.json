@@ -1,0 +1,1289 @@
+{
+  "person": {
+    "id": "6743bd6cab452c00017f6139",
+    "first_name": "Asma",
+    "last_name": "Amri",
+    "name": "Asma Amri",
+    "linkedin_url": "http://www.linkedin.com/in/asma-a-1824a8209",
+    "title": "Consultante Recrutement & Business Development",
+    "photo_url": "https://media.licdn.com/dms/image/v2/D4E03AQG__9sNv_8SkA/profile-displayphoto-scale_200_200/B4EZ22wzvLKcAY-/0/1776887742618?e=2147483647&v=beta&t=J-T4vcW5wKhKW033JnEOI2gciGnZkstWZ-zUtWc1m9s",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": 0.69,
+    "headline": "Business Partner Recrutement | Profils Cadres & Dirigeants | Auvergne-Rhône-Alpes | Spécialiste Fonctions Supports & Tertiaire",
+    "organization_id": "54a1293f69702d979c759601",
+    "employment_history": [
+      {
+        "_id": "6a50bc988ccdda0001e26f91",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a1293f69702d979c759601",
+        "organization_name": "Randstad France",
+        "raw_address": null,
+        "start_date": "2025-09-01",
+        "title": "Consultante Recrutement & Business Development",
+        "updated_at": null,
+        "id": "6a50bc988ccdda0001e26f91",
+        "key": "6a50bc988ccdda0001e26f91"
+      },
+      {
+        "_id": "6a50bc988ccdda0001e26f92",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2025-07-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": true,
+        "organization_id": "55e15542f3e5bb50b6000399",
+        "organization_name": "Carrefour",
+        "raw_address": null,
+        "start_date": "2024-11-01",
+        "title": "Manager Commerciale",
+        "updated_at": null,
+        "id": "6a50bc988ccdda0001e26f92",
+        "key": "6a50bc988ccdda0001e26f92"
+      },
+      {
+        "_id": "6a50bc988ccdda0001e26f93",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2024-06-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": true,
+        "organization_id": "66dac681d212f400016cac11",
+        "organization_name": "NEXTGEN School of Management",
+        "raw_address": null,
+        "start_date": "2024-03-01",
+        "title": "Chargée d’Affaires Relations Entreprises & Partenariats",
+        "updated_at": null,
+        "id": "6a50bc988ccdda0001e26f93",
+        "key": "6a50bc988ccdda0001e26f93"
+      },
+      {
+        "_id": "6a50bc988ccdda0001e26f94",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2023-08-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": true,
+        "organization_id": "5f456ef86f01790001bf24ae",
+        "organization_name": "Institut Pasteur",
+        "raw_address": null,
+        "start_date": "2023-06-01",
+        "title": "Microbiologiste de Recherche",
+        "updated_at": null,
+        "id": "6a50bc988ccdda0001e26f94",
+        "key": "6a50bc988ccdda0001e26f94"
+      },
+      {
+        "_id": "6a50bc988ccdda0001e26f95",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2023-06-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": null,
+        "organization_name": "Hôpital Habib Thameur",
+        "raw_address": null,
+        "start_date": "2023-03-01",
+        "title": "Stagiaire Bactériologiste",
+        "updated_at": null,
+        "id": "6a50bc988ccdda0001e26f95",
+        "key": "6a50bc988ccdda0001e26f95"
+      },
+      {
+        "_id": "6a50bc988ccdda0001e26f96",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2022-09-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "672660dd0426250001712e79",
+        "organization_name": "Hôpital Militaire Principal d'Instruction de Tunis",
+        "raw_address": null,
+        "start_date": "2022-06-01",
+        "title": "Stagiaire de Recherche en Hématologie",
+        "updated_at": null,
+        "id": "6a50bc988ccdda0001e26f96",
+        "key": "6a50bc988ccdda0001e26f96"
+      },
+      {
+        "_id": "6a50bc988ccdda0001e26f97",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2021-05-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": null,
+        "organization_name": "Hôpital Régional de Ben Arous",
+        "raw_address": null,
+        "start_date": "2021-04-01",
+        "title": "Stagiaire en Parasitologie-mycologie",
+        "updated_at": null,
+        "id": "6a50bc988ccdda0001e26f97",
+        "key": "6a50bc988ccdda0001e26f97"
+      },
+      {
+        "_id": "6a50bc988ccdda0001e26f98",
+        "created_at": null,
+        "current": false,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": "2020-08-01",
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "63c532da05c0d200015f2c56",
+        "organization_name": "Centre de Recherches et des Technologies des Eaux",
+        "raw_address": null,
+        "start_date": "2020-06-01",
+        "title": "Stagiaire en Ingénierie Projet ; Purification des Eaux",
+        "updated_at": null,
+        "id": "6a50bc988ccdda0001e26f98",
+        "key": "6a50bc988ccdda0001e26f98"
+      }
+    ],
+    "street_address": "",
+    "city": "Lyon",
+    "state": "Auvergne-Rhone-Alpes",
+    "country": "France",
+    "postal_code": null,
+    "formatted_address": "Lyon, France",
+    "time_zone": "Europe/Paris",
+    "email": "asma.amri@randstad.fr",
+    "email_status": "extrapolated",
+    "organization": {
+      "id": "54a1293f69702d979c759601",
+      "name": "Randstad France",
+      "website_url": "http://www.randstad.fr",
+      "angellist_url": null,
+      "linkedin_url": "http://www.linkedin.com/company/randstad-france",
+      "twitter_url": "https://twitter.com/randstad_france",
+      "facebook_url": "https://www.facebook.com/RandstadFrance",
+      "primary_phone": {},
+      "languages": [
+        "French"
+      ],
+      "alexa_ranking": 66451,
+      "phone": null,
+      "linkedin_uid": "2754199",
+      "founded_year": 1973,
+      "publicly_traded_symbol": null,
+      "publicly_traded_exchange": null,
+      "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/67c54a42c82ab90001f45e62/picture",
+      "crunchbase_url": null,
+      "primary_domain": "randstad.fr",
+      "sic_codes": [
+        "7361",
+        "7363",
+        "8742"
+      ],
+      "naics_codes": [
+        "561311",
+        "561320",
+        "541612"
+      ],
+      "industry": "human resources",
+      "estimated_num_employees": 1600,
+      "keywords": [
+        "ressources humaines",
+        "emploi",
+        "cdi",
+        "cdd",
+        "interim",
+        "recrutement",
+        "btp",
+        "industrie",
+        "tertiaire services",
+        "transport",
+        "logistique commerce",
+        "informatique",
+        "ingenierie conseil en recrutement",
+        "finance comptabilite",
+        "executive search",
+        "talent acquisition",
+        "digital tech",
+        "management direction",
+        "travail temporaire",
+        "audit expertise",
+        "human resources services",
+        "professional sector expertise",
+        "candidate database",
+        "talent sourcing",
+        "market segmentation",
+        "services",
+        "talent management",
+        "hr analytics",
+        "agency network",
+        "it recruitment",
+        "professional sectors",
+        "workforce solutions",
+        "b2b",
+        "employee management",
+        "public sector staffing",
+        "manufacturing",
+        "permanent recruitment",
+        "recruitment services",
+        "career transition services",
+        "hr data security",
+        "information technology",
+        "healthcare",
+        "industry-specific staffing",
+        "flexible workforce",
+        "public sector recruitment",
+        "client relationships",
+        "candidate sourcing",
+        "industrial staffing",
+        "temporary staffing",
+        "agency services",
+        "specialized recruitment",
+        "flexible staffing models",
+        "digital platform",
+        "scalable hr solutions",
+        "digital recruitment platform",
+        "candidate experience",
+        "recruitment process",
+        "outplacement services",
+        "global staffing expertise",
+        "employee placement",
+        "specialized professional staffing",
+        "sector-specific staffing",
+        "market segments",
+        "employee retention strategies",
+        "construction & real estate",
+        "local agencies",
+        "consulting",
+        "candidate matching",
+        "workforce management",
+        "global hr expertise",
+        "client service excellence",
+        "human resources & staffing",
+        "local agency presence",
+        "labor market",
+        "hr consulting",
+        "digital talent platform",
+        "client partnerships",
+        "healthcare staffing",
+        "data security",
+        "transportation & logistics",
+        "digital transformation",
+        "labor market expertise",
+        "hr technology",
+        "recruitment",
+        "temporary help services",
+        "staffing solutions",
+        "hr services",
+        "scalable staffing",
+        "finance recruitment",
+        "workforce agility",
+        "recruitment automation",
+        "candidate management system",
+        "innovation",
+        "digital hr solutions",
+        "human resources",
+        "agency brands",
+        "staffing",
+        "client solutions",
+        "financial services",
+        "career transition",
+        "employment solutions",
+        "employment",
+        "interim solutions",
+        "vacation jobs",
+        "job offers",
+        "career opportunities",
+        "operational careers",
+        "job seekers",
+        "job search",
+        "staffing agency",
+        "specialized agencies",
+        "job categories",
+        "local job offers",
+        "job by location",
+        "job by sector",
+        "contract types",
+        "transport jobs",
+        "logistics jobs",
+        "banking and finance careers",
+        "technology jobs",
+        "service industry",
+        "construction jobs",
+        "maintenance technician",
+        "warehouse operations",
+        "hvac technician",
+        "logistics management",
+        "client relations",
+        "digital recruitment",
+        "job alerts",
+        "career advice",
+        "online application",
+        "remote work",
+        "work-life balance",
+        "professional development",
+        "diversity hiring",
+        "employer branding",
+        "candidate engagement",
+        "flexible working",
+        "job benefits",
+        "industry insight",
+        "job market trends",
+        "employee wellness",
+        "job application process",
+        "resume writing",
+        "cv tips",
+        "finance",
+        "legal",
+        "distribution",
+        "b2c",
+        "staffing & recruiting",
+        "mechanical or industrial engineering",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "management consulting",
+        "computer & network security",
+        "information technology & services",
+        "writing & editing"
+      ],
+      "organization_revenue_printed": "3.8B",
+      "organization_revenue": 3751000000.0,
+      "industries": [
+        "human resources",
+        "staffing & recruiting"
+      ],
+      "secondary_industries": [
+        "staffing & recruiting"
+      ],
+      "snippets_loaded": true,
+      "industry_tag_id": "5567e0e37369640e5ac10c00",
+      "industry_tag_hash": {
+        "human resources": "5567e0e37369640e5ac10c00",
+        "staffing & recruiting": "5567e09973696410db020800"
+      },
+      "retail_location_count": 0,
+      "raw_address": "276 Avenue du Président Wilson, Saint-Denis, Île-de-France 93200 , FR",
+      "street_address": "276 Avenue du President Wilson",
+      "city": "Saint-Denis",
+      "state": "Ile-de-France",
+      "postal_code": "93210",
+      "country": "France",
+      "owned_by_organization_id": "621783b5e1bf5600a68f4ae6",
+      "owned_by_organization": {
+        "id": "621783b5e1bf5600a68f4ae6",
+        "name": "Randstad",
+        "website_url": "http://www.randstad.com"
+      },
+      "short_description": "Randstad France accompagne les entreprises et les talents dans leurs enjeux de recrutement et de gestion des Ressources Humaines. Nous proposons des solutions sur mesure en CDI, CDD et intérim.\n\nNos réseaux nationaux d'agences spécialisées reposent sur deux segments complémentaires pour couvrir l'ensemble du marché de l'emploi :\n\nRandstad operational : dédié aux métiers de la production, de l'industrie, du BTP, de la logistique et du transport. Une expertise terrain pour répondre aux enjeux de performance et de continuité d'activité.\n\nRandstad professional : dédié au recrutement de cadres, d'ingénieurs et de profils hautes compétences. Nos experts interviennent sur les secteurs de l'IT, de l'ingénierie, de la finance, du digital et du tertiaire.\n\nNotre ambition : proposer une réponse adaptée à chaque besoin en gestion des talents, grâce à des expertises dédiées.\n\nPrésents sur l'ensemble du territoire, nos consultants combinent expertise métier et connaissance du marché local pour connecter les meilleurs talents aux entreprises.",
+      "suborganizations": [
+        {
+          "id": "55f59441f3e5bb5359000495",
+          "name": "JBM",
+          "website_url": "http://www.jbm-medical.com",
+          "industries": [
+            "staffing & recruiting",
+            "pharmaceuticals"
+          ],
+          "estimated_num_employees": 300,
+          "country": "France"
+        },
+        {
+          "id": "65faebe82485d601c6c5a7fb",
+          "name": "Randstad Enterprise",
+          "website_url": "http://www.randstadenterprise.com",
+          "industries": [
+            "human resources",
+            "staffing & recruiting",
+            "management consulting"
+          ],
+          "estimated_num_employees": 7000,
+          "country": "Netherlands"
+        },
+        {
+          "id": "64f5ebe8a9aef400a3398881",
+          "name": "Randstad Digital France",
+          "website_url": "http://www.randstaddigital.fr",
+          "industries": [
+            "information technology & services",
+            "management consulting"
+          ],
+          "estimated_num_employees": 990,
+          "country": "France"
+        }
+      ],
+      "num_suborganizations": 3,
+      "annual_revenue_printed": "3.8B",
+      "annual_revenue": 3751000000.0,
+      "total_funding": null,
+      "total_funding_printed": null,
+      "latest_funding_round_date": null,
+      "latest_funding_stage": null,
+      "funding_events": [],
+      "technology_names": [
+        "AB Tasty",
+        "AI",
+        "Amazon AWS",
+        "Amazon CloudFront",
+        "Amazon Elastic Load Balancer",
+        "Amazon Route 53",
+        "Amazon SES",
+        "Apache",
+        "Dropbox",
+        "Gmail",
+        "Google Apps",
+        "Google Tag Manager",
+        "Hotjar",
+        "Hubspot",
+        "Microsoft Office 365",
+        "Mobile Friendly",
+        "Nginx",
+        "OneTrust",
+        "React",
+        "Remote",
+        "Sendgrid",
+        "Ubuntu",
+        "VueJS",
+        "WordPress.org",
+        "reCAPTCHA"
+      ],
+      "current_technologies": [
+        {
+          "uid": "ab_tasty",
+          "name": "AB Tasty",
+          "category": "Online Testing Platforms"
+        },
+        {
+          "uid": "ai",
+          "name": "AI",
+          "category": "Other"
+        },
+        {
+          "uid": "amazon_aws",
+          "name": "Amazon AWS",
+          "category": "Hosting"
+        },
+        {
+          "uid": "amazon_cloudfront",
+          "name": "Amazon CloudFront",
+          "category": "Content Delivery Networks"
+        },
+        {
+          "uid": "amazon_elastic_load_balancer",
+          "name": "Amazon Elastic Load Balancer",
+          "category": "Load Balancers"
+        },
+        {
+          "uid": "amazon_route_53",
+          "name": "Amazon Route 53",
+          "category": "Domain Name Services"
+        },
+        {
+          "uid": "amazon_ses",
+          "name": "Amazon SES",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "apache",
+          "name": "Apache",
+          "category": "Load Balancers"
+        },
+        {
+          "uid": "dropbox",
+          "name": "Dropbox",
+          "category": "Cloud Services"
+        },
+        {
+          "uid": "gmail",
+          "name": "Gmail",
+          "category": "Email Providers"
+        },
+        {
+          "uid": "google_apps",
+          "name": "Google Apps",
+          "category": "Other"
+        },
+        {
+          "uid": "google_tag_manager",
+          "name": "Google Tag Manager",
+          "category": "Tag Management"
+        },
+        {
+          "uid": "hotjar",
+          "name": "Hotjar",
+          "category": "Analytics and Tracking"
+        },
+        {
+          "uid": "hubspot",
+          "name": "Hubspot",
+          "category": "Marketing Automation"
+        },
+        {
+          "uid": "office_365",
+          "name": "Microsoft Office 365",
+          "category": "Other"
+        },
+        {
+          "uid": "mobile_friendly",
+          "name": "Mobile Friendly",
+          "category": "Other"
+        },
+        {
+          "uid": "nginx",
+          "name": "Nginx",
+          "category": "Load Balancers"
+        },
+        {
+          "uid": "onetrust",
+          "name": "OneTrust",
+          "category": "Widgets"
+        },
+        {
+          "uid": "react",
+          "name": "React",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "remote",
+          "name": "Remote",
+          "category": "Other"
+        },
+        {
+          "uid": "sendgrid",
+          "name": "Sendgrid",
+          "category": "Email Delivery"
+        },
+        {
+          "uid": "ubuntu",
+          "name": "Ubuntu",
+          "category": "Load Balancers"
+        },
+        {
+          "uid": "vue_js_library",
+          "name": "VueJS",
+          "category": "CSS and JavaScript Libraries"
+        },
+        {
+          "uid": "wordpress_org",
+          "name": "WordPress.org",
+          "category": "CMS"
+        },
+        {
+          "uid": "recaptcha",
+          "name": "reCAPTCHA",
+          "category": "Captcha"
+        }
+      ],
+      "org_chart_root_people_ids": [],
+      "org_chart_sector": null,
+      "org_chart_removed": null,
+      "org_chart_show_department_filter": null,
+      "employee_metrics": [
+        {
+          "start_date": "2024-07-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 3,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 8,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-08-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 1
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 3,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 8,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-09-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 1
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 1
+            }
+          ]
+        },
+        {
+          "start_date": "2024-10-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-11-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2024-12-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-01-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-02-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-03-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-04-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-05-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-06-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-07-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-08-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 2,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-09-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 1
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-10-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "human_resources",
+              "new": 0,
+              "retained": 0,
+              "churned": 1
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-11-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2025-12-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-01-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 7,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-02-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 1
+            }
+          ]
+        },
+        {
+          "start_date": "2026-03-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-04-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-05-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            }
+          ]
+        },
+        {
+          "start_date": "2026-06-01",
+          "departments": [
+            {
+              "functions": null,
+              "new": 0,
+              "retained": 6,
+              "churned": 0
+            },
+            {
+              "functions": "business_development",
+              "new": 0,
+              "retained": 1,
+              "churned": 0
+            },
+            {
+              "functions": "consulting",
+              "new": 0,
+              "retained": 5,
+              "churned": 1
+            }
+          ]
+        }
+      ],
+      "organization_headcount_six_month_growth": null,
+      "organization_headcount_twelve_month_growth": null,
+      "organization_headcount_twenty_four_month_growth": null
+    },
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development"
+    ],
+    "seniority": "entry",
+    "functions": [
+      "business_development",
+      "consulting"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": true,
+    "email_domain_catchall_verdict": "allow"
+  }
+}

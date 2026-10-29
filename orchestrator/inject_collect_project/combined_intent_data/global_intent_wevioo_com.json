@@ -1,0 +1,240 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "IA générative : le moment de vérité pour la transformation bancaire",
+        "date": "2026-06-19",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "19 juin, 2026 - IA générative : le moment de vérité pour la transformation bancaire",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.09,
+            "evidence_density": 0.81
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Devoxx Paris 2026 : au cœur d’une transformation qui ne fait que commencer",
+        "date": "2026-06-17",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "17 juin, 2026 - Devoxx Paris 2026 : au cœur d’une transformation qui ne fait que commencer",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.1,
+            "evidence_density": 0.82
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "6a27a25b1118d30001bec76d",
+        "title": "Ingénieur Data science IA Confirmé",
+        "url": "https://wevioo.com/careers/ingenieur-data-science-ia-confirme",
+        "city": null,
+        "state": null,
+        "country": "Tunisia",
+        "last_seen_at": "2026-06-23T22:02:46.000+00:00",
+        "posted_at": "2026-06-07T17:00:12.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2784e48f762e00017e75b8",
+        "title": "Consultant AMOA bancaire confirmé",
+        "url": "https://wevioo.com/careers/consultant-amoa-bancaire-confirme",
+        "city": null,
+        "state": null,
+        "country": "Tunisia",
+        "last_seen_at": "2026-06-23T22:03:00.000+00:00",
+        "posted_at": "2026-06-07T17:00:12.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a27854ff649fc0001112994",
+        "title": "product owner",
+        "url": "https://wevioo.com/careers/product-owner",
+        "city": null,
+        "state": null,
+        "country": "Tunisia",
+        "last_seen_at": "2026-06-23T22:03:40.000+00:00",
+        "posted_at": "2026-06-07T17:00:12.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2791dfaac6bf00011a1dd9",
+        "title": "consultant and management",
+        "url": "https://wevioo.com/careers/consultant-en-management",
+        "city": null,
+        "state": null,
+        "country": "Tunisia",
+        "last_seen_at": "2026-06-23T22:01:54.000+00:00",
+        "posted_at": "2026-06-07T17:00:12.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "L’IA de demain: Hybride, Open source et Autonome",
+        "date": "2026-04-08",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "8 avril, 2026 - L’IA de demain: Hybride, Open source et Autonome",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.06,
+            "evidence_density": 0.75
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Comment l’IA transforme la souscription en assurance et accélère la croissance des assureurs",
+        "date": "2026-04-06",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Actualités 6 avril, 2026 - Comment l’IA transforme la souscription en assurance et accélère la croissance des assureurs",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.07,
+            "evidence_density": 0.77
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "L’IA générative au service de la relation client : hyperpersonnalisation et gestion optimisée",
+        "date": "2026-04-02",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Actualités 2 avril, 2026 - L’IA générative au service de la relation client : hyperpersonnalisation et gestion optimisée",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.07,
+            "evidence_density": 0.78
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Le Low-Code au service de l’assurance : innovation, rapidité et optimisation des coûts",
+        "date": "2026-03-26",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Actualités 26 mars, 2026 - Le Low-Code au service de l’assurance : innovation, rapidité et optimisation des coûts",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.06,
+            "evidence_density": 0.76
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Les 9 principes du développement digital, pour un meilleur impact des projets",
+        "date": "2026-03-25",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "25 mars, 2026 - Les 9 principes du développement digital, pour un meilleur impact des projets",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.11,
+            "evidence_density": 0.83
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "69b77701cc65ea00019eff89",
+        "title": "devops engineer",
+        "url": "https://www.wevioo.com/fr/offres-d-emploi/devops-engineer",
+        "city": null,
+        "state": null,
+        "country": "Tunisia",
+        "last_seen_at": "2026-05-20T05:52:42.000+00:00",
+        "posted_at": "2026-03-14T23:26:05.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69a502a914f38c0001d2c6ce",
+        "title": "experienced consultant",
+        "url": "https://www.wevioo.com/fr/offres-d-emploi/consultante-confirmee",
+        "city": null,
+        "state": null,
+        "country": "Tunisia",
+        "last_seen_at": "2026-05-20T14:32:20.000+00:00",
+        "posted_at": "2026-02-28T23:12:20.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "L’IA au service de la logistique et de la chaîne d’approvisionnement",
+        "date": "2026-02-03",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "3 février, 2026 - L’IA au service de la logistique et de la chaîne d’approvisionnement",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.08,
+            "evidence_density": 0.79
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "690985c4dd88c800019bfd54",
+        "title": "java developer",
+        "url": "https://www.wevioo.com/fr/offres-d-emploi/developpeur-java-confirme-senior-hf",
+        "city": "Tunis",
+        "state": "Tunis",
+        "country": "Tunisia",
+        "last_seen_at": "2026-05-20T05:48:17.000+00:00",
+        "posted_at": "2025-05-24T18:31:26.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a279b712e5e980001b71922",
+        "title": "Ingénieur Cognos confirmé",
+        "url": "https://wevioo.com/careers/ingenieur-cognos-confirme",
+        "city": null,
+        "state": null,
+        "country": "Tunisia",
+        "last_seen_at": "2026-06-23T22:02:44.000+00:00",
+        "posted_at": "2024-06-06T22:00:00.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Ingénieur Data science/IA Confirmé",
+        "location": "Tunis, Tunisia",
+        "department": "Consulting",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Ingénieur Data science/IA Confirmé - Consulting - Tunis",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.14,
+            "evidence_density": 0.62
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Consultant en management",
+        "location": "Tunis, Tunisia",
+        "department": "Business development",
+        "date": "Not specified",
+        "confidence": 0.9,
+        "source": "Consultant en management - Business development - Tunis",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.29,
+            "evidence_density": 0.44
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

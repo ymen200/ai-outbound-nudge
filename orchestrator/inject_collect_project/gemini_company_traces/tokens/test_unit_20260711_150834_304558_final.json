@@ -1,0 +1,82 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [],
+    "fast_models": []
+  },
+  "session_consumption": {
+    "api_calls_consumed": 3,
+    "successful_calls": 2,
+    "failed_calls": 1,
+    "prompt_tokens": 120,
+    "candidates_tokens": 60,
+    "thoughts_tokens": 0,
+    "cached_content_tokens": 0,
+    "total_tokens": 180,
+    "by_model": {
+      "gemini-2.5-flash": {
+        "calls": 1,
+        "total_tokens": 150,
+        "prompt_tokens": 100,
+        "candidates_tokens": 50
+      },
+      "gemini-2.0-flash-lite": {
+        "calls": 1,
+        "total_tokens": 30,
+        "prompt_tokens": 20,
+        "candidates_tokens": 10
+      }
+    },
+    "by_operation": {
+      "extract_apollo": {
+        "calls": 1,
+        "total_tokens": 150,
+        "prompt_tokens": 100,
+        "candidates_tokens": 50
+      },
+      "browser_config": {
+        "calls": 1,
+        "total_tokens": 30,
+        "prompt_tokens": 20,
+        "candidates_tokens": 10
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-11T15:08:34.303570",
+        "prompt_token_count": 100,
+        "candidates_token_count": 50,
+        "total_token_count": 150,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-2.0-flash-lite",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-11T15:08:34.303570",
+        "prompt_token_count": 20,
+        "candidates_token_count": 10,
+        "total_token_count": 30,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503",
+        "timestamp": "2026-07-11T15:08:34.303570"
+      }
+    ],
+    "companies_scraped_attempted": 1
+  }
+}

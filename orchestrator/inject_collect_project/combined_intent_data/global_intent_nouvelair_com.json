@@ -1,0 +1,106 @@
+[
+    {
+        "id": "6a32e07139f29d0010deede8",
+        "url": "https://www.wiremind.io/blog/nouvelair-selects-wireminds-cayzn-as-its-revenue-management-solution",
+        "domain": "wiremind.io",
+        "title": "Nouvelair selects Wiremind's CAYZN as its Revenue Management Solution.",
+        "snippet": "Nouvelair selects Wiremind's CAYZN as its Revenue Management Solution.",
+        "organization_ids": [
+            "55ea63c0f3e5bb59480092c4",
+            "637908e2e0a02000a36d5a9d"
+        ],
+        "published_at": "2026-05-19T00:00:00.000+00:00",
+        "event_categories": [
+            "signs_new_client"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69362bd2e5ac1b0011bff840",
+        "url": "https://www.vertas.com/news/aviator-signed-a-multi-year-contract-with-nouvelair-for-full-handling-services-at-helsinki-airport",
+        "domain": "vertas.com",
+        "title": "Aviator signed a multi-year contract with Nouvelair for full handling services at Helsinki Airport",
+        "snippet": "Aviator signed a multi-year contract with Nouvelair for full handling services at Helsinki Airport.",
+        "organization_ids": [
+            "5fafd910a431e400be1998f3",
+            "637908e2e0a02000a36d5a9d"
+        ],
+        "published_at": "2025-11-26T11:38:12.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Le Caire rejoint le réseau nouvelair - Nouvelair vous emmène au cœur de l’Égypte",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Le Caire rejoint le réseau nouvelair",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.18,
+            "evidence_density": 2.22
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Flex devient Easy Max : un nouveau nom, les mêmes avantages! - Nouvelair dévoile la nouvelle identité de son offre Flex, désormais rebaptisée Easy Max.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Flex devient Easy Max : un nouveau nom, les mêmes avantages!",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.23,
+            "evidence_density": 2.52
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Nouvelair facilite votre voyage pour les vols au départ et à destination de la Turquie - nouvelair facilite votre voyage pour les vols au départ et à destination de la Turquie en mettant à votre disposition des offres tarifaires pensées pour votre confort.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Bonne nouvelle !",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.7,
+            "evidence_density": 16.0
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Nouvelair renforce sa présence en Algérie - Nouvelair renforce sa présence en Algérie pour vous offrir plus de flexibilité, plus de connexions et toujours plus de confort.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "L’Algérie encore plus proche!",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.6,
+            "evidence_density": 5.9
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Nouvelair vous emmène au cœur du Maroc - Nouvelair vous emmène au cœur du Maroc avec deux lignes au départ de Tunis",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Cap sur le Maroc avec nouvelair!",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.49,
+            "evidence_density": 3.59
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

@@ -1,0 +1,63 @@
+{
+  "member_id": "ACoAAAmt7rgBhU0mdO472LkoQGU0OzPJ-X5jKG0",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7418935676144091136",
+        "share_url": "https://www.linkedin.com/posts/carole-cassorla-%E2%9C%A8-a7447546_cela-fait-un-certain-temps-que-joccupe-le-activity-7418935676936552448-CodO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "5mo",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 15,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Cela fait un certain temps que j’occupe le poste de Assistant commercial chez Expectra, mais je voulais faire part de cette nouvelle à tout le monde.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/expectra/",
+            "length": 8,
+            "start": 78
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "carole-cassorla-%E2%9C%A8-a7447546",
+          "id": "ACoAAAmt7rgBhU0mdO472LkoQGU0OzPJ-X5jKG0",
+          "name": "Carole Cassorla ✨",
+          "is_company": false,
+          "headline": "Assistante Commerciale",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQFb6o5YI-l_UA/profile-displayphoto-scale_400_400/B4DZ3dD4BqHoAg-/0/1777530274965?e=1785369600&v=beta&t=csqPo5Yl6HWRTJGmaOZFh7C1vwgKWEZm3uxsZjtdX1w"
+        },
+        "id": "7418935676936552448",
+        "is_repost": false,
+        "parsed_datetime": "2026-01-19T08:41:42.541Z"
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAmt7rgBhU0mdO472LkoQGU0OzPJ-X5jKG0"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 1,
+      "total_count": 1
+    },
+    "cursor": null
+  }
+}

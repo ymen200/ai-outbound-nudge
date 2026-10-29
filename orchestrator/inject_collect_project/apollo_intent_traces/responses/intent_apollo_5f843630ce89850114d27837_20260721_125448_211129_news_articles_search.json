@@ -1,0 +1,52 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 3,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "6579af20fb4cbe02d075b30e",
+      "url": "https://www.electricalsinformed.com/news/siemens-building-expands-fire-safety-offering-co-1639146574-ga.1702444885.html",
+      "domain": "electricalsinformed.com",
+      "title": "Siemens' Building X Expands Fire Safety Offering To Increase Transparency And Efficiency",
+      "snippet": "Siemens Smart Infrastructure is expanding its fire safety offering on Building X through newly launched applications and an application programming interface (API) to increase transparency, decrease response time in case of incidents, and enhance maintenance processes for service providers.",
+      "organization_ids": [
+        "5f843630ce89850114d27837"
+      ],
+      "published_at": "2023-12-13T00:00:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "657918c4b88fe001aed0890e",
+      "url": "https://www.pressadvantage.com/story/63473-earlybirds-pioneers-industry-4-0-revolution-connecting-corporations-to-cutting-edge-technologies",
+      "domain": "pressadvantage.com",
+      "title": "EarlyBirds Pioneers Industry 4.0 Revolution, Connecting Corporations to Cutting-Edge Technologies",
+      "snippet": "He says, \"Siemens AG implemented Industry 4.0 principles in its own manufacturing processes, partnering with Deloitte to demonstrate their efforts at The Smart Factory @ Wichita.",
+      "organization_ids": [
+        "5f843630ce89850114d27837"
+      ],
+      "published_at": "2023-12-12T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6574ec6b0d40b70112e670ae",
+      "url": "https://www.innovationskunst.de/en/news/german-future-prize-2023",
+      "domain": "innovationskunst.de",
+      "title": "German Future Prize 2023 goes to the Nuremberg Metropolitan Region",
+      "snippet": "Siemens Healthineers Team Wins German President's Technology and Innovation Award for Magnetom Free Scanner.",
+      "organization_ids": [
+        "5f843630ce89850114d27837"
+      ],
+      "published_at": "2023-12-06T00:00:00.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    }
+  ]
+}

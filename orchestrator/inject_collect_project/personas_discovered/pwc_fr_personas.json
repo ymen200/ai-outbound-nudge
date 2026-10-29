@@ -1,0 +1,52 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Michael Brilhault",
+        "clean_name_used": "Michael Brilhault",
+        "linkedin_url": "https://fr.linkedin.com/in/michaelbrilhault",
+        "company": "Pwc",
+        "email": "michael.brilhault@pwc.fr",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Nancy Jane N.",
+        "clean_name_used": "Nancy Jane N.",
+        "linkedin_url": "https://www.linkedin.com/in/nancyjanenobes",
+        "company": "Pwc",
+        "email": "nancy.jane@pwc.fr",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Glenda Dyke",
+        "clean_name_used": "Glenda Dyke",
+        "linkedin_url": "https://uk.linkedin.com/in/glenda-dyke-968045346",
+        "company": "Pwc",
+        "email": "glenda.dyke@pwc.fr",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Salim Derghoum",
+        "clean_name_used": "Salim Derghoum",
+        "linkedin_url": "linkedin.com/in/salim-derghoum-54933786",
+        "company": "pwc france",
+        "email": "salim.derghoum@caissedesdepots.fr",
+        "mail_pro": true,
+        "title": "digital accelerator",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

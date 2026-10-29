@@ -1,0 +1,15 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Telecom Egypt wins Top Employer award for 2026",
+        "date": "2026",
+        "news_type": "Award",
+        "confidence": 0.9,
+        "source": "للعام الثاني على التوالي ... المصرية للاتصالات تحصد جائزة أفضل بيئة عمل Top Employer لعام 2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.6,
+            "evidence_density": 0.49
+        }
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Participation de TABC au Tunisia Investment Forum 2026 - Participation of TABC at the Tunisia Investment Forum 2026",
+        "date": "2026-06-26",
+        "news_type": "Event",
+        "confidence": 0.9,
+        "source": "Participation de TABC au Tunisia Investment Forum 2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.26,
+            "evidence_density": 2.13
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Workshop TABC – COTUNACE - TABC - COTUNACE Workshop",
+        "date": "2026-06-24",
+        "news_type": "Event",
+        "confidence": 0.8,
+        "source": "Workshop TABC – COTUNACE",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.16,
+            "evidence_density": 2.12
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Retour sur l’Afterwork TABC consacré au lancement de la Deal Room Permanente - Review of the TABC Afterwork dedicated to the launch of the Permanent Deal Room",
+        "date": "2026-06-10",
+        "news_type": "Event",
+        "confidence": 0.8,
+        "source": "Retour sur l’Afterwork TABC consacré au lancement de la Deal Room Permanente",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.15,
+            "evidence_density": 2.08
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "6a1fe1c68392210010821093",
+        "url": "https://en.africanmanager.com/permanent-deal-room-launched-to-connect-investors-with-african-projects",
+        "domain": "africanmanager.com",
+        "title": "Permanent Deal Room launched to connect investors with African projects.",
+        "snippet": "The Tunisia-Africa Business Council (TABC) and the Tunisian Consortium for Development in Africa (TUCAD) have announced the launch of the Permanent Deal Room, a structured, year-round platform designed to connect high-potential African projects with investors, financial institutions, banks, investment funds, technical partners and development stakeholders.",
+        "organization_ids": [
+            "55f6cafef3e5bb191a0187b8"
+        ],
+        "published_at": "2026-06-02T11:08:57.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Visite du Président de TABC au Groupe TELNET - Visit of the President of TABC to the TELNET Group",
+        "date": "2026-05-18",
+        "news_type": "Event",
+        "confidence": 0.8,
+        "source": "Visite du Président de TABC au Groupe TELNET",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.18,
+            "evidence_density": 2.2
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "6a02ea5efafc030015bfa067",
+        "url": "https://aapi.dz/en/the-director-general-of-the-agency-participates-in-fita-2026-conference-in-tunis",
+        "domain": "aapi.dz",
+        "title": "The Director General of the Agency participates in FITA 2026 conference in Tunis.",
+        "snippet": "The Director General of the Algerian Investment Promotion Agency (AAPI), Mr. Omar REKKACHE, took part on Wednesday, 29 April 2026, in Tunis, in the proceedings of the 9th edition of the International Forum on Financing Investment and Trade in Africa (FITA 2026), organized by the Tunisian-African Business Council.",
+        "organization_ids": [
+            "55f6cafef3e5bb191a0187b8"
+        ],
+        "published_at": "2026-04-29T00:00:00.000+00:00",
+        "event_categories": [
+            "attends_event"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "FITA2026 - FINANCING INVESTMENT & TRADE in AFRICA – FITA2026",
+        "date": "2026-04-28",
+        "news_type": "Event",
+        "confidence": 0.9,
+        "source": "FITA2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.66,
+            "evidence_density": 7.5
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

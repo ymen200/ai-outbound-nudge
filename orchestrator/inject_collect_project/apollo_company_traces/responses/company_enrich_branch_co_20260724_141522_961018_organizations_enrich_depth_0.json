@@ -1,0 +1,783 @@
+{
+  "organization": {
+    "id": "556e391973696410cb924a01",
+    "name": "Branch International",
+    "website_url": "http://www.branch.co",
+    "angellist_url": "http://angel.co/branch",
+    "linkedin_url": "http://www.linkedin.com/company/branch-co",
+    "twitter_url": "http://twitter.com/branch_co",
+    "facebook_url": "https://www.facebook.com/branch.co",
+    "languages": [
+      "English"
+    ],
+    "alexa_ranking": null,
+    "phone": null,
+    "linkedin_uid": "9380094",
+    "founded_year": 2015,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ae2cca22a43f0001cf15a9/picture",
+    "crunchbase_url": null,
+    "primary_domain": "branch.co",
+    "sic_codes": [
+      "6199"
+    ],
+    "naics_codes": [
+      "52239",
+      "522110",
+      "522291"
+    ],
+    "industry": "financial services",
+    "estimated_num_employees": 450,
+    "keywords": [
+      "mobile",
+      "financial services",
+      "emerging markets",
+      "information technology",
+      "finance",
+      "financial technology innovation",
+      "mobile credit scoring",
+      "smartphone-based lending",
+      "alternative credit scoring",
+      "mobile-first financial products",
+      "digital loans",
+      "credit risk evaluation",
+      "digital savings accounts",
+      "digital banking",
+      "creditworthiness algorithms",
+      "access to credit",
+      "financial services platform",
+      "smartphone data analysis",
+      "credit scoring",
+      "emerging market fintech",
+      "fintech in asia",
+      "investment products",
+      "algorithmic approval",
+      "financial access",
+      "financial technology for underserved",
+      "financial technology",
+      "other activities related to credit intermediation",
+      "credit assessment",
+      "digital financial services",
+      "mobile money",
+      "loan technology",
+      "financial inclusion",
+      "machine learning",
+      "loan approval algorithms",
+      "fintech startup",
+      "risk assessment",
+      "instant credit",
+      "data-driven lending",
+      "d2c",
+      "mobile financial platform",
+      "mobile financial inclusion",
+      "fintech",
+      "global fintech companies",
+      "instant loans",
+      "financial products",
+      "services",
+      "data science",
+      "global fintech",
+      "smartphone data credit assessment",
+      "high-yield investments mobile",
+      "peer-to-peer transfers",
+      "digital banking services",
+      "alternative data credit models",
+      "smartphone data",
+      "mobile banking",
+      "instant personal loans",
+      "credit risk assessment",
+      "fintech funding",
+      "mobile app",
+      "b2c",
+      "fintech in africa",
+      "digital financial access",
+      "bill payments",
+      "financial inclusion gap",
+      "mobile financial services",
+      "financial inclusion solutions",
+      "loan disbursement",
+      "cash flow management",
+      "fintech in latin america",
+      "personal loans",
+      "mobile lending",
+      "smartphone-based loans",
+      "data-driven credit scoring",
+      "financial services app",
+      "microfinance",
+      "money transfers",
+      "high yield investments",
+      "savings account",
+      "loan eligibility",
+      "creditworthiness assessment",
+      "alternative data",
+      "branchless banking",
+      "mobile payment solutions",
+      "user-friendly interface",
+      "customer empowerment",
+      "financial literacy",
+      "ethical lending",
+      "ai in finance",
+      "secure transactions",
+      "identity verification",
+      "financial growth",
+      "investment opportunities",
+      "mobile wallet",
+      "neobank",
+      "consumer protection",
+      "customer support",
+      "transaction fees",
+      "no hidden charges",
+      "flexible savings",
+      "savings products",
+      "smart investment",
+      "debit card services",
+      "mobile access",
+      "financial apps",
+      "data privacy",
+      "promotional rewards",
+      "user engagement",
+      "rewards programs",
+      "internet",
+      "information technology & services",
+      "finance technology",
+      "artificial intelligence"
+    ],
+    "organization_revenue_printed": "104M",
+    "organization_revenue": 104000000.0,
+    "industries": [
+      "financial services",
+      "banking"
+    ],
+    "secondary_industries": [
+      "banking"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cdd67369643e64020000",
+    "industry_tag_hash": {
+      "financial services": "5567cdd67369643e64020000",
+      "banking": "5567ce237369644ee5490000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "535 Mission St, San Francisco, California, US",
+    "street_address": "535 Mission St",
+    "city": "San Francisco",
+    "state": "California",
+    "postal_code": "94105",
+    "country": "United States",
+    "owned_by_organization_id": null,
+    "num_languages": 1,
+    "num_retail_locations": 0,
+    "short_description": "Branch International is a fintech company founded in 2015, focused on providing financial services to the mobile generation in emerging markets, particularly in Africa and India. Headquartered in San Francisco, the company uses data science and smartphone data to assess creditworthiness, enabling fair financial access for underserved populations who may not have traditional banking options.\n\nThe company offers a fully mobile-based digital banking platform that includes instant loans, money transfers, bill payments, and high-yield investment and savings products. Branch specifically targets the \"missing middle\" and unbanked individuals, including small business owners and women, to help them access capital and grow their financial well-being. With over 100 million downloads, Branch is one of the most popular finance apps globally, operating in key markets such as Kenya, Nigeria, Tanzania, and India.",
+    "suborganizations": [
+      {
+        "id": "62a3446590a64d00a3ed1ad2",
+        "name": "Century Microfinance Bank",
+        "website_url": "http://www.century.co.ke",
+        "industries": [],
+        "estimated_num_employees": 1,
+        "country": "Kenya"
+      }
+    ],
+    "num_suborganizations": 1,
+    "annual_revenue_printed": "104M",
+    "annual_revenue": 104000000.0,
+    "total_funding": 260982980,
+    "total_funding_printed": "261.0M",
+    "latest_funding_round_date": "2022-01-01T00:00:00.000+00:00",
+    "latest_funding_stage": "Debt Financing",
+    "funding_events": [
+      {
+        "id": "6965fb6ff8c3e80001029ecb",
+        "date": "2022-01-01T00:00:00.000+00:00",
+        "news_url": "https://medium.com/cauris/branch-international-secures-defi-debt-financing-from-cauris-to-expand-financial-inclusion-in-india-22bd3fdc0f96",
+        "type": "Debt Financing",
+        "investors": "Cauris",
+        "currency": "$"
+      },
+      {
+        "id": "6a06064fad0e4500015dea6b",
+        "date": "2019-03-01T00:00:00.000+00:00",
+        "news_url": "https://www.businesswire.com/news/home/20190408005147/en/Branch-International-Raises-170M-Series-C-Financing-Led-by-Foundation-Capital-and-Visa",
+        "type": "Series C",
+        "investors": "Foundation Capital, Foxhaven, Visa, Trinity Ventures, Formation 8, Victory Park Capital, International Finance Corporation, CreditEase, Andreessen Horowitz, Greenspring Associates, B Capital Group",
+        "amount": "170M",
+        "currency": "$"
+      },
+      {
+        "id": "6a50db6b6a8dc90001c84872",
+        "date": "2019-01-01T00:00:00.000+00:00",
+        "news_url": null,
+        "type": "Debt Financing",
+        "investors": "",
+        "amount": "4.9M",
+        "currency": "$"
+      },
+      {
+        "id": "5b44eed2f6e0854020be9618",
+        "date": "2018-07-01T00:00:00.000+00:00",
+        "news_url": "",
+        "type": "Debt Financing",
+        "investors": "",
+        "amount": "3.5M",
+        "currency": "$"
+      },
+      {
+        "id": "5abbd871a3ae61ab63cdb9ea",
+        "date": "2018-03-01T00:00:00.000+00:00",
+        "news_url": "https://www.globenewswire.com/news-release/2018/03/28/1454819/0/en/Branch-International-Raises-70M-Series-B-to-Bring-World-Class-Financial-Services-to-Emerging-Markets.html",
+        "type": "Series B",
+        "investors": "Trinity Ventures, Andreessen Horowitz",
+        "amount": "70M",
+        "currency": "$"
+      },
+      {
+        "id": "59c106daa6da989eb53ba682",
+        "date": "2017-09-01T00:00:00.000+00:00",
+        "news_url": "http://techmoran.com/mobile-lender-branch-raises-2m-to-bolster-its-micro-loans-in-east-africa/",
+        "type": "Debt Financing",
+        "investors": "Nabo Capital",
+        "amount": "2M",
+        "currency": "$"
+      },
+      {
+        "id": "59e677e9a6da986f513726fe",
+        "date": "2016-03-01T00:00:00.000+00:00",
+        "news_url": "http://techcrunch.com/2016/03/30/branch-co-raises-9-2-million-to-bring-financial-services-where-banks-dont-go/",
+        "type": "Series A",
+        "investors": "Khosla Impact, Formation 8, Andreessen Horowitz",
+        "amount": "9.2M",
+        "currency": "$"
+      },
+      {
+        "id": "6965fb6ef8c3e80001029eb1",
+        "date": "2015-09-01T00:00:00.000+00:00",
+        "news_url": null,
+        "type": "Seed",
+        "investors": "Khosla Impact, Formation 8",
+        "currency": "$"
+      },
+      {
+        "id": "62ced55b9358ea0001c50eb9",
+        "date": "2015-05-01T00:00:00.000+00:00",
+        "news_url": null,
+        "type": "Seed",
+        "investors": "Formation8 Partners LLC, Khosla Impact Fund",
+        "amount": "1.4M",
+        "currency": "$"
+      }
+    ],
+    "technology_names": [
+      ".NET",
+      "AI",
+      "AWS Analytics",
+      "AWS Lambda",
+      "AWS SDK for JavaScript",
+      "AWS Trusted Advisor",
+      "Amazon AWS",
+      "Amazon AWS",
+      "Amazon CloudFront",
+      "Amazon SES",
+      "Amazon Simple Email Service (Amazon SES)",
+      "Amazon Virtual Private Cloud (VPC)",
+      "Amazon Virtual Private Cloud (VPC)",
+      "Android",
+      "Android Studio",
+      "Apple Business Manager",
+      "Apple School Manager",
+      "Awin",
+      "Awin",
+      "ByteDance",
+      "CloudFlare",
+      "CloudFlare CDN",
+      "CloudFlare CDN",
+      "Cloudflare DNS",
+      "Cloudflare Rocket Loader",
+      "Datadog APM",
+      "Facebook",
+      "Facebook Login (Connect)",
+      "Facebook Pixel",
+      "Facebook Pixel",
+      "Facebook Pixel",
+      "Facebook Pixel",
+      "Facebook Pixel",
+      "Facebook Pixel",
+      "Facebook Pixel",
+      "Facebook Pixel",
+      "Facebook SDK",
+      "Facebook SDK",
+      "Font Awesome",
+      "Gmail",
+      "Google",
+      "Google Ads",
+      "Google Ads Conversion",
+      "Google Ads Conversion",
+      "Google Analytics",
+      "Google Analytics 4 (GA4)",
+      "Google Cloud Looker",
+      "Google Cloud Looker",
+      "Google Meet",
+      "Google Play",
+      "Google Search Central",
+      "Google Search Console",
+      "Google Tag Manager",
+      "Google Workspace",
+      "Google Workspace",
+      "HREF Lang",
+      "Kotlin",
+      "Kubernetes",
+      "Lambda Cloud",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft Excel",
+      "Mobile Friendly",
+      "Multilingual",
+      "MySQL",
+      "MySQL",
+      "Neogov HRMS",
+      "NetSuite",
+      "Power BI Documenter",
+      "Ruby",
+      "Ruby On Rails",
+      "Sizmek (MediaMind)",
+      "Tableau",
+      "TikTok",
+      "TikTok Ads",
+      "Viewport Meta",
+      "Yii Framework",
+      "YouTube Advertising",
+      "jQuery",
+      "jQuery CDN"
+    ],
+    "current_technologies": [
+      {
+        "uid": "net",
+        "name": ".NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "aws_analytics",
+        "name": "AWS Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_lambda",
+        "name": "AWS Lambda",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_sdk_for_javascript",
+        "name": "AWS SDK for JavaScript",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "aws_trusted_advisor",
+        "name": "AWS Trusted Advisor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_cloudfront",
+        "name": "Amazon CloudFront",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_ses",
+        "name": "Amazon SES",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "amazon_simple_email_service_amazon_ses",
+        "name": "Amazon Simple Email Service (Amazon SES)",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "amazon_virtual_private_cloud_vpc",
+        "name": "Amazon Virtual Private Cloud (VPC)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_virtual_private_cloud_vpc",
+        "name": "Amazon Virtual Private Cloud (VPC)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "android",
+        "name": "Android",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "android_studio",
+        "name": "Android Studio",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "apple_business_manager",
+        "name": "Apple Business Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apple_school_manager",
+        "name": "Apple School Manager",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "awin",
+        "name": "Awin",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "awin",
+        "name": "Awin",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "bytedance",
+        "name": "ByteDance",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "cloudflare",
+        "name": "CloudFlare",
+        "category": "Web Accelerators"
+      },
+      {
+        "uid": "cloudflare_cdn",
+        "name": "CloudFlare CDN",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "cloudflare_cdn",
+        "name": "CloudFlare CDN",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "cloudflare_dns",
+        "name": "Cloudflare DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "cloudflare_rocket_loader",
+        "name": "Cloudflare Rocket Loader",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "datadog_apm",
+        "name": "Datadog APM",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "facebook",
+        "name": "Facebook",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "facebook_login",
+        "name": "Facebook Login (Connect)",
+        "category": "Social Login"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "facebook_sdk",
+        "name": "Facebook SDK",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "facebook_sdk",
+        "name": "Facebook SDK",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "font_awesome",
+        "name": "Font Awesome",
+        "category": "Fonts"
+      },
+      {
+        "uid": "gmail",
+        "name": "Gmail",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "google",
+        "name": "Google",
+        "category": "Other"
+      },
+      {
+        "uid": "google_ads",
+        "name": "Google Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_ads_conversion",
+        "name": "Google Ads Conversion",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_ads_conversion",
+        "name": "Google Ads Conversion",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_analytics",
+        "name": "Google Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_analytics_4_ga4",
+        "name": "Google Analytics 4 (GA4)",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_cloud_looker",
+        "name": "Google Cloud Looker",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_cloud_looker",
+        "name": "Google Cloud Looker",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_meet",
+        "name": "Google Meet",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "google_play",
+        "name": "Google Play",
+        "category": "Widgets"
+      },
+      {
+        "uid": "google_search_central",
+        "name": "Google Search Central",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "href_lang",
+        "name": "HREF Lang",
+        "category": "Other"
+      },
+      {
+        "uid": "kotlin",
+        "name": "Kotlin",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "kubernetes",
+        "name": "Kubernetes",
+        "category": "Other"
+      },
+      {
+        "uid": "lambda_cloud",
+        "name": "Lambda Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "multilingual",
+        "name": "Multilingual",
+        "category": "Widgets"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "neogov_hrms",
+        "name": "Neogov HRMS",
+        "category": "HR Solutions"
+      },
+      {
+        "uid": "netsuite",
+        "name": "NetSuite",
+        "category": "CMS"
+      },
+      {
+        "uid": "power_bi_documenter",
+        "name": "Power BI Documenter",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ruby",
+        "name": "Ruby",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ruby_on_rails",
+        "name": "Ruby On Rails",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "sizmek_mediamind",
+        "name": "Sizmek (MediaMind)",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "tableau",
+        "name": "Tableau",
+        "category": "Widgets"
+      },
+      {
+        "uid": "tiktok",
+        "name": "TikTok",
+        "category": "Other"
+      },
+      {
+        "uid": "tiktok_ads",
+        "name": "TikTok Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "yii_framework",
+        "name": "Yii Framework",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "youtube_advertising",
+        "name": "YouTube Advertising",
+        "category": "Video Advertising Networks"
+      },
+      {
+        "uid": "jquery",
+        "name": "jQuery",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "jquery_cdn",
+        "name": "jQuery CDN",
+        "category": "Content Delivery Networks"
+      }
+    ],
+    "org_chart_root_people_ids": [],
+    "org_chart_sector": "OrgChart::SectorHierarchy::Rules::Finance",
+    "org_chart_removed": false,
+    "org_chart_show_department_filter": true,
+    "departmental_head_count": {
+      "engineering": 80,
+      "support": 64,
+      "finance": 22,
+      "entrepreneurship": 4,
+      "accounting": 16,
+      "legal": 5,
+      "operations": 38,
+      "media_and_commmunication": 2,
+      "human_resources": 23,
+      "arts_and_design": 6,
+      "marketing": 15,
+      "sales": 3,
+      "information_technology": 5,
+      "business_development": 6,
+      "consulting": 2,
+      "data_science": 1,
+      "product_management": 10,
+      "administrative": 3,
+      "education": 0
+    },
+    "organization_headcount_six_month_growth": 0.07532467532467532,
+    "organization_headcount_twelve_month_growth": 0.2,
+    "organization_headcount_twenty_four_month_growth": 0.2507552870090635
+  }
+}

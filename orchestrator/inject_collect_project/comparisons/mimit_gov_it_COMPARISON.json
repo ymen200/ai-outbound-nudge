@@ -1,0 +1,415 @@
+{
+    "domain": "mimit.gov.it",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "Ministry of Enterprises and Made in Italy",
+                "ai": "Ministero delle Imprese e del Made in Italy"
+            },
+            "domain": {
+                "apollo": "mimit.gov.it",
+                "ai": "mimit.gov.it"
+            },
+            "industry": {
+                "apollo": "government administration",
+                "ai": "Public Administration / Government Services"
+            },
+            "founded_year": {
+                "apollo": 2013,
+                "ai": 1932
+            },
+            "short_description": {
+                "apollo": "The Ministry of Enterprises and Made in Italy (MIMIT) is a central government ministry in Italy dedicated to supporting businesses and promoting industrial policies. It focuses on protecting the quality and excellence of the \"Made in Italy\" brand. MIMIT was established from the reorganization of the Ministry of Productive Activities in 2006 and has evolved to include various responsibilities aimed at enhancing the productive sector.\n\nMIMIT's core activities include developing integrated industrial strategies, reducing bureaucratic burdens, and ensuring market functionality. It oversees key economic areas such as industrial policies, research, innovation, and consumer protection. The ministry also promotes youth entrepreneurship and attracts foreign investment, particularly in sectors like energy, telecommunications, and technology. With a commitment to international cooperation, MIMIT engages in initiatives that foster innovation and sustainability.",
+                "ai": "Italian government ministry dedicated to industrial development, business support, and the protection of the 'Made in Italy' brand."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Ministero delle Imprese e del Made in Italy - Amministrazione Trasparente"
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": "Government Funded"
+            },
+            "estimated_num_employees": {
+                "apollo": 1900,
+                "ai": "9 direct general directorates and 2 mission units"
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/ministero-sviluppo-economico",
+                "ai": "https://it.linkedin.com/company/ministero-sviluppo-economico"
+            },
+            "twitter_url": {
+                "apollo": "Non renseigné",
+                "ai": "https://twitter.com/mimit_gov"
+            },
+            "facebook_url": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "phone": {
+                "apollo": "Non renseigné",
+                "ai": "06 4705 3727"
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "via Molise, 2, roma, italia 00187 , IT",
+                "ai": "Via Molise, 2, 00187 Roma, Italy"
+            },
+            "city": {
+                "apollo": "Rome",
+                "ai": "Rome"
+            },
+            "country": {
+                "apollo": "Italy",
+                "ai": "Italy"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": 11
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "il consumatore",
+                    "servizi di comunicazione elettronica",
+                    "la competitivita e le piccole e medie imprese",
+                    "politiche di internazionalizzazione e la promozione degli scambi",
+                    "politica industriale",
+                    "sicurezza dellapprovvigionamento e per le infrastrutture energetiche",
+                    "pmi",
+                    "le rinnovabili e lefficienza energetica",
+                    "pianificazione e la gestione dello spettro radioelettrico",
+                    "il sistema cooperativo e le gestioni commissariali",
+                    "lotta alla contraffazione ufficio italiano brevetti e marchi",
+                    "di radiodiffusione e postali",
+                    "politica commerciale internazionale",
+                    "sicurezza anche ambientale delle attivita minerarie ed energetiche ufficio nazionale minerario per gl",
+                    "incentivi alle imprese",
+                    "la vigilanza e la normativa tecnica",
+                    "vigilanza sugli enti",
+                    "imprese",
+                    "istituto superiore delle comunicazioni e delle tecnologie dellinformazione",
+                    "bonustv",
+                    "attivita territoriali",
+                    "mercato elettrico",
+                    "bonus rottamazione tv",
+                    "il nucleare",
+                    "start up",
+                    "mercato",
+                    "la concorrenza",
+                    "telecommunications",
+                    "public engagement campaigns",
+                    "energy",
+                    "digitalization",
+                    "public communication",
+                    "services",
+                    "energy policy tools",
+                    "sector development",
+                    "other general government support",
+                    "sector-specific incentives",
+                    "economic development",
+                    "consumer rights",
+                    "industrial clusters",
+                    "investment support",
+                    "international trade",
+                    "energy policy",
+                    "business support",
+                    "sectoral policies",
+                    "energy management",
+                    "innovation hubs",
+                    "international cooperation programs",
+                    "industrial competitiveness",
+                    "policy implementation",
+                    "trade policy",
+                    "export readiness programs",
+                    "trade policy frameworks",
+                    "public engagement",
+                    "compliance",
+                    "made in italy",
+                    "public-private partnerships",
+                    "innovation support",
+                    "government agency",
+                    "technology development",
+                    "regulatory compliance",
+                    "investment promotion",
+                    "trade regulation",
+                    "energy efficiency initiatives",
+                    "economic policy",
+                    "industrial sectors",
+                    "consumer protection",
+                    "manufacturing",
+                    "energy efficiency",
+                    "tourism",
+                    "industrial policy",
+                    "b2b",
+                    "industrial innovation hubs",
+                    "digital transformation",
+                    "trade agreements",
+                    "regulatory framework",
+                    "sme support",
+                    "export promotion",
+                    "digital infrastructure",
+                    "international cooperation",
+                    "economic growth",
+                    "digital economy support",
+                    "market access strategies",
+                    "telecommunications regulation",
+                    "industrial development",
+                    "trade facilitation",
+                    "renewable energy",
+                    "trade promotion",
+                    "sme digitalization",
+                    "export support",
+                    "business incentives",
+                    "industrial policy implementation",
+                    "digital skills",
+                    "manufacturing support",
+                    "manufacturing excellence",
+                    "policy advocacy",
+                    "innovation policy",
+                    "energy sustainability",
+                    "export enhancement",
+                    "made in italy brand",
+                    "market oversight",
+                    "digital skills development",
+                    "industrial innovation",
+                    "public policy",
+                    "digital skills training",
+                    "market regulation",
+                    "government",
+                    "public services",
+                    "industrial modernization",
+                    "energy transition",
+                    "trade diplomacy",
+                    "industrial growth",
+                    "public administration",
+                    "innovation",
+                    "ministry of enterprises",
+                    "energy transformation",
+                    "investment incentives",
+                    "financial support",
+                    "research funding",
+                    "startup support",
+                    "credit access",
+                    "public transparency",
+                    "enterprise support",
+                    "patents",
+                    "trademarks",
+                    "industry policy",
+                    "smes",
+                    "global competitiveness",
+                    "recovery plan",
+                    "productivity",
+                    "digital technologies",
+                    "sustainable development",
+                    "business opportunities",
+                    "access to finance",
+                    "strategic planning",
+                    "risk assessments",
+                    "future initiatives",
+                    "energy services company",
+                    "investment projects",
+                    "financial contributions",
+                    "business growth",
+                    "sustainable investments",
+                    "economic recovery",
+                    "circular economy",
+                    "business transformation",
+                    "entrepreneurship support",
+                    "technological innovation",
+                    "energy dashboarding",
+                    "energy consumption reduction",
+                    "training programs",
+                    "business management software",
+                    "eu funding",
+                    "financial incentives",
+                    "modernization programs",
+                    "energy & utilities",
+                    "oil & energy",
+                    "mechanical or industrial engineering",
+                    "environmental services",
+                    "renewables & environment",
+                    "clean energy & technology",
+                    "sustainability"
+                ],
+                "ai": "Made in Italy, Incentivi, PNRR, Transizione 5.0, Imprese, Cybersecurity, Digitale, Spazio, Startup, Brevetti"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "href_lang",
+                        "name": "HREF Lang",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "joomla",
+                        "name": "Joomla",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "matomo",
+                        "name": "Matomo",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "matomo",
+                        "name": "Matomo",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "matomo",
+                        "name": "Matomo",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365_apps_services",
+                        "name": "Microsoft 365 Apps & Services",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_exchange",
+                        "name": "Microsoft Exchange",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_exchange_online",
+                        "name": "Microsoft Exchange Online",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "office_365",
+                        "name": "Microsoft Office 365",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "multilingual",
+                        "name": "Multilingual",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "office365",
+                        "name": "Office365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "outlook",
+                        "name": "Outlook",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "viewport_meta",
+                        "name": "Viewport Meta",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "recaptcha",
+                        "name": "reCAPTCHA",
+                        "category": "Captcha"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "Joomla",
+                        "category": "CMS",
+                        "confidence": 0.95,
+                        "source": "joomla-*, wrapper-*, itemid-* CSS prefixes",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.7,
+                            "evidence_density": 0.14
+                        }
+                    },
+                    {
+                        "name": "Bootstrap",
+                        "category": "Frontend Framework",
+                        "confidence": 0.99,
+                        "source": "col-*, d-*, navbar-*, btn-* CSS classes",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.82,
+                            "evidence_density": 0.23
+                        }
+                    },
+                    {
+                        "name": "Google Analytics",
+                        "category": "Analytics",
+                        "confidence": 0.99,
+                        "source": "analytics.mise.gov.it",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.5,
+                            "evidence_density": 0.76
+                        }
+                    },
+                    {
+                        "name": "Google Static Content",
+                        "category": "CDN",
+                        "confidence": 0.9,
+                        "source": "www.gstatic.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.4,
+                            "evidence_density": 1.4
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [],
+                "ai": [
+                    "Ispettorati territoriali",
+                    "Case del Made in Italy",
+                    "AI Hub",
+                    "Invest in Italy"
+                ]
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": [
+                    {
+                        "date": "2021-2026",
+                        "type": "Government Program",
+                        "amount": "PNRR Funding"
+                    }
+                ]
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Invitalia (Agenzia nazionale per l'attrazione degli investimenti e lo sviluppo d'impresa)",
+                    "ICE - Agenzia per la promozione all'estero e l'internazionalizzazione delle imprese italiane",
+                    "Ministero dell'Economia e delle Finanze (MEF)",
+                    "Agenzia per l'Italia Digitale (AgID)",
+                    "Ministero degli Affari Esteri e della Cooperazione Internazionale (MAECI)"
+                ]
+            }
+        }
+    }
+}

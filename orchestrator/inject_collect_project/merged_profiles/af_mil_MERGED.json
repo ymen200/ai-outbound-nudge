@@ -1,0 +1,715 @@
+{
+    "alexa_ranking": 8334,
+    "annual_revenue": 182321000.0,
+    "apollo_id": "54a1285269702d9548effe00",
+    "city": "Universal City",
+    "country": "United States",
+    "departments": {
+        "human_resources": 3960,
+        "legal": 1733,
+        "information_technology": 15579,
+        "operations": 18598,
+        "finance": 6908,
+        "consulting": 967,
+        "support": 3219,
+        "engineering": 10940,
+        "accounting": 459,
+        "administrative": 1623,
+        "media_and_commmunication": 2009,
+        "business_development": 434,
+        "education": 829,
+        "arts_and_design": 381,
+        "data_science": 474,
+        "marketing": 510,
+        "sales": 151,
+        "product_management": 145,
+        "entrepreneurship": 24
+    },
+    "domain": "af.mil",
+    "estimated_num_employees": 689000,
+    "facebook_url": "https://facebook.com/USairforce/",
+    "founded_year": 1947,
+    "funding_events": [
+        {
+            "id": "696606e81cf1c20001868ac1",
+            "date": "2018-05-01T00:00:00.000+00:00",
+            "type": "Other",
+            "amount": "8.8M",
+            "currency": "$",
+            "investors": "Non renseigné"
+        }
+    ],
+    "industry": "defense & space",
+    "keywords": [
+        "fly",
+        "fight",
+        "air",
+        "space",
+        "cyberspace",
+        "acquisition",
+        "medical",
+        "defense & space manufacturing",
+        "air force readiness",
+        "innovation",
+        "risk management",
+        "aerospace product and parts manufacturing",
+        "operational efficiency",
+        "combat aircraft",
+        "aerospace",
+        "space-based assets",
+        "military and space technology",
+        "space systems",
+        "cyber operations",
+        "navigation systems",
+        "air force innovation",
+        "training",
+        "military operations",
+        "customer engagement",
+        "aircraft manufacturing",
+        "air force logistics",
+        "manufacturing",
+        "b2b",
+        "b-21 raider",
+        "rapid mobility",
+        "engineering",
+        "military aviation",
+        "aircraft testing",
+        "uas",
+        "recruitment",
+        "stealth bomber",
+        "aircraft modernization",
+        "aircraft propulsion",
+        "government",
+        "space technology",
+        "air force technology",
+        "cybersecurity",
+        "isr",
+        "defense systems",
+        "aerospace and defense",
+        "logistics",
+        "air superiority",
+        "satellite communication",
+        "talent management",
+        "unmanned aerial vehicles",
+        "aviation",
+        "air combat",
+        "maintenance",
+        "command and control",
+        "unmanned systems",
+        "multi-domain operations",
+        "next-generation aircraft",
+        "aircraft",
+        "satellite systems",
+        "aircraft maintenance",
+        "collaborative combat aircraft",
+        "cyberspace dominance",
+        "aerospace technology",
+        "government defense",
+        "aircraft systems",
+        "global strike",
+        "airpower",
+        "services",
+        "rapid global mobility",
+        "intelligence",
+        "surveillance",
+        "reconnaissance",
+        "military readiness",
+        "expeditionary operations",
+        "unit readiness",
+        "base infrastructure",
+        "humanitarian missions",
+        "leadership library",
+        "air force policies",
+        "military careers",
+        "fitness programs",
+        "c-17 globemaster iii",
+        "f-35 lightning ii",
+        "kc-46 pegasus",
+        "b-52h stratofortress",
+        "combat airpower",
+        "training programs",
+        "national defense",
+        "great power competition",
+        "education and licensure",
+        "community partnerships",
+        "operational readiness",
+        "fueling capabilities",
+        "air refueling forces",
+        "defensive operations",
+        "search and rescue",
+        "strategic imperatives",
+        "expedited mail service",
+        "historical research",
+        "military families",
+        "civilian service",
+        "information warfare",
+        "combat exercises",
+        "military drills",
+        "intelligence collection",
+        "national security",
+        "flying operations",
+        "future military capabilities",
+        "disaster relief operations",
+        "partnerships",
+        "education",
+        "distribution",
+        "transportation & logistics",
+        "mechanical or industrial engineering"
+    ],
+    "latest_funding_stage": "Other",
+    "linkedin_url": "http://www.linkedin.com/company/united-states-air-force",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6a35998a7bf4d40001d3062f/picture",
+    "name": "United States Air Force",
+    "num_suborganizations": 10,
+    "phone": "+1 915-654-4688",
+    "postal_code": "78148",
+    "raw_address": "550 A Street West, Universal City, United States",
+    "seo_description": null,
+    "short_description": "The United States Air Force (USAF) is the aerial and space warfare branch of the U.S. Armed Forces, established as an independent service in 1947. Its mission is to \"Fly, Fight, and Win…airpower anytime, anywhere,\" guided by core values of integrity, service, and excellence. The USAF plays a crucial role in defending the United States through airpower, maintaining air superiority, strategic deterrence, and global strike capabilities.\n\nThe USAF has a rich history, evolving from early aviation efforts in the early 20th century to a major military force involved in significant conflicts such as World War I, World War II, the Korean War, and the Gulf War. Its core roles include air combat, strategic attack, logistical support, and defense integration, ensuring effective operations in joint missions with other military branches. The USAF also focuses on training and support for its personnel, ensuring readiness and capability across its various commands.",
+    "state": "Texas",
+    "street_address": "550 A Street West",
+    "suborganizations": [
+        {
+            "id": "69e2fdaabc12be00014861d9",
+            "name": "Tyndall 325th Force Support Squadron",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "614da8863c2752000162b27b",
+            "name": "U.S. Air Force Armament Directorate",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "604960740add4d00018d9332",
+            "name": "Space Systems Command",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "54a129f569702d8b19fb5d02",
+            "name": "U.S. Air Force Institute of Technology",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "685240de7e9f420001121b2e",
+            "name": "Wright Care Child Development Center",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5ee10e78ad06e6008c7f32a7",
+            "name": "United States Space Force",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5ed9670beb902e00015b55a8",
+            "name": "Airmen Coders",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "64b4f24dcb49a90291f170ed",
+            "name": "USSF Combat Forces Command",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "67309dd88c7edd0001bf02f0",
+            "name": "Tyndall FSS",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5569610873696425ee881700",
+            "name": "US Air Force Services",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "gis",
+            "name": ".GIS",
+            "category": "Other"
+        },
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "asp_net",
+            "name": "ASP.NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "aws_cloud",
+            "name": "AWS Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_public_cloud",
+            "name": "AWS Public Cloud",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "adobe_marketing_cloud",
+            "name": "Adobe Marketing Cloud",
+            "category": "Search Marketing"
+        },
+        {
+            "uid": "akamai",
+            "name": "Akamai",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "akamai_cdn_solutions",
+            "name": "Akamai CDN Solutions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "akamai_web_application_api_protector",
+            "name": "Akamai Web Application & API Protector",
+            "category": "Event Management"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "amazon_route_53",
+            "name": "Amazon Route 53",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "amazon_ses",
+            "name": "Amazon SES",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "amazon_simple_email_service_amazon_ses",
+            "name": "Amazon Simple Email Service (Amazon SES)",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "angular",
+            "name": "Angular",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "appointmentplus",
+            "name": "AppointmentPlus",
+            "category": "Appointment Scheduling"
+        },
+        {
+            "uid": "azure_api_apps",
+            "name": "Azure API Apps",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_app_service",
+            "name": "Azure App Service",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_web_apps",
+            "name": "Azure Web Apps",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "bash",
+            "name": "Bash",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "bing",
+            "name": "Bing",
+            "category": "Search Appliances"
+        },
+        {
+            "uid": "bing_webmaster_tools",
+            "name": "Bing Webmaster Tools",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "bluetie_vault",
+            "name": "BlueTie Vault",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "bootstrap",
+            "name": "Bootstrap",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "bootstrap_framework",
+            "name": "Bootstrap Framework",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "brocade_switches",
+            "name": "Brocade Switches",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "c#",
+            "name": "C#",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "captcha",
+            "name": "CAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "dnn",
+            "name": "DNN",
+            "category": "CMS"
+        },
+        {
+            "uid": "dotnetnuke",
+            "name": "DotNetNuke",
+            "category": "CMS"
+        },
+        {
+            "uid": "eventbrite",
+            "name": "Eventbrite",
+            "category": "Event Management"
+        },
+        {
+            "uid": "exacttarget",
+            "name": "ExactTarget",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "facebook",
+            "name": "Facebook",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "facebook_web_custom_audiences",
+            "name": "Facebook Custom Audiences",
+            "category": "Retargeting"
+        },
+        {
+            "uid": "facebook_like_button",
+            "name": "Facebook Like Button",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_meta",
+            "name": "Facebook Meta",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "facebook_sdk",
+            "name": "Facebook SDK",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "facebook_share_button",
+            "name": "Facebook Social Plugins",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "facebook_widget",
+            "name": "Facebook Widget",
+            "category": "Widgets"
+        },
+        {
+            "uid": "flexslider",
+            "name": "FlexSlider",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4 (GA4)",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_search_central",
+            "name": "Google Search Central",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "greenhouse_io",
+            "name": "Greenhouse.io",
+            "category": "Recruitment"
+        },
+        {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "jw_player",
+            "name": "JW Player",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "linkedin_login",
+            "name": "Linkedin Login",
+            "category": "Social Login"
+        },
+        {
+            "uid": "linkedin_widget",
+            "name": "Linkedin Widget",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft",
+            "name": "Microsoft Azure Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "microsoft_email_providers",
+            "name": "Microsoft Email Providers",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_powershell",
+            "name": "Microsoft PowerShell",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "microsoft.net",
+            "name": "Microsoft.net",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Widgets"
+        },
+        {
+            "uid": "oracle_cloud",
+            "name": "Oracle Cloud",
+            "category": "Hosting"
+        },
+        {
+            "uid": "oracle_cloud_infrastructure",
+            "name": "Oracle Cloud Infrastructure",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "padlet",
+            "name": "Padlet",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "scene7",
+            "name": "Scene7",
+            "category": "E-commerce Tools"
+        },
+        {
+            "uid": "sendgrid",
+            "name": "Sendgrid",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "sitecore_digital_experience_platform",
+            "name": "Sitecore Digital Experience Platform",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "slimbox",
+            "name": "Slimbox",
+            "category": "Widgets"
+        },
+        {
+            "uid": "sparkpost",
+            "name": "SparkPost",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "surveymonkey",
+            "name": "SurveyMonkey",
+            "category": "Support and Feedback"
+        },
+        {
+            "uid": "taboola_newsroom",
+            "name": "Taboola Newsroom",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "tubemogul",
+            "name": "TubeMogul",
+            "category": "Video Advertising Networks"
+        },
+        {
+            "uid": "twilio_sendgrid_email_api",
+            "name": "Twilio SendGrid Email API",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "twitter_sharing",
+            "name": "Twitter Sharing",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "twitter_login_widget",
+            "name": "Twitter Widgets",
+            "category": "Social Login"
+        },
+        {
+            "uid": "typekit",
+            "name": "Typekit",
+            "category": "Fonts"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "visual_website_optimizer",
+            "name": "Visual Website Optimizer",
+            "category": "Online Testing Platforms"
+        },
+        {
+            "uid": "vue_js_library",
+            "name": "VueJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+        },
+        {
+            "uid": "x_twitter",
+            "name": "X (Twitter)",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "itunes",
+            "name": "iTunes",
+            "category": "Widgets"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        }
+    ],
+    "total_funding": "8.8M",
+    "twitter_url": "https://twitter.com/USairforce",
+    "website_url": "http://www.af.mil",
+    "competitors": [
+        "United States Navy",
+        "United States Army",
+        "Royal Air Force",
+        "People's Liberation Army Air Force"
+    ],
+    "data_quality_score": 0.83
+}

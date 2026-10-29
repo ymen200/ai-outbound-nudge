@@ -1,0 +1,71 @@
+{
+  "person": {
+    "id": "68c75509f4ee520001cb1ddd",
+    "first_name": "Doudou",
+    "last_name": "Lop",
+    "name": "Doudou Lop",
+    "linkedin_url": "http://www.linkedin.com/in/doudou-lop-47a514271",
+    "title": "Commercial",
+    "photo_url": "https://media.licdn.com/dms/image/v2/D4D03AQFaNAKViOzwFw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1680669762204?e=2147483647&v=beta&t=1abqwaiWCfib3Ts8YFxW3oBFTUqqwAT8xashF52XUDE",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "--",
+    "organization_id": "5c212b41a3ae61858511e589",
+    "employment_history": [
+      {
+        "_id": "6a339f7cd1a4a300014fea51",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5c212b41a3ae61858511e589",
+        "organization_name": "Asseco",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Commercial",
+        "updated_at": null,
+        "id": "6a339f7cd1a4a300014fea51",
+        "key": "6a339f7cd1a4a300014fea51"
+      }
+    ],
+    "street_address": "",
+    "city": "Boissy-Saint-Leger",
+    "state": "Ile-de-France",
+    "country": "France",
+    "postal_code": "94470",
+    "formatted_address": null,
+    "time_zone": "Europe/Paris",
+    "email": null,
+    "email_status": null,
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [],
+    "seniority": "entry",
+    "functions": [],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": []
+  },
+  "phone_enrichment": {
+    "request_id": "6a5a52de250b65001022c49e",
+    "status": "pending",
+    "message": "Phone enrichment is processing asynchronously. Retrieve the result by polling GET /api/v1/webhook_result/{request_id} with the top-level `request_id` field from this response. Retry after ~10 seconds."
+  },
+  "request_id": -8363262821074841399
+}

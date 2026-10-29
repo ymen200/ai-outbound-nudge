@@ -1,0 +1,283 @@
+{
+    "domain": "corp.tn",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "annual_revenue": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        },
+        "city": {
+            "neo4j_apollo": "Tunis",
+            "smart_scraper_ai": "Tunis"
+        },
+        "country": {
+            "neo4j_apollo": "Tunisia",
+            "smart_scraper_ai": "Tunisia"
+        },
+        "domain": {
+            "neo4j_apollo": "corp.tn",
+            "smart_scraper_ai": null
+        },
+        "estimated_num_employees": {
+            "neo4j_apollo": 30,
+            "smart_scraper_ai": null
+        },
+        "facebook_url": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        },
+        "founded_year": {
+            "neo4j_apollo": 2015,
+            "smart_scraper_ai": null
+        },
+        "funding_events": {
+            "neo4j_apollo": [],
+            "smart_scraper_ai": []
+        },
+        "industry": {
+            "neo4j_apollo": "human resources",
+            "smart_scraper_ai": null
+        },
+        "keywords": {
+            "neo4j_apollo": [
+                "reconversion professionnelle",
+                "placement professionnel",
+                "matching",
+                "orientation professionnelle",
+                "business capacity building",
+                "training programs",
+                "business mentoring",
+                "employment services",
+                "mentorship programs",
+                "colleges, universities, and professional schools",
+                "employment matching",
+                "partnership programs",
+                "post-covid recovery",
+                "training workshops",
+                "post-pandemic economic recovery",
+                "youth employability",
+                "entrepreneurship support",
+                "employment diagnostics",
+                "recruitment events",
+                "german-tunisian cooperation",
+                "business diagnostics",
+                "economic development",
+                "market linkage",
+                "mentoring for micro-entrepreneurs",
+                "skills matching events",
+                "employment initiatives",
+                "giz tunisia partnership",
+                "public-private partnership",
+                "market-oriented training",
+                "training for micro-entrepreneurs",
+                "career counseling",
+                "market demand alignment",
+                "labor market solutions",
+                "training and mentoring",
+                "microfinance support",
+                "micro-entrepreneurship",
+                "entrepreneurship training",
+                "youth entrepreneurship support",
+                "professional orientation",
+                "training and employment",
+                "business support services",
+                "micro-entrepreneurs",
+                "career development",
+                "skills development",
+                "skills diagnostics",
+                "job placement",
+                "economic growth support",
+                "skills enhancement",
+                "digital transformation",
+                "networking events",
+                "capacity building",
+                "professional development",
+                "economic recovery",
+                "youth employment",
+                "mentoring programs",
+                "employment facilitation",
+                "job market integration",
+                "employability enhancement",
+                "talent matching",
+                "tmaken program",
+                "skills assessment",
+                "micro-entrepreneur support",
+                "labor market bridge",
+                "non-profit",
+                "human resources services",
+                "professional orientation services",
+                "workforce training",
+                "employee recruitment",
+                "career change",
+                "professional reconversion",
+                "job matching",
+                "market demands",
+                "employability improvement",
+                "hr consulting",
+                "shortlist candidates",
+                "soft skills training",
+                "employment partnerships",
+                "thematic workshops",
+                "job fairs",
+                "targeted recruitment",
+                "resume building",
+                "interview preparation",
+                "youth employment programs",
+                "industry collaboration",
+                "job market analysis",
+                "professional formation",
+                "academic partnerships",
+                "career coaching",
+                "personal development",
+                "labor market insights",
+                "networking opportunities",
+                "specialized training",
+                "job seekers support",
+                "demand-driven training",
+                "recruitment process",
+                "employer services",
+                "labour force development",
+                "professional networking",
+                "career fairs",
+                "vocational training",
+                "outsourcing recruitment",
+                "consultative hiring",
+                "training needs assessment",
+                "career pathways",
+                "skills gap analysis",
+                "employer engagement",
+                "employment ecosystems",
+                "nonprofit organization management",
+                "b2b",
+                "management consulting",
+                "professional training & coaching"
+            ],
+            "smart_scraper_ai": null
+        },
+        "latest_funding_stage": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        },
+        "linkedin_url": {
+            "neo4j_apollo": "http://www.linkedin.com/company/corp---centre-d'orientation-et-de-reconversion-professionnelle",
+            "smart_scraper_ai": null
+        },
+        "name": {
+            "neo4j_apollo": "CORP by AHK Tunisia",
+            "smart_scraper_ai": null
+        },
+        "num_suborganizations": {
+            "neo4j_apollo": 0,
+            "smart_scraper_ai": null
+        },
+        "phone": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        },
+        "raw_address": {
+            "neo4j_apollo": "Tunis, 1082, TN",
+            "smart_scraper_ai": "Tunis, Tunisia"
+        },
+        "seo_description": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        },
+        "short_description": {
+            "neo4j_apollo": "CORP by AHK Tunisia is a department of the Chambre Tuniso-Allemande de l'Industrie et du Commerce, dedicated to improving youth employability in Tunisia. It connects job seekers, particularly students and graduates, with recruiters through various professional programs, career transitions, and employment events. With a focus on skill development and market insertion, CORP addresses unemployment by promoting professional reconversion into high-demand sectors and offering soft skills training.\n\nCelebrating a decade of impact, CORP runs initiatives like the Employ’Net project, which supports job seekers with comprehensive services, including job fairs featuring Tunisian and German companies. The organization also provides professional accompaniment through orientation sessions and career coaching, and it organizes job fairs to facilitate direct connections between candidates and employers. Additionally, CORP supports entrepreneurship by helping individuals develop and realize their business projects, ensuring that candidates are well-prepared for the evolving job market.",
+            "smart_scraper_ai": null
+        },
+        "technologies": {
+            "neo4j_apollo": [
+                "AI",
+                "Apache",
+                "Google Font API",
+                "Mobile Friendly",
+                "Outlook",
+                "Ubuntu",
+                "WordPress.org",
+                "reCAPTCHA"
+            ],
+            "smart_scraper_ai": []
+        },
+        "total_funding": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        },
+        "twitter_url": {
+            "neo4j_apollo": "Non renseigné",
+            "smart_scraper_ai": null
+        }
+    },
+    "apollo_neo4j_only_attributes": {
+        "alexa_ranking": "Non renseigné",
+        "apollo_id": "Non renseigné",
+        "captured_at": "Non renseigné",
+        "category": "Non renseigné",
+        "created_at": "Non renseigné",
+        "crunchbase": "Non renseigné",
+        "crunchbase_url": "Non renseigné",
+        "data": "Non renseigné",
+        "departments": {
+            "information_technology": 1,
+            "engineering": 1,
+            "media_and_commmunication": 2,
+            "accounting": 1,
+            "sales": 1,
+            "operations": 0,
+            "finance": 0,
+            "marketing": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "business_development": 0,
+            "product_management": 0,
+            "consulting": 0,
+            "education": 0,
+            "administrative": 0,
+            "arts_and_design": 0,
+            "entrepreneurship": 0,
+            "support": 0,
+            "data_science": 0
+        },
+        "description": "Non renseigné",
+        "facebook": "Non renseigné",
+        "full_address": "Non renseigné",
+        "funding_stage": "Non renseigné",
+        "id": "Non renseigné",
+        "last_update": "Non renseigné",
+        "last_verified_at": "Non renseigné",
+        "linkedin": "Non renseigné",
+        "logo": "Non renseigné",
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/68ccfdfeae973b000114f362/picture",
+        "nodes": "Non renseigné",
+        "owned_by_organization_id": "Non renseigné",
+        "parent_apollo_id": "Non renseigné",
+        "parent_id": "Non renseigné",
+        "postal_code": "Non renseigné",
+        "relationships": "Non renseigné",
+        "revenue": "Non renseigné",
+        "siret": "Non renseigné",
+        "size": "Non renseigné",
+        "state": "Tunis",
+        "street_address": "Non renseigné",
+        "style": "Non renseigné",
+        "sub_orgs_count": "Non renseigné",
+        "suborganizations": [],
+        "tech_stack": "Non renseigné",
+        "twitter": "Non renseigné",
+        "uid": "Non renseigné",
+        "visualisation": "Non renseigné",
+        "website": "Non renseigné",
+        "website_url": "http://www.corp.tn"
+    },
+    "smart_scraper_ai_only_attributes": {
+        "fiscal_year_end": null,
+        "annual_revenue_USD": null,
+        "is_subsidiary": null,
+        "parent_company": null,
+        "subsidiaries_list": [],
+        "data_quality_score": 0.08,
+        "market_intelligence": {
+            "competitors": []
+        }
+    }
+}

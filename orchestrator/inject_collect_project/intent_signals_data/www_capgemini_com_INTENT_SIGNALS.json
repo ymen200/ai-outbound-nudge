@@ -1,0 +1,223 @@
+{
+    "intent_summary": {
+        "hiring_dynamic": {
+            "value": "High",
+            "confidence": 0.9,
+            "source": "979 job offers in France",
+            "xai_metrics": {
+                "faithfulness_score": 0,
+                "calibration_error": 0.83,
+                "evidence_density": 0.17
+            }
+        },
+        "growth_signals_detected": {
+            "value": "Expansion of services and recruitment in various fields",
+            "confidence": 0.8,
+            "source": "Various job offers and services listed on the website",
+            "xai_metrics": {
+                "faithfulness_score": 0,
+                "calibration_error": 0.39,
+                "evidence_density": 1.04
+            }
+        }
+    },
+    "job_offers": [],
+    "news_articles": [
+        {
+            "title": {
+                "value": "Global millionaire population jumps by nearly 2 million in 2025, driven by strong stock market performance worldwide",
+                "confidence": 0.9,
+                "source": "The 30th edition of the Capgemini Research Institute’s World Wealth Report 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.63,
+                    "evidence_density": 1.47
+                }
+            },
+            "date": {
+                "value": "Jun 4, 2026",
+                "confidence": 0.8,
+                "source": "The 30th edition of the Capgemini Research Institute’s World Wealth Report 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.64,
+                    "evidence_density": 0.14
+                }
+            },
+            "summary": {
+                "value": "The report found an 8.7% increase in global high-net-worth individual wealth in 2025, reaching a record USD 98.3 trillion — the largest single-year increase since 2018.",
+                "confidence": 0.8,
+                "source": "The 30th edition of the Capgemini Research Institute’s World Wealth Report 2026",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.69,
+                    "evidence_density": 2.13
+                }
+            }
+        },
+        {
+            "title": {
+                "value": "Syensqo selects Syniti, part of Capgemini, for multi-year data transformation to unify global operations",
+                "confidence": 0.9,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.8,
+                    "evidence_density": 9.45
+                }
+            },
+            "date": {
+                "value": "Jun 3, 2026",
+                "confidence": 0.8,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.62,
+                    "evidence_density": 1.0
+                }
+            },
+            "summary": {
+                "value": "Syensqo has selected Syniti, part of Capgemini, to support its multi-year data transformation journey.",
+                "confidence": 0.8,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.69,
+                    "evidence_density": 9.27
+                }
+            }
+        },
+        {
+            "title": {
+                "value": "Capgemini, NiCE and Route 101 to meet evolving needs of UK citizens",
+                "confidence": 0.9,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.69,
+                    "evidence_density": 6.09
+                }
+            },
+            "date": {
+                "value": "Jun 3, 2026",
+                "confidence": 0.8,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.62,
+                    "evidence_density": 1.0
+                }
+            },
+            "summary": {
+                "value": "Capgemini, NiCE and Route 101 have been selected to support the UK government’s digital transformation journey.",
+                "confidence": 0.8,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.67,
+                    "evidence_density": 10.09
+                }
+            }
+        },
+        {
+            "title": {
+                "value": "2026 Capital Markets Day: Capgemini poised to capture the full value of the Agentic AI revolution",
+                "confidence": 0.9,
+                "source": "Financial news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.77,
+                    "evidence_density": 6.93
+                }
+            },
+            "date": {
+                "value": "May 27, 2026",
+                "confidence": 0.8,
+                "source": "Financial news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.65,
+                    "evidence_density": 0.86
+                }
+            },
+            "summary": {
+                "value": "Capgemini is well-positioned to capture the full value of the Agentic AI revolution, according to its 2026 Capital Markets Day presentation.",
+                "confidence": 0.8,
+                "source": "Financial news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.7,
+                    "evidence_density": 10.0
+                }
+            }
+        }
+    ],
+    "strategic_events": [
+        {
+            "type": {
+                "value": "Partnership",
+                "confidence": 0.9,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.54,
+                    "evidence_density": 1.0
+                }
+            },
+            "description": {
+                "value": "Syensqo selects Syniti, part of Capgemini, for multi-year data transformation to unify global operations",
+                "confidence": 0.8,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.7,
+                    "evidence_density": 9.45
+                }
+            }
+        },
+        {
+            "type": {
+                "value": "Partnership",
+                "confidence": 0.9,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.54,
+                    "evidence_density": 1.0
+                }
+            },
+            "description": {
+                "value": "Capgemini, NiCE and Route 101 to meet evolving needs of UK citizens",
+                "confidence": 0.8,
+                "source": "Client news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.59,
+                    "evidence_density": 6.09
+                }
+            }
+        },
+        {
+            "type": {
+                "value": "Product Launch",
+                "confidence": 0.9,
+                "source": "Financial news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.69,
+                    "evidence_density": 1.0
+                }
+            },
+            "description": {
+                "value": "2026 Capital Markets Day: Capgemini poised to capture the full value of the Agentic AI revolution",
+                "confidence": 0.8,
+                "source": "Financial news",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.67,
+                    "evidence_density": 6.93
+                }
+            }
+        }
+    ]
+}

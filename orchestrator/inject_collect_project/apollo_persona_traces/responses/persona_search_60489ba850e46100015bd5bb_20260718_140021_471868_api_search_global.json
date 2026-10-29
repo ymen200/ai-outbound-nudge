@@ -1,0 +1,51 @@
+{
+  "total_entries": 68,
+  "people": [
+    {
+      "id": "676a88ead2e6bf000158ee3b",
+      "first_name": "Vishal",
+      "last_name_obfuscated": "Mi***a",
+      "title": "Sales Business Development",
+      "last_refreshed_at": "2026-06-17T10:43:53.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "ENEOS Group",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": false,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5f5ca96dce8aac000159691d",
+      "first_name": "Makoto",
+      "last_name_obfuscated": "Ta***i",
+      "title": "Business Development",
+      "last_refreshed_at": "2026-05-09T07:31:05.737+00:00",
+      "has_email": true,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "ENEOS Group",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": false,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 1417,
+    "total_pages": 71
+  },
+  "news_articles": [
+    {
+      "id": "6a59e5bff3924d00205f687c",
+      "url": "https://martech360.com/news/stack-platforms/rainfocus-integrations-with-adobe-automate-event-data-sync-and-centralize-brand-assets",
+      "domain": "martech360.com",
+      "title": "RainFocus integrations with Adobe automate event data sync and centralize brand assets.",
+      "snippet": "RainFocus(TM), the enterprise event marketing platform recently named a Leader in the 2026 Gartner(R) Magic Quadrant(TM) for Event Marketing and Management Platforms, today announced two new content supply chain integrations: Adobe Experience Manager Sites Connector and Adobe Experience Manager Content Advisor.",
+      "organization_ids": [
+        "556d973973696411c78d4401",
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-07-15T12:18:17.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a52daa43d4c78001055874c",
+      "url": "https://www.adexchanger.com/marketers/adobe-advertising-just-launched-its-own-custom-algorithms-product",
+      "domain": "adexchanger.com",
+      "title": "Adobe Advertising just launched its own Custom Algorithms product.",
+      "snippet": "Adobe Advertising just launched its own Custom Algorithms product.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-07-08T11:18:06.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a4fc574c87cef00180f7792",
+      "url": "https://www.warp2search.net/story/adobe-air-51331-released",
+      "domain": "warp2search.net",
+      "title": "Adobe AIR 51.3.3.1 released.",
+      "snippet": "Adobe has released version 51.3.3.1 of Adobe AIR, a runtime environment that allows developers to leverage established web technologies to create rich Internet applications (RIAs).",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-07-08T07:09:06.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5d2f8742c01100189ddc39",
+      "url": "https://fullmetrix.com/en/blog/integration-fullmetrix-magento",
+      "domain": "fullmetrix.com",
+      "title": "Fullmetrix x Magento: all-in-one analytics and marketing, natively on Magento 2.",
+      "snippet": "Fullmetrix is now native on Magento 2 and Adobe Commerce.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-07-07T18:00:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a4f5ad0f2ebd80020543435",
+      "url": "https://martech360.com/news/stack-platforms/armin-parchami-joins-adobe-as-director-of-multimodal-data-research",
+      "domain": "martech360.com",
+      "title": "Armin Parchami joins Adobe as Director of Multimodal Data Research.",
+      "snippet": "Armin Parchami has joined Adobe as Director of Multimodal Data Research, taking on a role focused on the future of AI-powered creativity.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-07-07T12:42:43.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6a4f6369743b9e001cd3bf76",
+      "url": "https://www.4rfv.com/PKWC262CHMDC/camera-to-cloud-meets-camera-to-timeline-lucidlink-unifi.htm",
+      "domain": "4rfv.com",
+      "title": "Camera to cloud meets Camera to Timeline LucidLink unifi...",
+      "snippet": "LucidLink, a leader in cloud-based file services for content creators, today announced an enhanced workflow integration between LucidLink and Adobe Frame.io that gives globally distributed production teams unified access to their Frame.io projects and supporting production media in separate cloud storage environments.",
+      "organization_ids": [
+        "5a9d96b0a6da98d932e0fde7",
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-07-06T00:00:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a491469df95670014d78300",
+      "url": "https://simplywall.st/stocks/us/software/nyse-ramp/liveramp-holdings/news/liveramp-holdings-ramp-looks-40-undervalued-as-adobe-integra",
+      "domain": "simplywall.st",
+      "title": "LiveRamp Holdings (RAMP) looks 40% undervalued As Adobe integration fuels growth hopes.",
+      "snippet": "LiveRamp Holdings (RAMP) is drawing fresh attention after announcing a new integration with Adobe GenStudio for Commerce Media Networks, linking its commerce purchase data directly into Adobe's agentic content supply chain.",
+      "organization_ids": [
+        "54a127a569702d8b19171201",
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-07-03T13:37:19.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a4b5c6cad1ef1000ce9ec1e",
+      "url": "https://www.reditors.com/blog/auto-captions-premiere-pro",
+      "domain": "reditors.com",
+      "title": "How to add Auto Captions in Premiere Pro - every method compared (2026).",
+      "snippet": "Adobe introduced Speech to Text transcription into Premiere Pro in version 22.0.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-07-03T09:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a455c1d497ccf001096806e",
+      "url": "https://digiday.com/announcement/awards/nfl-verizon-nbcuniversal-and-adobe-are-among-the-2026-digiday-content-marketing-awards-winners",
+      "domain": "digiday.com",
+      "title": "NFL, Verizon, NBCUniversal and Adobe are among the 2026 Digiday Content Marketing Awards winners.",
+      "snippet": "Adobe earned two awards this year, the first is Best Event for transforming Adobe MAX London from a one-day conference into a month-long social conversation.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-30T16:52:34.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    },
+    {
+      "id": "6a45579774cadb000c919461",
+      "url": "https://marketingmind.in/adobe-expands-genstudio-with-ai-powered-tools-for-commerce-media-and-campaign-management",
+      "domain": "marketingmind.in",
+      "title": "Adobe expands GenStudio with ai-powered tools for Commerce Media & campaign management.",
+      "snippet": "Finally, Adobe has introduced the Unified Campaign Metadata Service, which connects campaign data across planning, creation and activation to provide a consistent record for every asset and improve content management and measurement across Adobe's ecosystem.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-30T12:58:54.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a427657920388002070444a",
+      "url": "https://www.digitalcameraworld.com/photography/photo-editing/breaking-news-adobe-will-soon-own-ai-photo-software-topaz-labs-but-what-does-that-mean-for-photographers",
+      "domain": "digitalcameraworld.com",
+      "title": "BREAKING NEWS: Adobe will soon own AI photo software Topaz Labs. But what does that mean for photographers?",
+      "snippet": "Adobe has already integrated Topaz Labs as a partner model for the popular Bloom and Gigapixel AI upsizing tools, but the integration likely means additional tech from Topaz Labs will make its way into Firefly and Creative Cloud apps.",
+      "organization_ids": [
+        "5569502d73696425e2230200",
+        "628497fa654bac00a5099b58"
+      ],
+      "published_at": "2026-06-25T15:42:42.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a3e6d1616d101001a48f586",
+      "url": "https://www.cmswire.com/digital-experience/adobe-to-acquire-topaz-labs-to-boost-ai-video-image-tools",
+      "domain": "cmswire.com",
+      "title": "Adobe to acquire Topaz Labs to boost AI video & image tools.",
+      "snippet": "Adobe will acquire Topaz Labs, pending regulatory approval, in the second half of 2026.",
+      "organization_ids": [
+        "5569502d73696425e2230200",
+        "628497fa654bac00a5099b58"
+      ],
+      "published_at": "2026-06-25T00:00:00.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "6a427573d034f70014ba6a49",
+      "url": "https://gfxspeak.com/featured/adobe-creative-agents-are-expanding",
+      "domain": "gfxspeak.com",
+      "title": "Adobe creative agents are expanding.",
+      "snippet": "When Adobe introduced this past spring its creative agentic AI, an advanced AI system that would integrate into its Firefly and Creative Cloud applications for leveraging AI, it marked the promise of an all-new way of creating content.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-24T16:47:26.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5d38b232762d001c38866e",
+      "url": "https://www.globenewswire.com/news-release/2026/06/24/3317078/0/en/abstract-evolves-beyond-insights-to-autonomous-workflow-execution-with-the-launch-of-abstract-workers.html",
+      "domain": "globenewswire.com",
+      "title": "Abstract evolves beyond insights to autonomous workflow execution with the launch of Abstract Workers.",
+      "snippet": "Abstract's AI Workers automate real business processes by connecting directly to the tools customers already use, integrating with email services, Google Suite, Microsoft Suite, SharePoint, Slack, Adobe and more.",
+      "organization_ids": [
+        "60f2f758c772c3000131b7e0",
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-24T16:04:48.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a3cf581354a4d000cf01b7c",
+      "url": "https://www.delhinews.net/news/279144241/euronet-teams-up-with-adobe-to-empower-india-digital-creators-with-the-industry-leading-creative-tools",
+      "domain": "delhinews.net",
+      "title": "Euronet teams up with Adobe to empower India's digital creators with the industry's leading creative tools.",
+      "snippet": "Mumbai (Maharashtra) [India], June 24: In a move to fuel India's thriving content creation and digital professional ecosystem Euronet announced that it is teaming up with Adobe to make the company's creativity, and productivity tools more accessible to purchase for digital content creators in India.",
+      "organization_ids": [
+        "5d09f36480f93ed325cd67d0",
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-24T11:28:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a3cfd59f23072001449c5e8",
+      "url": "https://www.arnnet.com.au/article/4188674/deloitte-digital-signs-5-year-partnership-with-racq-and-adobe.html",
+      "domain": "arnnet.com.au",
+      "title": "Deloitte Digital signs 5-year partnership with RACQ and Adobe.",
+      "snippet": "The partnership comes as an expansion of an agreement between RACQ and Adobe, which has previously transformed the former's marketing and member engagement capabilities.",
+      "organization_ids": [
+        "54a23c077468692e71c7a918",
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-24T06:06:50.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a427579a1630c001c4ad3d5",
+      "url": "https://gfxspeak.com/newswatch/adobe-intros-creative-cloud-updates-across-all-workflow-stages",
+      "domain": "gfxspeak.com",
+      "title": "Adobe intros Creative Cloud updates across all workflow stages.",
+      "snippet": "With the goal of eliminating some of the friction spots that are necessary but time-consuming in user workflows, Adobe has introduced a host of updates and new features across its Creative Cloud, namely within Premiere and After Effects, as well as Illustrator, Photoshop, and Lightroom.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-22T19:40:38.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a3ae229f9857900185b97d6",
+      "url": "https://grandcanyontimes.com/michael-burry-questions-adobe-stock-valuation-amid-ai-market-enthusiasm",
+      "domain": "grandcanyontimes.com",
+      "title": "Michael Burry questions Adobe stock valuation amid AI market enthusiasm.",
+      "snippet": "Despite these challenges and a recent announcement regarding Chief Financial Officer Dan Durn stepping down in mid-June, Adobe reported strong second-quarter results: $6.62 billion in revenue (up 13% from last year), $2.17 billion in operating cash flow, and $2.4 billion net income with non-GAAP earnings per share at $5.96.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-22T16:52:38.000+00:00",
+      "event_categories": [
+        "has_earnings"
+      ]
+    },
+    {
+      "id": "6a3e6ee9709bf7001cf3d8f9",
+      "url": "https://workflowotg.com/adobe-accelerates-agentic-ai-adoption-through-new-agency-and-technology-partnerships",
+      "domain": "workflowotg.com",
+      "title": "Adobe accelerates Agentic AI adoption through new agency and technology partnerships.",
+      "snippet": "CANNES, FRANCE - June 22, 2026 - Today, at Cannes Lions, Adobe (Nasdaq:ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, announced new innovations with the world's leading agency networks, technology partners and systems integrators to create, activate and measure personalized customer experiences at scale.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-22T13:00:00.000+00:00",
+      "event_categories": [
+        "attends_event"
+      ]
+    },
+    {
+      "id": "6a3fe63bdc69a60014878e08",
+      "url": "https://apacnewsnetwork.com/2026/06/adobe-names-gunjan-pradhan-to-lead-japac-payments-strategy",
+      "domain": "apacnewsnetwork.com",
+      "title": "Adobe names Gunjan Pradhan to lead JAPAC payments strategy.",
+      "snippet": "New Delhi, June 22(CXO Media): Adobe has appointed Gunjan Pradhan as Director, Payments, JAPAC, strengthening its leadership team for digital commerce and payments across Japan and the Asia-Pacific region.",
+      "organization_ids": [
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2026-06-22T03:15:19.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    }
+  ]
+}

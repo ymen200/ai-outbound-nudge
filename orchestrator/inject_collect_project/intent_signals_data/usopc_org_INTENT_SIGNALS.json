@@ -1,0 +1,67 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "U.S. Olympic & Paralympic Committee Appoints Heather McCreery as Chief of Finance - McCreery will report to Chief Operating Officer Koby Langley and serve as a member of the organization’s leadership",
+        "date": "2026-07-06",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "U.S. Olympic & Paralympic Committee Appoints Heather McCreery as Chief of Finance",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.32,
+            "evidence_density": 2.46
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "U.S. Olympic & Paralympic Committee Highlights a Year of Turning Momentum Into Impact in 2025 Impact Report - Building on the unprecedented momentum sparked by Team USA’s performances in Paris, record fan engagement...",
+        "date": "2026-06-26",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "U.S. Olympic & Paralympic Committee Highlights a Year of Turning Momentum Into Impact in 2025 Impact Report",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.14,
+            "evidence_density": 2.04
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "AUDIO: July 2026 USOPC Leadership Press Briefing - Below is the audio recording from the U.S Olympic and Paralympic Committee leadership press briefing on Wednesday, July 1, following the board of directors meetings via teleconference.",
+        "date": "2026-06-25",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "AUDIO: July 2026 USOPC Leadership Press Briefing",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.46,
+            "evidence_density": 4.9
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "USOPC leadership media availability set for July 1 following board of directors meeting - USOPC and board of directors leadership will be available to the media on Wednesday, July 1 at 9:30 a.m. MT.",
+        "date": "2026-06-23",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "USOPC leadership media availability set for July 1 following board of directors meeting",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.19,
+            "evidence_density": 2.28
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "USOPC Receives $10 Million Donation for Mental Health - $10 million gift to USOPC won't only benefit athletes' mental health",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.7,
+        "source": "USOPC Receives $10 Million Donation for Mental Health",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 2.34
+        }
+    }
+]

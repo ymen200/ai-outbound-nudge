@@ -1,0 +1,72 @@
+{
+  "person": {
+    "id": "66feaf732004d10001721283",
+    "first_name": "Jean-Michel",
+    "last_name": "Jeauneau",
+    "name": "Jean-Michel Jeauneau",
+    "linkedin_url": "http://www.linkedin.com/in/jean-michel-jeauneau-166b16129",
+    "title": "Business Development Manager",
+    "photo_url": "https://media.licdn.com/dms/image/v2/C4D03AQHgGWW9wMshnA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1557560611036?e=2147483647&v=beta&t=UnOEgtKZS1Yf_bUBg32cn7TGkbYED_XK1BG9FX7bWW8",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Responsable développement commercial chez PGA Motors",
+    "organization_id": "5cf675aa25a03a09bf4e08c2",
+    "employment_history": [
+      {
+        "_id": "6a3393a1bb100c0001515008",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5cf675aa25a03a09bf4e08c2",
+        "organization_name": "PGA Motors",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Business Development Manager",
+        "updated_at": null,
+        "id": "6a3393a1bb100c0001515008",
+        "key": "6a3393a1bb100c0001515008"
+      }
+    ],
+    "street_address": "",
+    "city": "Metz",
+    "state": "Grand Est",
+    "country": "France",
+    "postal_code": null,
+    "formatted_address": "Metz, France",
+    "time_zone": "Europe/Paris",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development"
+    ],
+    "seniority": "manager",
+    "functions": [
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": []
+  },
+  "waterfall": {
+    "status": "accepted",
+    "message": "Waterfall enrichment request accepted. Results will be sent to the provided webhook URL."
+  },
+  "request_id": 8157524910103699972
+}

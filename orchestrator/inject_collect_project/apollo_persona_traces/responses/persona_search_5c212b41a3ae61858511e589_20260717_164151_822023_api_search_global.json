@@ -1,0 +1,97 @@
+{
+  "total_entries": 4,
+  "people": [
+    {
+      "id": "5de207ebdb665f00014a0312",
+      "first_name": "Jiri",
+      "last_name_obfuscated": "Kl***a",
+      "title": "Business Development Manažer",
+      "last_refreshed_at": "2026-06-29T16:30:32.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Asseco",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "68c75509f4ee520001cb1ddd",
+      "first_name": "Doudou",
+      "last_name_obfuscated": "Lop",
+      "title": "Commercial",
+      "last_refreshed_at": "2026-06-10T01:57:09.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Asseco",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "6347368f8d22850001fda373",
+      "first_name": "Aneta",
+      "last_name_obfuscated": "Ad***k",
+      "title": "Sales Manager",
+      "last_refreshed_at": "2026-06-22T09:01:20.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Asseco",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "54a572bc74686938ac2a0097",
+      "first_name": "Marcin",
+      "last_name_obfuscated": "Ch***t",
+      "title": "Head of Sales Department",
+      "last_refreshed_at": "2026-06-30T20:11:39.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "Asseco",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

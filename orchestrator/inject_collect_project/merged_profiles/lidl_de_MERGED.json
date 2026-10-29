@@ -1,0 +1,73 @@
+{
+    "annual_revenue": null,
+    "apollo_id": "6059abea980a1500e6b6315d",
+    "city": "Bad Wimpfen",
+    "country": "Germany",
+    "domain": "lidl.com",
+    "estimated_num_employees": 94000,
+    "facebook_url": null,
+    "founded_year": "1973",
+    "funding_events": [],
+    "industry": "Supermarket",
+    "keywords": [
+        "supermarket",
+        "groceries",
+        "low prices",
+        "high quality",
+        "private label",
+        "produce",
+        "meat",
+        "baked goods",
+        "household products",
+        "international selection"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/lidl-in-deutschland",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/695a0a828474970001956674/picture",
+    "name": "Lidl",
+    "num_suborganizations": 0,
+    "phone": null,
+    "postal_code": "74206",
+    "raw_address": "2 Bonfelder Strasse, Bad Wimpfen, Germany",
+    "seo_description": null,
+    "short_description": "Lidl offers customers high-quality produce, meat, baked goods, household products and more at unbelievably low prices.",
+    "state": "Baden-Wuerttemberg",
+    "street_address": "2 Bonfelder Strasse",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "Lidl US",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "myra_security",
+            "name": "Myra Security",
+            "category": "CDN / WAF / DDoS Protection"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Cookie Consent Management"
+        },
+        {
+            "uid": "nuxt.js",
+            "name": "Nuxt.js",
+            "category": "Web Framework (Vue.js)"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.lidl.de",
+    "is_subsidiary": true,
+    "parent_company": "Schwarz Group",
+    "competitors": [
+        "Aldi",
+        "Rewe",
+        "Edeka",
+        "Penny",
+        "Netto Marken-Discount"
+    ],
+    "data_quality_score": 0.94
+}

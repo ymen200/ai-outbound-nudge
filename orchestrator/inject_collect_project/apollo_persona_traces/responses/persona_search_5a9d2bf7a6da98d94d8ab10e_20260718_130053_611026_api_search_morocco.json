@@ -1,0 +1,51 @@
+{
+  "total_entries": 257,
+  "people": [
+    {
+      "id": "57ddbc48a6da987ae8cae7c6",
+      "first_name": "Nihal",
+      "last_name_obfuscated": "Ya***d",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-06-24T05:49:54.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "INTELCIA",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5e74891495a1600001d16fbd",
+      "first_name": "Chaimaa",
+      "last_name_obfuscated": "Ch***i",
+      "title": "Commercial",
+      "last_refreshed_at": "2026-05-22T16:40:21.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "INTELCIA",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

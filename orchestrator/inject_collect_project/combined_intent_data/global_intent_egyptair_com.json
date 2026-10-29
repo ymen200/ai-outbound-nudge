@@ -1,0 +1,294 @@
+[
+    {
+        "id": "6a32d0373ee81a000cc85110",
+        "url": "https://travelgossip.co.uk/latestnews/egyptair-to-launch-new-route-from-birmingham",
+        "domain": "travelgossip.co.uk",
+        "title": "EgyptAir to launch new route from Birmingham.",
+        "snippet": "EgyptAir to launch new route from Birmingham.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-06-17T00:00:00.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a31942d8e7f860010e3d856",
+        "url": "https://www.aviationnews-online.com/article/azorra-delivers-a220-to-croatia-airlines",
+        "domain": "aviationnews-online.com",
+        "title": "Azorra delivers A220 to Croatia Airlines.",
+        "snippet": "This follows the lessor recently delivering an ATR 72-600 to Loganair and also completing the acquisition of 12 Airbus A220-300s from EGYPTAIR, as well as their subsequent placement...",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2",
+            "610308bfce712000018a21e7"
+        ],
+        "published_at": "2026-06-16T00:00:00.000+00:00",
+        "event_categories": [
+            "sells_assets_to"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2777c9c8080000141c4be3",
+        "url": "https://www.traveldailynews.asia/aviation/egyptair-becomes-official-airline-partner-of-cimx-2026",
+        "domain": "traveldailynews.asia",
+        "title": "Egyptair becomes official airline partner of CIMX 2026.",
+        "snippet": "Egyptair has been announced as the Official Airline Partner of CIMX 2026, the new international B2B trade show dedicated to meetings, incentives, conferences, business events and corporate travel management, which will take place in Beijing from 3 to 5 November 2026.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-06-08T17:10:27.000+00:00",
+        "event_categories": [
+            "recognized_as"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a25f56096abce00205232ce",
+        "url": "https://www.businesstraveller.com/news/african-airlines-boost-routes-ahead-of-world-cup",
+        "domain": "businesstraveller.com",
+        "title": "African airlines boost routes ahead of World Cup.",
+        "snippet": "EgyptAir is planning impressive expansion to its US routes, driven by the delivery of its new Airbus A350-900 fleet.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-06-05T10:31:54.000+00:00",
+        "event_categories": [
+            "expands_offices_in"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a11910563f9cf0010c34eda",
+        "url": "https://xclusive.co.ug/egypt-air-partners-with-miss-tourism-uganda-to-boost-cultural-exchange",
+        "domain": "xclusive.co.ug",
+        "title": "Egypt Air partners with Miss Tourism Uganda to boost cultural exchange.",
+        "snippet": "Miss Tourism Uganda has entered a strategic partnership with Egypt Air to promote tourism and cultural ties between Uganda and Egypt, officials announced on Tuesday.",
+        "organization_ids": [
+            "66dffe63dc728300014bd6b5",
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-05-21T13:07:54.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a09e00e8e0cdc00184eaab5",
+        "url": "https://www.airportspotting.com/egyptair-reveals-retro-boeing-737-800-livery-to-celebrate-95-years",
+        "domain": "airportspotting.com",
+        "title": "EGYPTAIR reveals retro Boeing 737-800 livery to celebrate 95 years.",
+        "snippet": "Retro liveries continue to prove hugely popular among aviation enthusiasts, and now EGYPTAIR has become the latest airline to unveil a heritage colour scheme celebrating its long history.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-05-06T16:05:52.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a09c873cc4f950020b70594",
+        "url": "https://aviationbusinessjournal.aero/african-airline-news/egyptair-takes-delivery-of-first-boeing-737-max-jet-leased-from-smbc-aviation-capital",
+        "domain": "aviationbusinessjournal.aero",
+        "title": "EgyptAir takes delivery of first Boeing 737 MAX jet leased from SMBC Aviation Capital.",
+        "snippet": "EgyptAir takes delivery of first Boeing 737 MAX jet leased from SMBC Aviation Capital.",
+        "organization_ids": [
+            "5569ea0a73696425b225b400",
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-05-05T11:44:33.000+00:00",
+        "event_categories": [
+            "sells_assets_to"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a04a28cab812a000dfc30d9",
+        "url": "https://aeronewsglobal.com/egyptairs-first-boeing-737-max-has-been-delivered",
+        "domain": "aeronewsglobal.com",
+        "title": "EgyptAir's first Boeing 737 MAX has been delivered.",
+        "snippet": "As part of its fleet renewal program, EgyptAir will deploy the new aircraft on short- and medium-haul routes to destinations such as Paris, Brussels, Istanbul and Vienna.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-04-05T00:00:00.000+00:00",
+        "event_categories": [
+            "invests_into_assets"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69affe25ac66000011bce4dd",
+        "url": "https://travtalkindia.com/egyptair-operates-special-flight-to-bring-england-mens-cricket-team-home-from-india-after-icc-t20-world-cup-2026",
+        "domain": "travtalkindia.com",
+        "title": "EgyptAir Operates Special Flight to Bring England Men's Cricket Team Home from India After ICC T20 World Cup 2026",
+        "snippet": "EgyptAir operates special flight to bring England Men's Cricket Team home from India after ICC T20 World Cup 2026.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-03-10T09:14:37.000+00:00",
+        "event_categories": [
+            "attends_event"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "69ad8ff975e5ba001593c327",
+        "url": "https://traveltrade.today/ota/egyptair-unveils-new-offers-at-itb-2026",
+        "domain": "traveltrade.today",
+        "title": "EgyptAir Unveils New Offers at ITB 2026",
+        "snippet": "EgyptAir unveils new offers at ITB 2026.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-03-08T12:50:29.000+00:00",
+        "event_categories": [
+            "attends_event"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "698e41e403286800115d9958",
+        "url": "https://simpleflying.com/egyptair-takes-delivery-first-a350",
+        "domain": "simpleflying.com",
+        "title": "EgyptAir Takes Delivery Of Its First A350 To Boost Intercontinental Growth",
+        "snippet": "EgyptAir placed an initial order for ten A350-900s at the Dubai Airshow 2023, stating that it was choosing the type to underpin its planned expansion to North America.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2026-02-09T17:26:07.000+00:00",
+        "event_categories": [
+            "attends_event"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "68c02365754c65000d916461",
+        "url": "https://tourismbreakingnews.ae/egyptair-and-huawei-partner-to-boost-corporate-travel",
+        "domain": "tourismbreakingnews.ae",
+        "title": "EGYPTAIR and Huawei partner to boost corporate travel",
+        "snippet": "The collaboration includes a Business Travel Agreement, establishing EGYPTAIR as the official airline partner for Huawei employees, and a Memorandum of Understanding to integrate Huawei's advanced ICT and AI solutions into EGYPTAIR's operations.",
+        "organization_ids": [
+            "5e56ea366950520001a188bc",
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2025-09-08T00:00:00.000+00:00",
+        "event_categories": [
+            "integrates_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "68534c4b81c01c000d270601",
+        "url": "https://airinsight.com/egyptair-orders-six-additional-airbus-a350-aircraft",
+        "domain": "airinsight.com",
+        "title": "EgyptAir orders six additional Airbus A350 aircraft",
+        "snippet": "EgyptAir is adding six additional A350 aircraft to its order book at the Paris Air Show today.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2025-06-18T20:18:31.000+00:00",
+        "event_categories": [
+            "attends_event"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "683c51ba5221080011fe2364",
+        "url": "https://www.travelandtourworld.com/news/article/egyptair-announces-lease-extensions-aircraft-refurbishments-and-new-widebody-and-narrowbody-deliveries-as-it-targets-growth-in-both-passenger-and-cargo-markets-through-the-end-of-the-decade",
+        "domain": "travelandtourworld.com",
+        "title": "EgyptAir Announces Lease Extensions, Aircraft Refurbishments, And New Widebody And Narrowbody Deliveries As It Targets Growth In Both Passenger And Cargo Markets Through The End Of The Decade",
+        "snippet": "In parallel with these fleet upgrades, EgyptAir has launched a broad-scale interior refurbishment program to modernize the cabins of its current aircraft.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2025-06-01T10:23:05.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "67d88aa828e90900111e7573",
+        "url": "https://excel.travel/airline-offers-egypt-air-promotions-across-the-world",
+        "domain": "excel.travel",
+        "title": "Airline Offers: Egypt Air Promotions across the World",
+        "snippet": "EgyptAir has introduced a special promotional offer on flights MS783 / MS784 between London Heathrow (LHR) and Egypt, available exclusively throughout March 2025.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2025-03-12T15:24:08.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "67d195319ed34300110cbb7d",
+        "url": "https://www.travelandtourworld.com/news/article/egyptair-elevates-global-tourism-prospects-with-strategic-expansion-and-vibrant-showcasing-at-the-2025-itb-berlin-travel-show",
+        "domain": "travelandtourworld.com",
+        "title": "EgyptAir Elevates Global Tourism Prospects With Strategic Expansion And Vibrant Showcasing At The 2025 ITB Berlin Travel Show",
+        "snippet": "EgyptAir made a significant impact at the 2025 ITB Berlin Travel and Tourism Trade Show, one of the premier global events for the travel and tourism industry.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2025-03-09T08:15:48.000+00:00",
+        "event_categories": [
+            "attends_event"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "67bdb2109b60a5000dec95ba",
+        "url": "https://egyptian-gazette.com/skyward/pilot-ahmed-adel-appointed-chairman-of-egyptair-holding-company",
+        "domain": "egyptian-gazette.com",
+        "title": "Pilot Ahmed Adel appointed chairman of EgyptAir holding company",
+        "snippet": "In a significant leadership transition, Minister of Civil Aviation, Dr. Sameh El Hefny, has appointed Pilot Ahmed Adel as the Chairman of the Board of Directors and Executive Managing Director of EgyptAir Holding Company.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2025-02-23T16:10:29.000+00:00",
+        "event_categories": [
+            "hires"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "67bc65c8dfd406001d8896b7",
+        "url": "https://www.visitabudhabi.org/latest-travel-news/egyptair-named-official-partner-airline-of-itb-china-2025",
+        "domain": "visitabudhabi.org",
+        "title": "Egyptair Named Official Partner Airline of ITB China 2025",
+        "snippet": "Shanghai, China, February 22, 2025 / TRAVELINDEX / ITB China is excited to announce EGYPTAIR as the Official Partner Airline of ITB China 2025, taking place from May 27 - 29 in Shanghai.",
+        "organization_ids": [
+            "62060d85d6feb100db4113e2"
+        ],
+        "published_at": "2025-02-22T14:44:27.000+00:00",
+        "event_categories": [
+            "attends_event"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "James Teuscher",
+        "clean_name_used": "James Teuscher",
+        "linkedin_url": "https://www.linkedin.com/in/james-teuscher-1ab8a340",
+        "company": "Af",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Christopher Lord",
+        "clean_name_used": "Christopher Lord",
+        "linkedin_url": "https://www.linkedin.com/in/christopher-lord-375b0141",
+        "company": "Af",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Joey Reitmeier",
+        "clean_name_used": "Joey Reitmeier",
+        "linkedin_url": "https://www.linkedin.com/in/joeyreitmeier",
+        "company": "Af",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Non trouvé",
+        "clean_name_used": "Non trouvé",
+        "linkedin_url": "Non trouvé",
+        "company": "Af",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

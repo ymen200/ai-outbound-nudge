@@ -1,0 +1,317 @@
+{
+    "annual_revenue": 46184000.0,
+    "apollo_id": "691cb5f60b4e1100195d1034",
+    "city": "Bolzano",
+    "country": "Italy",
+    "departments": {
+        "business_development": 34,
+        "consulting": 56,
+        "operations": 5,
+        "sales": 4,
+        "administrative": 2,
+        "information_technology": 7,
+        "engineering": 42,
+        "product_management": 2,
+        "legal": 1,
+        "human_resources": 3,
+        "finance": 2,
+        "marketing": 1,
+        "media_and_commmunication": 1,
+        "arts_and_design": 1,
+        "accounting": 0,
+        "education": 0,
+        "entrepreneurship": 0,
+        "support": 0,
+        "data_science": 0
+    },
+    "domain": "wuerth-it.it",
+    "estimated_num_employees": "195",
+    "facebook_url": "https://www.facebook.com/wuerthititaly/",
+    "founded_year": "2000",
+    "funding_events": [],
+    "industry": "Information Technology and Services",
+    "keywords": [
+        "synthetic monitoring",
+        "penetration test",
+        "ethical hacking",
+        "it process consulting",
+        "project management",
+        "it system engineering",
+        "mobile sales solutions",
+        "cyber security",
+        "microsoft dynamics 365 erp",
+        "microsoft dynamics 365 crm",
+        "business intelligence",
+        "it services & it consulting",
+        "productivity",
+        "computer & network security",
+        "information technology & services",
+        "analytics",
+        "ERP",
+        "Service Management",
+        "Digital Transformation",
+        "CRM",
+        "Bolzano IT",
+        "Würth Phoenix",
+        "System Integration",
+        "Managed Services"
+    ],
+    "latest_funding_stage": "Subsidiary",
+    "linkedin_url": "http://www.linkedin.com/company/w%c3%bcrth-it-italy",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/697062eee8f27d00017de70a/picture",
+    "name": "Würth IT Italy S.r.l.",
+    "num_suborganizations": 0,
+    "phone": "+390471564111",
+    "postal_code": "39100",
+    "raw_address": "Via Johann Kravogl 4, 39100 Bolzano BZ, Italy",
+    "seo_description": "Würth IT Italy: your IT partner for Enterprise Resource Planning, Cyber Security, and Service Management.",
+    "short_description": "IT partner specialized in ERP, CRM, Cyber Security, and digital transformation for various industrial sectors.",
+    "state": "Trentino-South Tyrol",
+    "suborganizations": [],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "aws_analytics",
+            "name": "AWS Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "akamai",
+            "name": "Akamai",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "ansible",
+            "name": "Ansible",
+            "category": "Other"
+        },
+        {
+            "uid": "atlassian_cloud",
+            "name": "Atlassian Cloud",
+            "category": "CMS"
+        },
+        {
+            "uid": "azure_analysis_services",
+            "name": "Azure Analysis Services",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "azure devops",
+            "name": "Azure Devops",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "beats",
+            "name": "Beats",
+            "category": "ERP"
+        },
+        {
+            "uid": "blazor",
+            "name": "Blazor",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "databricks",
+            "name": "Databricks",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "doubleclick",
+            "name": "DoubleClick",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "doubleclick_conversion",
+            "name": "DoubleClick Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "elastic_apm",
+            "name": "Elastic APM",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "elastic_stack",
+            "name": "Elastic Stack",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "elasticsearch",
+            "name": "Elasticsearch",
+            "category": "Search Appliances"
+        },
+        {
+            "uid": "github_enterprise",
+            "name": "GitHub Enterprise",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "google_dynamic_remarketing",
+            "name": "Google Dynamic Remarketing",
+            "category": "Retargeting"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "intershop",
+            "name": "Intershop",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "javascript",
+            "name": "Javascript",
+            "category": "Other"
+        },
+        {
+            "uid": "kibana",
+            "name": "Kibana",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "leadfeeder",
+            "name": "Leadfeeder",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "logstash",
+            "name": "Logstash",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "mailchimp_spf",
+            "name": "MailChimp SPF",
+            "category": "Other"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "opensearch",
+            "name": "OpenSearch",
+            "category": "ERP"
+        },
+        {
+            "uid": "phoenix",
+            "name": "Phoenix",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "screencloud_digital_signage",
+            "name": "ScreenCloud Digital Signage",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "sendgrid",
+            "name": "Sendgrid",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "terraform",
+            "name": "Terraform",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "typescript",
+            "name": "TypeScript",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "wordpress",
+            "name": "WordPress",
+            "category": "Content Management System"
+        },
+        {
+            "uid": "elementor",
+            "name": "Elementor",
+            "category": "Page Builder"
+        },
+        {
+            "uid": "microsoft_dynamics_365",
+            "name": "Microsoft Dynamics 365",
+            "category": "ERP/CRM"
+        },
+        {
+            "uid": "atlassian",
+            "name": "Atlassian",
+            "category": "Collaboration Tools"
+        },
+        {
+            "uid": "wpml",
+            "name": "WPML",
+            "category": "Translation"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/wuerthphoenix",
+    "website_url": "http://www.wuerth-it.it",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "Würth Group",
+    "competitors": [
+        "Var Group",
+        "Altea Federation",
+        "Reply S.p.A.",
+        "Engineering Ingegneria Informatica",
+        "Zucchetti"
+    ],
+    "data_quality_score": 0.96
+}

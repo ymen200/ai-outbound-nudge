@@ -1,0 +1,36 @@
+services:
+  temporal:
+    image: temporalio/auto-setup:latest
+    ports:
+      - "7233:7233"
+      - "8080:8080"
+    environment:
+      - DB=sqlite
+      - DYNAMIC_CONFIG_FILE_PATH=config/dynamicconfig/development-sqlite.yaml
+    volumes:
+      - temporal_data:/data
+    healthcheck:
+      test: ["CMD", "temporal", "server", "status"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  sequence-generator:
+    build: .
+    ports:
+      - "8001:8001"
+    env_file:
+      - .env
+    environment:
+      - TEMPORAL_ADDRESS=temporal:7233
+      - MESSAGE_GENERATOR_URL=http://host.docker.internal:8000
+    depends_on:
+      temporal:
+        condition: service_healthy
+    restart: unless-stopped
+    volumes:
+      - .:/app
+    command: ["python", "-m", "uvicorn", "scripts.api_server:app", "--host", "0.0.0.0", "--port", "8001"]
+
+volumes:
+  temporal_data:

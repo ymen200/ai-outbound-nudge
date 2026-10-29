@@ -1,0 +1,605 @@
+{
+    "alexa_ranking": 16013,
+    "annual_revenue": 881000000.0,
+    "apollo_id": "5569e3a0736964251e93ad00",
+    "city": "Issy-les-Moulineaux",
+    "country": "France",
+    "departments": {
+        "legal": 3,
+        "administrative": 41,
+        "media_and_commmunication": 5,
+        "human_resources": 17,
+        "sales": 127,
+        "operations": 81,
+        "accounting": 6,
+        "data_science": 3,
+        "engineering": 10,
+        "finance": 6,
+        "information_technology": 8,
+        "marketing": 2,
+        "support": 64,
+        "business_development": 5,
+        "consulting": 14,
+        "product_management": 2,
+        "education": 0,
+        "arts_and_design": 0,
+        "entrepreneurship": 0
+    },
+    "domain": "dpd.com",
+    "estimated_num_employees": 2700,
+    "facebook_url": "https://facebook.com/dpd.cz",
+    "founded_year": 1995,
+    "funding_events": [],
+    "industry": "Parcel Delivery / Logistics",
+    "keywords": [
+        "colis",
+        "transport",
+        "livraison",
+        "logistics",
+        "b2b express delivery",
+        "freight & package transportation",
+        "parcel delivery",
+        "e-commerce solutions",
+        "time-slot delivery",
+        "relay delivery",
+        "business delivery",
+        "customer support",
+        "tracking services",
+        "sustainability",
+        "ethical practices",
+        "operational excellence",
+        "b2b services",
+        "b2c services",
+        "international shipping",
+        "customer satisfaction",
+        "flexible delivery options",
+        "local service teams",
+        "innovative solutions",
+        "proximity",
+        "responsiveness",
+        "decarbonization",
+        "community engagement",
+        "pickup points",
+        "parcel lockers",
+        "returns management",
+        "freight transportation",
+        "courier services",
+        "customer experience",
+        "tailored solutions",
+        "competitive logistics",
+        "extensive network",
+        "delivery management",
+        "environmental responsibility",
+        "e-commerce logistics",
+        "sustainable delivery",
+        "express shipping",
+        "online shipping solutions",
+        "return management",
+        "delivery scheduling",
+        "track and trace",
+        "business shipping solutions",
+        "retail shipping",
+        "customized shipping options",
+        "cross-border shipping",
+        "local delivery",
+        "delivery notifications",
+        "pickup parcelshops",
+        "multinational delivery network",
+        "automated parcel machines",
+        "last mile delivery",
+        "co2 neutral shipping",
+        "healthcare logistics",
+        "food delivery solutions",
+        "freight forwarding",
+        "automated tracking notifications",
+        "corporate shipping solutions",
+        "consumer parcel delivery",
+        "distribution networks",
+        "parcel drop-off",
+        "logistics management",
+        "package forwarding",
+        "shipping logistics",
+        "integrated shipping solutions",
+        "digital shipping tools",
+        "shipping price calculator",
+        "international express delivery",
+        "local pickup service",
+        "customs clearance",
+        "delivery performance monitoring",
+        "supply chain solutions",
+        "business to consumer delivery",
+        "domestic shipping",
+        "reliable delivery solutions",
+        "customer service support",
+        "shipping label creation",
+        "b2b",
+        "b2c",
+        "b2b2c",
+        "e-commerce",
+        "d2c",
+        "services",
+        "retail",
+        "package/freight delivery",
+        "logistics & supply chain",
+        "shipping",
+        "consumer internet",
+        "consumers",
+        "internet",
+        "information technology & services",
+        "environmental services",
+        "renewables & environment",
+        "Livraison de colis",
+        "Logistique",
+        "Geopost",
+        "DPD France"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/dpdfrance",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6873f1e8c65a0600014be6db/picture",
+    "name": "DPD France",
+    "num_suborganizations": 4,
+    "phone": "+33 1 06 00 23 23",
+    "postal_code": "92130",
+    "raw_address": "1113 Rue Rene Jacques, Issy-les-Moulineaux, France",
+    "seo_description": "Livraison de colis en France et en Europe | DPD France",
+    "short_description": "Suivez, reprogrammez et expédiez vos colis avec DPD France",
+    "state": "Ile-de-France",
+    "street_address": "1113 Rue Rene Jacques",
+    "suborganizations": [
+        {
+            "id": "54a13bb269702d267a72b201",
+            "name": "BK Pharma logistics - BK Sneltransport - BK Temperature controlled courier solutions",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5e56010ead83d500010fbfbd",
+            "name": "Speedy AD",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "55f69f0af3e5bb18f8013b85",
+            "name": "DPD UK",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5c1ec75ff651256c4910039e",
+            "name": "Lenton Group",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Chronopost France",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "SEUR",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "BRT",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Speedy",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Jadlog",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ab_tasty",
+            "name": "AB Tasty",
+            "category": "Online Testing Platforms"
+        },
+        {
+            "uid": "abb_robotics",
+            "name": "ABB Robotics",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "adobe_illustrator",
+            "name": "Adobe Illustrator",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "amazon_ses",
+            "name": "Amazon SES",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "android",
+            "name": "Android",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "bitly",
+            "name": "Bitly",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "bootstrap_framework",
+            "name": "Bootstrap Framework",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "brocade_switches",
+            "name": "Brocade Switches",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "celonis",
+            "name": "Celonis",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "cisco_webex_teams",
+            "name": "Cisco WebEx Teams",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "cloudflare_hosting",
+            "name": "CloudFlare Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "cloudflare_dns",
+            "name": "Cloudflare DNS",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "cloudflare_rocket_loader",
+            "name": "Cloudflare Rocket Loader",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "dpdk_data_plane_development_kit",
+            "name": "DPDK (Data Plane Development Kit)",
+            "category": "Other"
+        },
+        {
+            "uid": "discourse",
+            "name": "Discourse",
+            "category": "Comments"
+        },
+        {
+            "uid": "entrinsik_informer",
+            "name": "Entrinsik Informer",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "facebook_web_custom_audiences",
+            "name": "Facebook Custom Audiences",
+            "category": "Retargeting"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_widget",
+            "name": "Facebook Widget",
+            "category": "Widgets"
+        },
+        {
+            "uid": "fusion_erp_analytics",
+            "name": "Fusion ERP Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "gentext_ai_assistant_for_ms_word",
+            "name": "GenText AI Assistant for MS Word",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "google_ads",
+            "name": "Google Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_plus_login",
+            "name": "Google Plus",
+            "category": "Social Login"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+        },
+        {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "incapsula",
+            "name": "Incapsula",
+            "category": "Web Accelerators"
+        },
+        {
+            "uid": "infor_birst",
+            "name": "Infor Birst",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "jira",
+            "name": "Jira",
+            "category": "CMS"
+        },
+        {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "looker_studio",
+            "name": "Looker Studio",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "mailjet",
+            "name": "MailJet",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_power_automate",
+            "name": "Microsoft Power Automate",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "microsoft_power_platform",
+            "name": "Microsoft Power Platform",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_sharepoint",
+            "name": "Microsoft Sharepoint",
+            "category": "CMS"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nevron_vision_for_ssrs",
+            "name": "Nevron Vision for SSRS",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "ning",
+            "name": "Ning",
+            "category": "CMS"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "pardot",
+            "name": "Pardot",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "power_bi_documenter",
+            "name": "Power BI Documenter",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "react_redux",
+            "name": "React Redux",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "sap_successfactors",
+            "name": "SAP SuccessFactors",
+            "category": "Human Capital Management"
+        },
+        {
+            "uid": "sap_successfactors_learning",
+            "name": "SAP SuccessFactors Learning",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "soti mobicontrol",
+            "name": "SOTI Mobicontrol",
+            "category": "Enterprise Mobility Management"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce crm analytics",
+            "name": "Salesforce CRM Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "salesforce_service_cloud",
+            "name": "Salesforce Service Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "sendinblue",
+            "name": "SendInBlue",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "spiceworks_ip_scanner",
+            "name": "Spiceworks IP Scanner",
+            "category": "Security"
+        },
+        {
+            "uid": "tag_commander",
+            "name": "Tag Commander",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "umantis",
+            "name": "Umantis",
+            "category": "Recruitment"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+        },
+        {
+            "uid": "yoast",
+            "name": "Yoast",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "amcharts",
+            "name": "amCharts",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "Cloudflare",
+            "category": "CDN/Security"
+        },
+        {
+            "uid": "php",
+            "name": "PHP",
+            "category": "Programming Language"
+        },
+        {
+            "uid": "consentmanager",
+            "name": "ConsentManager",
+            "category": "Compliance"
+        },
+        {
+            "uid": "alturing",
+            "name": "Alturing",
+            "category": "Chatbot"
+        },
+        {
+            "uid": "fontawesome",
+            "name": "FontAwesome",
+            "category": "UI Framework"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/dpdgroup_news",
+    "website_url": "http://www.dpd.com",
+    "is_subsidiary": true,
+    "parent_company": "Geopost",
+    "competitors": [
+        "DHL",
+        "UPS",
+        "FedEx",
+        "La Poste / Colissimo",
+        "Amazon Shipping"
+    ],
+    "data_quality_score": 0.93
+}

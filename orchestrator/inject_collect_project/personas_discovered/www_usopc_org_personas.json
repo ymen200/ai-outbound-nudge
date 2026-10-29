@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "John Barrows",
+        "clean_name_used": "John Barrows",
+        "linkedin_url": "https://www.linkedin.com/in/johnbarrows/",
+        "company": "Www",
+        "email": "john.barrows@usopc.org",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Lori Richardson",
+        "clean_name_used": "Lori Richardson",
+        "linkedin_url": "https://www.linkedin.com/in/scoremoresales/",
+        "company": "Www",
+        "email": "lori.richardson@usopc.org",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Niraj Kapur",
+        "clean_name_used": "Niraj Kapur",
+        "linkedin_url": "https://www.linkedin.com/in/nkapur/",
+        "company": "Www",
+        "email": "niraj.kapur@usopc.org",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    }
+]

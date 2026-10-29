@@ -1,0 +1,108 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 7,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "6995b4abf0bed000156e69b4",
+      "url": "https://www.nice-premium.com/cannes-festival-randstad-is-hiring-1000-hosts-and-hostesses",
+      "domain": "nice-premium.com",
+      "title": "Cannes Festival: Randstad is hiring 1,000 hosts and hostesses",
+      "snippet": "To complete its workforce, Randstad plans to recruit 400 new talents between February and the end of April 2026.",
+      "organization_ids": [
+        "54a1293f69702d979c759601"
+      ],
+      "published_at": "2026-02-17T11:21:18.000+00:00",
+      "event_categories": [
+        "increases_headcount_by"
+      ]
+    },
+    {
+      "id": "6995b4abaf391400160ce005",
+      "url": "https://www.nice-premium.com/cannes-festival-randstad-is-hiring-1000-hosts-and-hostesses",
+      "domain": "nice-premium.com",
+      "title": "Cannes Festival: Randstad is hiring 1,000 hosts and hostesses",
+      "snippet": "Cannes festival: Randstad is hiring 1,000 hosts and hostesses.",
+      "organization_ids": [
+        "54a1293f69702d979c759601"
+      ],
+      "published_at": "2026-02-17T11:21:18.000+00:00",
+      "event_categories": [
+        "increases_headcount_by"
+      ]
+    },
+    {
+      "id": "698e7d634be6280011f8f53d",
+      "url": "https://www.globenewswire.com/news-release/2026/02/04/3231783/0/en/Sidetrade-Randstad-France-Welcomes-Aimie-a-New-Kind-of-Coworker-and-a-New-Performance-Engine-for-Finance.html",
+      "domain": "globenewswire.com",
+      "title": "Sidetrade: Randstad France Welcomes Aimie, a New Kind of Coworker and a New Performance Engine for Finance",
+      "snippet": "In a move that underscores the accelerating evolution of enterprise finance, Randstad France, a global leader in the HR services industry, has introduced a modern addition to its finance team: Aimie, the world's first autonomous AI Cash Collection Agent.",
+      "organization_ids": [
+        "54a1293f69702d979c759601"
+      ],
+      "published_at": "2026-02-04T07:25:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "620cf938ea1f0e00fd8b1639",
+      "url": "https://www2.staffingindustry.com/eng/Editorial/Daily-News/World-People-Randstad-France-ManpowerGroup-Heat-Recruitment-60607",
+      "domain": "staffingindustry.com",
+      "title": "World – People: Randstad France, ManpowerGroup, Heat Recruitment",
+      "snippet": "Randstad France announced that François Moreau has been appointed Secretary General of the Randstad France group.",
+      "organization_ids": [
+        "54a1293f69702d979c759601"
+      ],
+      "published_at": "2022-02-11T13:06:54.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6226031b331c6100a50e4c42",
+      "url": "https://www2.staffingindustry.com/eng/Editorial/Daily-News/World-People-Randstad-France-ManpowerGroup-Heat-Recruitment-60607",
+      "domain": "staffingindustry.com",
+      "title": "World – People: Randstad France, ManpowerGroup, Heat Recruitment",
+      "snippet": "Randstad France announced that François Moreau has been appointed Secretary General of the Randstad France group.",
+      "organization_ids": [
+        "54a1293f69702d979c759601"
+      ],
+      "published_at": "2022-02-11T13:06:54.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6207bac255e8e400a5c75b3c",
+      "url": "https://euse.org/news/ilma",
+      "domain": "euse.org",
+      "title": "An employers’ perspective on inclusive recruitment | News",
+      "snippet": "The Randstad France Group and FASTROAD (adapted business) launched \" Kliff by Randstad \" he first temp network dedicated to people with disabilities in France.",
+      "organization_ids": [
+        "54a1293f69702d979c759601"
+      ],
+      "published_at": "2021-11-16T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "62244b9dd7961301161d77a3",
+      "url": "https://www2.staffingindustry.com/eng/Editorial/Daily-News/World-Randstad-appoints-CEO-for-Spain-Portugal-and-Latin-America-56269",
+      "domain": "staffingindustry.com",
+      "title": "World – Randstad appoints CEO for Spain, Portugal and Latin America",
+      "snippet": "Randstad, the world’s largest staffing firm, announced that it has appointed Jesús Echevarría as CEO of Randstad Spain, Portugal and Latin America.",
+      "organization_ids": [
+        "54a1293f69702d979c759601"
+      ],
+      "published_at": "2021-01-07T13:08:02.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    }
+  ]
+}

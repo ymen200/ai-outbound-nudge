@@ -1,0 +1,472 @@
+{
+    "alexa_ranking": 77495,
+    "annual_revenue": 31398000000.0,
+    "apollo_id": "54a12a9969702dab37354302",
+    "city": "Charlotte",
+    "country": "United States",
+    "departments": {
+        "human_resources": 224,
+        "accounting": 207,
+        "marketing": 49,
+        "engineering": 93,
+        "information_technology": 61,
+        "finance": 207,
+        "support": 129,
+        "business_development": 121,
+        "arts_and_design": 48,
+        "operations": 258,
+        "legal": 52,
+        "consulting": 35,
+        "media_and_commmunication": 16,
+        "sales": 141,
+        "administrative": 67,
+        "data_science": 22,
+        "product_management": 11,
+        "education": 2,
+        "entrepreneurship": 0
+    },
+    "domain": "careers.compass-usa.com",
+    "estimated_num_employees": "300,000+",
+    "facebook_url": null,
+    "founded_year": 1994,
+    "funding_events": [],
+    "industry": "Foodservice and Facilities Services",
+    "keywords": [
+        "foodservice management",
+        "food",
+        "support services",
+        "business",
+        "industry",
+        "hospitality",
+        "sports",
+        "entertainment",
+        "healthcare",
+        "education",
+        "catering",
+        "food & beverage services",
+        "nutrition",
+        "innovation",
+        "client portfolio",
+        "digital platforms",
+        "remote site support",
+        "food service contractors",
+        "sustainability",
+        "partnering with minority-owned businesses",
+        "education dining",
+        "employee benefits",
+        "b2b",
+        "diversity partnerships",
+        "contract foodservice",
+        "environmentally responsible practices",
+        "sports and leisure services",
+        "healthcare support",
+        "government",
+        "sustainability practices",
+        "sustainability initiatives",
+        "client partnerships",
+        "corporate dining",
+        "client solutions",
+        "customer service",
+        "wellness",
+        "client relationships",
+        "acquisitions",
+        "brand acquisition",
+        "sector-specific brands",
+        "environmental responsibility",
+        "facilities management",
+        "diversity",
+        "sector specialization",
+        "event planning",
+        "operational excellence",
+        "digital foodservice platforms",
+        "services",
+        "acquisition strategy",
+        "foodservice",
+        "healthcare foodservice",
+        "job opportunities",
+        "career growth",
+        "diversity and inclusion",
+        "community engagement",
+        "vending services",
+        "meal distribution",
+        "restaurant management",
+        "workplace wellness",
+        "sustainable sourcing",
+        "catering services",
+        "culinary excellence",
+        "gourmet food",
+        "internship programs",
+        "manager training",
+        "food preparation",
+        "client services",
+        "community support",
+        "senior living dining",
+        "hospitality management",
+        "automation in foodservice",
+        "employee recognition",
+        "military recruitment",
+        "food safety",
+        "meal solutions",
+        "contract management",
+        "food and nutrition",
+        "dining services",
+        "food recovery programs",
+        "waste reduction",
+        "local sourcing",
+        "automated merchandising",
+        "school dining programs",
+        "healthy meals",
+        "outdoor dining",
+        "catering innovation",
+        "distribution",
+        "consumer goods",
+        "consumers",
+        "leisure, travel & tourism",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "food & beverages",
+        "environmental services",
+        "renewables & environment",
+        "facility management",
+        "events services",
+        "american (new)",
+        "american (traditional)",
+        "breakfast & brunch",
+        "cafes",
+        "restaurants",
+        "Careers",
+        "Recruiting",
+        "Healthcare Dining",
+        "School Cafeterias"
+    ],
+    "latest_funding_stage": "Public",
+    "linkedin_url": "http://www.linkedin.com/company/compass-group-north-america",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b803119f272f00014bc144/picture",
+    "name": "Compass Group USA",
+    "num_suborganizations": "28+",
+    "phone": "Text 'Job' to 75000",
+    "postal_code": "28217",
+    "raw_address": "2400 Yorkmont Road, Charlotte, United States",
+    "seo_description": "Compass Group Careers - A family of companies, a career for life. Recruiting for foodservice and facilities services roles nationwide.",
+    "short_description": "Largest family of foodservice and facilities services companies in the United States, providing services to hospitals, schools, ballparks, and corporate offices.",
+    "state": "North Carolina",
+    "street_address": "2400 Yorkmont Road",
+    "suborganizations": [
+        {
+            "id": "64c4dfec7e5ee0000153577b",
+            "name": "Envision US",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5b8099a2f874f766dd54ff54",
+            "name": "Compass Healthcare",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Foodservice companies",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Facilities services companies",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "gis",
+            "name": ".GIS",
+            "category": "Other"
+        },
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "aws_cloud_development_kit_aws_cdk",
+            "name": "AWS Cloud Development Kit (AWS CDK)",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "acronis_true_image",
+            "name": "Acronis True Image",
+            "category": "Security"
+        },
+        {
+            "uid": "azure devops",
+            "name": "Azure Devops",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "backbone_js_library",
+            "name": "Backbone JS Library",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "cisco_softwaredefined_access",
+            "name": "Cisco Software-Defined Access",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "copilot",
+            "name": "Copilot",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "electron",
+            "name": "Electron",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "google_adwords_conversion",
+            "name": "Google AdWords Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "linkedin_sales_navigator",
+            "name": "LinkedIn Sales Navigator",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "microsoft_dynamics_crm",
+            "name": "Microsoft Dynamics CRM",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_power_automate",
+            "name": "Microsoft Power Automate",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "microsoft_power_platform",
+            "name": "Microsoft Power Platform",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_powerpoint",
+            "name": "Microsoft PowerPoint",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "microsoft_teams",
+            "name": "Microsoft Teams",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_windows_server_2012",
+            "name": "Microsoft Windows Server 2012",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "olivia_ai",
+            "name": "Olivia AI",
+            "category": "Appointment Scheduling"
+        },
+        {
+            "uid": "onestop",
+            "name": "OneStop",
+            "category": "E-commerce Tools"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Widgets"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "outsystems",
+            "name": "Outsystems",
+            "category": "CMS"
+        },
+        {
+            "uid": "peo",
+            "name": "PEO",
+            "category": "HR Solutions"
+        },
+        {
+            "uid": "pagerduty_incident_response",
+            "name": "PagerDuty Incident Response",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "paradox",
+            "name": "Paradox",
+            "category": "Other"
+        },
+        {
+            "uid": "postpresso",
+            "name": "Postpresso",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "power_query",
+            "name": "Power Query",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "quip",
+            "name": "Quip",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "route_53",
+            "name": "Route 53",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce crm analytics",
+            "name": "Salesforce CRM Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "service_now",
+            "name": "ServiceNow",
+            "category": "Case Management"
+        },
+        {
+            "uid": "sevenrooms",
+            "name": "SevenRooms",
+            "category": "Reservation Software"
+        },
+        {
+            "uid": "smartsheet",
+            "name": "Smartsheet",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "successfactors_sap",
+            "name": "SuccessFactors (SAP)",
+            "category": "Recruitment"
+        },
+        {
+            "uid": "telligent",
+            "name": "Telligent",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "the_trade_desk",
+            "name": "The Trade Desk",
+            "category": "Demand Side Platforms"
+        },
+        {
+            "uid": "typescript",
+            "name": "TypeScript",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "unity",
+            "name": "Unity",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "visual_revenue",
+            "name": "Visual Revenue",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "xero",
+            "name": "Xero",
+            "category": "Other"
+        },
+        {
+            "uid": "zoominfo",
+            "name": "ZoomInfo",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "accessibe",
+            "name": "accessiBe",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "emaint_cmms",
+            "name": "eMaint CMMS",
+            "category": "Field Service Management"
+        },
+        {
+            "uid": "mystaffingpro",
+            "name": "myStaffingPro",
+            "category": "Recruitment"
+        },
+        {
+            "uid": "paradox_ai",
+            "name": "Paradox AI",
+            "category": "Recruiting AI / Chatbot"
+        },
+        {
+            "uid": "dalia",
+            "name": "Dalia",
+            "category": "Candidate Experience Platform"
+        },
+        {
+            "uid": "userway",
+            "name": "UserWay",
+            "category": "Accessibility"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Analytics"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "CDN"
+        },
+        {
+            "uid": "tailwind_css",
+            "name": "Tailwind CSS",
+            "category": "Frontend Framework"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://x.com/compassgroupusa",
+    "website_url": "http://www.compassgroupcareers.com",
+    "is_subsidiary": true,
+    "parent_company": "Compass Group PLC",
+    "competitors": [
+        "Aramark",
+        "Sodexo",
+        "Elior North America",
+        "Delaware North",
+        "HMSHost"
+    ],
+    "data_quality_score": 0.97
+}

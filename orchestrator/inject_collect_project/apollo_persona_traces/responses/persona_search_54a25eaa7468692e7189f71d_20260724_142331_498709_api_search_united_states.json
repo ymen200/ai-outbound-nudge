@@ -1,0 +1,51 @@
+{
+  "total_entries": 9,
+  "people": [
+    {
+      "id": "54a7b0b37468696de7d9254c",
+      "first_name": "Jason",
+      "last_name_obfuscated": "Ka***n",
+      "title": "Director, Sales Operation and Strategy",
+      "last_refreshed_at": "2026-07-22T09:51:27.703+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "SoFi",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "640f05fc8f8a9a0001a06254",
+      "first_name": "Dylan",
+      "last_name_obfuscated": "Ro***s",
+      "title": "Operations Sales Manager",
+      "last_refreshed_at": "2025-12-01T23:57:25.836+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "SoFi",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

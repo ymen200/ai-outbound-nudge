@@ -1,0 +1,72 @@
+{
+  "person": {
+    "id": "624de8fcbb78360001cb8f4d",
+    "first_name": "Jorge",
+    "last_name": "Marinho",
+    "name": "Jorge Marinho",
+    "linkedin_url": "http://www.linkedin.com/in/jorge-marinho-b480b0116",
+    "title": "Commercial",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Commercial chez PGA Motors",
+    "organization_id": "5cf675aa25a03a09bf4e08c2",
+    "employment_history": [
+      {
+        "_id": "6a350b1d1006ed0001f8594c",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5cf675aa25a03a09bf4e08c2",
+        "organization_name": "PGA Motors",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Commercial",
+        "updated_at": null,
+        "id": "6a350b1d1006ed0001f8594c",
+        "key": "6a350b1d1006ed0001f8594c"
+      }
+    ],
+    "street_address": "",
+    "city": null,
+    "state": "Pays de la Loire",
+    "country": "France",
+    "postal_code": null,
+    "formatted_address": "Pays de la Loire, France",
+    "time_zone": "Europe/Paris",
+    "email": "jorge.marinho@pgamotors.com",
+    "email_status": "verified",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [],
+    "seniority": "entry",
+    "functions": [],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": [
+      "jorge.marinho@pgamotors.com"
+    ]
+  },
+  "waterfall": {
+    "status": "accepted",
+    "message": "Waterfall enrichment request accepted. Results will be sent to the provided webhook URL."
+  },
+  "request_id": 2321520630901192076
+}

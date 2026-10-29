@@ -1,0 +1,812 @@
+{
+  "organization": {
+    "id": "54a1ba6f74686945fa77a40b",
+    "name": "Central Norway Regional Health Authority",
+    "website_url": "http://www.helse-midt.no",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/helse-midtnorge-rhf",
+    "twitter_url": null,
+    "facebook_url": null,
+    "primary_phone": {
+      "number": "+47 74 83 99 00",
+      "source": "Scraped",
+      "sanitized_number": "+4774839900"
+    },
+    "languages": [],
+    "alexa_ranking": 370425,
+    "phone": "+47 74 83 99 00",
+    "linkedin_uid": "549740",
+    "founded_year": 2001,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/670c39bd03690100011d025d/picture",
+    "crunchbase_url": null,
+    "primary_domain": "helse-midt.no",
+    "sic_codes": [
+      "8011"
+    ],
+    "naics_codes": [
+      "62111",
+      "92312",
+      "541715"
+    ],
+    "sanitized_phone": "+4774839900",
+    "industry": "hospital & health care",
+    "estimated_num_employees": 23000,
+    "keywords": [
+      "hospitals & health care",
+      "regional health data management",
+      "healthcare funding",
+      "healthcare workforce",
+      "health informatics",
+      "healthcare data security",
+      "healthcare service innovation",
+      "digital health solutions",
+      "public-private healthcare partnerships",
+      "healthcare service planning",
+      "hospital & health care management",
+      "ehealth",
+      "healthcare technology",
+      "healthcare digitalization",
+      "healthcare infrastructure",
+      "specialist health services",
+      "healthcare workforce training",
+      "b2b",
+      "digital health",
+      "government",
+      "healthcare services",
+      "health services development",
+      "health care services",
+      "medical research",
+      "healthcare policy",
+      "healthcare innovation",
+      "healthcare innovation projects",
+      "helseplattformen",
+      "clinical academic groups",
+      "regional health it integration",
+      "healthcare regulation",
+      "services",
+      "healthcare planning",
+      "private healthcare contracts",
+      "healthcare logistics",
+      "offices of physicians",
+      "digital patient records",
+      "medical research & education",
+      "recruitment and research",
+      "healthcare quality improvement",
+      "healthcare it",
+      "hospital administration",
+      "healthcare collaboration",
+      "healthcare research collaboration",
+      "patient rights",
+      "patient safety",
+      "hospital management",
+      "healthcare management",
+      "patient pathway optimization",
+      "cag model",
+      "regional health authority",
+      "saas",
+      "healthcare",
+      "education",
+      "hospital & health care",
+      "health, wellness & fitness",
+      "information technology & services",
+      "health care",
+      "computer software"
+    ],
+    "organization_revenue_printed": "2.5B",
+    "organization_revenue": 2491000000.0,
+    "industries": [
+      "hospital & health care",
+      "government administration",
+      "research"
+    ],
+    "secondary_industries": [
+      "government administration",
+      "research"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cdde73696439812c0000",
+    "industry_tag_hash": {
+      "hospital & health care": "5567cdde73696439812c0000",
+      "government administration": "5567cd527369643981050000",
+      "research": "5567e09f736964160ebb0100"
+    },
+    "retail_location_count": 0,
+    "raw_address": "Wessels veg 75, Stjørdal, 7500, NO",
+    "street_address": "75 Wessels veg",
+    "city": "Stjordal",
+    "state": "Trondelag",
+    "postal_code": "7502",
+    "country": "Norway",
+    "owned_by_organization_id": null,
+    "num_languages": 0,
+    "num_retail_locations": 0,
+    "short_description": "The Central Norway Regional Health Authority (Helse Midt-Norge RHF) is a state-owned enterprise responsible for operating hospitals and providing specialist health services in the central Norwegian counties of Trøndelag and Møre og Romsdal. Established between 2001 and 2002, it is based in Stjørdal and employs around 15,000 people.\n\nThe authority operates nine hospitals across five health trusts, offering a range of services including physical health care, mental health care, and substance abuse treatment. It also provides emergency services, hospital pharmacies, and medical testing through its laboratories. The Central Norway Regional Health Authority serves the residents of its region, focusing on patients, their families, healthcare personnel, and researchers. It is committed to patient treatment, education, and supporting medical research.",
+    "suborganizations": [],
+    "num_suborganizations": 0,
+    "annual_revenue_printed": "2.5B",
+    "annual_revenue": 2491000000.0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      ".GIS",
+      ".NET",
+      "ADP Applicant Tracking System",
+      "AEM Elements™ 360",
+      "AI",
+      "AMP",
+      "ANGEL LMS",
+      "ARES",
+      "AT&T",
+      "Act!",
+      "AppDynamics",
+      "Apple Business Manager",
+      "Apple School Manager",
+      "ArcGIS Field Maps",
+      "Archicad",
+      "Arista EOS",
+      "Arista Networks",
+      "AutoCAD",
+      "Azure Application Insights",
+      "Azure Purview",
+      "BASE",
+      "BeeGFS",
+      "Bidtellect",
+      "Bootstrap",
+      "CAT",
+      "CLEAR",
+      "Cabin",
+      "Canon Vitrea",
+      "ChemDraw",
+      "Cisco BroadWorks",
+      "Cisco Meraki MR Series",
+      "Cisco WebEx Teams",
+      "CloudFlare CDN",
+      "Compete",
+      "Conviva Operational Data Platform",
+      "Creo Elements/Pro",
+      "Divi",
+      "Doppler",
+      "Ektron",
+      "Electron",
+      "Enom",
+      "Enzyme",
+      "Epic",
+      "Expo",
+      "Facebook Signal",
+      "Factors.AI",
+      "Fishbowl",
+      "Flow",
+      "GAS",
+      "GE Healthcare MRI",
+      "GE Revolution",
+      "Git",
+      "GitHub",
+      "Google Search Console",
+      "Graphy",
+      "HelpCrunch",
+      "Hologic",
+      "ISO+™",
+      "Jupyter",
+      "LinkedIn Ads",
+      "Linkedin Marketing Solutions",
+      "Markdown",
+      "Micro",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Application Insights",
+      "Microsoft Azure Monitor",
+      "Microsoft Email Providers",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Microsoft Teams",
+      "Mist",
+      "Mobile Friendly",
+      "NEAR",
+      "NEC",
+      "Ning",
+      "Nutshell",
+      "Olo",
+      "Onit",
+      "Optimizely Content Management System",
+      "Outlook",
+      "PROS",
+      "Palo Alto Networks",
+      "Philips IntelliSpace",
+      "Photon",
+      "Portal",
+      "Prisma",
+      "Questback",
+      "R//Evolution",
+      "Resi",
+      "SAM",
+      "SAP",
+      "Samsung",
+      "Semgrep",
+      "Siemens MRI",
+      "SolarWinds NPM",
+      "Spiceworks IP Scanner",
+      "Taboola Newsroom",
+      "Thermo Scientific Chromeleon Chromatography Data System (CDS)",
+      "Tor",
+      "Viewport Meta",
+      "Vimeo",
+      "WebSpectator",
+      "Xray",
+      "dbt"
+    ],
+    "current_technologies": [
+      {
+        "uid": "gis",
+        "name": ".GIS",
+        "category": "Other"
+      },
+      {
+        "uid": "net",
+        "name": ".NET",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "adp_applicant_tracking_system",
+        "name": "ADP Applicant Tracking System",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "aem_elements_360",
+        "name": "AEM Elements™ 360",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "amp",
+        "name": "AMP",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "angel_lms",
+        "name": "ANGEL LMS",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "ares",
+        "name": "ARES",
+        "category": "Other"
+      },
+      {
+        "uid": "at&t",
+        "name": "AT&T",
+        "category": "Hosting"
+      },
+      {
+        "uid": "act",
+        "name": "Act!",
+        "category": "Other"
+      },
+      {
+        "uid": "appdynamics",
+        "name": "AppDynamics",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "apple_business_manager",
+        "name": "Apple Business Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apple_school_manager",
+        "name": "Apple School Manager",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "arcgis_field_maps",
+        "name": "ArcGIS Field Maps",
+        "category": "Field Service Management"
+      },
+      {
+        "uid": "archicad",
+        "name": "Archicad",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "arista_eos",
+        "name": "Arista EOS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "arista_networks",
+        "name": "Arista Networks",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "autocad",
+        "name": "AutoCAD",
+        "category": "Contruction Management Platform"
+      },
+      {
+        "uid": "azure_application_insights",
+        "name": "Azure Application Insights",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "azure_purview",
+        "name": "Azure Purview",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "base",
+        "name": "BASE",
+        "category": "Other"
+      },
+      {
+        "uid": "beegfs",
+        "name": "BeeGFS",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "bidtellect",
+        "name": "Bidtellect",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "bootstrap",
+        "name": "Bootstrap",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "cat",
+        "name": "CAT",
+        "category": "ERP"
+      },
+      {
+        "uid": "clear",
+        "name": "CLEAR",
+        "category": "Other"
+      },
+      {
+        "uid": "cabin",
+        "name": "Cabin",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "canon_vitrea",
+        "name": "Canon Vitrea",
+        "category": "Other"
+      },
+      {
+        "uid": "chemdraw",
+        "name": "ChemDraw",
+        "category": "Other"
+      },
+      {
+        "uid": "cisco_broadworks",
+        "name": "Cisco BroadWorks",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cisco_meraki_mr_series",
+        "name": "Cisco Meraki MR Series",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cisco_webex_teams",
+        "name": "Cisco WebEx Teams",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "cloudflare_cdn",
+        "name": "CloudFlare CDN",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "compete",
+        "name": "Compete",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "conviva_operational_data_platform",
+        "name": "Conviva Operational Data Platform",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "creo_elementspro",
+        "name": "Creo Elements/Pro",
+        "category": "Other"
+      },
+      {
+        "uid": "divi",
+        "name": "Divi",
+        "category": "CMS"
+      },
+      {
+        "uid": "doppler",
+        "name": "Doppler",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "ektron",
+        "name": "Ektron",
+        "category": "CMS"
+      },
+      {
+        "uid": "electron",
+        "name": "Electron",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "enom",
+        "name": "Enom",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "enzyme",
+        "name": "Enzyme",
+        "category": "Other"
+      },
+      {
+        "uid": "epic",
+        "name": "Epic",
+        "category": "Other"
+      },
+      {
+        "uid": "expo",
+        "name": "Expo",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "facebook_signal",
+        "name": "Facebook Signal",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "factorsai",
+        "name": "Factors.AI",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "fishbowl",
+        "name": "Fishbowl",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "flow",
+        "name": "Flow",
+        "category": "Other"
+      },
+      {
+        "uid": "gas",
+        "name": "GAS",
+        "category": "Other"
+      },
+      {
+        "uid": "ge_healthcare_mri",
+        "name": "GE Healthcare MRI",
+        "category": "Other"
+      },
+      {
+        "uid": "ge_revolution",
+        "name": "GE Revolution",
+        "category": "Other"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "github",
+        "name": "GitHub",
+        "category": "Hosting"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "graphy",
+        "name": "Graphy",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "helpcrunch",
+        "name": "HelpCrunch",
+        "category": "Chats"
+      },
+      {
+        "uid": "hologic",
+        "name": "Hologic",
+        "category": "Other"
+      },
+      {
+        "uid": "iso",
+        "name": "ISO+™",
+        "category": "Other"
+      },
+      {
+        "uid": "jupyter",
+        "name": "Jupyter",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "linkedin_ads",
+        "name": "LinkedIn Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "linkedin_display_ads__formerly_bizo",
+        "name": "Linkedin Marketing Solutions",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "markdown",
+        "name": "Markdown",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "micro",
+        "name": "Micro",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_application_insights",
+        "name": "Microsoft Application Insights",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_azure_monitor",
+        "name": "Microsoft Azure Monitor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_email_providers",
+        "name": "Microsoft Email Providers",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_teams",
+        "name": "Microsoft Teams",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "mist",
+        "name": "Mist",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "near",
+        "name": "NEAR",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "nec",
+        "name": "NEC",
+        "category": "Other"
+      },
+      {
+        "uid": "ning",
+        "name": "Ning",
+        "category": "CMS"
+      },
+      {
+        "uid": "nutshell",
+        "name": "Nutshell",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "olo",
+        "name": "Olo",
+        "category": "Food Ordering Services"
+      },
+      {
+        "uid": "onit",
+        "name": "Onit",
+        "category": "Case Management"
+      },
+      {
+        "uid": "optimizely_content_management_system",
+        "name": "Optimizely Content Management System",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "pros",
+        "name": "PROS",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "palo_alto_networks",
+        "name": "Palo Alto Networks",
+        "category": "Event Management"
+      },
+      {
+        "uid": "philips_intellispace",
+        "name": "Philips IntelliSpace",
+        "category": "Other"
+      },
+      {
+        "uid": "photon",
+        "name": "Photon",
+        "category": "Other"
+      },
+      {
+        "uid": "portal",
+        "name": "Portal",
+        "category": "CMS"
+      },
+      {
+        "uid": "prisma",
+        "name": "Prisma",
+        "category": "Database"
+      },
+      {
+        "uid": "questback",
+        "name": "Questback",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "revolution",
+        "name": "R//Evolution",
+        "category": "Other"
+      },
+      {
+        "uid": "resi",
+        "name": "Resi",
+        "category": "Other"
+      },
+      {
+        "uid": "sam",
+        "name": "SAM",
+        "category": "Other"
+      },
+      {
+        "uid": "sap",
+        "name": "SAP",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "samsung",
+        "name": "Samsung",
+        "category": "Other"
+      },
+      {
+        "uid": "semgrep",
+        "name": "Semgrep",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "siemens_mri",
+        "name": "Siemens MRI",
+        "category": "Other"
+      },
+      {
+        "uid": "solarwinds_npm",
+        "name": "SolarWinds NPM",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "spiceworks_ip_scanner",
+        "name": "Spiceworks IP Scanner",
+        "category": "Security"
+      },
+      {
+        "uid": "taboola_newsroom",
+        "name": "Taboola Newsroom",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "thermo_scientific_chromeleon_chromatography_data_system_cds",
+        "name": "Thermo Scientific Chromeleon Chromatography Data System (CDS)",
+        "category": "Other"
+      },
+      {
+        "uid": "tor",
+        "name": "Tor",
+        "category": "Security"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "vimeo",
+        "name": "Vimeo",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "webspectator",
+        "name": "WebSpectator",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "xray",
+        "name": "Xray",
+        "category": "Other"
+      },
+      {
+        "uid": "dbt",
+        "name": "dbt",
+        "category": "Business Intelligence"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "6412f10b5cba2c00018cc69d"
+    ],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "education": 1,
+      "consulting": 12,
+      "administrative": 3,
+      "media_and_commmunication": 1,
+      "human_resources": 2,
+      "information_technology": 2,
+      "legal": 1,
+      "accounting": 0,
+      "sales": 0,
+      "operations": 0,
+      "finance": 0,
+      "marketing": 0,
+      "engineering": 0,
+      "business_development": 0,
+      "product_management": 0,
+      "arts_and_design": 0,
+      "entrepreneurship": 0,
+      "support": 0,
+      "data_science": 0
+    },
+    "organization_headcount_six_month_growth": 0.0,
+    "organization_headcount_twelve_month_growth": 0.5,
+    "organization_headcount_twenty_four_month_growth": 0.5
+  }
+}

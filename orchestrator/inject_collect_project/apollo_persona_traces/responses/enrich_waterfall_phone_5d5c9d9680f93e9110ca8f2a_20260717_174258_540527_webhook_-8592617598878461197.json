@@ -1,0 +1,107 @@
+{
+  "request_id": -8592617598878461197,
+  "webhook_status": "success",
+  "request_type": "waterfall",
+  "last_dispatched_at": "2026-07-17T16:42:53Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "target_fields": [
+      "phone_numbers"
+    ],
+    "records_enriched": 1,
+    "email_records_enriched": 0,
+    "mobile_records_enriched": 1,
+    "enrichment_not_found": 0,
+    "email_records_not_found": 0,
+    "mobile_records_not_found": 0,
+    "credits_consumed": 8,
+    "request_id": "-8592617598878461197",
+    "request_initiated": "2026-07-17T16:42:48Z",
+    "request_completed": "2026-07-17T16:42:52Z",
+    "people": [
+      {
+        "id": "5d5c9d9680f93e9110ca8f2a",
+        "waterfall": {
+          "phone_numbers": [
+            {
+              "vendors": [
+                {
+                  "id": "findy_mail_phone_finder-1",
+                  "name": "FindyMail",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "leadmagic_mobile_finder-1",
+                  "name": "LeadMagic",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "upcell_mobile_finder-1",
+                  "name": "Upcell",
+                  "status": "SKIPPED",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "request_already_fulfilled",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "apollo-1",
+                  "name": "Apollo",
+                  "status": "VERIFIED",
+                  "phone_numbers": [
+                    "+86 153 1141 8305"
+                  ],
+                  "usedForVerification": false,
+                  "statusCode": "apollo_step_success",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            }
+          ]
+        },
+        "phone_numbers": [
+          {
+            "_id": "6a5a5b8a54c4d50001a9e8ca",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+86 153 1141 8305",
+            "sanitized_number": "+8615311418305",
+            "status_cd": "valid_number",
+            "type_cd": "mobile",
+            "id": "6a5a5b8a54c4d50001a9e8ca",
+            "key": "6a5a5b8a54c4d50001a9e8ca"
+          }
+        ],
+        "emails": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,1737 @@
+{
+    "domain": "linkedin.com",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "LinkedIn",
+                "ai": "LinkedIn"
+            },
+            "domain": {
+                "apollo": "linkedin.com",
+                "ai": "linkedin.com"
+            },
+            "industry": {
+                "apollo": "information technology & services",
+                "ai": "Professional Networking, Job Board, E-learning, Business Solutions"
+            },
+            "founded_year": {
+                "apollo": 2002,
+                "ai": null
+            },
+            "short_description": {
+                "apollo": "LinkedIn is the world's largest professional networking platform, designed to connect the business community. Founded in 2002 and launched in 2003, it has grown into a comprehensive economic ecosystem known as the \"Economic Graph,\" with over 1.2 billion registered members globally. Headquartered in Sunnyvale, California, LinkedIn is a subsidiary of Microsoft, acquired in 2016.\n\nThe platform offers a range of services categorized into four main areas: Talent Solutions, Marketing Solutions, Sales Solutions, and Premium Subscriptions. Talent Solutions help organizations find and hire talent, while Marketing Solutions enable brands to engage audiences through targeted advertising. Sales Solutions assist sales professionals in identifying leads and building relationships. Premium Subscriptions provide individual users with enhanced features for career advancement and networking. LinkedIn serves a diverse audience, including enterprises, small businesses, individual professionals, and educational institutions, making it a vital tool for economic opportunity and professional growth.",
+                "ai": "A professional community for networking, job searching, learning, and business solutions."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "LinkedIn: Log In or Sign Up - Welcome to your professional community for networking, jobs, and learning."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": 17812000000.0,
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_num_employees": {
+                "apollo": 21000,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/linkedin",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "https://twitter.com/LinkedIn",
+                "ai": null
+            },
+            "facebook_url": {
+                "apollo": "https://facebook.com/LinkedIn",
+                "ai": null
+            },
+            "phone": {
+                "apollo": "+1 650-687-3600",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "1000 W Maude, Sunnyvale, CA 94085, US",
+                "ai": "1000 West Maude Avenue, Sunnyvale, United States"
+            },
+            "city": {
+                "apollo": "Sunnyvale",
+                "ai": "Sunnyvale"
+            },
+            "country": {
+                "apollo": "United States",
+                "ai": "United States"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 29,
+                "ai": null
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "online professional network",
+                    "jobs",
+                    "people search",
+                    "company search",
+                    "address book",
+                    "advertising",
+                    "professional identity",
+                    "group collaboration",
+                    "recruiting",
+                    "education",
+                    "technology",
+                    "financial services",
+                    "finance",
+                    "software development",
+                    "user engagement",
+                    "market expansion",
+                    "career insights",
+                    "linkedin learning",
+                    "job listings",
+                    "professional development",
+                    "content sharing",
+                    "online learning",
+                    "social media",
+                    "user engagement metrics",
+                    "innovation",
+                    "web search portals, libraries, archives, and other information services",
+                    "data-driven recruitment",
+                    "recruitment solutions",
+                    "business intelligence",
+                    "b2b marketing",
+                    "user profiles",
+                    "platform integration",
+                    "ai-driven insights",
+                    "business opportunities",
+                    "employer branding",
+                    "talent acquisition",
+                    "learning platform",
+                    "ai integration",
+                    "b2c",
+                    "market analytics",
+                    "data analytics",
+                    "customer service",
+                    "professional social network",
+                    "b2b",
+                    "professional content",
+                    "professional education",
+                    "virtual networking",
+                    "ai-generated insights",
+                    "digital marketing",
+                    "user experience",
+                    "global user base",
+                    "virtual events",
+                    "ai-powered recommendations",
+                    "professional networking",
+                    "real-time event hosting",
+                    "information technology and services",
+                    "advertising solutions",
+                    "premium subscriptions",
+                    "online platforms",
+                    "mobile applications",
+                    "services",
+                    "career matching algorithms",
+                    "targeted advertising",
+                    "career development",
+                    "workforce upskilling",
+                    "content personalization",
+                    "enterprise solutions",
+                    "saas",
+                    "information technology & services",
+                    "e-learning",
+                    "internet",
+                    "computer software",
+                    "education management",
+                    "consumer internet",
+                    "consumers",
+                    "analytics",
+                    "marketing & advertising",
+                    "ux",
+                    "mobile apps"
+                ],
+                "ai": "professional networking, job search, career development, e-learning, business solutions, recruiting, sales intelligence, project management, human resources, social networking, software, artificial intelligence, cloud computing, cybersecurity, data science, web development"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "net",
+                        "name": ".NET",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "3m_360_encompass_health_analytics_suite",
+                        "name": "3M 360 Encompass - Health Analytics Suite",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "acl",
+                        "name": "ACL",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "adapt",
+                        "name": "ADAPT",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "adp_applicant_tracking_system",
+                        "name": "ADP Applicant Tracking System",
+                        "category": "Recruitment"
+                    },
+                    {
+                        "uid": "ai",
+                        "name": "AI",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "amp",
+                        "name": "AMP",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "angel_lms",
+                        "name": "ANGEL LMS",
+                        "category": "Education Management Software"
+                    },
+                    {
+                        "uid": "at&t",
+                        "name": "AT&T",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "act",
+                        "name": "Act!",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "activedisclosure",
+                        "name": "ActiveDisclosure",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "adriver",
+                        "name": "AdRiver",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "adobe_campaign",
+                        "name": "Adobe Campaign",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "adobe_experience_cloud",
+                        "name": "Adobe Experience Cloud",
+                        "category": "Marketing Automation"
+                    },
+                    {
+                        "uid": "adobe_express",
+                        "name": "Adobe Express",
+                        "category": "Content Management Platform"
+                    },
+                    {
+                        "uid": "adobe_firefly",
+                        "name": "Adobe Firefly",
+                        "category": "Content Management Platform"
+                    },
+                    {
+                        "uid": "airflow",
+                        "name": "Airflow",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "akamai_cdn_solutions",
+                        "name": "Akamai CDN Solutions",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "alteryx_machine_learning_cloud",
+                        "name": "Alteryx Machine Learning Cloud",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "amazon_aws",
+                        "name": "Amazon AWS",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "amazon_aws",
+                        "name": "Amazon AWS",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "amazon_linux_2",
+                        "name": "Amazon Linux 2",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "amazon_managed_streaming_for_apache_kafka_amazon_msk",
+                        "name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "amazon_managed_workflows_for_apache_airflow_mwaa",
+                        "name": "Amazon Managed Workflows for Apache Airflow (MWAA)",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "amazon_s3",
+                        "name": "Amazon S3",
+                        "category": "Content Delivery Networks"
+                    },
+                    {
+                        "uid": "amazon_simple_queue_service_sqs",
+                        "name": "Amazon Simple Queue Service (SQS)",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "anaplan",
+                        "name": "Anaplan",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "android",
+                        "name": "Android",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "anthropic_claude",
+                        "name": "Anthropic Claude",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "apache",
+                        "name": "Apache",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "apache_iceberg",
+                        "name": "Apache Iceberg",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "apache_kafka",
+                        "name": "Apache Kafka",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "apache_pinot",
+                        "name": "Apache Pinot",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "apache_samza",
+                        "name": "Apache Samza",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "apache_spark",
+                        "name": "Apache Spark",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "apache_spark",
+                        "name": "Apache Spark",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "apex",
+                        "name": "Apex",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "appdynamics",
+                        "name": "AppDynamics",
+                        "category": "Web Performance Monitoring"
+                    },
+                    {
+                        "uid": "apple_macos",
+                        "name": "Apple macOS",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "apttus",
+                        "name": "Apttus",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "assure_mimix",
+                        "name": "Assure MIMIX",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "atlassian_confluence",
+                        "name": "Atlassian Confluence",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "avepoint_opus",
+                        "name": "AvePoint Opus",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "azure_analysis_services",
+                        "name": "Azure Analysis Services",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "azure_dns",
+                        "name": "Azure DNS",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "azure_dns",
+                        "name": "Azure DNS",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "azure devops",
+                        "name": "Azure Devops",
+                        "category": "Deployment Tools"
+                    },
+                    {
+                        "uid": "azure_front_door",
+                        "name": "Azure Front Door",
+                        "category": "Content Delivery Networks"
+                    },
+                    {
+                        "uid": "azure_functions",
+                        "name": "Azure Functions",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "azure_linux_virtual_machines",
+                        "name": "Azure Linux Virtual Machines",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "azure_logic_apps",
+                        "name": "Azure Logic Apps",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "azure virtual desktop",
+                        "name": "Azure Virtual Desktop",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "base",
+                        "name": "BASE",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "bill",
+                        "name": "BILL",
+                        "category": "Payments"
+                    },
+                    {
+                        "uid": "bmc_helix_discovery",
+                        "name": "BMC Helix Discovery",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "barracuda",
+                        "name": "Barracuda MSP",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "bazel",
+                        "name": "Bazel",
+                        "category": "Deployment Tools"
+                    },
+                    {
+                        "uid": "bigtincan_readiness_formerly_brainshark",
+                        "name": "Bigtincan Readiness (formerly Brainshark)",
+                        "category": "Content Management Platform"
+                    },
+                    {
+                        "uid": "blackbaud_award_management",
+                        "name": "Blackbaud Award Management",
+                        "category": "Education Management Software"
+                    },
+                    {
+                        "uid": "blue_coat_proxysg",
+                        "name": "Blue Coat ProxySG",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "bluecat_networks",
+                        "name": "BlueCat Networks",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "bottomline_payments_and_cash_management",
+                        "name": "Bottomline Payments and Cash Management",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "branch",
+                        "name": "Branch",
+                        "category": "Affiliate Advertising Network"
+                    },
+                    {
+                        "uid": "c#",
+                        "name": "C#",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "crm+",
+                        "name": "CRM+",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "css",
+                        "name": "CSS",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "callminer_eureka",
+                        "name": "CallMiner Eureka",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "chartbeat",
+                        "name": "Chartbeat",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "chatgpt",
+                        "name": "ChatGPT",
+                        "category": "Chats"
+                    },
+                    {
+                        "uid": "cisco_switches",
+                        "name": "Cisco Switches",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "cisco_voip",
+                        "name": "Cisco VoIP",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "cloudflare",
+                        "name": "CloudFlare",
+                        "category": "Web Accelerators"
+                    },
+                    {
+                        "uid": "cloudflare_cdn",
+                        "name": "CloudFlare CDN",
+                        "category": "Content Delivery Networks"
+                    },
+                    {
+                        "uid": "conga_cpq",
+                        "name": "Conga CPQ",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "copilot",
+                        "name": "Copilot",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "coupa_procurement",
+                        "name": "Coupa Procurement",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "coupa_procurement",
+                        "name": "Coupa Procurement",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "coupa_procurement",
+                        "name": "Coupa Procurement",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "cursor",
+                        "name": "Cursor",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "dax",
+                        "name": "DAX",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "data analytics",
+                        "name": "Data Analytics",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "databricks",
+                        "name": "Databricks",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "dimml",
+                        "name": "Dimml",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "docusign",
+                        "name": "DocuSign",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "dynamics_365_customer_insights",
+                        "name": "Dynamics 365 Customer Insights",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "dynamics.js",
+                        "name": "Dynamics.js",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "efi",
+                        "name": "EFI",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "eaglestats",
+                        "name": "Eaglestats",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "envoy",
+                        "name": "Envoy",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "excel4apps",
+                        "name": "Excel4Apps",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "fastapi",
+                        "name": "Fastapi",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "figma",
+                        "name": "Figma",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "flask",
+                        "name": "Flask",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "flow",
+                        "name": "Flow",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "frame",
+                        "name": "Frame",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "fusion_erp_analytics",
+                        "name": "Fusion ERP Analytics",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "grpc",
+                        "name": "GRPC",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "gator",
+                        "name": "Gator",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "gem",
+                        "name": "Gem",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "gemini",
+                        "name": "Gemini",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "git",
+                        "name": "Git",
+                        "category": "Deployment Tools"
+                    },
+                    {
+                        "uid": "glint",
+                        "name": "Glint",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "godaddy_domains",
+                        "name": "GoDaddy Domains",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "gong",
+                        "name": "Gong",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "google_ads_data_hub",
+                        "name": "Google Ads Data Hub",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "google_cloud",
+                        "name": "Google Cloud",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "google_cloud_machine_learning_engine",
+                        "name": "Google Cloud Machine Learning Engine",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "google_cloud_serverless",
+                        "name": "Google Cloud Serverless",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "google_identity_services_apis",
+                        "name": "Google Identity Services APIs",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "google_search_central",
+                        "name": "Google Search Central",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_search_console",
+                        "name": "Google Search Console",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "grafana",
+                        "name": "Grafana",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "graphql",
+                        "name": "GraphQL",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "graylog",
+                        "name": "Graylog",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "greenhouse",
+                        "name": "Greenhouse",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "haproxy",
+                        "name": "HAProxy",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "horovod",
+                        "name": "Horovod",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "hugging_face",
+                        "name": "Hugging Face",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "ibm_db2_for_linux_unix_and_microsoft_windows",
+                        "name": "IBM Db2 for Linux, UNIX, and Microsoft Windows",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "ibm_http_server",
+                        "name": "IBM HTTP Server",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "ibm_spectrum_lsf",
+                        "name": "IBM Spectrum LSF",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "idc",
+                        "name": "IDC",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "infoblox_dhcp",
+                        "name": "Infoblox DHCP",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "iot",
+                        "name": "IoT",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "jax",
+                        "name": "JAX",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "jtl-shop_3",
+                        "name": "JTL-Shop 3",
+                        "category": "E-commerce Platforms"
+                    },
+                    {
+                        "uid": "jaspersoft",
+                        "name": "Jaspersoft",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "javascript",
+                        "name": "Javascript",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "jira",
+                        "name": "Jira",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "kiosked",
+                        "name": "Kiosked",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "kubernetes",
+                        "name": "Kubernetes",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "leap",
+                        "name": "LEAP",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "langchain",
+                        "name": "Langchain",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "leaflink",
+                        "name": "LeafLink",
+                        "category": "E-commerce Platforms"
+                    },
+                    {
+                        "uid": "less",
+                        "name": "Less",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "liferay",
+                        "name": "Liferay",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "linkedin_ads",
+                        "name": "LinkedIn Ads",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "linkedin_learning",
+                        "name": "LinkedIn Learning",
+                        "category": "Education Management Software"
+                    },
+                    {
+                        "uid": "linkedin_sales_navigator",
+                        "name": "LinkedIn Sales Navigator",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "linkedin_talent_insights",
+                        "name": "LinkedIn Talent Insights",
+                        "category": "HR Solutions"
+                    },
+                    {
+                        "uid": "litera_pdfdocs",
+                        "name": "Litera pdfDocs",
+                        "category": "Content Management Platform"
+                    },
+                    {
+                        "uid": "logmein_hamachi",
+                        "name": "LogMeIn Hamachi",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "lytics",
+                        "name": "Lytics",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "mend",
+                        "name": "Mend",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "metadata_hub",
+                        "name": "Metadata Hub",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "micro_focus_universal_cmdb",
+                        "name": "Micro Focus Universal CMDB",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365_apps_services",
+                        "name": "Microsoft 365 Apps & Services",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft",
+                        "name": "Microsoft Azure Hosting",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "microsoft_azure_monitor",
+                        "name": "Microsoft Azure Monitor",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "microsoft_email_providers",
+                        "name": "Microsoft Email Providers",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "microsoft_excel",
+                        "name": "Microsoft Excel",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "microsoft_exchange",
+                        "name": "Microsoft Exchange",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_exchange_online",
+                        "name": "Microsoft Exchange Online",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "microsoft_intune_enterprise_application_management",
+                        "name": "Microsoft Intune Enterprise Application Management",
+                        "category": "Enterprise Mobility Management"
+                    },
+                    {
+                        "uid": "microsoft_power_apps",
+                        "name": "Microsoft Power Apps",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "microsoft_power_automate",
+                        "name": "Microsoft Power Automate",
+                        "category": "Robotic Process Automation"
+                    },
+                    {
+                        "uid": "microsoft_power_platform",
+                        "name": "Microsoft Power Platform",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "microsoft_powerpoint",
+                        "name": "Microsoft PowerPoint",
+                        "category": "Web Presentation Tools"
+                    },
+                    {
+                        "uid": "microsoft_powershell",
+                        "name": "Microsoft PowerShell",
+                        "category": "Deployment Tools"
+                    },
+                    {
+                        "uid": "microsoft_sharepoint",
+                        "name": "Microsoft Sharepoint",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "microsoft_system_center_configuration_manager",
+                        "name": "Microsoft System Center Configuration Manager",
+                        "category": "Enterprise Mobility Management"
+                    },
+                    {
+                        "uid": "microsoft_teams",
+                        "name": "Microsoft Teams",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_teams_rooms",
+                        "name": "Microsoft Teams Rooms",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_windows_server_2012",
+                        "name": "Microsoft Windows Server 2012",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "milvus",
+                        "name": "Milvus",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "miro",
+                        "name": "Miro",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "mode",
+                        "name": "Mode",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "mysql",
+                        "name": "MySQL",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "mysql",
+                        "name": "MySQL",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "nice",
+                        "name": "NICE",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "nlp",
+                        "name": "NLP",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "ns1",
+                        "name": "NS1",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "ns1",
+                        "name": "NS1",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "ns1",
+                        "name": "NS1",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "ntent",
+                        "name": "NTENT",
+                        "category": "Content Syndication Networks"
+                    },
+                    {
+                        "uid": "nvidia_a100_tensor_core_gpu",
+                        "name": "NVIDIA A100 Tensor Core GPU",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "netsuite",
+                        "name": "NetSuite",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "ning",
+                        "name": "Ning",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "node.js",
+                        "name": "Node.js",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "nutanix_beam",
+                        "name": "Nutanix Beam",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "objectivec",
+                        "name": "Objective-C",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "onit",
+                        "name": "Onit",
+                        "category": "Case Management"
+                    },
+                    {
+                        "uid": "openai",
+                        "name": "OpenAI",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "oracle_active_data_guard",
+                        "name": "Oracle Active Data Guard",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "oracle_analytics_cloud",
+                        "name": "Oracle Analytics Cloud",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "oracle_cloud_infrastructure",
+                        "name": "Oracle Cloud Infrastructure",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "oracle_database",
+                        "name": "Oracle Database",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "oracle e business suite",
+                        "name": "Oracle E Business Suite",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "oracle_ebs_crm",
+                        "name": "Oracle EBS CRM",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "oracle_ebs_projects",
+                        "name": "Oracle EBS Projects",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "oracle_forms",
+                        "name": "Oracle Forms",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "oracle_general_ledger",
+                        "name": "Oracle General Ledger",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "oracle_hyperion_enterprise",
+                        "name": "Oracle Hyperion Enterprise",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "oracle_purchasing",
+                        "name": "Oracle Purchasing",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "oracle_rac_one_node",
+                        "name": "Oracle RAC One Node",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "oracle_reports",
+                        "name": "Oracle Reports",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "outlook",
+                        "name": "Outlook",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "plsql",
+                        "name": "PL/SQL",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "pinecone",
+                        "name": "Pinecone",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "plotly_dash",
+                        "name": "Plotly Dash",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "postgresql",
+                        "name": "PostgreSQL",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "power_bi_documenter",
+                        "name": "Power BI Documenter",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "power_query",
+                        "name": "Power Query",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "powerschool_unified_talent",
+                        "name": "PowerSchool Unified Talent",
+                        "category": "Education Management Software"
+                    },
+                    {
+                        "uid": "pricegrabber",
+                        "name": "PriceGrabber",
+                        "category": "Customer Reviews"
+                    },
+                    {
+                        "uid": "principle",
+                        "name": "Principle",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "ptengine",
+                        "name": "Ptengine",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "pytorch",
+                        "name": "PyTorch",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "pytorch_lightning",
+                        "name": "PyTorch Lightning",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "python",
+                        "name": "Python",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "rest",
+                        "name": "REST",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "rabbitmq",
+                        "name": "RabbitMQ",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "rails_assets",
+                        "name": "Rails Assets",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "react",
+                        "name": "React",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "redis",
+                        "name": "Redis",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "relativity",
+                        "name": "Relativity",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "remote",
+                        "name": "Remote",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "renaissance_accelerated_reader",
+                        "name": "Renaissance Accelerated Reader",
+                        "category": "Education Management Software"
+                    },
+                    {
+                        "uid": "robixcm_generator",
+                        "name": "RobixCM Generator",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "sam",
+                        "name": "SAM",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "sap",
+                        "name": "SAP",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "sap_accounts_payable_and_receivable",
+                        "name": "SAP Accounts Payable and Receivable",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "sap_build_process_automation",
+                        "name": "SAP Build Process Automation",
+                        "category": "Robotic Process Automation"
+                    },
+                    {
+                        "uid": "swift",
+                        "name": "SWIFT",
+                        "category": "Financial Software"
+                    },
+                    {
+                        "uid": "sage_fixed_assets",
+                        "name": "Sage Fixed Assets",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "salesforce",
+                        "name": "Salesforce",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforce_cpq",
+                        "name": "Salesforce CPQ",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforce crm analytics",
+                        "name": "Salesforce CRM Analytics",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "salesforce_einstein_ai",
+                        "name": "Salesforce Einstein AI",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforce_lightning_web_components",
+                        "name": "Salesforce Lightning Web Components",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "salesforce_platform",
+                        "name": "Salesforce Platform",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "salesforce_sales_cloud",
+                        "name": "Salesforce Sales Cloud",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "secured_mvc_forum_on_windows_2012_r2",
+                        "name": "Secured MVC Forum on Windows 2012 R2",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "sentencetransformers",
+                        "name": "SentenceTransformers",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "service_now",
+                        "name": "ServiceNow",
+                        "category": "Case Management"
+                    },
+                    {
+                        "uid": "servicenow_event_management",
+                        "name": "ServiceNow Event Management",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "servicenow_service_mapping",
+                        "name": "ServiceNow Service Mapping",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "shareworks_by_morgan_stanley",
+                        "name": "Shareworks by Morgan Stanley",
+                        "category": "Financial Software"
+                    },
+                    {
+                        "uid": "sharpspring",
+                        "name": "SharpSpring",
+                        "category": "Marketing Automation"
+                    },
+                    {
+                        "uid": "siemens_simatic_s7",
+                        "name": "Siemens SIMATIC S7",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "slack",
+                        "name": "Slack",
+                        "category": "Chats"
+                    },
+                    {
+                        "uid": "soap_media",
+                        "name": "Soap Media",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "sonicwall_network_security_appliance_nsa_series",
+                        "name": "SonicWall Network Security appliance (NSa) Series",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "spring_boot",
+                        "name": "Spring Boot",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "star",
+                        "name": "Star",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "storyboard_to_swiftui_converter",
+                        "name": "Storyboard to SwiftUI Converter",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "tcp_timeclock_plus",
+                        "name": "TCP TimeClock Plus",
+                        "category": "HR Solutions"
+                    },
+                    {
+                        "uid": "tableau",
+                        "name": "Tableau",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "talentegy",
+                        "name": "Talentegy",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "taleo",
+                        "name": "Taleo",
+                        "category": "Recruitment"
+                    },
+                    {
+                        "uid": "temporal_cloud",
+                        "name": "Temporal Cloud",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "tensorflow",
+                        "name": "TensorFlow",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "tor",
+                        "name": "Tor",
+                        "category": "Security"
+                    },
+                    {
+                        "uid": "ups",
+                        "name": "UPS",
+                        "category": "Shipping"
+                    },
+                    {
+                        "uid": "uikit",
+                        "name": "Uikit",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "vmware_airwatch",
+                        "name": "VMware AirWatch",
+                        "category": "Enterprise Mobility Management"
+                    },
+                    {
+                        "uid": "vmware_workspace_one",
+                        "name": "VMware Workspace ONE",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "vertex",
+                        "name": "Vertex",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "weaviate",
+                        "name": "Weaviate",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "weborama",
+                        "name": "Weborama",
+                        "category": "Ad Servers"
+                    },
+                    {
+                        "uid": "wordpress_default",
+                        "name": "WordPress Default",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "workable",
+                        "name": "Workable",
+                        "category": "Recruitment"
+                    },
+                    {
+                        "uid": "workday",
+                        "name": "Workday",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "xctest",
+                        "name": "XCTest",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "xcuitest",
+                        "name": "XCUITest",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "xcode",
+                        "name": "Xcode",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "zendesk",
+                        "name": "Zendesk",
+                        "category": "Support and Feedback"
+                    },
+                    {
+                        "uid": "zoomdata",
+                        "name": "Zoomdata",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "go",
+                        "name": "go+",
+                        "category": "Frameworks and Programming Languages"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "Cloudflare",
+                        "category": "CDN, Security",
+                        "confidence": 0.99,
+                        "source": "server: cloudflare",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.28,
+                            "evidence_density": 0.56
+                        }
+                    },
+                    {
+                        "name": "LinkedIn Platform",
+                        "category": "Web Platform",
+                        "confidence": 0.9,
+                        "source": "platform.linkedin.com, static.licdn.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.44,
+                            "evidence_density": 0.44
+                        }
+                    },
+                    {
+                        "name": "Utility-first CSS Framework (e.g., Tailwind CSS)",
+                        "category": "CSS Framework",
+                        "confidence": 0.85,
+                        "source": "flex-*, items-*, bottom-*, top-*, bg-*, pl-*, pr-*, pt-*, pb-*, w-*, rounded-*, shadow-*, text-*, font-*, mb-*, overflow-*, inline-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.69,
+                            "evidence_density": 0.36
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [
+                    {
+                        "id": "54a12af769702d8eeb0bac02",
+                        "name": "Connected",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "55e808b3f3e5bb24fc00003c",
+                        "name": "RUN & HOP",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "5d339a15f65125edc0059d7d",
+                        "name": "Drawbridge (acquired by LinkedIn)",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "5e5620b818a6380001b0cd6e",
+                        "name": "Enlight Strategic",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "5d0aa506f651258b8a057434",
+                        "name": "Heitz Cellar",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "60132f0ff97b1300a4c92373",
+                        "name": "Linked Ninja",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a117e469702d58e4d50000",
+                        "name": "We Created It (acq. LinkedIn)",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a11b5b69702d7fe6563300",
+                        "name": "ScoreBeyond (acquired by LinkedIn)",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a11f5a69702d84c5d3cd01",
+                        "name": "StackLead",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a11f8169702d9a8b6df301",
+                        "name": "Rapportive",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a1205869702d77c27a6c02",
+                        "name": "Cardmunch, Inc. (acquired by LinkedIn)",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a25ecb7468693a7eb5c01d",
+                        "name": "Connectifier, Inc.",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "556cf3327369641258815b00",
+                        "name": "Heighten (acquired by LinkedIn)",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "56e83c46f3e5bb6310005043",
+                        "name": "Oribi (Acquired by LinkedIn)",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a1201a69702d77c2024a02",
+                        "name": "PointDrive",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a11bee69702d86b6a76700",
+                        "name": "Lynda.com",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a1222869702d8cccb4fe02",
+                        "name": "EduBrite Systems, Inc. is now part of LinkedIn!",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "55ee9fe9f3e5bb4327000890",
+                        "name": "Sendbloom",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a1355a69702d407f7c9a00",
+                        "name": "Careerify (Acquired by LinkedIn)",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "556daa0f736964124fe46601",
+                        "name": "Glint",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a11c3569702da10fc29000",
+                        "name": "Fliptop",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "556dc72f7369641217ef9001",
+                        "name": "Restless Bandit",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "6a59b5ffd87ef300018dce61",
+                        "name": "Jumprope, Inc.",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "5da12ab8a60815000120ee85",
+                        "name": "Bright Event Rentals",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "5eec26773977f700bef7124f",
+                        "name": "Bright.com",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "5d348ee3a3ae617e3104c4a3",
+                        "name": "Bizo",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "54a135eb69702d3cbbe00901",
+                        "name": "Newsle",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "5e669f6e66065a0001221340",
+                        "name": "Refresh",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "670b91857d49230001585bc1",
+                        "name": "Alphonso Labs, Inc.",
+                        "domain": "Non renseigné"
+                    }
+                ],
+                "ai": null
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": null
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Indeed",
+                    "Glassdoor",
+                    "Xing",
+                    "Coursera",
+                    "Monster"
+                ]
+            }
+        }
+    }
+}

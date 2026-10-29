@@ -1,0 +1,25 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 1,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "68d280c6cdd771001d2af703",
+      "url": "https://relazioninternazionali-tribuna.com/prima-competizione-nazionale-per-le-societa-benefit",
+      "domain": "relazioninternazionali-tribuna.com",
+      "title": "First national competition for Benefit Corporations",
+      "snippet": "To support the initiative, Mimit, in collaboration with Unioncamere and the Chamber of Commerce system, has launched a comprehensive training program to guide businesses and professionals through the process of establishing and managing a Benefit Corporation.",
+      "organization_ids": [
+        "5f426b96c31d000001d7aec9",
+        "5ed90f24f965e8000170e2bc"
+      ],
+      "published_at": "2025-09-23T09:01:15.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    }
+  ]
+}

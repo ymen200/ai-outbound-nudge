@@ -1,0 +1,72 @@
+# Template pour Saisie Manuelle - Outreach Sequence
+# Remplissez les champs ci-dessous et copiez dans l'interface
+
+## 🏢 ENTREPRISE CIBLE
+Nom de l'entreprise: TechCorp Solutions
+Site web: techcorp.com
+Secteur: SaaS B2B, Fourniture de logiciels de gestion de projet
+
+## 👤 PROSPECT
+Nom complet: Mohamed Benmansour
+Poste: CTO (Chief Technology Officer)
+Email: benmansour.mohamed@esprit.tn
+LinkedIn URL: linkedin.com/in/mohamed-benmansour
+Localisation: Tunis, Tunisie
+
+## 🧠 CONTEXTE POUR L'IA (Décrivez ce que vous savez)
+Contexte détaillé:
+- CTO chez TechCorp Solutions depuis 3 ans
+- Entreprise en forte croissance (passée de 50 à 150 employés en 2 ans)
+- Publie régulièrement sur LinkedIn sur les défis de scaling tech
+- A récemment posté sur la difficulté de gérer des équipes distribuées
+- Cherche des solutions pour améliorer la productivité des développeurs
+- A participé au DevOpsDays Tunisia 2024
+- Stack technique: AWS, Kubernetes, React, Node.js
+- Problèmes probables: gestion de dette technique, onboarding de nouveaux devs
+
+## 🎯 VOTRE ICP
+Description ICP:
+Nous ciblons des CTO et VP Engineering de startups SaaS en croissance
+(50-200 employés) en Afrique du Nord et Europe du Sud qui cherchent
+à optimiser la productivité de leurs équipes tech.
+
+## 🎁 CE QUE VOUS PROPOSEZ
+Offre:
+Audit gratuit de la productivité d'équipe tech + plan d'action personnalisé
+
+---
+
+## EXEMPLE ALTERNATIF (Plus court)
+
+Entreprise: StartupFlow
+Site: startupflow.io
+Secteur: Fintech
+
+Prospect: Sarah Chen
+Poste: VP Sales
+Email: sarah@startupflow.io
+LinkedIn: linkedin.com/in/sarah-chen-123
+Localisation: Paris, France
+
+Contexte:
+VP Sales chez StartupFlow (fintech B2B, levée Série B 15M€). 
+A grand challenge: scaler équipe commerciale de 5 à 20 personnes.
+Poste souvent sur LinkedIn sur l'efficacité des SDRs.
+Recherche solutions pour améliorer conversion rates et réduire CAC.
+
+ICP: VP Sales de fintech B2B en croissance en France
+
+Offre: Diagnostic gratuit du funnel de vente + recommandations
+
+---
+
+## 📋 INSTRUCTIONS
+
+1. Copiez les sections ci-dessus
+2. Collez dans l'interface Streamlit (Saisie Manuelle)
+3. Cliquez sur "🚀 Lancer la Séquence"
+4. Copiez l'ID de workflow généré
+5. Allez dans l'onglet "📊 Séquences Actives"
+6. Collez l'ID et cliquez "📊 Voir le Statut"
+7. Attendez que les étapes soient générées (~30-60s)
+8. Envoyez les messages un par un

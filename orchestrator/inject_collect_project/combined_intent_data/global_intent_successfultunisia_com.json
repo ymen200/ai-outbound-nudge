@@ -1,0 +1,86 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Tunisia launches the first solar-powered fishing boat in the Mediterranean - Tunisia launches the first solar-powered fishing boat in the Mediterranean, a technological and environmental experiment that is the first of its kind in the region.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "أطلقت تونس، اليوم الاثنين بجزيرة جربة، أول رحلة لقارب صيد حرفي يعمل بالكامل بالطاقة الكهربائية المولدة من الطاقة الشمسية، في تجربة بيئية وتقنية تعد الأولى من نوعها في منطقة البحر الأبيض المتوسط.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.65,
+            "evidence_density": 1.25
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Autoliv opens a new production unit and manufactures car steering wheels in Tunisia - Autoliv's factory in the Fouchana region has launched a new industrial expansion, which includes the launch of a modern and integrated production line dedicated to the manufacture of car steering wheels.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "شهد مصنع Autoliv في منطقة الفحص تدشين توسعة صناعية جديدة تتمثل في إطلاق خط إنتاج حديث ومتكامل مخصص لتصنيع عجلات السيارات.",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.67,
+            "evidence_density": 2.39
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Ooredoo Tunisia renews its support for the Carthage International Festival for the fifth consecutive year - Ooredoo Tunisia announces with pride the renewal of its official sponsorship of the Carthage International Festival for the fifth consecutive year.",
+        "date": "Not specified",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "تعلن Ooredoo تونس، الرائدة في مجال الاتصالات، بكل فخر عن تجديد رعايتها الرسمية لمهرجان قرطاج الدولي للسنة الخامسة على التوالي،…",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.66,
+            "evidence_density": 2.01
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Tunisia's food industries shine globally: SFBT group wins COFICERT and Euronext awards in Paris - Tunisia - Paris, June 26, 2026 - SFBT Group, a leading player in Tunisia's industrial sector and one of the country's most prominent economic actors, has won the COFICERT and Euronext awards in Paris.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "تونس – باريس، 26 جوان 2026– حظيت مجموعة SFBT، الرائدة في القطاع الصناعي التونسي وأحد أبرز الفاعلين الاقتصاديين في البلاد،…",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.7,
+            "evidence_density": 2.44
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Orange Tunisia hosts 143 students in the third edition of the PFE Challenge 2026 and confirms its support for the culture of innovation - After the success of the first two editions, Orange Tunisia organized this year the third edition of the PFE Challenge, which is a challenge for graduation projects.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "بعد النجاح الذي حققته النسختان الأولى والثانية، نظّمت أورنج تونس هذه السنة النسخة الثالثة من تحدي مشاريع التخرج (PFE)، وهي…",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.73,
+            "evidence_density": 2.46
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Tunisie Catering launches the use of small electric vehicles manufactured by Bako Motors Tunisia - Tunisie Catering has announced the launch of a fleet of electric vehicles for the benefit of its employees, in a new step that reflects its commitment to environmental sustainability.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "في خطوة جديدة تعكس التزامها المتواصل بالاستدامة البيئية، أعلنت شركة Tunisie Catering عن إطلاق أسطول من السيارات الكهربائية لفائدة أعوانها،…",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.64,
+            "evidence_density": 2.03
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

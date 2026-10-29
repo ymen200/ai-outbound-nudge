@@ -1,0 +1,303 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 61,
+    "total_pages": 4
+  },
+  "news_articles": [
+    {
+      "id": "6a3d33c7b117430018c10592",
+      "url": "https://carbonherald.com/16-winners-will-share-the-nearly-30m-award-from-tencents-carbonx-2-0-program",
+      "domain": "carbonherald.com",
+      "title": "16 winners will share the nearly $30M award from Tencent's CarbonX 2.0 program.",
+      "snippet": "The announcement was made at a flagship event co-hosted with TED at the London Science Museum as part of the 2026 London Climate Action Week.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2026-06-24T14:54:55.000+00:00",
+      "event_categories": [
+        "attends_event"
+      ]
+    },
+    {
+      "id": "69dee4438be4b4001db5505c",
+      "url": "https://bizrapidx.com/business/ets-khan-academy-and-ted-announce-new-institute-to-reimagine-higher-education-for-the-ai-age",
+      "domain": "bizrapidx.com",
+      "title": "ETS, Khan Academy and TED announce new Institute to reimagine higher education for the AI age.",
+      "snippet": "VANCOUVER, BC, April 14, 2026 /PRNewswire/ - Today at the TED conference in Vancouver, the nonprofit organizations ETS, Khan Academy and TED will announce a joint plan to launch the Khan TED Institute, a new higher education collaboration designed for an AI-driven era.",
+      "organization_ids": [
+        "57c4f58ea6da986a4f4bf043",
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2026-04-14T15:31:06.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "69dee45544e76f0019555603",
+      "url": "https://bizrapidx.com/business/ets-khan-academy-and-ted-announce-new-institute-to-reimagine-higher-education-for-the-ai-age",
+      "domain": "bizrapidx.com",
+      "title": "ETS, Khan Academy and TED announce new Institute to reimagine higher education for the AI age.",
+      "snippet": "VANCOUVER, BC, April 14, 2026 /PRNewswire/ - Today at the TED conference in Vancouver, the nonprofit organizations ETS, Khan Academy and TED will announce a joint plan to launch the Khan TED Institute, a new higher education collaboration designed for an AI-driven era.",
+      "organization_ids": [
+        "6548172b9bae6f0001c085d5",
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2026-04-14T15:31:06.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "69d7bf7856d29f0011e6a991",
+      "url": "https://www.straitstimes.com/paid-press-releases/abilitie-ted-and-st-edwards-university-launch-12-week-mini-mba-20260408",
+      "domain": "straitstimes.com",
+      "title": "Abilitie, TED, and St. Edward's University launch 12-week mini-MBA.",
+      "snippet": "Abilitie, TED, and St. Edward's University launch 12-week mini-MBA.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2026-04-08T14:17:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "69d7c1ce9c3f940071648496",
+      "url": "https://www.lccm.ac.uk/blog/lccm-is-pleased-to-announce-our-first-ever-collaboration-with-tedx-taking-place-in-the-music-box-this-march",
+      "domain": "lccm.ac.uk",
+      "title": "Tedxlccm launches this March 2026.",
+      "snippet": "LCCM is pleased to announce its first ever collaboration with TEDx taking place in the Music Box this March.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2026-03-01T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "69b799f9622252001986c53a",
+      "url": "https://blog.ted.com/ted-the-lego-group-and-the-lego-foundation-partner-to-launch-playted",
+      "domain": "ted.com",
+      "title": "TED, the LEGO Group and the LEGO Foundation partner to launch Play@TED",
+      "snippet": "TED, the LEGO Group and the LEGO Foundation partner to launch Play@TED.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302",
+        "56d9c365f3e5bb0b71002670"
+      ],
+      "published_at": "2026-02-09T13:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "69b799bc9b74f10015c3da58",
+      "url": "https://blog.ted.com/ted-the-lego-group-and-the-lego-foundation-partner-to-launch-playted",
+      "domain": "ted.com",
+      "title": "TED, the LEGO Group and the LEGO Foundation partner to launch Play@TED",
+      "snippet": "TED, the LEGO Group and the LEGO Foundation partner to launch Play@TED.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2026-02-09T13:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "698b1bcc434095000d8e2289",
+      "url": "https://brickbrains.com/2026/02/lego-ted-partnership-launches",
+      "domain": "brickbrains.com",
+      "title": "LEGO TED Partnership Launches Play@TED to Spark a Global Play Movement",
+      "snippet": "The LEGO Group is teaming up with TED to make the case that play isn't just for kids - it's a catalyst for creativity, innovation, and real-world change.",
+      "organization_ids": [
+        "618236a81ffe0c00daeca23d",
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2026-02-09T10:30:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "697a8d0bd1e02b0019dfe70a",
+      "url": "https://www.legalreader.com/acc-foundation-and-ted-launch-partnership-to-bring-tedlaw-trainings-to-the-legal-profession",
+      "domain": "legalreader.com",
+      "title": "ACC Foundation and TED Launch Partnership to Bring TEDLaw Trainings to the Legal Profession",
+      "snippet": "Washington, D.C. - The ACC Foundation announced a new partnership with TED to launch TEDLaw trainings - a transformative professional development experience designed to help lawyers lead with insight, integrity, and impact in a rapidly evolving legal landscape.",
+      "organization_ids": [
+        "6318f9ea4324740001f21382",
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2026-01-28T19:50:12.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "683905c55019ef000daac8c9",
+      "url": "https://edtechturkiye.com/en/education-digital-age-ai-learning-engineering",
+      "domain": "edtechturkiye.com",
+      "title": "Education in the Digital Age",
+      "snippet": "The 6th International Education Forum by TED explored how AI, digital transformation, and learning engineering are reshaping education.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2025-05-27T13:03:28.000+00:00",
+      "event_categories": [
+        "attends_event"
+      ]
+    },
+    {
+      "id": "6700b219986a0501b0bf99db",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/docebo-partners-with-tedai-vienna-as-the-business-learning-partner-for-europes-inaugural-ai-conference",
+      "domain": "financialpost.com",
+      "title": "Docebo Partners with TEDAI Vienna as The Business Learning Partner for Europe's Inaugural AI Conference",
+      "snippet": "TORONTO - Docebo Inc. (Nasdaq:DCBO; TSX:DCBO) (\"Docebo\" or the \"Company\"), a global leader in AI-powered learning platforms, is proud to announce its partnership with TEDAI for the highly anticipated TEDAI Vienna event.",
+      "organization_ids": [
+        "54a1b7cd7468695c82a4750a",
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2024-10-02T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "665040a2631be2034898eb80",
+      "url": "https://blog.ted.com/announcing-ai-adapted-multilingual-ted-talks",
+      "domain": "ted.com",
+      "title": "Announcing AI-adapted multilingual TED Talks, unblocking language barriers",
+      "snippet": "By integrating generative AI, including voice-cloning and lip-syncing capabilities, in collaboration with Panjaya.ai and TED's global Translators community, TED has created the first AI-adapted TED Talks, delivered in multiple languages while preserving each speaker's unique voice and style.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302",
+        "64170f6bdf74b20001af04b3"
+      ],
+      "published_at": "2024-05-20T17:45:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6622589e33e6780301a0f76c",
+      "url": "https://blog.adobe.com/en/publish/2024/04/18/adobe-ted-explore-bold-future-creativity-gen-ai",
+      "domain": "adobe.com",
+      "title": "Adobe and TED explore the bold future of creativity and gen AI",
+      "snippet": "\"TED's collaboration with Adobe is designed to explore how we can harness the power of AI to propel design forward, and we're excited they're a part of this year's event.\"",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302",
+        "5569502d73696425e2230200"
+      ],
+      "published_at": "2024-04-18T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "65eaccf5286be8030070f4f5",
+      "url": "https://www.thecchl.ca/release-ted-ward-named-sam-pollock-recipient?utm_source=rss&utm_medium=rss&utm_campaign=release-ted-ward-named-sam-pollock-recipient",
+      "domain": "thecchl.ca",
+      "title": "Release | Ted Ward Named Sam Pollock Recipient",
+      "snippet": "Release | Ted Ward named Sam Pollock recipient.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2024-03-07T00:00:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "65c6039c5365af0456545ea0",
+      "url": "https://podnews.net/press-release/nzme-ted",
+      "domain": "podnews.net",
+      "title": "NZME secures exclusive partnership with TED",
+      "snippet": "NZME secures exclusive partnership with TED.",
+      "organization_ids": [
+        "5f415a378ceee900012b92ed",
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2024-02-09T06:07:14.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "65c6039c89d4f201c65beab5",
+      "url": "https://podnews.net/press-release/nzme-ted",
+      "domain": "podnews.net",
+      "title": "NZME secures exclusive partnership with TED",
+      "snippet": "NZME secures exclusive partnership with TED.",
+      "organization_ids": [
+        "5f415a378ceee900012b92ed",
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2024-02-09T06:07:14.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "65ac1a5fed2af20300609a8c",
+      "url": "https://www.bemidjipioneer.com/news/local/pixars-danielle-feinberg-to-speak-at-paul-bunyan-communications-techxpo-event",
+      "domain": "bemidjipioneer.com",
+      "title": "Pixar's Danielle Feinberg to speak at Paul Bunyan Communications' TechXpo event",
+      "snippet": "Her TED Talk,\n\"The magic ingredient that brings Pixar movies to life,\"\nwas named one of the top TED Talks of 2016.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2024-01-17T13:00:00.000+00:00",
+      "event_categories": [
+        "recognized_as"
+      ]
+    },
+    {
+      "id": "654c113369d915008bb78ea9",
+      "url": "https://www.todayinnewyork.com/article/665644514-efamilycare-renews-contract-to-provide-family-caregiver-support-to-molina-mycare-ohio-plan-members",
+      "domain": "todayinnewyork.com",
+      "title": "eFamilyCare Renews Contract to Provide Family Caregiver Support to Molina MyCare Ohio Plan Members",
+      "snippet": "LLC Globaltechexport is proud to continue its collaboration with Molina to support family caregivers of their members.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302",
+        "54a1342f69702d2db4406a00"
+      ],
+      "published_at": "2023-11-08T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "654c1133def56e00ba37d24c",
+      "url": "https://www.todayinnewyork.com/article/665644514-efamilycare-renews-contract-to-provide-family-caregiver-support-to-molina-mycare-ohio-plan-members",
+      "domain": "todayinnewyork.com",
+      "title": "eFamilyCare Renews Contract to Provide Family Caregiver Support to Molina MyCare Ohio Plan Members",
+      "snippet": "LLC Globaltechexport is proud to continue its collaboration with Molina to support family caregivers of their members.",
+      "organization_ids": [
+        "54a1215e69702d77c2eee302",
+        "54a1342f69702d2db4406a00"
+      ],
+      "published_at": "2023-11-08T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "654aadd333c1a900bae62288",
+      "url": "https://responsiblyrain.com/blogs/rain-water/rain-pure-mountain-spring-water-partners-with-tedwomen-2023",
+      "domain": "responsiblyrain.com",
+      "title": "RAIN Pure Mountain Spring Water Partners with TEDWomen 2023",
+      "snippet": "Responsibly RAIN is thrilled to announce another in-kind partnership with TED at the TEDWomen 2023 conference in Atlanta.",
+      "organization_ids": [
+        "5ed359c9df69ac0001ff6e7d",
+        "54a1215e69702d77c2eee302"
+      ],
+      "published_at": "2023-10-30T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    }
+  ]
+}

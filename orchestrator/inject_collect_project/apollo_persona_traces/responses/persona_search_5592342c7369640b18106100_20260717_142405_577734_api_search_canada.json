@@ -1,0 +1,51 @@
+{
+  "total_entries": 262,
+  "people": [
+    {
+      "id": "6336d7451bdb05000195774d",
+      "first_name": "Derek",
+      "last_name_obfuscated": "Ca***l",
+      "title": "Commercial Sales Account Executive",
+      "last_refreshed_at": "2026-06-20T06:31:11.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Canada Post / Postes Canada",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "57d41a60a6da9853967d5224",
+      "first_name": "Tom",
+      "last_name_obfuscated": "Pe***n",
+      "title": "Business Development, Commercial Services",
+      "last_refreshed_at": "2026-06-12T07:03:44.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Canada Post / Postes Canada",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 300,
+    "total_pages": 15
+  },
+  "news_articles": [
+    {
+      "id": "6a60bc8c3f5076001084d7e2",
+      "url": "https://vocolife.com/news/openai-ai-hacks-hugging-face-a-warning-shot-for-cybersecurity-697364",
+      "domain": "vocolife.com",
+      "title": "OpenAI AI hacks Hugging Face: A \"warning shot\" for cybersecurity.",
+      "snippet": "Hugging Face, an open-source AI platform, had previously announced a security incident involving an autonomous AI agent accessing internal datasets.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-22T04:02:16.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a604d85e17c640014b06132",
+      "url": "https://hackmag.com/news/hugging-face-hack",
+      "domain": "hackmag.com",
+      "title": "Hugging Face hacked using autonomous AI agents.",
+      "snippet": "Late last week, representatives of Hugging Face reported a breach of the platform's production infrastructure.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-22T03:00:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a60da31feb95d0014cb1f79",
+      "url": "https://www.khqa.com/news/nation-world/openai-says-its-ai-technology-acted-on-its-own-in-an-unprecedented-hack-of-another/article_7d9327b6-403d-57fa-8806-9b270e2be993.html",
+      "domain": "khqa.com",
+      "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company.",
+      "snippet": "AI startup Hugging Face said last week that it had detected an intrusion into its data processing systems that it suspected was caused by an AI agent autonomously acting on its own.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-21T23:44:09.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5f60cb311294000ca737c2",
+      "url": "https://www.tivi.fi/uutiset/a/3065d51e-08ad-4f91-ba56-6914eb067933?utm_source=rss",
+      "domain": "tivi.fi",
+      "title": "AI giant fell victim to a cyber attack - customers should act immediately.",
+      "snippet": "Machine learning company Hugging Face has fallen victim to a cyber attack, the company reports.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-21T07:02:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5f76b7250c1100101b5770",
+      "url": "https://www.cybersecurity-insiders.com/research-says-jadepuffer-ransomware-wipes-off-data-on-ai-model-infrastructure",
+      "domain": "cybersecurity-insiders.com",
+      "title": "Research says JadePuffer Ransomware wipes off data on AI Model Infrastructure.",
+      "snippet": "Separately, AI development platform Hugging Face recently disclosed an attempted agentic AI cyberattack targeting its environment.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-21T06:08:30.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5fff1431f7b7001bfbe0e6",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "domain": "openai.com",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation.",
+      "snippet": "OpenAI and Hugging Face partner to address security incident during model evaluation.",
+      "organization_ids": [
+        "69e2f750382b860001138801",
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-21T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a5f5dc7d56f260010b330d1",
+      "url": "https://x-end.solutions/blog/article/hugging-face-and-nvidia-unveil-cosmos-3-edge-for-efficient-ai-deployment",
+      "domain": "x-end.solutions",
+      "title": "Hugging Face and NVIDIA unveil Cosmos 3 Edge for efficient AI deployment.",
+      "snippet": "Hugging Face and NVIDIA have collaborated to introduce Cosmos 3 Edge, a new initiative designed to optimize large language model deployment on NVIDIA Jetson devices for edge computing.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-20T15:58:51.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5e41b142139e000c56f959",
+      "url": "https://www.itsecuritynews.info/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action",
+      "domain": "itsecuritynews.info",
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action.",
+      "snippet": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-20T13:06:23.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5e3b0f06559f0014a6d05e",
+      "url": "https://www.news4hackers.com/hugging-face-breach-autonomous-ai-attack-exposed",
+      "domain": "news4hackers.com",
+      "title": "Hugging Face breach: autonomous AI attack exposed.",
+      "snippet": "Hugging Face's data breach, caused by an AI-driven cyberattack, highlights critical vulnerabilities in AI infrastructure and the need for advanced security measures.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-20T10:02:25.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5e52c30b4a7800104f2567",
+      "url": "https://cybertechedition.com/articles/an-autonomous-ai-agent-not-a-person-ran-the-intrusion-at-hugging-face",
+      "domain": "cybertechedition.com",
+      "title": "An autonomous AI agent, not a person, ran the intrusion at Hugging Face.",
+      "snippet": "Hugging Face said the attacker introduced a malicious dataset that chained two separate vulnerabilities: a remote code execution path in a dataset loader, and a template injection flaw in dataset configuration.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-20T09:03:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5e15f14d49a3001cde7672",
+      "url": "https://vocolife.com/news/hugging-face-hacked-ai-agent-breaches-data-pipeline-531713",
+      "domain": "vocolife.com",
+      "title": "Hugging Face hacked: AI agent breaches data pipeline.",
+      "snippet": "Hugging Face hacked: AI agent breaches data pipeline.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-20T07:11:15.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5dd650a65f44001c1df43a",
+      "url": "https://www.drokio.com/blog/en/when-an-ai-trains-its-sights-on-ai-the-hugging-face-breach-by-an-autonomous-agen",
+      "domain": "drokio.com",
+      "title": "When an AI trains its sights on AI: the Hugging Face breach by an autonomous agent.",
+      "snippet": "As reported by The Hacker News (thehackernews.com), Hugging Face disclosed a security incident in which an autonomous AI agent system gained unauthorized access to its production infrastructure.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-20T06:45:01.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5e8b7c2e75bd00107cc68f",
+      "url": "https://www.itjockies.com/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action",
+      "domain": "itjockies.com",
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action.",
+      "snippet": "In a blog post, the company said a dataset uploaded to its platform abused a security vulnerability to run malicious code on its servers, allowing the attackers to escalate their permissions and gain broader access to Hugging Face's internal systems.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-20T00:00:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5d9d169c2a57001cf0e1f1",
+      "url": "https://gritsa.com/blog/2026/07/19/agentic-ai-goes-mainstream-new-models-tools-security",
+      "domain": "gritsa.com",
+      "title": "Agentic AI goes mainstream: new models, tools, security.",
+      "snippet": "Hugging Face disclosed a security breach where an autonomous AI agent infiltrated part of its production infrastructure, exfiltrating credentials and internal datasets.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-19T00:00:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5f8b2cdda27f0014d801f5",
+      "url": "https://dpca.co.za/2026/07/18/hugging-face-says-autonomous-ai-system-executed-multi-stage-cyberattack",
+      "domain": "dpca.co.za",
+      "title": "Hugging Face says autonomous AI system executed multi-stage cyberattack.",
+      "snippet": "Hugging Face says an autonomous AI agent carried out a cyberattack against its production systems, highlighting the growing role of AI in offensive and defensive cybersecurity.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-18T20:30:32.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5cbdebac96e000204c7d38",
+      "url": "https://www.stefanosalvucci.com/en/blog/fine-tune-video-image-models-nvidia-nemo-automodel-diffusers",
+      "domain": "stefanosalvucci.com",
+      "title": "NVIDIA NeMo Automodel joins diffusers for scalable fine-tuning.",
+      "snippet": "NVIDIA and Hugging Face release joint training support.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-18T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5b6d563b65170014b07971",
+      "url": "https://www.techrepublic.com/article/news-hugging-face-ai-agent-cyberattack-production-systems",
+      "domain": "techrepublic.com",
+      "title": "Hugging Face says autonomous AI system executed multi-stage cyberattack.",
+      "snippet": "Hugging Face says it contained a high-velocity cyberattack on its production infrastructure carried out by a fully autonomous AI agent targeting AI supply chain systems.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-17T13:22:05.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a5a92c3b566ab0010568ab6",
+      "url": "https://x-end.solutions/blog/article/hugging-face-introduces-expanded-inference-options-for-advanced-models",
+      "domain": "x-end.solutions",
+      "title": "Hugging Face introduces expanded inference options for advanced models.",
+      "snippet": "Hugging Face introduces expanded inference options for advanced models.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-16T11:49:48.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5c54682c731d0014fafef9",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "domain": "huggingface.co",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI.",
+      "snippet": "To measure those qualities, Hugging Face built Real World VoiceEQ - a benchmark designed to evaluate the human quality of voice interaction.",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-15T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5155d3afd91002e9f71752",
+      "url": "https://x-end.solutions/blog/article/hugging-face-introduces-open-source-data-for-ai-agent-development",
+      "domain": "x-end.solutions",
+      "title": "Hugging Face introduces open-source data for AI agent development.",
+      "snippet": "A significant step towards standardizing and accelerating AI agent development has been taken by Hugging Face with the introduction of \"Data for Agents.\"",
+      "organization_ids": [
+        "5f48095e1924bc0001d03995"
+      ],
+      "published_at": "2026-07-08T17:16:05.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    }
+  ]
+}

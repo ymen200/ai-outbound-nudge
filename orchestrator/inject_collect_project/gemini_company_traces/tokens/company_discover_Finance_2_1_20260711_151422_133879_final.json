@@ -1,0 +1,158 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 6,
+    "successful_calls": 6,
+    "failed_calls": 0,
+    "prompt_tokens": 29543,
+    "candidates_tokens": 3086,
+    "thoughts_tokens": 2625,
+    "cached_content_tokens": 0,
+    "total_tokens": 35254,
+    "by_model": {
+      "gemini-3.1-flash-lite-preview": {
+        "calls": 3,
+        "total_tokens": 5321,
+        "prompt_tokens": 5245,
+        "candidates_tokens": 76
+      },
+      "gemini-3-flash-preview": {
+        "calls": 3,
+        "total_tokens": 29933,
+        "prompt_tokens": 24298,
+        "candidates_tokens": 3010
+      }
+    },
+    "by_operation": {
+      "browser_config": {
+        "calls": 1,
+        "total_tokens": 151,
+        "prompt_tokens": 125,
+        "candidates_tokens": 26
+      },
+      "extract_apollo": {
+        "calls": 2,
+        "total_tokens": 23441,
+        "prompt_tokens": 18676,
+        "candidates_tokens": 2827
+      },
+      "navigation": {
+        "calls": 2,
+        "total_tokens": 5170,
+        "prompt_tokens": 5120,
+        "candidates_tokens": 50
+      },
+      "post_process": {
+        "calls": 1,
+        "total_tokens": 6492,
+        "prompt_tokens": 5622,
+        "candidates_tokens": 183
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-11T15:12:34.438875",
+        "prompt_token_count": 125,
+        "candidates_token_count": 26,
+        "total_token_count": 151,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-11T15:13:26.861258",
+        "prompt_token_count": 6486,
+        "candidates_token_count": 1522,
+        "total_token_count": 9266,
+        "thoughts_token_count": 1258,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-11T15:13:27.494316",
+        "prompt_token_count": 2562,
+        "candidates_token_count": 49,
+        "total_token_count": 2611,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-11T15:13:53.524581",
+        "prompt_token_count": 12190,
+        "candidates_token_count": 1305,
+        "total_token_count": 14175,
+        "thoughts_token_count": 680,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-11T15:13:54.225592",
+        "prompt_token_count": 2558,
+        "candidates_token_count": 1,
+        "total_token_count": 2559,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-11T15:14:08.478252",
+        "prompt_token_count": 5622,
+        "candidates_token_count": 183,
+        "total_token_count": 6492,
+        "thoughts_token_count": 687,
+        "cached_content_token_count": 0
+      }
+    ],
+    "companies_scraped_attempted": 1,
+    "companies_scraped_succeeded": 1,
+    "industries": [
+      "Finance"
+    ],
+    "locations": [
+      "Switzerland"
+    ]
+  }
+}

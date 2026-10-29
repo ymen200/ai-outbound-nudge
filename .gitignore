@@ -1,0 +1,69 @@
+# =============================================================================
+# Personal / internship docs — DO NOT publish on GitHub
+# =============================================================================
+journal_de_stage.md
+PREPARATION_ENTRETIEN_ADDVOCATE.md
+rapport_stage_unifie.tex
+rapport_stage_unifie_backup.tex
+GUIDE_GITHUB.md
+*.tex
+CV_*.docx
+CV_*.pdf
+orchestrator/.git_addvocate_backup/
+
+# =============================================================================
+# Secrets & local env
+# =============================================================================
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# =============================================================================
+# Python
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+**/venv/
+**/.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.db
+*.db-shm
+*.db-wal
+
+# =============================================================================
+# Runtime / generated data (large or sensitive)
+# =============================================================================
+**/scraped_data/
+**/logs/
+**/*.log
+**/data/*.db
+**/usage_reports/
+orchestrator/nudge-global-orchestrator/data/
+
+# =============================================================================
+# IDE / OS
+# =============================================================================
+.idea/
+.vscode/
+.junie/
+.DS_Store
+Thumbs.db
+*.swp
+*~

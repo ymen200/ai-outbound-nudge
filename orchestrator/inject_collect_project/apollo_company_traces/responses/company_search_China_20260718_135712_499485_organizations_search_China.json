@@ -1,0 +1,227 @@
+{
+  "breadcrumbs": [
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "1-10",
+      "display_name": "≥ 1-10"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "11-50",
+      "display_name": "≥ 11-50"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "51-200",
+      "display_name": "≥ 51-200"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "201-500",
+      "display_name": "≥ 201-500"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "501-1000",
+      "display_name": "≥ 501-1000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "1001-5000",
+      "display_name": "≥ 1001-5000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "5001-10000",
+      "display_name": "≥ 5001-10000"
+    },
+    {
+      "label": "# Employees",
+      "signal_field_name": "organization_num_employees_ranges",
+      "value": "10001+",
+      "display_name": "≥ 10001+"
+    },
+    {
+      "label": "Company Locations",
+      "signal_field_name": "organization_locations",
+      "value": "China",
+      "display_name": "China"
+    },
+    {
+      "label": "Company Keywords Contain ANY Of",
+      "signal_field_name": "q_organization_keyword_tags",
+      "value": "Oil Production",
+      "display_name": "Oil Production"
+    }
+  ],
+  "partial_results_only": false,
+  "has_join": false,
+  "disable_eu_prospecting": false,
+  "partial_results_limit": 10000,
+  "pagination": {
+    "page": 1,
+    "per_page": 10,
+    "total_entries": 1,
+    "total_pages": 1
+  },
+  "num_fetch_result": null,
+  "model_ids": [
+    "54a122ed69702da10fdf2c03"
+  ],
+  "organizations": [
+    {
+      "id": "54a122ed69702da10fdf2c03",
+      "name": "PetroChina",
+      "website_url": "http://www.petrochinaintl.co.uk",
+      "angellist_url": null,
+      "linkedin_url": "http://www.linkedin.com/company/petrochina",
+      "twitter_url": null,
+      "facebook_url": null,
+      "primary_phone": {
+        "number": "+86 10 5998 2622",
+        "source": "Account",
+        "sanitized_number": "+861059982622"
+      },
+      "languages": [
+        "English"
+      ],
+      "alexa_ranking": null,
+      "phone": "+86 10 5998 2622",
+      "linkedin_uid": "93615",
+      "founded_year": null,
+      "publicly_traded_symbol": null,
+      "publicly_traded_exchange": null,
+      "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/63edac0a998f12000100b12d/picture",
+      "crunchbase_url": null,
+      "primary_domain": "petrochinaintl.co.uk",
+      "sic_codes": [
+        "1311",
+        "2911",
+        "5171"
+      ],
+      "naics_codes": [
+        "211120",
+        "324110",
+        "424720"
+      ],
+      "sanitized_phone": "+861059982622",
+      "industry": "oil & energy",
+      "estimated_num_employees": 363000,
+      "keywords": [
+        "energy supply chain management",
+        "gas trading",
+        "retail",
+        "wind energy",
+        "natural gas distribution",
+        "oil and gas markets",
+        "crude petroleum extraction",
+        "upstream operations",
+        "oil and gas production technology",
+        "oil and gas market china",
+        "renewable energy",
+        "international operations",
+        "digital transformation in energy",
+        "oil and gas reserves",
+        "downstream operations",
+        "oil reserves",
+        "trading and logistics",
+        "refining and marketing of petroleum products",
+        "oil and gas assets",
+        "oil and gas refining technology",
+        "oil and gas development",
+        "petroleum products",
+        "renewable energy investments",
+        "oil and gas industry china",
+        "oil and gas reserves management",
+        "petrochemicals",
+        "energy infrastructure",
+        "b2b",
+        "energy partnerships",
+        "oil and gas trading europe",
+        "energy supply chain",
+        "oil and gas infrastructure",
+        "oil and gas production",
+        "energy innovation",
+        "oil and gas supply chain",
+        "oil and gas fields",
+        "oil and gas industry",
+        "oil trading",
+        "oil and gas company china",
+        "refining and marketing",
+        "exploration and production",
+        "global trading network",
+        "energy company",
+        "energy trading",
+        "oil and gas extraction",
+        "international energy markets",
+        "natural gas reserves",
+        "digital transformation",
+        "lng trading",
+        "oil and gas joint ventures",
+        "innovation",
+        "services",
+        "crude oil",
+        "solar power",
+        "oil and gas international trade",
+        "strategic partnerships",
+        "oil production",
+        "renewable energy projects",
+        "oil reserves in china",
+        "production",
+        "lng",
+        "oil and gas exploration",
+        "natural gas",
+        "oil and gas logistics",
+        "government",
+        "oil and gas",
+        "oil and gas technology",
+        "oil and gas exploration technology",
+        "energy efficiency",
+        "finance",
+        "manufacturing",
+        "distribution",
+        "energy & utilities",
+        "b2c",
+        "oil & energy",
+        "clean energy & technology",
+        "environmental services",
+        "renewables & environment",
+        "financial services",
+        "mechanical or industrial engineering"
+      ],
+      "organization_revenue_printed": "14.9B",
+      "organization_revenue": 14878485000.0,
+      "industries": [
+        "oil & energy"
+      ],
+      "secondary_industries": [],
+      "snippets_loaded": true,
+      "industry_tag_id": "5567cdd97369645624020000",
+      "industry_tag_hash": {
+        "oil & energy": "5567cdd97369645624020000"
+      },
+      "retail_location_count": 0,
+      "raw_address": "no. 9, beijing, china",
+      "street_address": "",
+      "city": "Beijing",
+      "state": "Beijing Shi",
+      "country": "China",
+      "postal_code": null,
+      "num_languages": 1,
+      "intent_strength": null,
+      "show_intent": false,
+      "has_intent_signal_account": false,
+      "intent_signal_account": null,
+      "organization_headcount_six_month_growth": null,
+      "organization_headcount_twelve_month_growth": null,
+      "organization_headcount_twenty_four_month_growth": null
+    }
+  ]
+}

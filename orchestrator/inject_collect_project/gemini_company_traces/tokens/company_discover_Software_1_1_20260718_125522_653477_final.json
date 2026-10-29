@@ -1,0 +1,41 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 0,
+    "successful_calls": 0,
+    "failed_calls": 0,
+    "prompt_tokens": 0,
+    "candidates_tokens": 0,
+    "thoughts_tokens": 0,
+    "cached_content_tokens": 0,
+    "total_tokens": 0,
+    "by_model": {},
+    "by_operation": {},
+    "calls_detail": [],
+    "companies_scraped_attempted": 0,
+    "companies_scraped_succeeded": 0,
+    "industries": [
+      "Software"
+    ],
+    "locations": [
+      "Morocco"
+    ]
+  }
+}

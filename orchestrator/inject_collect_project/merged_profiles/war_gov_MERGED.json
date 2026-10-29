@@ -1,0 +1,230 @@
+{
+    "annual_revenue": 841400000000,
+    "apollo_id": "5e58f0e50aaa81008defbc2e",
+    "city": "Washington",
+    "country": "United States",
+    "departments": {
+        "finance": 2440,
+        "engineering": 3685,
+        "business_development": 348,
+        "administrative": 822,
+        "operations": 2498,
+        "support": 755,
+        "information_technology": 3497,
+        "media_and_commmunication": 356,
+        "consulting": 545,
+        "human_resources": 1637,
+        "accounting": 358,
+        "education": 267,
+        "data_science": 267,
+        "legal": 493,
+        "product_management": 52,
+        "arts_and_design": 159,
+        "sales": 74,
+        "marketing": 136,
+        "entrepreneurship": 9
+    },
+    "domain": "war.gov",
+    "estimated_num_employees": "2,860,000",
+    "facebook_url": "https://facebook.com/military.1source",
+    "founded_year": "1947",
+    "funding_events": [],
+    "industry": "Government Administration / Defense",
+    "keywords": [
+        "governments",
+        "politics",
+        "defense",
+        "enterprise software",
+        "software",
+        "information technology",
+        "armed forces",
+        "enterprises",
+        "computer software",
+        "information technology & services",
+        "b2b",
+        "military",
+        "National Security",
+        "United States Armed Forces",
+        "Pentagon",
+        "Military Operations"
+    ],
+    "latest_funding_stage": "Government / Sovereign",
+    "linkedin_url": "http://www.linkedin.com/company/deptofwar",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b11cdea3b40d0001bd62c2/picture",
+    "name": "U.S. Department of Defense (Pentagon)",
+    "num_suborganizations": "5",
+    "phone": "+1 703-697-5131",
+    "postal_code": "20032",
+    "raw_address": "Defense Blvd SW, Washington, DC 20301, United States",
+    "seo_description": null,
+    "short_description": "The Department of Defense is responsible for providing the military forces needed to deter war and protect the security of the United States.",
+    "state": "District of Columbia",
+    "street_address": "Defense Blvd SW",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "U.S. Army",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "U.S. Navy",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "U.S. Air Force",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "U.S. Marine Corps",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "U.S. Space Force",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "National Security Agency (NSA)",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Defense Intelligence Agency (DIA)",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "akamai",
+            "name": "Akamai",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "akamai_cdn_solutions",
+            "name": "Akamai CDN Solutions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "akamai_dns",
+            "name": "Akamai DNS",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "akamai_edge_dns",
+            "name": "Akamai Edge DNS",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "bootstrap_framework",
+            "name": "Bootstrap Framework",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "dotnetnuke",
+            "name": "DotNetNuke",
+            "category": "CMS"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_widget",
+            "name": "Facebook Widget",
+            "category": "Widgets"
+        },
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "google_apps",
+            "name": "Google Apps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_cloud_dns",
+            "name": "Google Cloud DNS",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "micro",
+            "name": "Micro",
+            "category": "Other"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "webflow",
+            "name": "Webflow",
+            "category": "CMS"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "edgesuite",
+            "name": "EdgeSuite",
+            "category": "Traffic Management"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/military1source",
+    "website_url": "http://www.war.gov",
+    "fiscal_year_end": "September",
+    "is_subsidiary": true,
+    "parent_company": "United States Federal Government",
+    "competitors": [
+        "Ministry of National Defense of the People's Republic of China",
+        "Ministry of Defence of the Russian Federation",
+        "Ministry of Defence of the United Kingdom",
+        "Ministry of the Armed Forces of France"
+    ],
+    "data_quality_score": 0.97
+}

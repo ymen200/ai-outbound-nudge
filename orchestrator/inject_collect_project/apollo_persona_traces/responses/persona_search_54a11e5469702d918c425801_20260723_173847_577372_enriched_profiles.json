@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6169154d33c2d10001933eec",
+    "first_name": "Gail",
+    "last_name": "Coates",
+    "name": "Gail Coates",
+    "linkedin_url": "http://www.linkedin.com/in/gail-coates-210192126",
+    "title": "Head of Sales",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Head of Sales at Aruba, a Hewlett Packard Enterprise company",
+    "organization_id": "54a11e5469702d918c425801",
+    "employment_history": [
+      {
+        "_id": "6a2bea783f43420001eca80d",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a11e5469702d918c425801",
+        "organization_name": "Aruba, a Hewlett Packard Enterprise company",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Head of Sales",
+        "updated_at": null,
+        "id": "6a2bea783f43420001eca80d",
+        "key": "6a2bea783f43420001eca80d"
+      }
+    ],
+    "street_address": "Lincoln Ave",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "country": "United States",
+    "postal_code": "63113",
+    "formatted_address": null,
+    "time_zone": "America/Chicago",
+    "email": null,
+    "email_status": "unavailable",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "sales"
+    ],
+    "seniority": "head",
+    "functions": [
+      "sales"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "has_email": false,
+    "has_phone": false,
+    "mail_pro": false,
+    "source": "Apollo"
+  }
+]

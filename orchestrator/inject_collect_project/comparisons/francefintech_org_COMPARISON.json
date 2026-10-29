@@ -1,0 +1,454 @@
+{
+    "domain": "francefintech.org",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "France FinTech",
+                "ai": "France FinTech"
+            },
+            "domain": {
+                "apollo": "francefintech.org",
+                "ai": "francefintech.org"
+            },
+            "industry": {
+                "apollo": "information technology & services",
+                "ai": "Association du Secteur Fintech"
+            },
+            "founded_year": {
+                "apollo": 2015,
+                "ai": null
+            },
+            "short_description": {
+                "apollo": "France FinTech is a nonprofit professional association established in 2015, dedicated to uniting and representing French fintech, insurtech, and regtech entrepreneurs. Based in Paris, it aims to promote excellence in the financial services sector both in France and internationally. The association serves as a voice for financial innovation, advocating for its members with public authorities and regulators.\n\nFrance FinTech fosters connections among startups, technological companies, venture capitalists, law and consulting firms, banks, and insurers. It organizes significant industry events, such as the French FinTech Week, and manages initiatives like FinTech R:Evolution. The association categorizes its members into eight specific fintech families based on their operational and technological models and publishes annual reports analyzing sector trends. Through these efforts, France FinTech supports its members in developing innovative solutions that leverage advanced technologies like AI, blockchain, and data science.",
+                "ai": "France FinTech est l'association qui rassemble et accompagne la croissance de tous les acteurs du secteur de la fintech française à travers des rendez-vous, publications et initiatives stratégiques."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Là où la fintech se rassemble et grandit. France FinTech est la maison commune de tous les acteurs du secteur."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_num_employees": {
+                "apollo": 33,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/francefintech",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "https://twitter.com/francefintech",
+                "ai": "https://twitter.com/FranceFintech"
+            },
+            "facebook_url": {
+                "apollo": "https://facebook.com/francefintech",
+                "ai": null
+            },
+            "phone": {
+                "apollo": "Non renseigné",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "14, Place Léon Deubel, Paris, Île-de-France 75016, FR",
+                "ai": "14 Place Leon Deubel, Paris, France"
+            },
+            "city": {
+                "apollo": "Paris",
+                "ai": "Paris"
+            },
+            "country": {
+                "apollo": "France",
+                "ai": "France"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": null
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "fintech",
+                    "blockchain",
+                    "ai",
+                    "finance",
+                    "ico",
+                    "innovation",
+                    "payment",
+                    "technology",
+                    "cryptocurrency",
+                    "lending",
+                    "crowdfunding",
+                    "roboadvisors",
+                    "ais",
+                    "insurtech",
+                    "insurance",
+                    "factoring business",
+                    "asset wealth management",
+                    "fundraising",
+                    "funding",
+                    "corporate solutions",
+                    "regtech",
+                    "compliance",
+                    "aml",
+                    "open banking",
+                    "api",
+                    "cryptoactifs",
+                    "proptech",
+                    "banking",
+                    "pfm",
+                    "regulotory",
+                    "bank",
+                    "assurance",
+                    "assurtech",
+                    "banque",
+                    "core banking",
+                    "cash",
+                    "technology, information & internet",
+                    "services",
+                    "fintech ecosystem development",
+                    "fintech development",
+                    "fintech international expansion",
+                    "ai-driven financial tools",
+                    "asset management",
+                    "fintech startups",
+                    "data analytics",
+                    "fintech international",
+                    "fintech growth",
+                    "machine learning",
+                    "health insurance",
+                    "regulation advocacy",
+                    "fintech innovation",
+                    "fintech market",
+                    "fintech industry",
+                    "payment solutions",
+                    "investment",
+                    "payments",
+                    "regulatory technology",
+                    "ai in finance",
+                    "risk management",
+                    "venture capital",
+                    "fintech ecosystem france",
+                    "fintech customer base",
+                    "blockchain solutions",
+                    "financial regulation",
+                    "digital assets",
+                    "fintech hub",
+                    "fintech funding",
+                    "fintech advocacy",
+                    "growth",
+                    "b2b",
+                    "financial innovation",
+                    "digital transformation",
+                    "fintech policy",
+                    "fintech regulation",
+                    "fintech community",
+                    "digital payments",
+                    "smart contracts",
+                    "digital banking",
+                    "fintech reports",
+                    "fintech unicorns",
+                    "payment processing",
+                    "regulatory support",
+                    "fintech regulation support",
+                    "big data",
+                    "financial planning",
+                    "insurance technology",
+                    "iot",
+                    "fintech events",
+                    "fintech ecosystem",
+                    "fintech platform",
+                    "fintech associations",
+                    "fintech partners",
+                    "financial services",
+                    "tokenization",
+                    "fintech scaleups",
+                    "fintech companies",
+                    "fintech verticals",
+                    "fintech industry leaders",
+                    "asset management technology",
+                    "fintech digital tools",
+                    "fintech services",
+                    "fintech collaboration",
+                    "fintech sector",
+                    "fintech support",
+                    "government",
+                    "sustainability",
+                    "financial technology",
+                    "securities and commodity contracts intermediation and brokerage",
+                    "fintech solutions",
+                    "fintech products",
+                    "fintech sector france",
+                    "digital finance",
+                    "banking innovation",
+                    "financial accessibility",
+                    "credit solutions",
+                    "alternative financing",
+                    "financial literacy",
+                    "financial regulations",
+                    "b2c services",
+                    "b2b services",
+                    "inclusive finance",
+                    "financial platforms",
+                    "technology partnerships",
+                    "financial inclusion",
+                    "sustainable finance",
+                    "green technology",
+                    "financial reports",
+                    "market analysis",
+                    "industry insights",
+                    "financial events",
+                    "educational initiatives",
+                    "community engagement",
+                    "networking opportunities",
+                    "seed funding",
+                    "financial middleware",
+                    "asset liquidity",
+                    "innovation strategies",
+                    "b2c",
+                    "e-commerce",
+                    "non-profit",
+                    "finance technology",
+                    "information technology & services",
+                    "social fundraising",
+                    "social media",
+                    "consumer internet",
+                    "consumers",
+                    "internet",
+                    "fund-raising",
+                    "artificial intelligence",
+                    "enterprise software",
+                    "enterprises",
+                    "computer software",
+                    "environmental services",
+                    "renewables & environment",
+                    "nonprofit organization management"
+                ],
+                "ai": "fintech, association, secteur financier, innovation, événements, publications, levées de fonds, écosystème, transformation numérique, finance numérique, technologie financière, French FinTech Weeks"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "ai",
+                        "name": "AI",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "bootstrap_framework",
+                        "name": "Bootstrap Framework",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "circle",
+                        "name": "Circle",
+                        "category": "Financial Software"
+                    },
+                    {
+                        "uid": "gmail",
+                        "name": "Gmail",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "google_apps",
+                        "name": "Google Apps",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "google_cloud_hosting",
+                        "name": "Google Cloud Hosting",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "google_font_api",
+                        "name": "Google Font API",
+                        "category": "Fonts"
+                    },
+                    {
+                        "uid": "google_tag_manager",
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "hubspot",
+                        "name": "Hubspot",
+                        "category": "Marketing Automation"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "nginx",
+                        "name": "Nginx",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "wordpress_org",
+                        "name": "WordPress.org",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "youtube",
+                        "name": "YouTube",
+                        "category": "Online Video Platforms"
+                    },
+                    {
+                        "uid": "recaptcha",
+                        "name": "reCAPTCHA",
+                        "category": "Captcha"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "WordPress",
+                        "category": "CMS",
+                        "confidence": 0.99,
+                        "source": "link: <https://francefintech.org/wp-json/>; rel=\"https://api.w.org/\" ; PRÉFIXES CSS DÉTECTÉS: wp-* ; MATCHES REGEX CLASSIQUES: WordPress",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.87,
+                            "evidence_density": 0.07
+                        }
+                    },
+                    {
+                        "name": "Nginx",
+                        "category": "Serveur Web",
+                        "confidence": 0.95,
+                        "source": "server: nginx",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.39,
+                            "evidence_density": 0.38
+                        }
+                    },
+                    {
+                        "name": "jQuery",
+                        "category": "Bibliothèque JavaScript",
+                        "confidence": 0.9,
+                        "source": "SCRIPTS EXTERNES CHARGÉS: code.jquery.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.64,
+                            "evidence_density": 0.15
+                        }
+                    },
+                    {
+                        "name": "Google Analytics",
+                        "category": "Analyse Web",
+                        "confidence": 0.99,
+                        "source": "SCRIPTS EXTERNES CHARGÉS: www.google-analytics.com ; MATCHES REGEX CLASSIQUES: Google Analytics",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.7,
+                            "evidence_density": 0.17
+                        }
+                    },
+                    {
+                        "name": "Google Tag Manager",
+                        "category": "Gestion de Tags",
+                        "confidence": 0.99,
+                        "source": "SCRIPTS EXTERNES CHARGÉS: www.googletagmanager.com ; MATCHES REGEX CLASSIQUES: Google Tag Manager",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.68,
+                            "evidence_density": 0.19
+                        }
+                    },
+                    {
+                        "name": "Cloudflare CDN",
+                        "category": "CDN",
+                        "confidence": 0.85,
+                        "source": "SCRIPTS EXTERNES CHARGÉS: cdnjs.cloudflare.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.48,
+                            "evidence_density": 0.3
+                        }
+                    },
+                    {
+                        "name": "jsDelivr CDN",
+                        "category": "CDN",
+                        "confidence": 0.85,
+                        "source": "SCRIPTS EXTERNES CHARGÉS: cdn.jsdelivr.net",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.52,
+                            "evidence_density": 0.29
+                        }
+                    },
+                    {
+                        "name": "Yoast SEO",
+                        "category": "SEO Plugin",
+                        "confidence": 0.9,
+                        "source": "PRÉFIXES CSS DÉTECTÉS: yoast-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.64,
+                            "evidence_density": 0.3
+                        }
+                    },
+                    {
+                        "name": "Elegant Themes (Divi Builder)",
+                        "category": "Thème/Constructeur de Page WordPress",
+                        "confidence": 0.85,
+                        "source": "PRÉFIXES CSS DÉTECTÉS: et-*, et_pb_row_3-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.65,
+                            "evidence_density": 0.69
+                        }
+                    },
+                    {
+                        "name": "The Events Calendar (Tribe Events)",
+                        "category": "Plugin d'événements WordPress",
+                        "confidence": 0.85,
+                        "source": "PRÉFIXES CSS DÉTECTÉS: tribe-*, tec-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.48,
+                            "evidence_density": 0.92
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [],
+                "ai": []
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "France Digitale",
+                    "Finance Innovation",
+                    "ADAN (Association pour le Développement des Actifs Numériques)",
+                    "Insurtech France",
+                    "European Digital Finance Association (EDFA)"
+                ]
+            }
+        }
+    }
+}

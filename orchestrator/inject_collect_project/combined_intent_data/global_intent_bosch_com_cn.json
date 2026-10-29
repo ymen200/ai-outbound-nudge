@@ -1,0 +1,109 @@
+[
+    {
+        "id": "6a52c3b8f18de80010834c5a",
+        "url": "https://www.upi.com/Top_News/US/2026/06/18/Bosch-pays-export-fine/5371781769505",
+        "domain": "upi.com",
+        "title": "Bosch agrees to pay $36M as DOJ declines prosecution in export case.",
+        "snippet": "June 18 (UPI) - German engineering and technology firm Bosch has agreed to pay a $36 million fine to resolve federal allegations that it exported restricted products and software to China's Huawei.",
+        "organization_ids": [
+            "5d359d13a3ae61dbad9e7dc0"
+        ],
+        "published_at": "2026-06-18T08:42:23.000+00:00",
+        "event_categories": [
+            "has_issues_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a06df0f392458000d6fa2aa",
+        "url": "https://autonews.gasgoo.com/articles/market-industry/gasgoo-express-bosch-china-and-spirit-ai-reach-strategic-partnership-report-geely-to-acquire-ford-spain-plant-production-line-2052377697945276416",
+        "domain": "gasgoo.com",
+        "title": "[Gasgoo express] Bosch China and Spirit AI reach strategic partnership; report: Geely to acquire Ford Spain plant production line.",
+        "snippet": "* Gasgoo: On May 6, as embodied intelligence accelerates toward large-scale deployment, Spirit AI and Bosch China officially signed a strategic partnership agreement.",
+        "organization_ids": [
+            "5fc97f58684f7800013f3dba",
+            "5d359d13a3ae61dbad9e7dc0"
+        ],
+        "published_at": "2026-05-07T21:18:52.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a04d1446fcd3900157bc92a",
+        "url": "https://equalocean.com/news/2026050621869",
+        "domain": "equalocean.com",
+        "title": "Spirit AI (千寻智能) and Bosch China (博世中国) sign strategic cooperation agreement to accelerate large-scale implementation of embodied intelligence.",
+        "snippet": "On May 6, Spirit AI (千寻智能), a leading domestic embodied intelligence company, and Bosch China (博世中国), the global technology and services giant, officially signed a strategic cooperation agreement.",
+        "organization_ids": [
+            "69953bfacd2e150001e8db89",
+            "5d359d13a3ae61dbad9e7dc0"
+        ],
+        "published_at": "2026-05-06T03:43:00.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Join Bosch",
+        "location": "China",
+        "department": "Not specified",
+        "date": "Not specified",
+        "confidence": 0.7,
+        "source": "加入博世",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.7,
+            "evidence_density": 2.5
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "2026 Bosch Connected World Conference: Advancing Automation and Robotics Innovation",
+        "date": "06-11-2026",
+        "news_type": "Conference",
+        "confidence": 0.9,
+        "source": "2026博世互联世界大会（BCW）: 传感器到系统解决方案，博世持续推进自动化与机器人技术创新",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.76,
+            "evidence_density": 1.77
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Bosch Partners with Tsinghua University",
+        "date": "04-25-2026",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "博世与清华大学合作签约",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.8,
+            "evidence_density": 3.55
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "2026 Beijing Auto Show",
+        "date": "04-24-2026",
+        "news_type": "Event",
+        "confidence": 0.8,
+        "source": "2026北京车展",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.53,
+            "evidence_density": 2.75
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

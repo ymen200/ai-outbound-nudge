@@ -1,0 +1,295 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 58,
+    "total_pages": 3
+  },
+  "news_articles": [
+    {
+      "id": "6a15f9de3a822f00181ad07c",
+      "url": "https://www.techwithafrica.com/2026/05/26/telecom-egypt-and-huawei-launch-new-fttr-broadband-service-for-faster-home-internet",
+      "domain": "techwithafrica.com",
+      "title": "Telecom Egypt and Huawei launch new FTTR broadband service for faster home internet.",
+      "snippet": "Telecom Egypt, operating under the WE brand, has partnered with Huawei to launch a new Fiber-to-the-Room (FTTR) broadband service in Egypt, introducing a next-generation home internet solution designed to improve speed, stability, and wireless coverage across homes.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2026-05-26T06:52:31.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "68dd4e0d16d6ef001dfb84f3",
+      "url": "https://www.businesstodayegypt.com/Article/4/6765/Telecom-Egypt-might-be-eyeing-tower-asset-merger-amid-leadership",
+      "domain": "businesstodayegypt.com",
+      "title": "Telecom Egypt might be eyeing tower asset merger amid leadership reshuffle",
+      "snippet": "In a related development, Telecom Egypt recently appointed Tamer El Mahdi as its new Managing Director and Chief Executive Officer (CEO), following the resignation of Mohamed Nasr from both his executive post and his board seat.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2025-10-01T15:15:50.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6893bb05004d080011266514",
+      "url": "https://techafricanews.com/2025/07/10/telecom-egypt-signs-mou-with-karexpert-to-launch-national-digital-healthcare-platform",
+      "domain": "techafricanews.com",
+      "title": "Telecom Egypt Signs MoU with KareXpert to Launch National Digital Healthcare Platform",
+      "snippet": "Telecom Egypt signed a Memorandum of Understanding with KareXpert, a leading healthcare technology company powered by artificial intelligence assistant, to launch a comprehensive digital healthcare platform managed through a secure national cloud hosted within Egypt.",
+      "organization_ids": [
+        "54a134e169702d407f115900",
+        "5a9f4416a6da98d997819687"
+      ],
+      "published_at": "2025-07-10T13:43:37.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "67ea992d7076130015ea803e",
+      "url": "https://mid-east.info/telecom-egypt-partners-with-truecaller-to-enhance-customer-experience-for-its-users",
+      "domain": "mid-east.info",
+      "title": "Telecom Egypt Partners With Truecaller to Enhance Customer Experience for Its Users",
+      "snippet": "Telecom Egypt partners with Truecaller to enhance Customer Experience for its users.",
+      "organization_ids": [
+        "54a134e169702d407f115900",
+        "5fca1b642baaad0001770837"
+      ],
+      "published_at": "2025-03-28T10:48:36.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "67e5ee3b96070f000d873692",
+      "url": "https://www.businesstodayegypt.com/Article/1/6195/Telecom-Egypt-appoints-Lobna-Helal-as-first-Chairwoman",
+      "domain": "businesstodayegypt.com",
+      "title": "Telecom Egypt appoints Lobna Helal as first Chairwoman",
+      "snippet": "Telecom Egypt appoints Lobna Helal as first chairwoman.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2025-03-27T22:05:22.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "67f5589b6958a0001933ba63",
+      "url": "https://www.thefastmode.com/leadership-and-management/40581-telecom-egypt-appoints-lobna-helal-as-first-female-chair",
+      "domain": "thefastmode.com",
+      "title": "Telecom Egypt Welcomes Lobna Helal as First Female Chair",
+      "snippet": "Telecom Egypt announced changes to its Board of Directors, appointing Lobna Helal as Chair of the Board.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2025-03-26T02:02:52.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "67cb1b2e4217990015d3a660",
+      "url": "https://www.telecomreviewafrica.com/articles/reports-and-coverage/4786-telecom-egypt-pioneers-huawei-s-sbc-and-ims-for-superior-vobb-experience",
+      "domain": "telecomreviewafrica.com",
+      "title": "Telecom Egypt Pioneers Huawei's SBC and IMS for Superior VoBB Experience",
+      "snippet": "To deploy the SBC more efficiently and address diversified deployment scenarios, Telecom Egypt and Huawei have launched the lightweight SBC appliance.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2025-03-07T12:42:48.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "679b74d754d46601b08d8113",
+      "url": "https://www.capacitymedia.com/article/2ecavkfmzla1372nj68lc/partner-content/telecom-egypt-the-global-digital-infrastructure-accelerator",
+      "domain": "capacitymedia.com",
+      "title": "Telecom Egypt: the global digital infrastructure accelerator",
+      "snippet": "Our continued investments and leadership in connectivity have been widely recognised, with Telecom Egypt named Best Global Connectivity Provider for Data at the 2024 Global Connectivity Awards.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2025-01-30T10:30:00.000+00:00",
+      "event_categories": [
+        "attends_event"
+      ]
+    },
+    {
+      "id": "679b74997dbba601b1789371",
+      "url": "https://www.capacitymedia.com/article/2ecavkfmzla1372nj68lc/partner-content/telecom-egypt-the-global-digital-infrastructure-accelerator",
+      "domain": "capacitymedia.com",
+      "title": "Telecom Egypt: the global digital infrastructure accelerator",
+      "snippet": "Our continued investments and leadership in connectivity have been widely recognised, with Telecom Egypt named Best Global Connectivity Provider for Data at the 2024 Global Connectivity Awards.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2025-01-30T10:30:00.000+00:00",
+      "event_categories": [
+        "recognized_as"
+      ]
+    },
+    {
+      "id": "6787e62ff73cd302d277cc93",
+      "url": "https://techafricanews.com/2025/01/15/telecom-egypt-and-taheel-launch-training-program-for-persons-with-disabilities",
+      "domain": "techafricanews.com",
+      "title": "Telecom Egypt and Taheel Launch Training Program for Persons with Disabilities",
+      "snippet": "The National Network for PWD Services (Taheel), in partnership with Telecom Egypt, has introduced a training program specializing in English language proficiency and basic computer skills.",
+      "organization_ids": [
+        "5e5644803047b10001503109",
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2025-01-15T09:25:23.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6787e62f8cd1a802ce94383a",
+      "url": "https://techafricanews.com/2025/01/15/telecom-egypt-and-taheel-launch-training-program-for-persons-with-disabilities",
+      "domain": "techafricanews.com",
+      "title": "Telecom Egypt and Taheel Launch Training Program for Persons with Disabilities",
+      "snippet": "The National Network for PWD Services (Taheel), in partnership with Telecom Egypt, has introduced a training program specializing in English language proficiency and basic computer skills.",
+      "organization_ids": [
+        "5e5644803047b10001503109",
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2025-01-15T09:25:23.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "673ea8418e73f4075bdd298e",
+      "url": "https://www.vanillaplus.com/2024/11/20/87925-telecom-egypt-achieves-tier-iii-design-certification-for-rdh-2",
+      "domain": "vanillaplus.com",
+      "title": "Telecom Egypt achieves Tier III Design Certification for RDH 2",
+      "snippet": "Telecom Egypt achieves Tier III Design Certification for RDH 2.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2024-11-20T10:20:20.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    },
+    {
+      "id": "67240d405bd12b01b173db7b",
+      "url": "https://english.ahram.org.eg/News/534314.aspx",
+      "domain": "ahram.org.eg",
+      "title": "State-owned Telecom Egypt secures long-term loan worth EGP 18 bln",
+      "snippet": "State-owned Telecom Egypt, the country's main telecom service provider, has secured a long-term loan of EGP 18 billion through a banking consortium of 13 banks.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2024-10-29T00:00:00.000+00:00",
+      "event_categories": [
+        "receives_financing"
+      ]
+    },
+    {
+      "id": "670aa9aedeb08701afbb8a79",
+      "url": "https://techpoint.africa/2024/10/12/egypts-huawei-vodafone-launch-microwave-link",
+      "domain": "techpoint.africa",
+      "title": "Egypt's Huawei and Vodafone launch \"world's first\" 25 Gbps microwave link in E-band spectrum",
+      "snippet": "Moreover, in May 2024, Huawei Cloud launched its first public cloud in partnership with Telecom Egypt to establish Huawei's first locally-based public cloud platform in Egypt.",
+      "organization_ids": [
+        "6565774b70310b0001066f7f",
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2024-10-12T10:23:36.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "670664966315a601aff02239",
+      "url": "https://www.connectingafrica.com/author.asp?section_id=816&doc_id=787049&",
+      "domain": "connectingafrica.com",
+      "title": "Egypt's telcos get 5G licenses",
+      "snippet": "In July 2024, Telecom Egypt partnered with Nokia to launch 5G in major cities using Nokia's AirScale 5G technology.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2024-10-09T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "66e9361d55591c01b22b4975",
+      "url": "https://www.kingfut.com/2024/09/16/samuel-oppong-telecom-egypt",
+      "domain": "kingfut.com",
+      "title": "OFFICIAL: Al Ahly's Ghanaian talent Samuel Oppong joins Telecom Egypt",
+      "snippet": "OFFICIAL: Al Ahly's ghanaian talent Samuel Oppong joins Telecom Egypt.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2024-09-16T20:03:40.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "669630265e5053027b54b43f",
+      "url": "https://www.dailynewsegypt.com/2024/07/15/telecom-egypt-introduces-5g-technology-in-major-cities",
+      "domain": "dailynewsegypt.com",
+      "title": "Telecom Egypt introduces 5G technology in major cities",
+      "snippet": "Telecom Egypt has announced a strategic partnership with global tech leader Nokia to introduce 5G data services across Egypt.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2024-07-15T20:29:29.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6696d2b22b7443027b41af44",
+      "url": "https://techpoint.africa/2024/07/15/nokia-partners-telecom-egypt-to-launch-5g-in-the-country",
+      "domain": "techpoint.africa",
+      "title": "Nokia partners Telecom Egypt to launch 5G in the country",
+      "snippet": "Nokia partners Telecom Egypt to launch 5G in the country.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2024-07-15T14:49:09.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "66b8383175f4f801b3e63fe8",
+      "url": "https://www.connectingafrica.com/author.asp?section_id=809&doc_id=786979&f_src=connectingafrica_sitedefault",
+      "domain": "connectingafrica.com",
+      "title": "Omdia View: July 2024",
+      "snippet": "Nokia and Telecom Egypt announced a partnership to introduce 5G technology to Egypt for the first time.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2024-07-01T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6650cd1b74fda5034a6033fd",
+      "url": "https://itweb.africa/content/raYAyqorEmzMJ38N",
+      "domain": "itweb.africa",
+      "title": "Telecom Egypt secures $200m loan",
+      "snippet": "Telecom Egypt secures $200m loan.",
+      "organization_ids": [
+        "54a134e169702d407f115900"
+      ],
+      "published_at": "2024-05-24T08:20:31.000+00:00",
+      "event_categories": [
+        "receives_financing"
+      ]
+    }
+  ]
+}

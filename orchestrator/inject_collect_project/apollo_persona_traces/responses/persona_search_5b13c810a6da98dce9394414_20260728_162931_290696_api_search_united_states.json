@@ -1,0 +1,51 @@
+{
+  "total_entries": 2,
+  "people": [
+    {
+      "id": "658e54a34d2f840001be19ef",
+      "first_name": "Jeff",
+      "last_name_obfuscated": "Gi***s",
+      "title": "VP of Sales",
+      "last_refreshed_at": "2026-07-19T08:03:34.622+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "Chime",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "67c03cf29b2f020001c728e8",
+      "first_name": "Michael",
+      "last_name_obfuscated": "Mc***n",
+      "title": "Head of Channel Sales",
+      "last_refreshed_at": "2026-07-08T20:37:57.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "Chime",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

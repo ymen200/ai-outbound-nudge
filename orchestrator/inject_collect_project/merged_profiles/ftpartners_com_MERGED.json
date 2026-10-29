@@ -1,0 +1,416 @@
+{
+    "annual_revenue": 300000000.0,
+    "apollo_id": "54a11b9269702d9a8bc64a00",
+    "city": "San Francisco",
+    "country": "United States",
+    "departments": {
+        "finance": 136,
+        "human_resources": 12,
+        "sales": 6,
+        "accounting": 5,
+        "operations": 13,
+        "arts_and_design": 3,
+        "engineering": 7,
+        "legal": 7,
+        "marketing": 2,
+        "consulting": 2,
+        "business_development": 3,
+        "entrepreneurship": 4,
+        "data_science": 1,
+        "product_management": 1,
+        "administrative": 8,
+        "information_technology": 0,
+        "education": 0,
+        "media_and_commmunication": 0,
+        "support": 0
+    },
+    "domain": "ftpartners.com",
+    "estimated_num_employees": 320,
+    "facebook_url": null,
+    "founded_year": 2001,
+    "funding_events": [],
+    "industry": "Investment Banking",
+    "keywords": [
+        "financial technology partners lp ftp securities llc is the only investment banking firm focused exclu",
+        "fintech deal sourcing",
+        "public company research",
+        "fintech m&a",
+        "payment processing",
+        "fintech innovation",
+        "services",
+        "digital payments",
+        "disruptive financial technology",
+        "fintech private placements",
+        "fintech ipo",
+        "consulting",
+        "financial data analytics",
+        "venture capital",
+        "financial technology sector",
+        "insurtech funding",
+        "crypto m&a",
+        "fintech trends",
+        "financial services",
+        "blockchain investments",
+        "private equity",
+        "lending",
+        "private placements",
+        "b2b",
+        "fintech deal flow",
+        "fintech ecosystem analysis",
+        "valuation services",
+        "fintech investor network",
+        "blockchain and crypto",
+        "securities and commodity contracts intermediation and brokerage",
+        "wealthtech advisory",
+        "industry expertise",
+        "strategic consulting",
+        "strategic advisory",
+        "wealth management",
+        "financial services innovation",
+        "wealthtech",
+        "fintech growth capital",
+        "market research",
+        "fintech growth",
+        "fintech private equity deals",
+        "fintech sector trends",
+        "fintech strategic insights",
+        "capital raising",
+        "fintech industry reports",
+        "fintech sector analysis",
+        "fintech innovation labs",
+        "digital banking",
+        "capital markets",
+        "investment banking",
+        "alternative lending",
+        "innovation",
+        "fintech sector",
+        "financial technology",
+        "insurtech",
+        "growth",
+        "fintech ipo advisory",
+        "financial advisory",
+        "cross-border transactions",
+        "fintech market insights",
+        "payments",
+        "fintech research",
+        "fintech sector deep dives",
+        "digital assets",
+        "regtech advisory",
+        "fintech market analysis",
+        "fintech deal advisory",
+        "fintech ecosystem",
+        "fintech transactions",
+        "fintech investment banking",
+        "fintech",
+        "fintech analysis",
+        "fintech market data",
+        "cross-border payments",
+        "auto fintech solutions",
+        "fintech growth strategies",
+        "deal structuring",
+        "auto fintech",
+        "fintech ipos",
+        "fintech startups",
+        "fintech funding",
+        "fintech private equity",
+        "mergers and acquisitions",
+        "regulatory compliance",
+        "fintech investor relations",
+        "digital asset transactions",
+        "fintech valuation models",
+        "finance",
+        "management consulting",
+        "investment management",
+        "finance technology",
+        "information technology & services",
+        "financial consulting",
+        "mergers & acquisitions",
+        "M&A Advisory",
+        "Steve McLaughlin",
+        "San Francisco Bank"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/financial-technology-partners",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b0f4d6a5d2490001e4554a/picture",
+    "name": "Financial Technology Partners (FT Partners)",
+    "num_suborganizations": 2,
+    "phone": "(415) 512-8700",
+    "postal_code": "94111-4502",
+    "raw_address": "100 California Street, 7th Floor, Suite 700, San Francisco, CA 94111",
+    "seo_description": "FT Partners | Financial Technology Investment Bank San Francisco",
+    "short_description": "A boutique investment bank focused exclusively on the FinTech sector, providing M&A and financial advisory services.",
+    "state": "California",
+    "street_address": "100 California St",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "FTP Securities LLC",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "FinTech Partners Ltd",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "alteryx",
+            "name": "Alteryx",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+        },
+        {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "cloudflare_dns",
+            "name": "Cloudflare DNS",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "cloudflare_insights",
+            "name": "Cloudflare Insights",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "django",
+            "name": "Django",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4 (GA4)",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "greenhouse",
+            "name": "Greenhouse",
+            "category": "Other"
+        },
+        {
+            "uid": "jangomail",
+            "name": "JangoMail",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_email_providers",
+            "name": "Microsoft Email Providers",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_entra_id",
+            "name": "Microsoft Entra ID",
+            "category": "Enterprise Mobility Management"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_powerpoint",
+            "name": "Microsoft PowerPoint",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "microsoft_teams",
+            "name": "Microsoft Teams",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+        },
+        {
+            "uid": "openai",
+            "name": "OpenAI",
+            "category": "Other"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "postgresql",
+            "name": "PostgreSQL",
+            "category": "Database"
+        },
+        {
+            "uid": "proofpoint",
+            "name": "Proofpoint",
+            "category": "Security"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "sap_financial_supply_chain_management_fscm",
+            "name": "SAP Financial Supply Chain Management (FSCM)",
+            "category": "Financial Software"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce_sales_cloud",
+            "name": "Salesforce Sales Cloud",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "secured_mvc_forum_on_windows_2012_r2",
+            "name": "Secured MVC Forum on Windows 2012 R2",
+            "category": "CMS"
+        },
+        {
+            "uid": "sendgrid",
+            "name": "Sendgrid",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "tableau",
+            "name": "Tableau",
+            "category": "Widgets"
+        },
+        {
+            "uid": "twilio_sendgrid_email_api",
+            "name": "Twilio SendGrid Email API",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "twilio_sendgrid_email_marketing_campaigns",
+            "name": "Twilio SendGrid Email Marketing Campaigns",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "typescript",
+            "name": "TypeScript",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "zoomdata",
+            "name": "Zoomdata",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "edirectory",
+            "name": "eDirectory",
+            "category": "CMS"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "CDN"
+        },
+        {
+            "uid": "font_awesome",
+            "name": "Font Awesome",
+            "category": "Web Icons"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/FTPartners",
+    "website_url": "http://www.ftpartners.com",
+    "is_subsidiary": false,
+    "parent_company": "Financial Technology Partners LP",
+    "competitors": [
+        "Qatalyst Partners",
+        "Houlihan Lokey",
+        "Jefferies",
+        "Piper Sandler",
+        "Lazard"
+    ],
+    "data_quality_score": 0.97
+}

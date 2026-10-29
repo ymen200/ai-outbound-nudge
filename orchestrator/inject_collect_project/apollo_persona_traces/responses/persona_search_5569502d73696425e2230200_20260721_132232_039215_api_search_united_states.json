@@ -1,0 +1,28 @@
+{
+  "total_entries": 1080,
+  "people": [
+    {
+      "id": "54a712e17468696de709d412",
+      "first_name": "Zach",
+      "last_name_obfuscated": "Ca***o",
+      "title": "BDR",
+      "last_refreshed_at": "2026-07-17T11:21:06.245+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "Adobe",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

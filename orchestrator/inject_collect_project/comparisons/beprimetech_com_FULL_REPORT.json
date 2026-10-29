@@ -1,0 +1,236 @@
+{
+    "domain": "beprimetech.com",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "BePrimeTech",
+            "ai_value": "BeSmartTravel"
+        },
+        "domain": {
+            "database_value": "beprimetech.com",
+            "ai_value": "beprimetech.com"
+        },
+        "industry": {
+            "database_value": "information technology & services",
+            "ai_value": "Technologie de voyage et d'hôtellerie"
+        },
+        "founded_year": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "short_description": {
+            "database_value": "BePrimeTech est une Start-Up ayant comme spécialité la création et le développement des solutions logicielles adaptées à la croissance perpétuelle de la vie professionnelle et les exigences multiples y corrélatives notamment la digitalisation de l'amas des processus « métier ». \nSoucieux de répondre efficacement aux différentes aspirations et ambitions de nos potentiels clients, BePrimeTech, grâce à la qualité de ses départements organisationnels et opérationnels, se milite à vous fournir les services nécessaires pour un meilleur déroulement de la phase d'accompagnement et de suivi dans le cadre de la création d'une solution sur-mesure. D'ailleurs, un méli-mélo d'étapes se conjugue afin d'aboutir à des résultats pertinents et appropriés ; \n         - L'identification des besoins du client ;\n         -L'élaboration du cahier des charges ;   \n         - La détermination de la conception de la solution informatique ; \n         -La planification des différents stades du processus de la réalisation\n         - La mise en œuvre et le développement de la solution ; \n         - La soumission de la solution à un agrégat de Tests tels que la performance, la sécurité, le Graphique, la compatibilité et la robustesse ;  \n          - La mise en production ;  \n           - L'attribution d'une durée suffisante et raisonnable pour la phase d'essai et ce dans le but de cerner les potentielles anomalies caractérisant la solution lors de l'utilisation ; \n           -  La maintenance logicielle de la solution ;     \nBePrimeTech, propose, là encore, en faveur de ses clients des solutions spécifiques performantes et opérantes en tenant compte de la spécificité de chaque domaine de métier telles que la gestion commerciale, la gestion de production, la gestion comptable et financière, la gestion des stocks, la gestion de la relation client, etc…",
+            "ai_value": "Plateforme de Gestion de Voyages Tout-en-Un, technologie de nouvelle génération pour le tourisme et l'hôtellerie."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "À propos de bePrimeTech — L'avenir de la technologie de voyage | BeSmartTravel À propos de Beprimetech"
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "estimated_num_employees": {
+            "database_value": 13,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/be-prime-tech",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "facebook_url": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "phone": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "raw_address": {
+            "database_value": "10 Avenue Abderrahmen Azzam, Tunis 1073, Tunis, TUNISIA 1073, TN",
+            "ai_value": "12 شارع عبد الرحمان عزام, Tunisia"
+        },
+        "city": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "country": {
+            "database_value": "Tunisia",
+            "ai_value": "Tunisia"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": null
+        },
+        "keywords": {
+            "database_value": [
+                "it services & it consulting",
+                "b2b",
+                "saas",
+                "services",
+                "information technology & services",
+                "computer software"
+            ],
+            "ai_value": "Plateforme de Gestion de Voyages, tourisme, hôtellerie, opérations, données centralisées, automatisation, analyses, solutions, Hotels, Trips, Bookings, CRM, Finance, Channels, All-in-one Travel Platform, Analytiques, Distribution multi-canaux, Gestion clients, Facturation automatisée, Moteur de réservation intelligent, Gestion documentaire, Automatisation des flux, Sécurité entreprise, RGPD, GDS, OTA, CRS, PMS, RMS, Metasearch, Payment, APIs, ERP, CMS, Data, Intelligence artificielle"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "ai",
+                    "name": "AI",
+                    "category": "Other"
+                },
+                {
+                    "uid": "google_search_console",
+                    "name": "Google Search Console",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "href_lang",
+                    "name": "HREF Lang",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mailjet",
+                    "name": "MailJet",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_365",
+                    "name": "Microsoft 365",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_365_apps_services",
+                    "name": "Microsoft 365 Apps & Services",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_exchange",
+                    "name": "Microsoft Exchange",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "microsoft_exchange_online",
+                    "name": "Microsoft Exchange Online",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "nextjs",
+                    "name": "Next.js",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "nginx",
+                    "name": "Nginx",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "ovhcloud",
+                    "name": "OVHcloud",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "outlook",
+                    "name": "Outlook",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "remote",
+                    "name": "Remote",
+                    "category": "Other"
+                },
+                {
+                    "uid": "slack",
+                    "name": "Slack",
+                    "category": "Chats"
+                },
+                {
+                    "uid": "viewport_meta",
+                    "name": "Viewport Meta",
+                    "category": "CSS and JavaScript Libraries"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "Nginx",
+                    "category": "Serveur Web",
+                    "confidence": 0.95,
+                    "source": "HEADERS HTTP: server: nginx/1.14.2",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.69,
+                        "evidence_density": 0.15
+                    }
+                },
+                {
+                    "name": "Next.js",
+                    "category": "Framework Web (Frontend)",
+                    "confidence": 0.99,
+                    "source": "HEADERS HTTP: x-powered-by: Next.js; MATCHES REGEX CLASSIQUES: Next.js",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.81,
+                        "evidence_density": 0.1
+                    }
+                },
+                {
+                    "name": "Tailwind CSS",
+                    "category": "Framework CSS",
+                    "confidence": 0.9,
+                    "source": "PRÉFIXES CSS DÉTECTÉS: h-*, min-*, flex-*, font-*, bg-*, top-*, z-*, backdrop-*, border-*, items-*, justify-*, px-*, md:px-*, py-*, max-*, mx-*, gap-*, text-*, transition-*, hover:text-*, rounded-*, hover:bg-*, p-*, pt-*, md:pt-*, pb-*, md:pb-*, md:flex-*, md:gap-*",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.89,
+                        "evidence_density": 0.05
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [],
+            "ai_value": null
+        },
+        "funding_events": {
+            "database_value": [],
+            "ai_value": null
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Cloudbeds",
+                "SiteMinder",
+                "Mews",
+                "Sirvoy",
+                "Amadeus"
+            ]
+        }
+    }
+}

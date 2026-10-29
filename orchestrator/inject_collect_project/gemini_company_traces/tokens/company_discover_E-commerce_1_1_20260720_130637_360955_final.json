@@ -1,0 +1,115 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 3,
+    "successful_calls": 3,
+    "failed_calls": 0,
+    "prompt_tokens": 4159,
+    "candidates_tokens": 1474,
+    "thoughts_tokens": 2233,
+    "cached_content_tokens": 0,
+    "total_tokens": 7866,
+    "by_model": {
+      "gemini-3.1-flash-lite-preview": {
+        "calls": 1,
+        "total_tokens": 156,
+        "prompt_tokens": 128,
+        "candidates_tokens": 28
+      },
+      "gemini-3-flash-preview": {
+        "calls": 2,
+        "total_tokens": 7710,
+        "prompt_tokens": 4031,
+        "candidates_tokens": 1446
+      }
+    },
+    "by_operation": {
+      "browser_config": {
+        "calls": 1,
+        "total_tokens": 156,
+        "prompt_tokens": 128,
+        "candidates_tokens": 28
+      },
+      "extract_apollo": {
+        "calls": 1,
+        "total_tokens": 4671,
+        "prompt_tokens": 1986,
+        "candidates_tokens": 1281
+      },
+      "post_process": {
+        "calls": 1,
+        "total_tokens": 3039,
+        "prompt_tokens": 2045,
+        "candidates_tokens": 165
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-20T13:05:44.002901",
+        "prompt_token_count": 128,
+        "candidates_token_count": 28,
+        "total_token_count": 156,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-20T13:06:19.177946",
+        "prompt_token_count": 1986,
+        "candidates_token_count": 1281,
+        "total_token_count": 4671,
+        "thoughts_token_count": 1404,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-20T13:06:30.589639",
+        "prompt_token_count": 2045,
+        "candidates_token_count": 165,
+        "total_token_count": 3039,
+        "thoughts_token_count": 829,
+        "cached_content_token_count": 0
+      }
+    ],
+    "companies_scraped_attempted": 1,
+    "companies_scraped_succeeded": 1,
+    "industries": [
+      "E-commerce",
+      "Direct-to-Consumer (DTC)",
+      "Retail"
+    ],
+    "locations": [
+      "United States"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "total_entries": 1088,
+  "people": [
+    {
+      "id": "69fae28f36f327000138c067",
+      "first_name": "Jon",
+      "last_name_obfuscated": "Za***e",
+      "title": "Account Executive",
+      "last_refreshed_at": "2026-05-28T15:03:11.599+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Telecom Egypt",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "57db91b3a6da9868bbff1a46",
+      "first_name": "Mahmoud",
+      "last_name_obfuscated": "El***y",
+      "title": "Account Executive",
+      "last_refreshed_at": "2026-06-06T20:49:42.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Telecom Egypt",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

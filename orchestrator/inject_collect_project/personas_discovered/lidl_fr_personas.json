@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Robert Giles",
+        "clean_name_used": "Robert Giles",
+        "linkedin_url": "https://www.linkedin.com/in/robgiles67/",
+        "company": "Lidl",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Christine Scotti",
+        "clean_name_used": "Christine Scotti",
+        "linkedin_url": "https://www.linkedin.com/in/christine-scotti-31895544/",
+        "company": "Lidl",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Jacob Newton",
+        "clean_name_used": "Jacob Newton",
+        "linkedin_url": "https://www.linkedin.com/in/jacob-newton-614126180/",
+        "company": "Lidl",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

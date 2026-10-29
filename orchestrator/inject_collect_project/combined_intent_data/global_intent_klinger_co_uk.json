@@ -1,0 +1,72 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Engineering for Zero Leakage: Advanced Sealing Strategies for Hydrofluoric Acid - HF alkylation service demands more than gasket selection, requiring a fully engineered approach to manage aggressive chemistry, thermal cycling, and…",
+        "date": "2026-04-29",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "April 29, 2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.86,
+            "evidence_density": 16.5
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "KLINGER UK Strengthens Middle East Presence with ISO 17025 Accreditation - KLINGER United Kingdom is proud to share that our partner, Zamil Trade and Services, has achieved ISO 17025 accreditation for…",
+        "date": "2026-04-16",
+        "news_type": "Partnership",
+        "confidence": 0.9,
+        "source": "April 16, 2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.81,
+            "evidence_density": 14.36
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "id": "69c5f8361dc96a00019aa62c",
+        "title": "Health, Safety & Environmental Engineer",
+        "url": "https://www.klinger.co.uk/vacancy/health-safety-environmental-engineer",
+        "city": "Manchester",
+        "state": "England",
+        "country": "United Kingdom",
+        "last_seen_at": "2026-05-21T05:39:55.000+00:00",
+        "posted_at": "2026-03-26T00:21:42.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Roles",
+        "location": "Yorkshire, UK or Remote",
+        "department": "Operations, Production, Customer Service, Technical Support",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "We’re always looking for good people – whether you’re on the tools, behind the scenes, or on the phone to customers.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.66,
+            "evidence_density": 0.11
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Regional Roles",
+        "location": "Aberdeen, Grangemouth, Runcorn, Middlesbrough, Southampton, Immingham, UK",
+        "department": "Various",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "We’ve got regional hubs in Aberdeen, Grangemouth, Runcorn, Middlesbrough, Southampton and Immingham. Opportunities come up across the UK.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.61,
+            "evidence_density": 0.1
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

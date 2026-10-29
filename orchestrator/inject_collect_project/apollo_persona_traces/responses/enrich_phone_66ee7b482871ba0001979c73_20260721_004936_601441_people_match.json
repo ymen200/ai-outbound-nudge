@@ -1,0 +1,97 @@
+{
+  "person": {
+    "id": "66ee7b482871ba0001979c73",
+    "first_name": "Christophe",
+    "last_name": "Smith",
+    "name": "Christophe Smith",
+    "linkedin_url": "http://www.linkedin.com/in/christophe-smith-49b9a4107",
+    "title": "Sales Business Development",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "--",
+    "organization_id": "5a9f5606a6da98d954deb858",
+    "employment_history": [
+      {
+        "_id": "6a2fca7b79a4cb000151a661",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5a9f5606a6da98d954deb858",
+        "organization_name": "Schneider Electric",
+        "raw_address": null,
+        "start_date": "1987-11-01",
+        "title": "Sales Business Development",
+        "updated_at": null,
+        "id": "6a2fca7b79a4cb000151a661",
+        "key": "6a2fca7b79a4cb000151a661"
+      }
+    ],
+    "street_address": "",
+    "city": null,
+    "state": null,
+    "country": "France",
+    "postal_code": null,
+    "formatted_address": "France",
+    "time_zone": "Europe/Paris",
+    "email": "christophe.smith.us@se.com",
+    "email_status": "verified",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development",
+      "sales"
+    ],
+    "seniority": "entry",
+    "functions": [
+      "sales",
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [
+      {
+        "_id": "6a5eb405e1e3c80001d37d28",
+        "confidence_cd": "high",
+        "dnc_other_info": null,
+        "dnc_status_cd": null,
+        "dnc_status_updated_at": null,
+        "raw_number": "+1 469-500-3296",
+        "sanitized_number": "+14695003296",
+        "status_cd": "valid_number",
+        "type_cd": "mobile",
+        "id": "6a5eb405e1e3c80001d37d28",
+        "key": "6a5eb405e1e3c80001d37d28"
+      }
+    ],
+    "emails": [],
+    "sanitized_numbers": [
+      "+14695003296"
+    ],
+    "raw_numbers": [
+      "+1 469-500-3296"
+    ],
+    "sanitized_emails": [
+      "christophe.smith.us@se.com"
+    ]
+  },
+  "phone_enrichment": {
+    "request_id": "6a5eb40544e4f0001428fb04",
+    "status": "pending",
+    "message": "Phone enrichment is processing asynchronously. Retrieve the result by polling GET /api/v1/webhook_result/{request_id} with the top-level `request_id` field from this response. Retry after ~10 seconds."
+  },
+  "request_id": 8741026084397316024
+}

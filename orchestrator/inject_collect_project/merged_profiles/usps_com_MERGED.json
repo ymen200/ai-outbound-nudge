@@ -1,0 +1,624 @@
+{
+    "alexa_ranking": 326,
+    "annual_revenue": 78200000000,
+    "apollo_id": "5d34ebedf651255bcba33468",
+    "city": "Washington",
+    "country": "United States",
+    "departments": {
+        "operations": 23872,
+        "accounting": 269,
+        "sales": 3725,
+        "consulting": 138,
+        "business_development": 905,
+        "engineering": 1267,
+        "support": 4562,
+        "human_resources": 609,
+        "product_management": 68,
+        "information_technology": 2528,
+        "legal": 272,
+        "finance": 766,
+        "marketing": 233,
+        "administrative": 567,
+        "media_and_commmunication": 172,
+        "arts_and_design": 102,
+        "education": 34,
+        "data_science": 145,
+        "entrepreneurship": 19
+    },
+    "domain": "usps.com",
+    "estimated_num_employees": 640000,
+    "facebook_url": "https://www.facebook.com/USPS",
+    "founded_year": null,
+    "funding_events": [
+        {
+            "id": "6307800ebd072c0001fcc7fd",
+            "date": "2020-07-01T00:00:00.000+00:00",
+            "type": "Debt Financing",
+            "amount": "10B",
+            "currency": "$",
+            "investors": "Non renseigné"
+        }
+    ],
+    "industry": "Postal and Shipping Services",
+    "keywords": [
+        "direct mail",
+        "transportation",
+        "mail delivery",
+        "logistics packaging advertising transportation",
+        "logistics",
+        "advertising",
+        "packaging",
+        "postal service apis",
+        "digital shipping solutions",
+        "postal technology",
+        "services",
+        "postal service logistics",
+        "postal service integration",
+        "d2c",
+        "government services",
+        "digital postal solutions",
+        "postal service",
+        "postal service operations",
+        "postal system",
+        "mail forwarding",
+        "postal services",
+        "mail processing",
+        "postal service support",
+        "digital postal services",
+        "online tracking",
+        "postal network",
+        "automated mail processing",
+        "shipping labels",
+        "shipping automation",
+        "digital logistics",
+        "delivery services",
+        "postal service software",
+        "postal automation",
+        "automated processing",
+        "mailing solutions",
+        "mail sorting technology",
+        "digital delivery tracking",
+        "digital address verification",
+        "logistics and transportation",
+        "digital tools",
+        "postal service automation",
+        "digital mail management",
+        "international shipping",
+        "package tracking",
+        "postal history",
+        "postal agency",
+        "postal service sustainability",
+        "mail tracking system",
+        "digital customer support",
+        "mail services automation",
+        "mail sorting",
+        "mail and package delivery",
+        "postal service innovation",
+        "first-class mail",
+        "digital customer service",
+        "logistics network",
+        "b2c",
+        "bulk mailing",
+        "e-commerce shipping",
+        "online postage",
+        "priority mail",
+        "postal service infrastructure",
+        "parcel delivery",
+        "postal service customer support",
+        "e-commerce",
+        "postal service reliability",
+        "postal service network",
+        "postal data management",
+        "postal infrastructure",
+        "postal service modernization",
+        "address verification",
+        "postal service digital tools",
+        "shipping services",
+        "e-commerce logistics",
+        "postal service technology",
+        "mail services",
+        "postal operations",
+        "package pickup",
+        "marketing services",
+        "registered mail",
+        "po boxes",
+        "post office",
+        "retail",
+        "postal service efficiency",
+        "delivery routes",
+        "government",
+        "certified mail",
+        "postal service solutions",
+        "postal logistics",
+        "informed delivery",
+        "usps smart locker",
+        "shipping supplies",
+        "priority mail express",
+        "click-n-ship",
+        "customs forms",
+        "po box",
+        "hold mail",
+        "change of address",
+        "buy stamps",
+        "every door direct mail",
+        "business shipping",
+        "label broker",
+        "insurance services",
+        "free package pickups",
+        "package redelivery",
+        "digital signature",
+        "mailing supplies",
+        "united states postal service",
+        "military mail",
+        "money orders",
+        "return services",
+        "postal store",
+        "free boxes",
+        "usps tracking",
+        "shipping restrictions",
+        "customized mail",
+        "postage calculator",
+        "collectors stamps",
+        "political mail",
+        "holiday shipping",
+        "events mail",
+        "usps connect",
+        "business tools",
+        "mail receipts",
+        "intercept a package",
+        "b2b",
+        "finance",
+        "non-profit",
+        "distribution",
+        "transportation & logistics",
+        "marketing",
+        "marketing & advertising",
+        "shipping",
+        "logistics & supply chain",
+        "consumer internet",
+        "consumers",
+        "internet",
+        "information technology & services",
+        "financial services",
+        "nonprofit organization management",
+        "local services",
+        "post offices",
+        "public services & government",
+        "shipping centers",
+        "Mailing",
+        "Passports"
+    ],
+    "latest_funding_stage": "Debt Financing",
+    "linkedin_url": "http://www.linkedin.com/company/usps",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6963f47ec3dc3000014b5ed3/picture",
+    "name": "United States Postal Service (USPS)",
+    "num_suborganizations": 3,
+    "phone": "1-800-275-8777",
+    "postal_code": "20260",
+    "raw_address": "475 L'Enfant Plaza Southwest, Washington, United States",
+    "seo_description": "Welcome | USPS",
+    "short_description": "The United States Postal Service provides comprehensive shipping, mailing, and postal solutions for individuals and businesses, including domestic and international delivery services.",
+    "state": "District of Columbia",
+    "street_address": "475 L'Enfant Plaza Southwest",
+    "suborganizations": [
+        {
+            "id": "670cf1e64c6de0000110232d",
+            "name": "Operation: Social Santa",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "54a11e5569702d94a4484301",
+            "name": "USPS OIG",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "67459072360d110001750704",
+            "name": "PostConnect",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "amp",
+            "name": "AMP",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "akamai",
+            "name": "Akamai",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "akamai_cdn_solutions",
+            "name": "Akamai CDN Solutions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "akamai_web_application_api_protector",
+            "name": "Akamai Web Application & API Protector",
+            "category": "Event Management"
+        },
+        {
+            "uid": "analyzer",
+            "name": "Analyzer",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "apache",
+            "name": "Apache",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "automic_automation",
+            "name": "Automic Automation",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_cognitive_services",
+            "name": "Azure Cognitive Services",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "bootstrap_framework",
+            "name": "Bootstrap Framework",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "chatbot",
+            "name": "ChatBot",
+            "category": "Chats"
+        },
+        {
+            "uid": "cisco_catalyst_9800_series_wireless_controllers",
+            "name": "Cisco Catalyst 9800 Series Wireless Controllers",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "citrix_netscaler",
+            "name": "Citrix NetScaler",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "create_react_app",
+            "name": "Create React App",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "drupal",
+            "name": "Drupal",
+            "category": "CMS"
+        },
+        {
+            "uid": "e-planning",
+            "name": "E-planning",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "electron",
+            "name": "Electron",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "exacttarget",
+            "name": "ExactTarget",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "flowplayer_commercial",
+            "name": "Flowplayer Commercial",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "gitkraken",
+            "name": "GitKraken",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_adwords_conversion",
+            "name": "Google AdWords Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "intel",
+            "name": "Intel Cloud Services",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "lexisnexis",
+            "name": "LexisNexis",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "lexisnexis_accurint",
+            "name": "LexisNexis Accurint",
+            "category": "ERP"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft project",
+            "name": "Microsoft Project",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_purview_ediscovery",
+            "name": "Microsoft Purview eDiscovery",
+            "category": "Case Management"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "oracle_commerce",
+            "name": "Oracle Commerce",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "pacer",
+            "name": "Pacer",
+            "category": "Other"
+        },
+        {
+            "uid": "proofpoint",
+            "name": "Proofpoint",
+            "category": "Security"
+        },
+        {
+            "uid": "proofpoint_email_security_and_protection",
+            "name": "Proofpoint Email Security and Protection",
+            "category": "Security"
+        },
+        {
+            "uid": "quip",
+            "name": "Quip",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "rydoo",
+            "name": "Rydoo",
+            "category": "Other"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "ssc",
+            "name": "SS&C",
+            "category": "Financial Software"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce crm analytics",
+            "name": "Salesforce CRM Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "salesforce_live_agent",
+            "name": "Salesforce Live Agent",
+            "category": "Chats"
+        },
+        {
+            "uid": "salesforce_service_cloud",
+            "name": "Salesforce Service Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "simpro",
+            "name": "Simpro",
+            "category": "Field Service Management"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "sonicwall_network_security_appliance_nsa_series",
+            "name": "SonicWall Network Security appliance (NSa) Series",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "spiceworks_ip_scanner",
+            "name": "Spiceworks IP Scanner",
+            "category": "Security"
+        },
+        {
+            "uid": "spreadsheet_server_by_insightsoftware",
+            "name": "Spreadsheet Server by insightsoftware",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "telligent",
+            "name": "Telligent",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "the_trade_desk",
+            "name": "The Trade Desk",
+            "category": "Demand Side Platforms"
+        },
+        {
+            "uid": "threatmetrix",
+            "name": "ThreatMetrix",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "tor",
+            "name": "Tor",
+            "category": "Security"
+        },
+        {
+            "uid": "usps",
+            "name": "USPS",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "visual_composer",
+            "name": "Visual Composer",
+            "category": "CMS"
+        },
+        {
+            "uid": "vue_js_library",
+            "name": "VueJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wp_engine",
+            "name": "WP Engine",
+            "category": "CMS"
+        },
+        {
+            "uid": "westlaw",
+            "name": "Westlaw",
+            "category": "Case Management"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "wowanalytics",
+            "name": "Wowanalytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "medallia",
+            "name": "Medallia",
+            "category": "Customer Experience"
+        },
+        {
+            "uid": "digitalgov",
+            "name": "DigitalGov",
+            "category": "Government Tech"
+        },
+        {
+            "uid": "bing_ads",
+            "name": "Bing Ads",
+            "category": "Advertising"
+        },
+        {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "Advertising"
+        },
+        {
+            "uid": "snapchat_pixel",
+            "name": "Snapchat Pixel",
+            "category": "Advertising"
+        },
+        {
+            "uid": "amazon_adsystem",
+            "name": "Amazon Adsystem",
+            "category": "Advertising"
+        }
+    ],
+    "total_funding": "10B",
+    "twitter_url": "https://twitter.com/usps",
+    "website_url": "http://www.usps.com",
+    "is_subsidiary": true,
+    "parent_company": "United States Federal Government",
+    "competitors": [
+        "United Parcel Service (UPS)",
+        "FedEx",
+        "DHL",
+        "Amazon Logistics"
+    ],
+    "data_quality_score": 0.94
+}

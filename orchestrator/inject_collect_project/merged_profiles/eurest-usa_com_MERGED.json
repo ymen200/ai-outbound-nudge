@@ -1,0 +1,103 @@
+{
+    "annual_revenue": null,
+    "apollo_id": "5dcae1f39aecf300f174cdca",
+    "city": "Charlotte",
+    "country": "United States",
+    "domain": "eurest-usa.com",
+    "estimated_num_employees": "16,000+",
+    "facebook_url": "https://www.facebook.com/EurestUSA",
+    "founded_year": 1996,
+    "funding_events": [],
+    "industry": "Foodservice & Hospitality",
+    "keywords": [
+        "Hospitality",
+        "Foodservice",
+        "Culinary Excellence",
+        "Workplace Dining",
+        "Wellness",
+        "Sustainability",
+        "Net Zero",
+        "Fortune 100 Amenities",
+        "Corporate Dining"
+    ],
+    "latest_funding_stage": "Public",
+    "linkedin_url": "http://www.linkedin.com/company/eurest-usa",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ad394a0a7bd70001207226/picture",
+    "name": "Eurest USA (Charlotte Headquarters)",
+    "num_suborganizations": 0,
+    "phone": "+1 704-328-4000",
+    "postal_code": "28217",
+    "raw_address": "2400 Yorkmont Road, Charlotte, NC 28217, United States",
+    "seo_description": "Eurest is the leader in hospitality, foodservice and culinary excellence setting the table for our nation’s workforce and industries.",
+    "short_description": "Leader in hospitality, foodservice and culinary excellence serving the nation’s workforce and Fortune 100 companies.",
+    "state": "North Carolina",
+    "street_address": "2400 Yorkmont Road",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "ESFM",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "wordpress",
+            "name": "WordPress",
+            "category": "CMS"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "Cloudflare",
+            "category": "CDN/Security"
+        },
+        {
+            "uid": "wp_engine",
+            "name": "WP Engine",
+            "category": "Hosting"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Analytics"
+        },
+        {
+            "uid": "microsoft_clarity",
+            "name": "Microsoft Clarity",
+            "category": "Heatmaps/Behavioral"
+        },
+        {
+            "uid": "yoast_seo",
+            "name": "Yoast SEO",
+            "category": "SEO Plugin"
+        },
+        {
+            "uid": "revolution_slider",
+            "name": "Revolution Slider",
+            "category": "UI/UX Components"
+        },
+        {
+            "uid": "sharethis",
+            "name": "ShareThis",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "flatpickr",
+            "name": "Flatpickr",
+            "category": "Javascript Library"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.eurest-usa.com",
+    "fiscal_year_end": "September",
+    "is_subsidiary": true,
+    "parent_company": "Compass Group USA",
+    "competitors": [
+        "Aramark",
+        "Sodexo",
+        "Elior North America",
+        "Guckenheimer",
+        "ISS World"
+    ],
+    "data_quality_score": 0.96
+}

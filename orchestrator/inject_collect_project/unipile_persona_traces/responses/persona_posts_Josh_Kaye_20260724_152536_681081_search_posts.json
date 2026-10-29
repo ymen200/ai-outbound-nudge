@@ -1,0 +1,462 @@
+{
+  "member_id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7477425485514182656",
+        "share_url": "https://www.linkedin.com/posts/joshkaye0704_clickup-launches-brain2-your-companys-ai-activity-7477425485514182656-lgVg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "3w",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 35,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "We launched Brain² last week and I need to talk about it from the Sales Leader side.\n\nMy Enterprise Sales org lives in the product every day: account plans, forecasts, deal strategy, customer prep, internal collaboration, etc.. Brain² changed how I operate in less than a week.\n\nThe difference isn't \"we added AI.\" Every company added AI. The difference is context. 🧠 Brain² already knows my deals, my team's docs, our conversation history, every decision trail. I don't paste context into a chat window. I just ask.\n\nOne prompt gives me a forecast readout. Another builds me a customer-ready deck. I have AI agents that prep my team for calls, flag deal risk, and catch action items I missed in back-to-back meetings. ⚡\n\nIn blind head-to-head evals, users preferred Brain² 100% of the time over standalone ChatGPT and Claude on real work tasks. Not because the models are better (we use the same frontier models). Because context is the moat. 🏆\n\nThe model isn't the product. Your company's knowledge is. 🔑\n\nIf you're evaluating AI for your org, stop asking \"which model?\" and start asking \"which platform actually knows how my team works?\" That's ClickUp!\n\nhttps://lnkd.in/dKUbj_pz",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 1148
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "joshkaye0704",
+          "id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+          "name": "Josh Kaye",
+          "is_company": false,
+          "headline": "Vice President of Sales at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGN3lJ8wHQPFQ/profile-displayphoto-scale_400_400/B56Zy_JUnBHQAg-/0/1772733422845?e=1786579200&v=beta&t=14ydX_pRlDMxJ12ra_LUDz7a_QjGAH-begA8N_gclV0"
+        },
+        "id": "7477425485514182656",
+        "is_repost": false,
+        "parsed_datetime": "2026-06-29T18:19:19.594Z",
+        "article": {
+          "id": "6978451210953418996",
+          "title": "ClickUp Launches Brain2: Your Company's AI",
+          "author": "youtube.com",
+          "url": "https://youtu.be/F4ryW8YBZco?si=cKtyyT8YUAu_BccH",
+          "published_at": "2022-09-21T20:33:42.045Z",
+          "picture_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEFLYXHi4tOQQ/articleshare-shrink_800/B56Z73bbDiKUAY-/0/1782267622575?e=1785510000&v=beta&t=OuoHzseZEeh0xsD2jkDFHo4-CyZMBQLhQ_nNUMqbIUo"
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7470168753121640448",
+        "share_url": "https://www.linkedin.com/posts/joshkaye0704_work-is-converging-were-leading-it-g2-activity-7470168753121640448-U1LX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1mo",
+        "comment_counter": 3,
+        "impressions_counter": 0,
+        "reaction_counter": 72,
+        "repost_counter": 2,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Work is converging. We're leading it.\n\nG2 just dropped their Summer 2026 reports. ClickUp is now a Leader in six AI categories: Agentic AI, AI Agents, AI Chatbots, AI Meeting Assistants, AI Agents for Business Operations, and AI Writing Assistants.\n\nThat's not a product announcement. That's a signal.\n\nEnterprise companies we work with aren't buying more point solutions. They're consolidating. They want one system that runs work AND runs AI on top of that work, with full context.\n\n12,000+ G2 reviews say ClickUp is that system.\n\nIf you're still duct-taping 10 tools together and wondering why AI isn't delivering ROI… that's the problem. AI without context is just noise.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 82
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D5622AQF7zEujgucWgg",
+            "sticker": false,
+            "size": {
+              "height": 800,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQF7zEujgucWgg/feedshare-shrink_800/B56Z6te5PpGsAc-/0/1781027017962?e=1786579200&v=beta&t=uI7GFIqrON9ip5-Q6gaEAg89UiFr2bw6NbVCNRO_ums"
+          }
+        ],
+        "author": {
+          "public_identifier": "joshkaye0704",
+          "id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+          "name": "Josh Kaye",
+          "is_company": false,
+          "headline": "Vice President of Sales at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGN3lJ8wHQPFQ/profile-displayphoto-scale_400_400/B56Zy_JUnBHQAg-/0/1772733422845?e=1786579200&v=beta&t=14ydX_pRlDMxJ12ra_LUDz7a_QjGAH-begA8N_gclV0"
+        },
+        "id": "7470168753121640448",
+        "is_repost": false,
+        "parsed_datetime": "2026-06-09T17:43:39.768Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7429955549271715840",
+        "share_url": "https://www.linkedin.com/posts/joshkaye0704_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE-%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-activity-7429955549271715840-Rs93?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "5mo",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 76,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "𝗧𝗵𝗲 𝗔𝗜 𝗲𝗿𝗮 𝗶𝘀 𝗵𝗲𝗿𝗲, 𝗮𝗻𝗱 𝘄𝗲'𝗿𝗲 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗶𝘁\n\nBig news from ClickUp 🏆\n \nWe just won G2's 2026 Best Software Awards. And not just in one category, in nine of them.\n \nThe ones I'm most fired up about? 𝗕𝗲𝘀𝘁 𝗔𝗜 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀 𝗮𝗻𝗱 𝗕𝗲𝘀𝘁 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀.\n \nThat's G2 recognizing what our customers already know: ClickUp isn't just adding AI features, we're building the future of how work actually gets done.\n \nAnd the full list shows just how wide that impact reaches:\n \n🏆 Best AI Software Products\n🏆 Best Agentic AI Software Products\n🏆 Best Software Products\n🏆 Best Project Management Software Products\n🏆 Best Global Software Companies\n🏆 Best Content Management Systems Products\n🏆 Best Development Software Products\n🏆 Best HR Software Products\n🏆 Best IT Management Software Products\n \nThese awards are powered by real customer reviews and real experiences, which makes them mean that much more.\n \nProud to be part of the team making this happen!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 56
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D5622AQE34dsJBhHLLQ",
+            "sticker": false,
+            "size": {
+              "height": 800,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQE34dsJBhHLLQ/feedshare-shrink_800/B56ZxyBM1wHQAg-/0/1771439443706?e=1786579200&v=beta&t=RQE6GM1o-VI-00wstgHa-9usbyf-XCaU0dhtEcYq4ko"
+          }
+        ],
+        "author": {
+          "public_identifier": "joshkaye0704",
+          "id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+          "name": "Josh Kaye",
+          "is_company": false,
+          "headline": "Vice President of Sales at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGN3lJ8wHQPFQ/profile-displayphoto-scale_400_400/B56Zy_JUnBHQAg-/0/1772733422845?e=1786579200&v=beta&t=14ydX_pRlDMxJ12ra_LUDz7a_QjGAH-begA8N_gclV0"
+        },
+        "id": "7429955549271715840",
+        "is_repost": false,
+        "parsed_datetime": "2026-02-18T18:30:44.845Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7408937802752548865",
+        "share_url": "https://www.linkedin.com/posts/joshkaye0704_today-were-launching-the-first-and-only-activity-7408938682705022976-OThF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "7mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 70,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Today we’re launching the first and only human-like AI agents in the world.\n\nClickUp Super Agents – AI coworkers that live inside your workspace and actually do the work with you.\n \nThey connect to all your work: your projects, docs, and conversations. They act like real teammates, but work like superheroes: completing tasks, scheduling work, fixing bugs, and running entire workflows end-to-end.\n\nThis is what AI at work was supposed to be: not another chatbot, but helpful agents embedded in the way your team already works.\n \nSuper Agents maximize your team's productivity.\n \nWatch the launch video below to see Super Agents in action.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 77
+          }
+        ],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D5605AQFmy2rZKGUngw",
+            "size": {
+              "height": 720,
+              "width": 1280
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQFmy2rZKGUngw/mp4-720p-30fp-crf28/B56ZtHWTXKJoCM-/0/1766428631204?e=1785510000&v=beta&t=RrfEqsaBpVyFDvYkrXd4czWa8iGNa40twn8etl76blY"
+          }
+        ],
+        "author": {
+          "public_identifier": "joshkaye0704",
+          "id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+          "name": "Josh Kaye",
+          "is_company": false,
+          "headline": "Vice President of Sales at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGN3lJ8wHQPFQ/profile-displayphoto-scale_400_400/B56Zy_JUnBHQAg-/0/1772733422845?e=1786579200&v=beta&t=14ydX_pRlDMxJ12ra_LUDz7a_QjGAH-begA8N_gclV0"
+        },
+        "id": "7408938682705022976",
+        "is_repost": false,
+        "parsed_datetime": "2025-12-22T18:37:13.381Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7404922617134059520",
+        "share_url": "https://www.linkedin.com/posts/joshkaye0704_clickup-40-is-here-this-isnt-just-another-activity-7404922872365924352-qS6J?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "7mo",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 47,
+        "repost_counter": 2,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "ClickUp 4.0 is here!\n\nThis isn't just another update, it’s the result of countless conversations and time spent with our customers, partners and community - learning about how they work, their challenges with work sprawl, and how to solve critical business problems with ClickUp. \n\nThis is the first true converged AI Workspace. Your tasks, docs, chat, calendar, and agents working together as one system so ideas do not get scattered and execution becomes effortless. Complete context for humans and AI alike. Just you, your team, and a workspace built to elevate the way you work.\n\nClickUp 4.0 is live now. Let’s get to work.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 0
+          }
+        ],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D5605AQGgMIKr4IA9gw",
+            "size": {
+              "height": 720,
+              "width": 1280
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGgMIKr4IA9gw/mp4-720p-30fp-crf28/B56ZsOSBH0G8CI-/0/1765471187420?e=1785510000&v=beta&t=ZquTJ4BEy76ReZJqS4nfuOPRJYAh-azH-GgOP4Y9TF8"
+          }
+        ],
+        "author": {
+          "public_identifier": "joshkaye0704",
+          "id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+          "name": "Josh Kaye",
+          "is_company": false,
+          "headline": "Vice President of Sales at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGN3lJ8wHQPFQ/profile-displayphoto-scale_400_400/B56Zy_JUnBHQAg-/0/1772733422845?e=1786579200&v=beta&t=14ydX_pRlDMxJ12ra_LUDz7a_QjGAH-begA8N_gclV0"
+        },
+        "id": "7404922872365924352",
+        "is_repost": false,
+        "parsed_datetime": "2025-12-11T16:39:49.586Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7393844195406323712",
+        "share_url": "https://www.linkedin.com/posts/joshkaye0704_come-work-with-me-there-is-an-open-role-activity-7393844195406323712-hUId?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "8mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 32,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Come work with one of the best in the game Aaron Hirsch!!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAANbaigBlcpLND2f3XCXLid6xbRZmtoF3Ek",
+            "length": 12,
+            "start": 43
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "joshkaye0704",
+          "id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+          "name": "Josh Kaye",
+          "is_company": false,
+          "headline": "Vice President of Sales at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGN3lJ8wHQPFQ/profile-displayphoto-scale_400_400/B56Zy_JUnBHQAg-/0/1772733422845?e=1786579200&v=beta&t=14ydX_pRlDMxJ12ra_LUDz7a_QjGAH-begA8N_gclV0"
+        },
+        "id": "7393844195406323712",
+        "is_repost": true,
+        "repost_id": "7393844195406323712",
+        "parsed_datetime": "2025-11-11T02:57:07.167Z",
+        "repost_content": {
+          "id": "7393815417191874560",
+          "date": "8mo",
+          "parsed_datetime": "2025-11-11T01:02:45.906Z",
+          "text": "Come work with me!  There is an open role to join my team in the ClickUp Legal Department as a Commercial Attorney.  This is an amazing opportunity to do career defining work at a company headed directly to the moon.  If you are interested or know anybody who is, please apply at the link!",
+          "author": {
+            "public_identifier": "aaronfane",
+            "id": "ACoAAANbaigBlcpLND2f3XCXLid6xbRZmtoF3Ek",
+            "name": "Aaron Hirsch",
+            "is_company": false
+          },
+          "job_posting": {
+            "id": "4335490106",
+            "title": "Commercial Attorney",
+            "location": "United States (Remote)",
+            "company": {
+              "id": "12949663",
+              "name": "ClickUp",
+              "picture_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEql6F93s_63Q/company-logo_200_200/B4EZiaeAFtHEAM-/0/1754938213277/clickup_app_logo?e=1786579200&v=beta&t=-RJRWir1H1o12Fdy9sN3yZrVO2XxqTmQbjKz4UzHN7E"
+            }
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7374116177016446976",
+        "share_url": "https://www.linkedin.com/posts/joshkaye0704_forrester-study-the-total-economic-impact-activity-7374116177016446976-28zX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 40,
+        "repost_counter": 3,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "A Forrester study on the total economic impact of ClickUp concluded:\n\n🚀 384% return on investment\n💰 $3.9 million in additional revenue\n⚡️ Payback in less than six months\n\nOn top of that, 92,400 hours saved per year.\n40 hour work week * 50 work weeks = 46 full time employees.\n 🤯 ClickUp adds so much productivity, saves so much time...it's like having almost 50 extra people on staff.\n \nThat's the value of killing Work Sprawl. Of investing in a Converged AI Workspace.\n\nThese results happened because organizations unified their work, connected it with world-class AI, and empowered teams to collaborate in real time. AI and automation took care of the repetitive stuff, so people could focus on what actually moves the needle.\n\nThe real breakthrough? Convergence. When you bring all your work, context, and automation into one AI-powered Workspace, you don’t just get efficiency. You unlock new compounding capacity for focus, creativity, and results.\n\nIf you're reading this and your company is not using ClickUp, or not using it across at least 80% of your business, reach out and let us help deliver the above! \n\nRead the study here to learn more: https://bit.ly/4n3PplP",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "joshkaye0704",
+          "id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+          "name": "Josh Kaye",
+          "is_company": false,
+          "headline": "Vice President of Sales at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGN3lJ8wHQPFQ/profile-displayphoto-scale_400_400/B56Zy_JUnBHQAg-/0/1772733422845?e=1786579200&v=beta&t=14ydX_pRlDMxJ12ra_LUDz7a_QjGAH-begA8N_gclV0"
+        },
+        "id": "7374116177016446976",
+        "is_repost": false,
+        "parsed_datetime": "2025-09-17T16:25:01.054Z",
+        "article": {
+          "id": "8967361975514417923",
+          "title": "Forrester Study: The Total Economic Impact™ Of ClickUp",
+          "author": "clickup.com",
+          "url": "https://bit.ly/4n3PplP",
+          "published_at": "2037-10-01T04:55:00.491Z",
+          "picture_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEfc8rp-_J0UQ/articleshare-shrink_800/B56ZlOk_wdIAAI-/0/1761041269862?e=1785510000&v=beta&t=JAdiRVrN3HfHWgRuibvCWgD4_qzQTeFf0jKNXhz_1js"
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7373753843148353536",
+        "share_url": "https://www.linkedin.com/posts/joshkaye0704_smasholdgtm-activity-7373753843148353536-nawU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 6,
+        "impressions_counter": 0,
+        "reaction_counter": 72,
+        "repost_counter": 2,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "This landed from Pocus today, and it’s a toss up of whether my kids enjoyed smashing the old sales playbook piñata more or eating all the purple candy! Their purple tongues say it all!! \n\nWhat’s not a toss up is the old playbook no longer works. Tons of data and signal flagging, overwhelming sellers and leading to spray and pray outreach is not impactful. What is then?\n\nSignals —> Intelligent Prioritizaton —>  Prescriptive Guidance = Outcomes \n\nCongrats to Pocus on their launch today! \n#SmashOldGTM",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/pocus/",
+            "length": 5,
+            "start": 17
+          },
+          {
+            "url": "https://www.linkedin.com/company/pocus/",
+            "length": 5,
+            "start": 461
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D5622AQG4Q5BQgW64wg",
+            "sticker": false,
+            "size": {
+              "height": 405,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQG4Q5BQgW64wg/feedshare-shrink_800/B56ZlTV7lBI0Ag-/0/1758039911693?e=1786579200&v=beta&t=BpdKMS-j_Fy0t7RVlS4O2VjwfkZMoN7x_RiXfT59mYc"
+          }
+        ],
+        "author": {
+          "public_identifier": "joshkaye0704",
+          "id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+          "name": "Josh Kaye",
+          "is_company": false,
+          "headline": "Vice President of Sales at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGN3lJ8wHQPFQ/profile-displayphoto-scale_400_400/B56Zy_JUnBHQAg-/0/1772733422845?e=1786579200&v=beta&t=14ydX_pRlDMxJ12ra_LUDz7a_QjGAH-begA8N_gclV0"
+        },
+        "id": "7373753843148353536",
+        "is_repost": false,
+        "parsed_datetime": "2025-09-16T16:25:13.928Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7371190953870766080",
+        "share_url": "https://www.linkedin.com/posts/joshkaye0704_clickup-just-blew-past-300m-arr-but-were-activity-7371190954457825280-m6M4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 6,
+        "impressions_counter": 0,
+        "reaction_counter": 43,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "What happens when the right product, strategy, and people come together? Amazing milestones, like crossing $300m ARR 🎉\n\nCongrats to everyone at ClickUp, past and present, and to our incredible customers for making this milestone possible 🤝\n\nWhile we celebrate today, we reset the bar even higher tomorrow as the best is yet to come! 🚀",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 144
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "joshkaye0704",
+          "id": "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo",
+          "name": "Josh Kaye",
+          "is_company": false,
+          "headline": "Vice President of Sales at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGN3lJ8wHQPFQ/profile-displayphoto-scale_400_400/B56Zy_JUnBHQAg-/0/1772733422845?e=1786579200&v=beta&t=14ydX_pRlDMxJ12ra_LUDz7a_QjGAH-begA8N_gclV0"
+        },
+        "id": "7371190953870766080",
+        "is_repost": true,
+        "repost_id": "7371190954457825280",
+        "parsed_datetime": "2025-09-09T14:41:13.508Z",
+        "repost_content": {
+          "id": "7371180996961976320",
+          "date": "10mo",
+          "parsed_datetime": "2025-09-09T14:01:39.596Z",
+          "text": "ClickUp just blew past $300M ARR. But we're not just celebrating a number.\n\nWe're stopping to celebrate the entire journey - before we move the goal post again.\n\nAnd this journey has been nothing short of extraordinary. We’ve grown from a small team with a huge dream into a global company helping 20M+ people maximize their productivity.\n\n7 years ago, we set out with an ambitious vision.\n\nWe built ClickUp to end the chaos of work sprawl and converge many software categories together. We started when \"one app\" was seen as the wrong strategy, but today it's the only strategy to realize our mission of making people more productive.\n\nBecause 100% context is the single most important thing for enabling human productivity from AI.\n\nSo, this milestone? We stop. We breathe. We practice gratitude. We celebrate.\n\nTo our customers: Thank you so much for believing in us, and for sticking with us through growing pains.\n\nTo our teams: I'm infinitely grateful for how much you care, it energizes me to keep going every single day.\n\nWe’re just getting started. Thank you to everyone who’s been part of this story. 💜",
+          "author": {
+            "public_identifier": "zebevansclickup",
+            "id": "ACoAAAccGvwBQet_UtnjCJgTQxExDvFcoT02dKM",
+            "name": "Zeb Evans",
+            "is_company": false
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAJiEykBJpSvLhRCcYAVP3paO-TeKTsIvOo"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 9,
+      "total_count": 9
+    },
+    "cursor": null
+  }
+}

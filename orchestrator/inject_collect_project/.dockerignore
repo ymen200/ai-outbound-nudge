@@ -1,0 +1,109 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+
+# Documentation & Configuration
+README*.md
+documentation/
+*.md
+
+# Data directories (will be created at runtime)
+scraped_data/
+merged_profiles/
+comparisons/
+personas_discovered/
+archive/
+
+# Docker files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.sublime-workspace
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Archives
+archive/
+*.tar
+*.tar.gz
+*.zip
+
+# Documentation (optional - remove if you want docs in image)
+*.md
+documentation/
+
+# Testing
+test/
+tests/
+*.test.py
+
+# OS
+Thumbs.db
+.DS_Store
+*.log
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+Jenkinsfile

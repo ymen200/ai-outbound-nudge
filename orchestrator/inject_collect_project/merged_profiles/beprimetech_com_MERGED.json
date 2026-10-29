@@ -1,0 +1,174 @@
+{
+    "annual_revenue": null,
+    "apollo_id": "637c9f4a009ac60001489718",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "departments": {
+        "engineering": 7,
+        "human_resources": 1,
+        "information_technology": 1,
+        "marketing": 1,
+        "arts_and_design": 1,
+        "accounting": 0,
+        "sales": 0,
+        "operations": 0,
+        "finance": 0,
+        "legal": 0,
+        "business_development": 0,
+        "product_management": 0,
+        "consulting": 0,
+        "education": 0,
+        "administrative": 0,
+        "media_and_commmunication": 0,
+        "entrepreneurship": 0,
+        "support": 0,
+        "data_science": 0
+    },
+    "domain": "beprimetech.com",
+    "estimated_num_employees": 13,
+    "facebook_url": null,
+    "founded_year": null,
+    "funding_events": [],
+    "industry": "Travel & Hospitality Technology",
+    "keywords": [
+        "it services & it consulting",
+        "b2b",
+        "saas",
+        "services",
+        "information technology & services",
+        "computer software",
+        "Travel Management",
+        "Tourism Technology",
+        "Hospitality Tech",
+        "GDS",
+        "OTA",
+        "CRM",
+        "Booking Engine",
+        "Automated Invoicing",
+        "Real-time Analytics",
+        "Tunisia",
+        "BeSmartTravel",
+        "BePrimeTech"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/be-prime-tech",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/671a5a2f9376300001497f32/picture",
+    "name": "BePrimeTech",
+    "num_suborganizations": 1,
+    "phone": null,
+    "raw_address": "12 شارع عبد الرحمان عزام, Tunisia",
+    "seo_description": "BeSmartTravel — Plateforme de Gestion de Voyages Tout-en-Un Technologie de nouvelle génération pour le tourisme et l'hôtellerie",
+    "short_description": "Plateforme de gestion de voyage tout-en-un fournissant des solutions technologiques pour l'hôtellerie et le tourisme.",
+    "street_address": "12 شارع عبد الرحمان عزام",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "BeSmartTravel",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+        },
+        {
+            "uid": "mailjet",
+            "name": "MailJet",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nextjs",
+            "name": "Next.js",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "ovhcloud",
+            "name": "OVHcloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "tailwind_css",
+            "name": "Tailwind CSS",
+            "category": "CSS Framework"
+        },
+        {
+            "uid": "artificial_intelligence",
+            "name": "Artificial Intelligence",
+            "category": "Advanced Features"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.beprimetech.com",
+    "is_subsidiary": false,
+    "competitors": [
+        "Amadeus",
+        "Sabre",
+        "Cloudbeds",
+        "SiteMinder",
+        "TravelClick"
+    ],
+    "data_quality_score": 0.93
+}

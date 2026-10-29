@@ -1,0 +1,229 @@
+{
+    "domain": "green-cross.org.uk",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Green Cross United Kingdom",
+            "ai_value": "Green Cross United Kingdom"
+        },
+        "domain": {
+            "database_value": "green-cross.org.uk",
+            "ai_value": "green-cross.org.uk"
+        },
+        "industry": {
+            "database_value": "nonprofit organization management",
+            "ai_value": "Environmental Non-Profit / Sustainability Consulting"
+        },
+        "founded_year": {
+            "database_value": 2020,
+            "ai_value": 1993
+        },
+        "short_description": {
+            "database_value": "Green Cross United Kingdom (G+UK) is a non-governmental organization and a national member of Green Cross International, founded by Nobel Peace Prize laureate Mikhail Gorbachev in 1993. The organization focuses on promoting sustainable environmental, human, and social development through various initiatives and programs worldwide.\n\nG+UK operates within a global network that emphasizes shared responsibility for humanity and the planet. It addresses challenges such as security, poverty, and environmental degradation to foster a sustainable future. The organization engages in dialogue, mediation, and cooperation to promote solutions in key areas, including education for environmental sustainability, resource conflict prevention, and climate action. G+UK collaborates with partners like Vostock Capital and Permutable AI to implement programs aimed at mitigating the impacts of events and promoting sustainable practices.",
+            "ai_value": "Independent UN-Backed Sustainability Partner that convenes and partners with governments, multilateral institutions, and corporations to translate sustainability challenges into actionable projects."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Green Cross UK is an independent UN-Backed Sustainability Partner, founded in 1993, dedicated to deploying sustainable solutions and translating global sustainability challenges into actionable projects."
+        },
+        "annual_revenue": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "total_funding": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "latest_funding_stage": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "estimated_num_employees": {
+            "database_value": 11,
+            "ai_value": null
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/green-cross-united-kingdom",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "facebook_url": {
+            "database_value": "Non renseigné",
+            "ai_value": null
+        },
+        "phone": {
+            "database_value": "+44 330 818 7382",
+            "ai_value": "+44 (0) 330 818 7382"
+        },
+        "raw_address": {
+            "database_value": "7 Bell Yard, London, England WC2A 2JR, GB",
+            "ai_value": "PO Box 12155, LONDON, WC1V 6DP, United Kingdom"
+        },
+        "city": {
+            "database_value": "London",
+            "ai_value": "LONDON"
+        },
+        "country": {
+            "database_value": "United Kingdom",
+            "ai_value": "United Kingdom"
+        },
+        "num_suborganizations": {
+            "database_value": 0,
+            "ai_value": 0
+        },
+        "keywords": {
+            "database_value": [
+                "global change",
+                "international ngo",
+                "climate positive",
+                "energy transition",
+                "climate change",
+                "climate caos",
+                "sustainable development",
+                "non for profit",
+                "sustainable infrastructure",
+                "non-profit organizations",
+                "sustainable fintech",
+                "environmental impact",
+                "web3 sustainability",
+                "digital expansion",
+                "climate action",
+                "green finance",
+                "technology for sustainability",
+                "sustainable infrastructure certification",
+                "social advocacy organizations",
+                "sustainable impact",
+                "environmental degradation",
+                "waste management",
+                "collaborative solutions",
+                "services",
+                "energy & utilities",
+                "social justice",
+                "nft for indigenous communities",
+                "community involvement",
+                "oceanic odysseys",
+                "decarbonisation",
+                "climate positive awards",
+                "climate + mining",
+                "nonprofit organization",
+                "environmental services",
+                "sustainable urbanization",
+                "net-zero emissions",
+                "b2b",
+                "regenerative agriculture",
+                "sustainability",
+                "climate positive initiatives",
+                "green cross certificates",
+                "environmental protection",
+                "sustainable soil restoration",
+                "community projects",
+                "renewable energy",
+                "construction & real estate",
+                "peacebuilding",
+                "circular economy",
+                "innovation",
+                "impact measurement",
+                "digital transformation",
+                "sustainable solutions",
+                "ngo",
+                "finance",
+                "non-profit",
+                "renewables & environment",
+                "nonprofit organization management",
+                "clean energy & technology",
+                "financial services"
+            ],
+            "ai_value": "sustainability, UN-Backed, environmental security, climate change, biodiversity loss, social justice, human security, peace, sustainable development, Global Change, Doughnut Economics, positive impact, strategic partner, collaborations, climate conventions"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "amazon_aws",
+                    "name": "Amazon AWS",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "gusto",
+                    "name": "Gusto",
+                    "category": "Human Capital Management"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "webmail",
+                    "name": "Webmail",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "wordpress_org",
+                    "name": "WordPress.org",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "youtube",
+                    "name": "YouTube",
+                    "category": "Online Video Platforms"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "Hostinger Website Builder",
+                    "category": "Website Builder",
+                    "confidence": 0.99,
+                    "source": "Déduction IA depuis empreinte technique: x-powered-by: HostingerWebsiteBuilder",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.54,
+                        "evidence_density": 0.32
+                    }
+                },
+                {
+                    "name": "Zyro",
+                    "category": "Website Builder Platform",
+                    "confidence": 0.9,
+                    "source": "Déduction IA depuis empreinte technique: link: <https://assets.zyrosite.com>",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.8,
+                        "evidence_density": 0.05
+                    }
+                },
+                {
+                    "name": "Hostinger CDN",
+                    "category": "CDN",
+                    "confidence": 0.85,
+                    "source": "Déduction IA depuis empreinte technique: server: hcdn",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.58,
+                        "evidence_density": 0.25
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "funding_events": {
+            "database_value": [],
+            "ai_value": []
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Carbon Trust",
+                "Forum for the Future",
+                "SustainAbility (ERM)",
+                "World Resources Institute (WRI) UK",
+                "International Institute for Environment and Development (IIED)"
+            ]
+        }
+    }
+}

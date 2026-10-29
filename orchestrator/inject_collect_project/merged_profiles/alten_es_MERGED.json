@@ -1,0 +1,1091 @@
+{
+    "alexa_ranking": 371171,
+    "annual_revenue": 369360000,
+    "apollo_id": "601033c2c51abe011a0a7771",
+    "city": "Madrid",
+    "country": "Spain",
+    "departments": {
+        "engineering": 465,
+        "business_development": 86,
+        "data_science": 17,
+        "information_technology": 97,
+        "consulting": 158,
+        "finance": 23,
+        "human_resources": 43,
+        "operations": 7,
+        "support": 23,
+        "product_management": 7,
+        "administrative": 10,
+        "sales": 7,
+        "arts_and_design": 12,
+        "accounting": 4,
+        "media_and_commmunication": 3,
+        "marketing": 1,
+        "legal": 2,
+        "education": 0,
+        "entrepreneurship": 0
+    },
+    "domain": "alten.es",
+    "estimated_num_employees": "5500",
+    "facebook_url": "https://facebook.com/altenspain",
+    "founded_year": 1989,
+    "funding_events": [
+        {
+            "id": "6965fe81f8c3e80001035b8a",
+            "date": "2017-09-01T00:00:00.000+00:00",
+            "type": "Other",
+            "amount": "Non renseigné",
+            "currency": "€",
+            "investors": "Eureka"
+        }
+    ],
+    "industry": "Engineering and IT Services",
+    "keywords": [
+        "consultoria e ingenieria en tecnologias avanzadas & servicios globales de tecnologias de la informa",
+        "servicios globales de tecnologias de la informacion",
+        "consultoria e ingenieria en tecnologias avanzadas",
+        "it services & it consulting",
+        "iot integration",
+        "supply chain",
+        "project management",
+        "digital infrastructure",
+        "consulting services",
+        "iot",
+        "predictive maintenance",
+        "security",
+        "data analytics",
+        "it project support",
+        "client-focused services",
+        "predictive analytics",
+        "digital innovation",
+        "r&d digital support",
+        "advanced technology use",
+        "digital project execution",
+        "energy storage",
+        "digital twin",
+        "digital solutions development",
+        "machine learning",
+        "artificial intelligence",
+        "digital tools",
+        "technology consulting",
+        "qa",
+        "it consulting",
+        "defense",
+        "system integration",
+        "employee development",
+        "sector-specific engineering",
+        "digital transformation",
+        "digital marketing",
+        "electric vehicle systems",
+        "engineering services",
+        "engineering talent development",
+        "software engineering",
+        "data management",
+        "simulink",
+        "client relationship management",
+        "digital project management",
+        "digital supply chain",
+        "software development",
+        "automation",
+        "product lifecycle management",
+        "telecom infrastructure",
+        "b2b",
+        "supply chain digitalization",
+        "software solutions support",
+        "it solutions support",
+        "it and engineering integration",
+        "engineering consulting",
+        "digital tools support",
+        "it solutions",
+        "cloud infrastructure",
+        "client support",
+        "software testing",
+        "quality",
+        "multinational",
+        "engineering project management",
+        "robotics integration",
+        "advanced materials",
+        "government",
+        "digital engineering",
+        "technology deployment",
+        "life sciences innovation",
+        "retail",
+        "it infrastructure",
+        "renewable energy",
+        "services",
+        "ai in manufacturing",
+        "engineering talent",
+        "technology solutions",
+        "sector support services",
+        "innovation services",
+        "cybersecurity",
+        "industrial equipment",
+        "it support services",
+        "market research",
+        "technological innovation",
+        "client relationships",
+        "talent acquisition",
+        "digital strategy",
+        "cybersecurity solutions",
+        "digital factory",
+        "risk management",
+        "virtual prototyping",
+        "technology support",
+        "sector support",
+        "finance",
+        "electronics manufacturing",
+        "telecommunications",
+        "cybersecurity in defense",
+        "facebook ads",
+        "client-centric solutions",
+        "cloud-based engineering",
+        "automated testing",
+        "it services",
+        "digital innovation tools",
+        "engineering projects",
+        "digital solutions",
+        "industry 4.0",
+        "supply chain management",
+        "e-commerce",
+        "big data",
+        "power bi",
+        "digital platforms",
+        "technology-driven services",
+        "aerospace engineering",
+        "product development",
+        "ai",
+        "big data analytics",
+        "talent management",
+        "autonomous vehicles",
+        "smart city solutions",
+        "aerospace",
+        "r&d support",
+        "advanced control systems",
+        "consulting",
+        "smart manufacturing",
+        "innovation",
+        "automotive electrification",
+        "advanced technologies",
+        "defense systems",
+        "engineering expertise",
+        "project delivery",
+        "engineering and it integration",
+        "cloud computing",
+        "energy",
+        "professional workforce",
+        "enterprise software",
+        "life sciences",
+        "sector-specific solutions",
+        "spain market",
+        "automotive",
+        "integrated software",
+        "quality assurance",
+        "environmental solutions",
+        "telecom services",
+        "automotive engineering",
+        "public sector",
+        "banking and finance",
+        "retail and media",
+        "digital journey",
+        "hmi systems",
+        "intelligent systems",
+        "nuclear engineering",
+        "heavy equipment",
+        "api development",
+        "crisis management",
+        "business analysis",
+        "lean methodology",
+        "infrastructure management",
+        "embedded systems",
+        "smart cities",
+        "mobility solutions",
+        "high-precision engineering",
+        "market innovation",
+        "customer support solutions",
+        "remote monitoring",
+        "energy optimization",
+        "legal compliance",
+        "healthcare",
+        "manufacturing",
+        "transportation & logistics",
+        "energy & utilities",
+        "information technology & services",
+        "productivity",
+        "management consulting",
+        "enterprises",
+        "computer software",
+        "oil & energy",
+        "marketing & advertising",
+        "internet infrastructure",
+        "internet",
+        "material science",
+        "clean energy & technology",
+        "environmental services",
+        "renewables & environment",
+        "marketing",
+        "financial services",
+        "logistics & supply chain",
+        "consumer internet",
+        "consumers",
+        "aviation & aerospace",
+        "embedded hardware & software",
+        "hardware",
+        "analytics",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "mechanical or industrial engineering",
+        "Ingeniería",
+        "Servicios IT",
+        "I+D",
+        "Innovación",
+        "Aeronáutica",
+        "Espacio",
+        "Defensa",
+        "Naval",
+        "Automoción",
+        "Ferrocarril",
+        "Energía",
+        "Finanzas",
+        "Telecomunicaciones"
+    ],
+    "latest_funding_stage": "Other",
+    "linkedin_url": "http://www.linkedin.com/company/alten-spain",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6835967374edf50001a17bef/picture",
+    "name": "ALTEN Spain",
+    "num_suborganizations": "11",
+    "phone": "+34 91 791 00 00",
+    "postal_code": "28033",
+    "raw_address": "Parque Empresarial Cristalia, C/ Vía de los Poblados, 3, Edificio 5 – Planta 2ª, 28033 Madrid",
+    "seo_description": "LÍDER EN INGENIERÍA Y SERVICIOS IT",
+    "short_description": "Líder en Ingeniería y Servicios IT, apoyando las estrategias de desarrollo de sus clientes en las áreas de innovación, I+D y sistemas de información tecnológica.",
+    "state": "Community of Madrid",
+    "street_address": "3 Calle Via de los Poblados",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "Barcelona",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Pamplona",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Madrid",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Valladolid",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Cádiz",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Sevilla",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Vigo",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Málaga",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Murcia",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "gis",
+            "name": ".GIS",
+            "category": "Other"
+        },
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "3dexperience_platform",
+            "name": "3DEXPERIENCE Platform",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "ac500_plc",
+            "name": "AC500 PLC",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amos",
+            "name": "AMOS",
+            "category": "Other"
+        },
+        {
+            "uid": "angel_lms",
+            "name": "ANGEL LMS",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "ares",
+            "name": "ARES",
+            "category": "Other"
+        },
+        {
+            "uid": "aws_sdk_for_javascript",
+            "name": "AWS SDK for JavaScript",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "aws_transfer_for_sftp",
+            "name": "AWS Transfer for SFTP",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_trusted_advisor",
+            "name": "AWS Trusted Advisor",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "adara",
+            "name": "Adara",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "altium_365",
+            "name": "Altium 365",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_freertos",
+            "name": "Amazon FreeRTOS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_linux_2",
+            "name": "Amazon Linux 2",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_web_services_aws",
+            "name": "Amazon Web Services (AWS)",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "angular",
+            "name": "Angular",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "apache_http_server",
+            "name": "Apache HTTP Server",
+            "category": "Hosting"
+        },
+        {
+            "uid": "apache_hadoop_hdfs",
+            "name": "Apache Hadoop HDFS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apache_kafka",
+            "name": "Apache Kafka",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "apache_tomcat",
+            "name": "Apache Tomcat",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "appium",
+            "name": "Appium",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "azure_active_directory",
+            "name": "Azure Active Directory",
+            "category": "Security"
+        },
+        {
+            "uid": "azure_active_directory_b2c",
+            "name": "Azure Active Directory B2C",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_app_service",
+            "name": "Azure App Service",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_linux_virtual_machines",
+            "name": "Azure Linux Virtual Machines",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_sentinel",
+            "name": "Azure Sentinel",
+            "category": "Event Management"
+        },
+        {
+            "uid": "bash",
+            "name": "Bash",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "bigtincan_readiness_formerly_brainshark",
+            "name": "Bigtincan Readiness (formerly Brainshark)",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "broadcom_service_virtualization",
+            "name": "Broadcom Service Virtualization",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "burp_suite",
+            "name": "Burp Suite",
+            "category": "Security"
+        },
+        {
+            "uid": "c#",
+            "name": "C#",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "c_c_sharp",
+            "name": "C# (C Sharp)",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "canalyzer",
+            "name": "CANalyzer",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "catia",
+            "name": "CATIA",
+            "category": "Other"
+        },
+        {
+            "uid": "cet",
+            "name": "CET",
+            "category": "Other"
+        },
+        {
+            "uid": "cmake",
+            "name": "CMake",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "css",
+            "name": "CSS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "cameo_systems_modeler",
+            "name": "Cameo Systems Modeler",
+            "category": "Other"
+        },
+        {
+            "uid": "catylist_sitelink",
+            "name": "Catylist SiteLink",
+            "category": "CMS"
+        },
+        {
+            "uid": "centos",
+            "name": "CentOS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "cisco_secure_firewall_management_center",
+            "name": "Cisco Secure Firewall Management Center",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "citrix",
+            "name": "Citrix",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cloudflare_hosting",
+            "name": "CloudFlare Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "cross_pixel_media",
+            "name": "Cross Pixel Media",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "cucumber",
+            "name": "Cucumber",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ddscad",
+            "name": "DDS-CAD",
+            "category": "Contruction Management Platform"
+        },
+        {
+            "uid": "dassault_delmia",
+            "name": "Dassault DELMIA",
+            "category": "ERP"
+        },
+        {
+            "uid": "dassault_draftsight",
+            "name": "Dassault DraftSight",
+            "category": "Other"
+        },
+        {
+            "uid": "django",
+            "name": "Django",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "docker",
+            "name": "Docker",
+            "category": "Other"
+        },
+        {
+            "uid": "docking_mdi_for_wpf",
+            "name": "Docking & MDI for WPF",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "dotnetnuke",
+            "name": "DotNetNuke",
+            "category": "CMS"
+        },
+        {
+            "uid": "dune_analytics",
+            "name": "Dune Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "elite_software_hvac_solution",
+            "name": "Elite Software HVAC Solution",
+            "category": "Other"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "express_js_framework",
+            "name": "Express JS Framework",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "fliphtml5",
+            "name": "FlipHTML5",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "git",
+            "name": "Git",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "grafana",
+            "name": "Grafana",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "hyperlynx",
+            "name": "HyperLynx",
+            "category": "Other"
+        },
+        {
+            "uid": "ibm_ilog_cplex_optimization_studio",
+            "name": "IBM ILOG CPLEX Optimization Studio",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "ibm_rational_doors",
+            "name": "IBM Rational DOORS",
+            "category": "Other"
+        },
+        {
+            "uid": "ibm_zos_operating_system",
+            "name": "IBM z/OS Operating System",
+            "category": "Other"
+        },
+        {
+            "uid": "ivanti_nac",
+            "name": "Ivanti NAC",
+            "category": "Security"
+        },
+        {
+            "uid": "jpa_health",
+            "name": "JPA Health",
+            "category": "Other"
+        },
+        {
+            "uid": "javascript",
+            "name": "Javascript",
+            "category": "Other"
+        },
+        {
+            "uid": "jenkins",
+            "name": "Jenkins",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "jira",
+            "name": "Jira",
+            "category": "CMS"
+        },
+        {
+            "uid": "kubernetes",
+            "name": "Kubernetes",
+            "category": "Other"
+        },
+        {
+            "uid": "labview",
+            "name": "LabVIEW",
+            "category": "Other"
+        },
+        {
+            "uid": "labware_lims",
+            "name": "LabWare LIMS",
+            "category": "Other"
+        },
+        {
+            "uid": "matlab",
+            "name": "MATLAB",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "mitre_attck",
+            "name": "MITRE ATT&CK",
+            "category": "Event Management"
+        },
+        {
+            "uid": "mailup",
+            "name": "MailUp",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "micro",
+            "name": "Micro",
+            "category": "Other"
+        },
+        {
+            "uid": "microstrategy",
+            "name": "MicroStrategy",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_active_directory_federation_services",
+            "name": "Microsoft Active Directory Federation Services",
+            "category": "Event Management"
+        },
+        {
+            "uid": "microsoft_advanced_group_policy_management",
+            "name": "Microsoft Advanced Group Policy Management",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft_azure_monitor",
+            "name": "Microsoft Azure Monitor",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "microsoft dynamics 365 ce",
+            "name": "Microsoft Dynamics 365 CE",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_power_apps",
+            "name": "Microsoft Power Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_power_automate",
+            "name": "Microsoft Power Automate",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "microsoft_powershell",
+            "name": "Microsoft PowerShell",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "microsoft project",
+            "name": "Microsoft Project",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_sql_server_reporting_services",
+            "name": "Microsoft SQL Server Reporting Services",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "microsoft_windows_server_2012",
+            "name": "Microsoft Windows Server 2012",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft-iis",
+            "name": "Microsoft-IIS",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "mode",
+            "name": "Mode",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "modelsim",
+            "name": "ModelSim",
+            "category": "Other"
+        },
+        {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+        },
+        {
+            "uid": "netscaler",
+            "name": "NetScaler",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "nutanix",
+            "name": "Nutanix",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "nutanix_beam",
+            "name": "Nutanix Beam",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "osisoft_pi",
+            "name": "OSIsoft PI",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "owasp_zed_attack_proxy_zap",
+            "name": "OWASP Zed Attack Proxy (ZAP)",
+            "category": "Security"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "opensearch",
+            "name": "OpenSearch",
+            "category": "ERP"
+        },
+        {
+            "uid": "openstack",
+            "name": "OpenStack",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "orcad_pspice_designer",
+            "name": "OrCAD PSpice Designer",
+            "category": "Other"
+        },
+        {
+            "uid": "oracle_analytics_cloud",
+            "name": "Oracle Analytics Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "oracle_glassfish",
+            "name": "Oracle GlassFish",
+            "category": "Hosting"
+        },
+        {
+            "uid": "oracle_http_server",
+            "name": "Oracle HTTP Server",
+            "category": "Hosting"
+        },
+        {
+            "uid": "oracle_primavera",
+            "name": "Oracle Primavera",
+            "category": "Contruction Management Platform"
+        },
+        {
+            "uid": "planisware_enterprise",
+            "name": "Planisware Enterprise",
+            "category": "Enterprise Resource Planning"
+        },
+        {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "pricegrabber",
+            "name": "PriceGrabber",
+            "category": "Customer Reviews"
+        },
+        {
+            "uid": "process_automation_package_for_service_request_creation_in_sap_s4hana_utilities",
+            "name": "Process automation package for service request creation in SAP S/4HANA Utilities",
+            "category": "ERP"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "quantcast_measure",
+            "name": "Quantcast Measure",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "rs2",
+            "name": "RS2",
+            "category": "Other"
+        },
+        {
+            "uid": "rxjs",
+            "name": "RXJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "rabbitmq",
+            "name": "RabbitMQ",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "revit",
+            "name": "Revit",
+            "category": "Contruction Management Platform"
+        },
+        {
+            "uid": "robot_framework",
+            "name": "Robot Framework",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "sql",
+            "name": "SQL",
+            "category": "Database"
+        },
+        {
+            "uid": "selenium",
+            "name": "Selenium",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "sendinblue",
+            "name": "SendInBlue",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "service_now",
+            "name": "ServiceNow",
+            "category": "Case Management"
+        },
+        {
+            "uid": "siemens_simatic_hmi_human_machine_interface",
+            "name": "Siemens SIMATIC HMI (Human Machine Interface)",
+            "category": "Other"
+        },
+        {
+            "uid": "siemens_simatic_s7",
+            "name": "Siemens SIMATIC S7",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "sizmek_mediamind",
+            "name": "Sizmek (MediaMind)",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "sonarqube",
+            "name": "SonarQube",
+            "category": "Other"
+        },
+        {
+            "uid": "spark",
+            "name": "Spark",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "splunk",
+            "name": "Splunk",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "spring_boot",
+            "name": "Spring Boot",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "telmarhelixa",
+            "name": "TelmarHelixa",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "tor",
+            "name": "Tor",
+            "category": "Security"
+        },
+        {
+            "uid": "trackwise",
+            "name": "TrackWise",
+            "category": "Case Management"
+        },
+        {
+            "uid": "typescript",
+            "name": "TypeScript",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ubuntu",
+            "name": "Ubuntu",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "vmware_horizon",
+            "name": "VMware Horizon",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "veeam",
+            "name": "Veeam",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "veristand",
+            "name": "VeriStand",
+            "category": "Other"
+        },
+        {
+            "uid": "wildfly",
+            "name": "Wildfly",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "winscp",
+            "name": "WinSCP",
+            "category": "Other"
+        },
+        {
+            "uid": "wind_river_vxworks",
+            "name": "Wind River VxWorks",
+            "category": "Other"
+        },
+        {
+            "uid": "workfusion_ai_digital_agents",
+            "name": "WorkFusion AI Digital Agents",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "xilinx_machine_learning",
+            "name": "Xilinx Machine Learning",
+            "category": "Other"
+        },
+        {
+            "uid": "xilinx_vivado",
+            "name": "Xilinx Vivado",
+            "category": "Other"
+        },
+        {
+            "uid": "eplan",
+            "name": "ePlan",
+            "category": "Other"
+        },
+        {
+            "uid": "mabl",
+            "name": "mabl",
+            "category": "Other"
+        },
+        {
+            "uid": "wordpress",
+            "name": "WordPress",
+            "category": "CMS"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "Cloudflare",
+            "category": "Infrastructure/CDN"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Analytics/Marketing"
+        },
+        {
+            "uid": "google_analytics_(ga4)",
+            "name": "Google Analytics (GA4)",
+            "category": "Analytics"
+        },
+        {
+            "uid": "yoast_seo",
+            "name": "Yoast SEO",
+            "category": "SEO"
+        },
+        {
+            "uid": "tarteaucitron",
+            "name": "Tarteaucitron",
+            "category": "Consent Management"
+        },
+        {
+            "uid": "google_maps",
+            "name": "Google Maps",
+            "category": "Mapping"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/altenspain?lang=es",
+    "website_url": "http://www.alten.es",
+    "is_subsidiary": true,
+    "parent_company": "ALTEN Group",
+    "competitors": [
+        "Indra Sistemas",
+        "Capgemini Engineering",
+        "Sopra Steria Spain",
+        "Accenture Spain",
+        "DXC Technology"
+    ],
+    "data_quality_score": 0.98
+}

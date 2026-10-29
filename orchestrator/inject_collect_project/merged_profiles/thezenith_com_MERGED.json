@@ -1,0 +1,487 @@
+{
+    "alexa_ranking": 447401,
+    "annual_revenue": 1500000000.0,
+    "apollo_id": "54a11d5f69702d94a499ef00",
+    "city": "Woodland Hills",
+    "country": "United States",
+    "departments": {
+        "administrative": 28,
+        "finance": 167,
+        "marketing": 49,
+        "business_development": 30,
+        "accounting": 20,
+        "legal": 47,
+        "information_technology": 20,
+        "engineering": 69,
+        "operations": 82,
+        "consulting": 52,
+        "sales": 6,
+        "human_resources": 27,
+        "support": 40,
+        "data_science": 3,
+        "media_and_commmunication": 3,
+        "education": 1,
+        "product_management": 4,
+        "arts_and_design": 2,
+        "entrepreneurship": 0
+    },
+    "domain": "thezenith.com",
+    "estimated_num_employees": 1300,
+    "facebook_url": null,
+    "founded_year": 1951,
+    "funding_events": [],
+    "industry": "Workers' Compensation Insurance, Agribusiness Insurance, Property & Casualty Insurance",
+    "keywords": [
+        "claim management",
+        "fraud investigation",
+        "agricultural insurance",
+        "safety health",
+        "workers compensation",
+        "premium audit services",
+        "education & training",
+        "medical management",
+        "claims legal services",
+        "returntowork programs",
+        "safety amp health",
+        "workers39 compensation",
+        "workers compensation safety health claim management returntowork programs fraud investigation medical",
+        "workers' compensation",
+        "insurance for businesses",
+        "insurance risk assessment",
+        "customer experience",
+        "insurance ratings",
+        "worker injury management",
+        "risk assessment",
+        "claims reporting",
+        "safety resources",
+        "long-term business value",
+        "worker safety programs",
+        "insurance services",
+        "safety programs",
+        "business protection",
+        "insurance partner",
+        "insurance support",
+        "insurance technology",
+        "insurance for farmers",
+        "california agriculture",
+        "insurance safety resources",
+        "insurance network",
+        "insurance claims handling",
+        "employee benefits",
+        "financial strength",
+        "services",
+        "insurance platform",
+        "claims management",
+        "insurance expertise",
+        "medical provider network",
+        "claims automation",
+        "industry-specific risk management",
+        "employee injury recovery",
+        "claims processing",
+        "claims support",
+        "claims reduction strategies",
+        "regulatory compliance",
+        "safety and health risk control",
+        "employee health",
+        "insurance partnerships",
+        "direct insurance (except life, health, and medical) carriers",
+        "insurance industry",
+        "employee care",
+        "insurance solutions for business",
+        "b2b",
+        "employee injury support",
+        "insurance innovation",
+        "agriculture risk solutions",
+        "claims speed optimization",
+        "risk management",
+        "insurance claims support",
+        "insurance provider",
+        "safety training",
+        "safety tools",
+        "insurance",
+        "insurance industry leader",
+        "insurance claims",
+        "industry expertise",
+        "insurance risk control",
+        "insurance solutions",
+        "consulting",
+        "loss prevention",
+        "customer service",
+        "agribusiness insurance",
+        "fraud prevention",
+        "claims assistance",
+        "injury reporting",
+        "policyholder support",
+        "agent resources",
+        "pharmacy locator",
+        "training programs",
+        "compliance tools",
+        "hr management",
+        "coverage options",
+        "premium payment",
+        "technical expertise",
+        "agriculture risk control",
+        "evidence-based risk management",
+        "business continuity planning",
+        "emergency preparedness",
+        "workplace safety",
+        "product liability insurance",
+        "general liability insurance",
+        "technical risk assessments",
+        "market analysis",
+        "custom assessments",
+        "insurance professionals",
+        "employee first approach",
+        "accident prevention",
+        "long-term insurance",
+        "policy administration",
+        "in-house experts",
+        "insurance agents",
+        "online tools",
+        "collaborative solutions",
+        "innovative insurance",
+        "local service",
+        "agricultural risk management",
+        "workers compensation claims",
+        "healthcare",
+        "finance",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "financial services",
+        "Property & Casualty",
+        "Safety",
+        "Independent Agents",
+        "Brokers"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/zenith-insurance-company-united-states-",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ac175a13601100018ebfb5/picture",
+    "name": "TheZenith (Woodland Hills Office / Agribusiness Solutions)",
+    "num_suborganizations": 2,
+    "phone": "818-713-1000",
+    "postal_code": "91367",
+    "raw_address": "21255 Califa St., Woodland Hills, CA 91367, United States",
+    "seo_description": "TheZenith – Workers' Compensation Specialists",
+    "short_description": "TheZenith is the premier specialist in workers’ compensation nationally, and a leader in property and casualty insurance for the California agriculture industry, known for its people-first approach.",
+    "state": "California",
+    "street_address": "21255 Califa Street",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "Zenith Insurance Company",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "ZNAT Insurance Company",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "3m_360_encompass_health_analytics_suite",
+            "name": "3M 360 Encompass - Health Analytics Suite",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "aws_cloud",
+            "name": "AWS Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_elastic_load_balancing",
+            "name": "AWS Elastic Load Balancing",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "aws_public_cloud",
+            "name": "AWS Public Cloud",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "amazon_elastic_load_balancer",
+            "name": "Amazon Elastic Load Balancer",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "amazon_route_53",
+            "name": "Amazon Route 53",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "anthropic_claude",
+            "name": "Anthropic Claude",
+            "category": "Other"
+        },
+        {
+            "uid": "apache",
+            "name": "Apache",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "azure_ai_search",
+            "name": "Azure AI Search",
+            "category": "ERP"
+        },
+        {
+            "uid": "bootstrap",
+            "name": "Bootstrap",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "bootstrap_framework",
+            "name": "Bootstrap Framework",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "emma",
+            "name": "Emma",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "eyefinity_officemate",
+            "name": "Eyefinity OfficeMate",
+            "category": "Appointment Scheduling"
+        },
+        {
+            "uid": "gemini",
+            "name": "Gemini",
+            "category": "Other"
+        },
+        {
+            "uid": "google_adwords_conversion",
+            "name": "Google AdWords Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4 (GA4)",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "harmony_email_collaboration",
+            "name": "Harmony Email & Collaboration",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "hi-media_performance",
+            "name": "Hi-Media Performance",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "its_learning_lms",
+            "name": "Its Learning LMS",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "langgraph",
+            "name": "LangGraph",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "langchain",
+            "name": "Langchain",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "linkedin_recruiter",
+            "name": "LinkedIn Recruiter",
+            "category": "Recruitment"
+        },
+        {
+            "uid": "llamaindex",
+            "name": "LlamaIndex",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_email_providers",
+            "name": "Microsoft Email Providers",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "openai",
+            "name": "OpenAI",
+            "category": "Other"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "pinecone",
+            "name": "Pinecone",
+            "category": "Database"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "r",
+            "name": "R",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "vector",
+            "name": "Vector",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "visual_composer",
+            "name": "Visual Composer",
+            "category": "CMS"
+        },
+        {
+            "uid": "vue_js_library",
+            "name": "VueJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "weaviate",
+            "name": "Weaviate",
+            "category": "Database"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "zeus",
+            "name": "Zeus",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "accessibe",
+            "name": "accessiBe",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "swiftype",
+            "name": "Swiftype",
+            "category": "Site Search"
+        },
+        {
+            "uid": "accessibility_suite_(acsb_app)",
+            "name": "Accessibility Suite (ACSB App)",
+            "category": "Accessibility Tool"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics"
+        },
+        {
+            "uid": "font_awesome",
+            "name": "Font Awesome",
+            "category": "Icon Library"
+        },
+        {
+            "uid": "ubermenu",
+            "name": "UberMenu",
+            "category": "WordPress Plugin (Mega Menu)"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.thezenith.com",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "Fairfax Financial Holdings Limited",
+    "competitors": [
+        "State Compensation Insurance Fund (SCIF)",
+        "Liberty Mutual Insurance",
+        "The Hartford",
+        "Nationwide Agribusiness",
+        "Travelers Insurance"
+    ],
+    "data_quality_score": 0.96
+}

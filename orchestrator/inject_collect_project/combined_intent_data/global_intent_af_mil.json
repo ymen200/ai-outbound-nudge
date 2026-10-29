@@ -1,0 +1,447 @@
+[
+    {
+        "id": "6a3d37ac0e5f490014616cfa",
+        "url": "https://www.radionwtn.com/2026/06/24/americas-most-decorated-living-veteran-to-appear-at-discovery-park-celebration",
+        "domain": "radionwtn.com",
+        "title": "America's most-decorated living veteran to appear at Discovery Park celebration.",
+        "snippet": "Since retiring from the Air Force, Harding has continued a life of service as an educator, mentor, pastor, veterans advocate and civic leader.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-24T00:00:00.000+00:00",
+        "event_categories": [
+            "retires_from"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3b560bbd3556001c00c392",
+        "url": "https://telanganatoday.com/trump-unveils-new-vc-25b-bridge-aircraft-as-interim-air-force-one-replacement",
+        "domain": "telanganatoday.com",
+        "title": "Trump unveils new VC-25B Bridge aircraft as interim Air Force One replacement.",
+        "snippet": "Washington: US President Donald Trump unveiled the US Air Force's new VC-25B Bridge aircraft, describing it as a symbol of American power and a long-awaited replacement for the ageing presidential fleet.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-20T06:16:01.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a385b0105d8a400141eb1c2",
+        "url": "https://www.wdtn.com/celebrate-250/dayton-spirit-of-america-wright-patt-air-force-base-space-force-intelligence",
+        "domain": "wdtn.com",
+        "title": "Wright-Patt AFB set to grow more with new Space Force facility.",
+        "snippet": "The base will be the home of a newly announced $370 million Space Force intelligence facility.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-19T21:10:25.000+00:00",
+        "event_categories": [
+            "invests_into_assets"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a363491f7cf09000c2460ee",
+        "url": "https://www.militaryspot.com/news/air-force-acquires-first-locomotive-in-60-years",
+        "domain": "militaryspot.com",
+        "title": "Air Force acquires first locomotive in 60 years.",
+        "snippet": "Air Force acquires first locomotive in 60 years.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-19T19:03:00.000+00:00",
+        "event_categories": [
+            "invests_into_assets"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a37600b777388001099806b",
+        "url": "https://www.kwbu.org/news-from-across-texas/2026-06-19/air-force-confirms-flu-outbreak-among-trainees-at-lackland",
+        "domain": "kwbu.org",
+        "title": "Air Force confirms flu outbreak among trainees at Lackland.",
+        "snippet": "The Air Force says it has been managing a localized influenza outbreak among trainees at Basic Military Training at Lackland Air Force Base for the past three weeks.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-19T14:44:14.000+00:00",
+        "event_categories": [
+            "has_issues_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a348c1de154b5001c006343",
+        "url": "https://www.defensedaily.com/air-force-examining-long-term-buy-of-130-new-weapons-pylons-for-b-52hs/air-force",
+        "domain": "defensedaily.com",
+        "title": "Air Force examining long-term buy of 130 new Weapons pylons for b-52hs.",
+        "snippet": "The Air Force is examining the development of an Advanced Wing Weapons Pylon (AWWP) for the B-52H and a long-term buy of up to 130 AWWPs to replace the bomber's Improved Common Pylon (ICP), designed in 1959 and fielded in the 1960s.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-18T17:50:54.000+00:00",
+        "event_categories": [
+            "is_developing"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a348c3ff2324f001484c752",
+        "url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/06/18/white-house-staff-bids-farewell-to-planes-used-as-air-force-one-for-more-than-35-years",
+        "domain": "kesq.com",
+        "title": "White House staff bids farewell to planes used as Air Force One for more than 35 years.",
+        "snippet": "Air Force Secretary Troy Meink previously told lawmakers that it would \"probably\" cost the Air Force less than $400 million to retrofit the donated aircraft.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-18T17:02:01.000+00:00",
+        "event_categories": [
+            "invests_into_assets"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a347c721d21f2000c123960",
+        "url": "https://www.yahoo.com/news/us/articles/flu-outbreak-among-air-force-172600452.html",
+        "domain": "yahoo.com",
+        "title": "Flu outbreak at Joint Base San Antonio after Hegseth ends mandatory vaccination.",
+        "snippet": "The basic training facility for the Air Force in San Antonio, Texas, is experiencing a flu outbreak following the end of mandatory vaccination for all service members.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-18T14:26:00.000+00:00",
+        "event_categories": [
+            "has_issues_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "62d05e637bb8c000a36253d6",
+        "url": "https://www.prnewswire.com/news-releases/shield-ai-awarded-us-air-force-production-contract-for-collaborative-combat-aircraft-mission-autonomy-302803710.html",
+        "domain": "prnewswire.com",
+        "title": "Shield AI awarded U.S. Air Force production contract for Collaborative Combat Aircraft mission autonomy.",
+        "snippet": "Shield AI awarded U.S. Air Force production contract for Collaborative Combat Aircraft mission autonomy.",
+        "organization_ids": [
+            "5a9da279a6da98d9a15a297d",
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-18T00:33:00.000+00:00",
+        "event_categories": [
+            "signs_new_client"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a37a0d4b00c62000c4e3e5e",
+        "url": "https://www.myclallamcounty.com/2026/06/18/flu-outbreak-among-air-force-recruits-at-joint-base-san-antonio-after-hegseth-ends-mandatory-flu-vaccine",
+        "domain": "myclallamcounty.com",
+        "title": "Flu outbreak among Air Force recruits at Joint Base San Antonio after Hegseth ends mandatory flu vaccine.",
+        "snippet": "(SAN ANTONIO) - The basic training facility for the Air Force in San Antonio, Texas, is experiencing a flu outbreak following the end of mandatory vaccination for all service members.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-18T00:00:00.000+00:00",
+        "event_categories": [
+            "has_issues_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3b1bf2463ada0018c338e9",
+        "url": "https://breakingdefense.com/2026/06/air-force-cca-drone-wingman-anduril-general-atomics-selection",
+        "domain": "breakingdefense.com",
+        "title": "Air Force picks General Atomics, Anduril to build first CCA drone wingmen.",
+        "snippet": "The Air Force is developing CCA in a successive series of \"increments,\" with today's news marking the first in the series.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-17T21:05:21.000+00:00",
+        "event_categories": [
+            "is_developing"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a32eb6082b1a4000c628a6d",
+        "url": "https://www.govconwire.com/articles/usaf-ussf-budget-2027-saltzman-meink-congress",
+        "domain": "govconwire.com",
+        "title": "Air Force, Space Force leaders defend historic FY27 budget growth as Congress debates funding path.",
+        "snippet": "Air Force Secretary Troy Meink, a Wash100 Award recipient, told lawmakers the funding request is intended to reverse years of constrained investment in readiness and modernization.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-17T04:00:00.000+00:00",
+        "event_categories": [
+            "receives_award"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a37c131d52aa800180fd935",
+        "url": "https://www.moaa.org/content/publications-and-media/news-articles/2026-news-articles/reads/pentagon-demands-human-performance-data-from-services-in-fitness-overhaul",
+        "domain": "moaa.org",
+        "title": "Pentagon demands Human Performance data from services in Fitness overhaul.",
+        "snippet": "The Air Force this year broke ground on a new HPO facility at Davis-Monthan Air Force Base, Arizona, intended to strengthen the resilience of Air Force Special Warfare personnel, while the Marine Corps has its own human performance branch, with resiliency-focused centers on major bases.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-17T00:00:00.000+00:00",
+        "event_categories": [
+            "expands_facilities"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a35f890f63604000ce4e61e",
+        "url": "https://www.ga-asi.com/us-air-force-awards-ga-asi-production-contract-for-fq-42a-cca",
+        "domain": "ga-asi.com",
+        "title": "U.S Air Force awards GA-ASI production contract for FQ-42A CCA.",
+        "snippet": "SAN DIEGO - 17 June 2026 - General Atomics Aeronautical Systems, Inc. (GA-ASI) has received a production contract from the U.S. Air Force (USAF) for the FQ-42A Collaborative Combat Aircraft (CCA).",
+        "organization_ids": [
+            "54a1209969702d8ccc9f6b02",
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-17T00:00:00.000+00:00",
+        "event_categories": [
+            "signs_new_client"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a3a0b84143d0b00012c29fb",
+        "title": "Chief Engineer, Ground Data Networks Division, SWAC",
+        "url": "https://www.linkedin.com/jobs/view/4428079886/",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-06-24T22:00:00.000+00:00",
+        "posted_at": "2026-06-16T18:51:32.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a30d1176b194b000ca8c069",
+        "url": "https://site.financialmodelingprep.com/market-news/firefly-aerospace-fly-disrupts-space-keybanc-upgrade-contracts",
+        "domain": "financialmodelingprep.com",
+        "title": "FireFly Aerospace (NASDAQ:FLY): Disrupting the Space Market with Launch, Lunar, and in-space services.",
+        "snippet": "Additionally, the company's subsidiary, SciTec, secured a $5.5 million contract option from the U.S. Air Force, as reported by GlobeNewswire.",
+        "organization_ids": [
+            "5a9e726ba6da98d9356c4356",
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-15T00:00:00.000+00:00",
+        "event_categories": [
+            "signs_new_client"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a33613ac440ee00018537dd",
+        "title": "Information Tech Program Manager, SSC/IPZ",
+        "url": "https://www.linkedin.com/jobs/view/4426977827/",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States",
+        "last_seen_at": "2026-06-24T04:00:00.000+00:00",
+        "posted_at": "2026-06-13T07:19:38.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2c0229e7d4fd000c7a7254",
+        "url": "https://www.executivebiz.com/articles/ctc-air-force-energy-water-resilience",
+        "domain": "executivebiz.com",
+        "title": "CTC highlights longstanding support for Air Force energy, water & resilience initiatives.",
+        "snippet": "* Concurrent Technologies Corp. has highlighted its partnership with the Air Force on energy and installation resilience efforts",
+        "organization_ids": [
+            "5e56ed36441e650001aa5469",
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-11T11:59:19.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a29b72ec75ca70014c2275d",
+        "url": "https://www.alternet.org/immunity-deal-trump",
+        "domain": "alternet.org",
+        "title": "Todd Blanche's deal would bury the largest presidential corruption scheme in US history.",
+        "snippet": "* After Eric and Don Jr. backed the drone manufacturer Powerus, the U.S. Air Force awarded the company a lucrative contract.",
+        "organization_ids": [
+            "696b792adb7a360001abaef3",
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-10T11:35:34.000+00:00",
+        "event_categories": [
+            "signs_new_client"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a28c95570658e0020e9e850",
+        "url": "https://www.defensedaily.com/usaf-looks-to-start-building-family-of-affordable-mass-missiles-in-september/unmanned-systems",
+        "domain": "defensedaily.com",
+        "title": "USAF looks to start building Family of Affordable Mass Missiles in September.",
+        "snippet": "The U.S. Air Force's Family of Affordable Mass Missiles (FAMM) is to begin production in September, U.S. Air Force Chief of Staff Gen. Kenneth Wilsbach said on Tuesday.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-09T19:05:32.000+00:00",
+        "event_categories": [
+            "is_developing"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a29bd235932240014c1d27e",
+        "url": "https://www.stripes.com/theaters/us/2026-06-09/gop-senators-reconciliation-bill-pentagon-21918390.html",
+        "domain": "stripes.com",
+        "title": "Republican senators say Pentagon's proposed reconciliation bill 'not an option'",
+        "snippet": "The Air Force's $267.7 billion budget request includes $16 billion in reconciliation funding for 53 F-35 fighter jets as well as missiles and other programs.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-09T00:00:00.000+00:00",
+        "event_categories": [
+            "invests_into_assets"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a27d7e65ad0e7000185ed2e",
+        "title": "International Affairs Officer, Strategic Engagements Branch, HQ CFC S357/IA",
+        "url": "https://www.linkedin.com/jobs/view/international-affairs-officer-strategic-engagements-branch-hq-cfc-s357-ia-at-united-states-space-force-4425547074",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-06-22T10:35:04.000+00:00",
+        "posted_at": "2026-06-08T19:42:16.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2732f74755ce0018c92423",
+        "url": "https://www.theblaze.com/lifestyle/lined-up-like-cattle-new-doc-reveals-us-soldiers-devastating-mistreatment-under-covid-19-mandate",
+        "domain": "theblaze.com",
+        "title": "'Lined up like cattle': New doc reveals US soldiers' devastating mistreatment under COVID-19 mandate.",
+        "snippet": "\"In court, it is never a defense to say, 'Well, I was ordered to do it,' if you knew it was unlawful,\" said Nick Kupper, retired U.S. Air Force master sergeant.",
+        "organization_ids": [
+            "54a1285269702d9548effe00"
+        ],
+        "published_at": "2026-06-08T14:30:00.000+00:00",
+        "event_categories": [
+            "retires_from"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2106d55c95470001ebbbe6",
+        "title": "NSIC Chief Information Security Officer/Certified TEMPEST Technical Authority",
+        "url": "https://www.linkedin.com/jobs/view/4423962244/",
+        "city": "Fairborn",
+        "state": "Ohio",
+        "country": "United States",
+        "last_seen_at": "2026-06-12T22:00:00.000+00:00",
+        "posted_at": "2026-06-02T14:55:37.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2b7df7b086cb00013b11b7",
+        "title": "Chief Engineer, SYD 810",
+        "url": "https://www.linkedin.com/jobs/view/4423955308/",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States",
+        "last_seen_at": "2026-06-11T16:00:00.000+00:00",
+        "posted_at": "2026-06-02T14:52:52.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a1a4511e5334d00017f3788",
+        "title": "Open-Source Program Management Team Director, NSIC",
+        "url": "https://www.linkedin.com/jobs/view/open-source-program-management-team-director-nsic-at-united-states-space-force-4422050110",
+        "city": "Fairborn",
+        "state": "Ohio",
+        "country": "United States",
+        "last_seen_at": "2026-06-11T16:00:00.000+00:00",
+        "posted_at": "2026-05-30T14:48:25.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a1f9f731a3038000127deb3",
+        "title": "CHILD AND YOUTH PROGRAM ASSISTANT (ALL LEVELS).",
+        "url": "https://www.linkedin.com/jobs/view/4420941150/",
+        "city": null,
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-06-12T10:00:00.000+00:00",
+        "posted_at": "2026-05-30T08:45:24.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a1bb220fcc536000124a814",
+        "title": "System Analyst (Computer Engineer), 20 SPSS",
+        "url": "https://www.linkedin.com/jobs/view/4422016742/",
+        "city": null,
+        "state": "Florida",
+        "country": "United States",
+        "last_seen_at": "2026-06-12T10:00:00.000+00:00",
+        "posted_at": "2026-05-29T14:47:07.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a197a5815a6eb000122bb7e",
+        "title": "Lead Analyst, Space Data Networks Division.",
+        "url": "https://www.linkedin.com/jobs/view/lead-analyst-space-data-networks-division-at-united-states-space-force-4420635906",
+        "city": "Colorado Springs",
+        "state": "Colorado",
+        "country": "United States",
+        "last_seen_at": "2026-06-12T10:00:00.000+00:00",
+        "posted_at": "2026-05-29T09:00:55.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a199bbad43085000123d3fd",
+        "title": "Human Resources Specialist.",
+        "url": "https://www.linkedin.com/jobs/view/human-resources-specialist-at-united-states-space-force-4420651107",
+        "city": "Patrick Air Force Base",
+        "state": "Florida",
+        "country": "United States",
+        "last_seen_at": "2026-06-23T04:00:00.000+00:00",
+        "posted_at": "2026-05-28T21:58:53.000+00:00",
+        "intent_type": "job_post",
+        "source_origin": "Apollo API"
+    }
+]

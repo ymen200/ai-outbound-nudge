@@ -1,0 +1,751 @@
+{
+    "domain": "usopc.org",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "United States Olympic & Paralympic Committee",
+                "ai": "U.S. Olympic & Paralympic Committee"
+            },
+            "domain": {
+                "apollo": "usopc.org",
+                "ai": "www.usopc.org"
+            },
+            "industry": {
+                "apollo": "sports",
+                "ai": "Sports Management, Non-profit, Olympic Movement"
+            },
+            "founded_year": {
+                "apollo": 1894,
+                "ai": null
+            },
+            "short_description": {
+                "apollo": "The United States Olympic & Paralympic Committee (USOPC) serves as the National Olympic Committee and National Paralympic Committee for the U.S. Founded in 1894, it is headquartered in Colorado Springs, Colorado. The USOPC empowers Team USA athletes to achieve competitive excellence and well-being while promoting the Olympic and Paralympic movements in the country.\n\nThe organization fields U.S. teams for various international competitions, including the Olympic and Paralympic Games. It provides extensive support to elite athletes and National Governing Bodies (NGBs) through integrated sport performance teams, financial assistance, and health services. The USOPC also oversees U.S. city bids for hosting major events and promotes athlete rights and safety. With training centers in Colorado Springs and Lake Placid, the USOPC creates optimal environments for athlete development and performance. Its initiatives aim to inspire and unite through sport, with a vision for a more inclusive world.",
+                "ai": "The U.S. Olympic & Paralympic Committee is a non-profit organization dedicated to empowering Team USA athletes to achieve sustained competitive excellence and well-being, while leading the U.S. Olympic and Paralympic movements."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Home | USOPC. Official site of the U.S. Olympic & Paralympic Committee, supporting Team USA athletes and promoting the Olympic and Paralympic movements."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": 515136000.0,
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_num_employees": {
+                "apollo": 1100,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/united-states-olympic-and-paralympic-committee",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "https://twitter.com/usaboxing",
+                "ai": "https://twitter.com/USOPC_News"
+            },
+            "facebook_url": {
+                "apollo": "https://www.facebook.com/usaboxing",
+                "ai": null
+            },
+            "phone": {
+                "apollo": "+1 719-632-5551",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "27 S Tejon St, Colorado Springs, Colorado 80903, US",
+                "ai": "27 S Tejon St, Colorado Springs, United States"
+            },
+            "city": {
+                "apollo": "Colorado Springs",
+                "ai": "Colorado Springs"
+            },
+            "country": {
+                "apollo": "United States",
+                "ai": "United States"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": 1
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "sports & non profit",
+                    "non profit",
+                    "sports",
+                    "nonprofits",
+                    "action sports",
+                    "at risk youth",
+                    "spectator sports",
+                    "sports community programs",
+                    "services",
+                    "paralympic movement",
+                    "sports governance",
+                    "olympic digital platforms",
+                    "olympic event logistics",
+                    "olympic and paralympic movement",
+                    "sports branding",
+                    "sports marketing",
+                    "sports innovation",
+                    "performance analytics",
+                    "sports community outreach",
+                    "sports research",
+                    "sports science",
+                    "sports education",
+                    "sports safety",
+                    "digital engagement",
+                    "athlete wellness",
+                    "athlete career services",
+                    "sports performance tracking",
+                    "governance",
+                    "global sports leadership",
+                    "sports community",
+                    "health insurance",
+                    "performance technology",
+                    "athlete mental health programs",
+                    "sports sponsorship",
+                    "sports training programs",
+                    "elite athlete health services",
+                    "olympic sponsorship",
+                    "nonprofit organization",
+                    "sports legacy",
+                    "international sports",
+                    "sports merchandise",
+                    "sports technology solutions",
+                    "performance optimization technology",
+                    "fan experience enhancement",
+                    "team usa merchandise",
+                    "athlete support",
+                    "sports technology innovation",
+                    "sports integrity",
+                    "performance enhancement",
+                    "ngb support",
+                    "sports data analytics",
+                    "digital media",
+                    "sports event logistics",
+                    "performance data analytics",
+                    "sports development",
+                    "digital platforms",
+                    "olympic sponsorship management",
+                    "elite athletes",
+                    "performance optimization",
+                    "b2b",
+                    "olympic branding",
+                    "olympic movement",
+                    "sports support services",
+                    "olympic governance",
+                    "paralympic programs",
+                    "wellness",
+                    "elite athlete support",
+                    "sports science research",
+                    "sports analytics software",
+                    "media rights",
+                    "athletic training & support",
+                    "anti-doping",
+                    "sports organization",
+                    "sports medicine innovation",
+                    "fan engagement",
+                    "athlete health",
+                    "sports technology",
+                    "athlete development",
+                    "sports medicine",
+                    "other similar organizations (except business, professional, labor, and political organizations)",
+                    "licensing and merchandise",
+                    "fan engagement tools",
+                    "performance data",
+                    "sports performance centers",
+                    "sports science innovation",
+                    "fan experience",
+                    "event management",
+                    "event organization",
+                    "sports merchandise licensing",
+                    "olympic licensing",
+                    "olympic branding rights",
+                    "sports data security",
+                    "sports safety technology",
+                    "paralympic athlete support",
+                    "sports management",
+                    "olympic merchandise licensing",
+                    "sports marketing campaigns",
+                    "sports data management",
+                    "sports licensing",
+                    "nonprofit sports organization",
+                    "sports safety protocols",
+                    "training facilities",
+                    "training centers",
+                    "fan engagement platforms",
+                    "community outreach",
+                    "sports broadcasting",
+                    "sports technology integration",
+                    "social media engagement",
+                    "sports psychology",
+                    "athlete excellence",
+                    "team usa",
+                    "olympic games",
+                    "paralympic games",
+                    "usopc",
+                    "fundraising campaign",
+                    "diversity and inclusion",
+                    "mental health support",
+                    "ngb partnerships",
+                    "athlete support services",
+                    "community growth",
+                    "certification programs",
+                    "coaching education",
+                    "media accreditation",
+                    "public awareness",
+                    "athlete journey",
+                    "sports advancement",
+                    "fundraising for athletes",
+                    "sponsorship opportunities",
+                    "health and wellness programs",
+                    "personal development",
+                    "olympic training",
+                    "sports events management",
+                    "corporate partnerships",
+                    "youth sports development",
+                    "athlete benefits",
+                    "medical network",
+                    "annual impact reports",
+                    "governance and leadership",
+                    "performance support",
+                    "legal rights for athletes",
+                    "financial well-being",
+                    "community engagement",
+                    "digital media initiatives",
+                    "sports communication",
+                    "athlete recognition programs",
+                    "olympic legacy",
+                    "international cooperation",
+                    "funding initiatives",
+                    "grant programs",
+                    "event planning",
+                    "volunteer opportunities",
+                    "athlete recruitment",
+                    "athlete advocacy",
+                    "b2c",
+                    "e-commerce",
+                    "healthcare",
+                    "non-profit",
+                    "sports event management",
+                    "sports performance",
+                    "nonprofit organization management",
+                    "marketing & advertising",
+                    "events services",
+                    "consumer internet",
+                    "consumers",
+                    "internet",
+                    "information technology & services",
+                    "health care",
+                    "health, wellness & fitness",
+                    "hospital & health care"
+                ],
+                "ai": "Olympic, Paralympic, Team USA, sports, athletes, fundraising, governance, well-being, competitive excellence, non-profit, national governing bodies, impact report"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "adobe_fonts",
+                        "name": "Adobe Fonts",
+                        "category": "Fonts"
+                    },
+                    {
+                        "uid": "akamai_dns",
+                        "name": "Akamai DNS",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "akamai_edge_dns",
+                        "name": "Akamai Edge DNS",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "amazon_aws",
+                        "name": "Amazon AWS",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "amazon_elastic_mapreduce_emr",
+                        "name": "Amazon Elastic MapReduce (EMR)",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "android",
+                        "name": "Android",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "apollo",
+                        "name": "Apollo",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "apple_business_manager",
+                        "name": "Apple Business Manager",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "apple_school_manager",
+                        "name": "Apple School Manager",
+                        "category": "Education Management Software"
+                    },
+                    {
+                        "uid": "azure_api_apps",
+                        "name": "Azure API Apps",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "azure_app_service",
+                        "name": "Azure App Service",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "azure_compute",
+                        "name": "Azure Compute",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "azure_web_apps",
+                        "name": "Azure Web Apps",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "box.com",
+                        "name": "Box",
+                        "category": "Payments"
+                    },
+                    {
+                        "uid": "cart_functionality",
+                        "name": "Cart Functionality",
+                        "category": "E-commerce Platforms"
+                    },
+                    {
+                        "uid": "chakra_ui",
+                        "name": "Chakra UI",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "cloudinary",
+                        "name": "Cloudinary",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "concur",
+                        "name": "Concur",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "doubleclick",
+                        "name": "DoubleClick",
+                        "category": "Ad Servers"
+                    },
+                    {
+                        "uid": "doubleclick_floodlight",
+                        "name": "DoubleClick Floodlight",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "electron",
+                        "name": "Electron",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "emotion",
+                        "name": "Emotion",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "excel4apps",
+                        "name": "Excel4Apps",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "fastly_cdn",
+                        "name": "Fastly CDN",
+                        "category": "Content Delivery Networks"
+                    },
+                    {
+                        "uid": "fastly_hosting",
+                        "name": "Fastly Hosting",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "gem",
+                        "name": "Gem",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "godaddy_domains",
+                        "name": "GoDaddy Domains",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "godaddy_hosting",
+                        "name": "GoDaddy Hosting",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "google_ad_manager",
+                        "name": "Google Ad Manager",
+                        "category": "Ad Servers"
+                    },
+                    {
+                        "uid": "google_adsense",
+                        "name": "Google AdSense",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "google_adwords_conversion",
+                        "name": "Google AdWords Conversion",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "google_publisher_tag_gpt",
+                        "name": "Google Publisher Tag (GPT)",
+                        "category": "Publisher Advertising Tools"
+                    },
+                    {
+                        "uid": "google_search_central",
+                        "name": "Google Search Central",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_search_console",
+                        "name": "Google Search Console",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_tag_manager",
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "harmony_email_collaboration",
+                        "name": "Harmony Email & Collaboration",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "ibm_spss_modeler",
+                        "name": "IBM SPSS Modeler",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "jmp",
+                        "name": "JMP",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "microsoft",
+                        "name": "Microsoft Azure Hosting",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "microsoft_excel",
+                        "name": "Microsoft Excel",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "microsoft_office",
+                        "name": "Microsoft Office",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "office_365",
+                        "name": "Microsoft Office 365",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "microsoft_powerpoint",
+                        "name": "Microsoft PowerPoint",
+                        "category": "Web Presentation Tools"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "monday_sales_crm",
+                        "name": "Monday sales CRM",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "mysql",
+                        "name": "MySQL",
+                        "category": "Database"
+                    },
+                    {
+                        "uid": "ning",
+                        "name": "Ning",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "olo",
+                        "name": "Olo",
+                        "category": "Food Ordering Services"
+                    },
+                    {
+                        "uid": "onetrust",
+                        "name": "OneTrust",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "onetrust_privacy_automation",
+                        "name": "OneTrust Privacy Automation",
+                        "category": "Data Management Platform"
+                    },
+                    {
+                        "uid": "open_graph",
+                        "name": "Open Graph",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "oracle_bi_publisher",
+                        "name": "Oracle BI Publisher",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "outlook",
+                        "name": "Outlook",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "proofpoint",
+                        "name": "Proofpoint",
+                        "category": "Security"
+                    },
+                    {
+                        "uid": "proofpoint_email_security_and_protection",
+                        "name": "Proofpoint Email Security and Protection",
+                        "category": "Security"
+                    },
+                    {
+                        "uid": "python",
+                        "name": "Python",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "qualtrics_intercept",
+                        "name": "Qualtrics",
+                        "category": "Support and Feedback"
+                    },
+                    {
+                        "uid": "quip",
+                        "name": "Quip",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "r",
+                        "name": "R",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "rest",
+                        "name": "REST",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "react",
+                        "name": "React",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "resy",
+                        "name": "Resy",
+                        "category": "Reservation Software"
+                    },
+                    {
+                        "uid": "sas_analytics_pro",
+                        "name": "SAS Analytics Pro",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "sage-intacct",
+                        "name": "Sage Intacct",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "salesforce",
+                        "name": "Salesforce",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforce crm analytics",
+                        "name": "Salesforce CRM Analytics",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "tableau",
+                        "name": "Tableau",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "typekit",
+                        "name": "Typekit",
+                        "category": "Fonts"
+                    },
+                    {
+                        "uid": "ukg",
+                        "name": "UKG",
+                        "category": "HR Solutions"
+                    },
+                    {
+                        "uid": "ukg_pro",
+                        "name": "UKG Pro",
+                        "category": "HR Solutions"
+                    },
+                    {
+                        "uid": "ukg_pro_recruiting",
+                        "name": "UKG Pro Recruiting",
+                        "category": "Recruitment"
+                    },
+                    {
+                        "uid": "ultipro",
+                        "name": "UltiPro",
+                        "category": "Recruitment"
+                    },
+                    {
+                        "uid": "ultimate_software",
+                        "name": "Ultimate Software",
+                        "category": "HR Solutions"
+                    },
+                    {
+                        "uid": "varnish",
+                        "name": "Varnish",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "veracode_appsec_governance",
+                        "name": "Veracode AppSec Governance",
+                        "category": "Event Management"
+                    },
+                    {
+                        "uid": "viewport_meta",
+                        "name": "Viewport Meta",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "vite",
+                        "name": "Vite",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "wordpress_org",
+                        "name": "WordPress.org",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "accessibe",
+                        "name": "accessiBe",
+                        "category": "Analytics and Tracking"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "Varnish Cache",
+                        "category": "CDN/Reverse Proxy",
+                        "confidence": 0.99,
+                        "source": "HEADERS HTTP: via: 1.1 varnish",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.66,
+                            "evidence_density": 0.43
+                        }
+                    },
+                    {
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management",
+                        "confidence": 0.99,
+                        "source": "SCRIPTS EXTERNES CHARGÉS: www.googletagmanager.com, MATCHES REGEX CLASSIQUES: Google Tag Manager",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.67,
+                            "evidence_density": 0.19
+                        }
+                    },
+                    {
+                        "name": "Google AdSense",
+                        "category": "Advertising",
+                        "confidence": 0.95,
+                        "source": "SCRIPTS EXTERNES CHARGÉS: pagead2.googlesyndication.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.72,
+                            "evidence_density": 0.25
+                        }
+                    },
+                    {
+                        "name": "Rokt",
+                        "category": "E-commerce Optimization",
+                        "confidence": 0.95,
+                        "source": "SCRIPTS EXTERNES CHARGÉS: apps.rokt-api.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.78,
+                            "evidence_density": 0.09
+                        }
+                    },
+                    {
+                        "name": "OneTrust",
+                        "category": "Cookie Consent Management",
+                        "confidence": 0.99,
+                        "source": "SCRIPTS EXTERNES CHARGÉS: cdn.cookielaw.org, PRÉFIXES CSS DÉTECTÉS: ot-*, onetrust-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.82,
+                            "evidence_density": 0.1
+                        }
+                    },
+                    {
+                        "name": "Chakra UI",
+                        "category": "UI Framework",
+                        "confidence": 0.9,
+                        "source": "PRÉFIXES CSS DÉTECTÉS: chakra-*",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.6,
+                            "evidence_density": 0.29
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [],
+                "ai": [
+                    "U.S. Olympic & Paralympic Foundation"
+                ]
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "NCAA",
+                    "Special Olympics",
+                    "U.S. Soccer Federation",
+                    "National Football League (NFL)",
+                    "Major League Baseball (MLB)"
+                ]
+            }
+        }
+    }
+}

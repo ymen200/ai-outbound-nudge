@@ -1,0 +1,472 @@
+{
+  "member_id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7457898716763705344",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_regional-director-commercial-latam-activity-7457898716763705344-HIdI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "2mo",
+        "comment_counter": 7,
+        "impressions_counter": 0,
+        "reaction_counter": 98,
+        "repost_counter": 7,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Hiring a Regional Director in the states covering LATAM! \n\nLet me know if you know anyone GREAT!\n\nhttps://lnkd.in/g8pQRDAQ",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7457898716763705344",
+        "is_repost": false,
+        "parsed_datetime": "2026-05-06T21:06:55.134Z",
+        "article": {
+          "id": "7861852501198935482",
+          "title": "Regional Director, Commercial- LATAM",
+          "author": "jobs.ashbyhq.com",
+          "url": "https://jobs.ashbyhq.com/clickup/1a270fa4-3555-4f53-86bc-42b8c414fe94",
+          "published_at": "2029-05-25T13:55:02.441Z",
+          "picture_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEcIuKbFs9MYw/articleshare-shrink_800/B56Z3_HPBKGgAI-/0/1778101580352?e=1785510000&v=beta&t=SzNh_KBMUtyYaid3jnUefc38cXXhERrOcNNlbheZjOg"
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7431223641280782336",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_clickup-certified-agents-lap-competitors-activity-7431223641280782336-tpCt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "5mo",
+        "comment_counter": 4,
+        "impressions_counter": 0,
+        "reaction_counter": 26,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Excellent thoughts on how to evaluate embedding AI and agents into your project management processes. Thoughtful analysis from Devin Stoker.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAA2_HTMBRaIPOtYgkXuzS8bUVPS4rWVnlZ8",
+            "length": 12,
+            "start": 127
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7431223641280782336",
+        "is_repost": true,
+        "repost_id": "7431223641280782336",
+        "parsed_datetime": "2026-02-22T06:29:41.540Z",
+        "repost_content": {
+          "id": "7430793999105343488",
+          "date": "5mo",
+          "parsed_datetime": "2026-02-21T02:02:26.863Z",
+          "text": "AI agents are everywhere right now, but one question keeps coming up with project managers:\n\nCan they actually turn project ideas and briefs into an execution-ready plan inside the tool where work happens?\n\nThat is exactly what I set out to benchmark in this Agentic AI Benchmark Report.\n\nI evaluated agents on 6 practical criteria that matter once you move past demos and into delivery:\n- finding the right project brief and context\n- creating a structured project plan in the system of record\n- sequencing and dependencies that hold up in the real world\n- baseline metrics leaders can manage to\n- clear communication and visual output for stakeholders\n- professional tone and clarity\n\nA few takeaways:\n\nExecution beats narration. Several tools can write a compelling “plan,” but the gap shows up when you need real tasks, structure, and sequencing where your team actually works.\n\nIntegrations significantly increase cost. Providing your agents relevant context and connection to work execution tools requires significant integration efforts on a \"per agent\" basis.  Which only increase the ongoing maintenance needs.\n\nAgent quality comes through iteration.  We have spent thousands of hours improving our certified agents to ensure they deliver high quality outputs on critical business workflows.  Getting DIY agents to a high quality level is often a hidden cost.\n\nValue comes from what the agent eliminates, not what it writes. If your teams still have to hunt down the right brief, translate a narrative into structured tasks, rebuild dependencies, or reformat outputs for stakeholders, the “AI” just becomes another layer of work.\n\nUltimately, the best ROI shows up when the agent can operate in-context inside the system where execution happens, so teams spend less time on coordination and cleanup and more time delivering.\n\nHere is one quote I keep coming back to from Jay Hack, ClickUp's Head of AI:\n“The limiting factor is no longer model intelligence. It’s whether your agents can see the right context, act in the right places, and behave like teammates.”\n\nIf you are considering AI agents for PMO, operational projects, or client delivery, I hope this gives you a useful rubric to pressure test what “agentic” project management really means.\n\nRead the full report here: https://lnkd.in/gpVcEWcG \n\nIf you are benchmarking agents internally, what criteria are you using to separate “cool demo” from “production-ready”?",
+          "author": {
+            "public_identifier": "stokerdevin",
+            "id": "ACoAAA2_HTMBRaIPOtYgkXuzS8bUVPS4rWVnlZ8",
+            "name": "Devin Stoker",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7430600876110622720",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_clickup-just-dominated-the-2-most-important-activity-7430600876110622720-TEtm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "5mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 58,
+        "repost_counter": 2,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "ClickUp Just dominated the 2 most important G2's categories in 2026 in addition to many others: \n\n🏆 Best AI Software Products\n🏆 Best Agentic AI Software Products\n\nWhile AI is being added to every tool...  and everyone is an AI solution... Most are nice feature adds vs. a full agentic layer. \n\nClickUp is our agent layer, and we have 3X'd our workforce without increasing headcount. We now have ~1,200 employees and ~3,500 agents working at ClickUp!\n\nBecause ClickUp has full context on all of our work (chat, docs, tasks, note takers, connected search, etc...), every employee is able to build their own team of agents to take away non-strategic work with all the last mile nuance built in. \n\nIf you're looking for a way to build AI into all of your business processes and 10x your team, ClickUp is making that REALLY EASY. \n\nOne of my favorite agents I recently built is a Key Deal Digest agent that gives me a weekly update on all of our key deals, so I'm always up to speed. Simple, easy, helpful. It's information I used to go find, dig up, and ask for... Now I save myself a couple of hours a week + my team's time responding. My agent team is now 15 strong and growing! \n \nFuture is bright!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 0
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D5622AQHloslLq2laWQ",
+            "sticker": false,
+            "size": {
+              "height": 800,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQHloslLq2laWQ/feedshare-shrink_800/B56Zx52mu1HsAk-/0/1771570883868?e=1786579200&v=beta&t=toMGlw-A-HReRP38SGy0VszwZR_hM4D9_W3BYmyU4Dg"
+          }
+        ],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7430600876110622720",
+        "is_repost": false,
+        "parsed_datetime": "2026-02-20T13:15:02.753Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7410032791591018496",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_christmas-came-early-at-clickup-this-week-activity-7410032792040042496-JVHV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "6mo",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 25,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Merry Christmas!",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7410032791591018496",
+        "is_repost": true,
+        "repost_id": "7410032792040042496",
+        "parsed_datetime": "2025-12-25T19:04:49.267Z",
+        "repost_content": {
+          "id": "7409987535470301184",
+          "date": "6mo",
+          "parsed_datetime": "2025-12-25T16:04:59.367Z",
+          "text": "Christmas came early at ClickUp this week!\n\nSuper Agents are available in your workspace, try them out and experience the magic firsthand.\n\nNow, back to supporting Santa!\n \nHappy Holidays 🎄",
+          "author": {
+            "public_identifier": "clickup-app",
+            "id": null,
+            "name": "ClickUp",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7408939431627325441",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_big-news-if-you-could-hire-50-more-people-activity-7408940783002656768-NK_b?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "7mo",
+        "comment_counter": 15,
+        "impressions_counter": 0,
+        "reaction_counter": 127,
+        "repost_counter": 4,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "BIG NEWS! \n\nIf you could hire 50 more people, what would you have them do?\n \nToday at ClickUp, we launched Super Agents: AI coworkers that live inside our workspace and are always on, always working!\n \nThey don’t live in a separate AI tool. They live where our GTM teams already run their day to day work and collaborates on deals. \n\nI have amplified my leadership team with agents that make them the most informed coaches of all time! \n- Automatically score calls against our grading rubric \n- Provide recommendations on our 3 whys documentation (read Google Slides and coach)\n- Point out MEDDPICC weaknesses on key deals with recommended discovery questions to close gaps/reduce deal risk. \n\nI have personal agents writing my weekly updates (saves me 2 hrs/week)\n\nOur supporting ecosystem has agents: \n- Triaging and prioritizing Revops requests\n- Triaging and prioritizing Enablement asks\n- Answering day to day questions... \"anyone have an example of....,\" \"does anyone know when that new feature will launch\"\n\nI have 100 more agents being built right now. \n\nWe have an army supporting our sellers. \n \nThis is the single most important launch I've been a part of in my career. It's applied AI. Deeply embedded. Democratized to everyone on your team. \n\nWhat would you do if you could hire 50 more people today?\n \nSharing the launch video below for a closer look at Super Agents. It's ~4 min. Worth the time as we all unpack what AI can do.",
+        "mentions": [],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D5605AQHLg0DAk2vtCA",
+            "size": {
+              "height": 720,
+              "width": 1280
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQHLg0DAk2vtCA/mp4-720p-30fp-crf28/B56ZtHYI79IkCE-/0/1766429131943?e=1785510000&v=beta&t=bLrbF2dq6HI-gelFhVsx7w-S4aKHTlw8cBA_2SD2U5k"
+          }
+        ],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7408940783002656768",
+        "is_repost": false,
+        "parsed_datetime": "2025-12-22T18:45:34.131Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7404588199286636544",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_clickup-40-is-here-i-work-with-customers-activity-7404588462055661568-Yo3f?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "7mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 76,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "ClickUp 4.0 is here!\n \nI work with customers in every segment, region, and industry. They are using ClickUp to solve real business challenges—from building double-decker buses, to running professional sports franchises, to shipping software at a level that transforms their roadmap.\n \nClickUp 4.0 is a massive upgrade to that experience and will elevate how every one of those teams operates.\n \nOver the past year, more than 80 percent of our resources were dedicated to one thing: raising the quality and depth of the entire product. Every detail has been refined to help teams work smarter, stay aligned, and operate with full clarity.\n \nThe result is our cleanest, most connected, and most capable workspace yet.\n\nEverything you need—tasks, docs, chat, AI agents—is now seamlessly connected in one place, giving your team complete context and the ability to collaborate with confidence.\n \nClickUp 4.0 is live now! Let's get to work!",
+        "mentions": [],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D4E05AQHpdHhCNecLIA",
+            "size": {
+              "height": 720,
+              "width": 1280
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHpdHhCNecLIA/mp4-720p-30fp-crf28/B4EZsJh2i6HoCI-/0/1765391446585?e=1785510000&v=beta&t=W6-mg5AgL42YVtw_-F5nQEQw5kjIG0p3oiRqp9R8un0"
+          }
+        ],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7404588462055661568",
+        "is_repost": false,
+        "parsed_datetime": "2025-12-10T18:30:59.955Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7392720090099548160",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_can-someone-subtitle-this-in-gen-z-activity-7392720090477096960-Uya4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "8mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 7,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "🤣",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7392720090099548160",
+        "is_repost": true,
+        "repost_id": "7392720090477096960",
+        "parsed_datetime": "2025-11-08T00:30:19.577Z",
+        "repost_content": {
+          "id": "7363223186823368706",
+          "date": "11mo",
+          "parsed_datetime": "2025-08-18T15:00:09.810Z",
+          "text": "Can someone subtitle this in Gen Z?",
+          "author": {
+            "public_identifier": "clickup-app",
+            "id": null,
+            "name": "ClickUp",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7389083679152799744",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_new-forrester-study-clickup-drove-384-roi-activity-7389083679152799744-09y0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "8mo",
+        "comment_counter": 3,
+        "impressions_counter": 0,
+        "reaction_counter": 76,
+        "repost_counter": 3,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "When looking at career opportunities, look for products that have material business impact. Without that, your job will be 10x harder! \n\nProducts that have business impact are infinitely more intersting to sell also. \n \nI just read Forrester’s new Total Economic Impact™ study on ClickUp, and the findings are critical for teams battling Work Sprawl.\n \nForrester discovered that in just three years, organizations achieved:\n \n🚀 384% return on investment\n💰 $3.9 million in additional revenue\n⏳ 92,400 hours of work time saved\n⚡️ Payback in less than six months\n \nAs we talk to thousands of businesses, it's clear that increasing speed and productivity has never been more top of mind than in today's AI transformation. \n\nClickUp is the first Converged AI Workspace, meaning all your workflows, documents, and communications are centralized, powered by AI and automation. ClickUp AI has access to all your context, and every employee can build their own agents to speed up their work and increase productivity!\n \nBy automating repetitive tasks and bringing everyone together, you unlock a new levels of speed across the organization.\n \nCurious how this is possible?\n \nRead the study here: https://bit.ly/4694WuW",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 280
+          },
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 720
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7389083679152799744",
+        "is_repost": false,
+        "parsed_datetime": "2025-10-28T23:40:31.646Z",
+        "article": {
+          "id": "8967361975514417923",
+          "title": "New Forrester Study: ClickUp drove 384% ROI",
+          "author": "clickup.com",
+          "url": "https://bit.ly/4694WuW",
+          "published_at": "2037-10-01T04:55:00.491Z",
+          "picture_url": "https://media.licdn.com/dms/image/sync/v2/D5627AQEfc8rp-_J0UQ/articleshare-shrink_800/B56ZlOk_wdIAAI-/0/1761041269862?e=1785510000&v=beta&t=JAdiRVrN3HfHWgRuibvCWgD4_qzQTeFf0jKNXhz_1js"
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7376411326983696384",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_ive-helped-dozens-of-companies-go-through-activity-7376411327751208961-LT7I?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 23,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Great overview from Kyle Coleman on the two layers of AI maturity as you think through your AI strategy as a business. \nWhen both come together it is wildly powerful. \n\nLet me know id you’d like to learn more.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAYR-ekB7ixdcIq3qayCygJC-kiAasRH87w",
+            "length": 12,
+            "start": 20
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7376411326983696384",
+        "is_repost": true,
+        "repost_id": "7376411327751208961",
+        "parsed_datetime": "2025-09-24T00:25:07.448Z",
+        "repost_content": {
+          "id": "7373754970921213952",
+          "date": "10mo",
+          "parsed_datetime": "2025-09-16T16:29:42.810Z",
+          "text": "I’ve helped dozens of companies go through AI transformations.\n\n👀 The most successful ones focus on two core competencies:\n\n1. AI Maturity → graduating beyond simple chat tools and codifying complex workflows with cooperative agents.\n\n2. Context Maturity → ensuring that they adopt systems that give humans and AI the context they need to truly transform.\n\nMore detail in the video, and in this write-up: https://lnkd.in/edtNavte\n\nDo a little self-assessment. \nBe honest about where you’re at. \nFollow the steps in the post above to improve.",
+          "author": {
+            "public_identifier": "kyletcoleman",
+            "id": "ACoAAAYR-ekB7ixdcIq3qayCygJC-kiAasRH87w",
+            "name": "Kyle Coleman",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7371225738751967232",
+        "share_url": "https://www.linkedin.com/posts/matt-bauman-33193717_clickup-just-passed-300-million-arr-what-activity-7371226008739516416-8wpd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 22,
+        "impressions_counter": 0,
+        "reaction_counter": 240,
+        "repost_counter": 4,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "ClickUp just passed $300 million ARR! \n\nWhat a journey! From a small team of 8 sellers to where we are today, it's been incredible to see the growth of our customers, our team, and our product. Genuinely grateful for the process. I'm also the most excited about ClickUp over the next few years that I've been at any point!\n\nI joined with the belief that we would build something incredible and thrilled that we.....\n\n🚀 Just blew past $300m ARR\n🤯 Just past the 20m user mark \n\nI'm even more excited about what ClickUp has become: a converged AI Workspace!\n\n🚀 Just accelerated AI sales >400%\n\nI was recently in London for a Secret Supper with some customers, and it's incredible to see the power of equipping every employee with the power to easily automate their workflows with agents! Humans and agents working together to 10x productivity!\n\nSo proud of the team, the journey and so so GRATEFUL to all our customers who have come along the journey thus far, helped shape our product and vision, and are joining us for this next, very exciting chapter! \n\nCheck out the Axios interview with our CEO, Zeb Evans for an in-depth look at this milestone: \nhttps://lnkd.in/gA896u4S",
+        "mentions": [],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D5605AQFyg6huWqk99Q",
+            "size": {
+              "height": 720,
+              "width": 1280
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQFyg6huWqk99Q/mp4-720p-30fp-crf28/B56ZkvawOnHcB0-/0/1757437227250?e=1785510000&v=beta&t=MxvzAdgeTkrrSnah4rR9SJOgbaM8BOfaX2mOqGkLc9Q"
+          }
+        ],
+        "author": {
+          "public_identifier": "matt-bauman-33193717",
+          "id": "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU",
+          "name": "Matt Bauman",
+          "is_company": false,
+          "headline": "GVP Sales",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFSMG4dfhAMpA/profile-displayphoto-scale_400_400/B56Zvd2Y3VHMAk-/0/1768953581378?e=1786579200&v=beta&t=pcXM-DNScWrrnF_sjFrg1YJa0g5LW4V6LEQ2LyrD7a4"
+        },
+        "id": "7371226008739516416",
+        "is_repost": false,
+        "parsed_datetime": "2025-09-09T17:00:31.240Z"
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAOFABUBGrFhPMqoVctLzhdOlPjvRwJBWYU"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 10,
+      "total_count": 10
+    },
+    "cursor": null
+  }
+}

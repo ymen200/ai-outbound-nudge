@@ -1,0 +1,51 @@
+{
+  "total_entries": 128,
+  "people": [
+    {
+      "id": "64316824b5a0870001469354",
+      "first_name": "Elisa",
+      "last_name_obfuscated": "Le***d",
+      "title": "Business Development",
+      "last_refreshed_at": "2026-06-11T09:11:26.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Equans France",
+        "has_industry": true,
+        "has_phone": false,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5c3b3824f6512588b54e7138",
+      "first_name": "Gilles",
+      "last_name_obfuscated": "Ce***o",
+      "title": "Business Development",
+      "last_refreshed_at": "2026-06-11T06:24:35.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Equans France",
+        "has_industry": true,
+        "has_phone": false,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

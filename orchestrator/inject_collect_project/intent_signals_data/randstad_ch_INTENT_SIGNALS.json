@@ -1,0 +1,309 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Logistiker",
+        "location": "Schweiz",
+        "department": "Logistik",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Logistiker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.0,
+            "evidence_density": 0.67
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Sachbearbeiter",
+        "location": "Schweiz",
+        "department": "Administration",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Sachbearbeiter Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.05,
+            "evidence_density": 0.74
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Produktionsmitarbeiter",
+        "location": "Schweiz",
+        "department": "Produktion",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Produktionsmitarbeiter Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 0.81
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Monteur",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Monteur Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.58
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Chauffeur",
+        "location": "Schweiz",
+        "department": "Transport",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Chauffeur Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.02,
+            "evidence_density": 0.64
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Elektroniker",
+        "location": "Schweiz",
+        "department": "IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Elektroniker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.03,
+            "evidence_density": 0.71
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Laborant",
+        "location": "Schweiz",
+        "department": "Life Sciences",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Laborant Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.04,
+            "evidence_density": 0.62
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Maschinenführer",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Maschinenführer Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Projektleiter",
+        "location": "Schweiz",
+        "department": "Engineering",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Projektleiter Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.04,
+            "evidence_density": 0.72
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Metallbauer",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Metallbauer Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.01,
+            "evidence_density": 0.69
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Personalberater",
+        "location": "Schweiz",
+        "department": "HR",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Personalberater Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Aussendienst",
+        "location": "Schweiz",
+        "department": "Verkauf & Marketing",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Aussendienst Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.03,
+            "evidence_density": 0.71
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Assistant",
+        "location": "Schweiz",
+        "department": "Administration",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Assistant Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.02,
+            "evidence_density": 0.64
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Account Manager",
+        "location": "Schweiz",
+        "department": "Verkauf & Marketing",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Account Manager Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Sanitär",
+        "location": "Schweiz",
+        "department": "Gesundheitswesen",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Sanitär Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.58
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Techniker",
+        "location": "Schweiz",
+        "department": "IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Techniker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.02,
+            "evidence_density": 0.64
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Polymechaniker",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Polymechaniker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.05,
+            "evidence_density": 0.74
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mechaniker",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Mechaniker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.0,
+            "evidence_density": 0.67
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Automatiker",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Automatiker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.01,
+            "evidence_density": 0.69
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Ingenieur",
+        "location": "Schweiz",
+        "department": "Engineering",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Ingenieur Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.02,
+            "evidence_density": 0.64
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Project manager",
+        "location": "Schweiz",
+        "department": "Engineering",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Project manager Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Randstad Employer Brand Research 2026 - Die aktuelle Randstad Employer Brand Research 2026 für die Schweiz zeigt eine Belegschaft, die wählerischer, segmentierter und sensibler für die Kluft zwischen Anspruch und Wirklichkeit wird.",
+        "date": "2026",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "Die aktuelle Randstad Employer Brand Research 2026 für die Schweiz zeigt eine Belegschaft, die wählerischer, segmentierter und sensibler für die Kluft zwischen Anspruch und Wirklichkeit wird.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.01,
+            "evidence_density": 1.21
+        }
+    }
+]

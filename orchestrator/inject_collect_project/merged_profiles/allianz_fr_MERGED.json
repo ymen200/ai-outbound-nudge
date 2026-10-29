@@ -1,0 +1,844 @@
+{
+    "alexa_ranking": 148921,
+    "annual_revenue": 14250000000,
+    "apollo_id": "556da1c973696411e3326601",
+    "city": "Paris La Défense",
+    "country": "France",
+    "departments": {
+        "marketing": 29,
+        "operations": 99,
+        "legal": 77,
+        "engineering": 48,
+        "media_and_commmunication": 42,
+        "finance": 374,
+        "information_technology": 100,
+        "administrative": 23,
+        "business_development": 174,
+        "consulting": 118,
+        "data_science": 97,
+        "sales": 521,
+        "product_management": 31,
+        "accounting": 78,
+        "support": 165,
+        "arts_and_design": 17,
+        "human_resources": 54,
+        "entrepreneurship": 1,
+        "education": 1
+    },
+    "domain": "allianz.fr",
+    "estimated_num_employees": 10000,
+    "facebook_url": "https://www.facebook.com/allianzfrance",
+    "founded_year": 1890,
+    "funding_events": [
+        {
+            "id": "5bf6eee5f6512591a3945ade",
+            "date": "2018-11-22T00:00:00.000+00:00",
+            "type": "Debt Financing",
+            "amount": "100K",
+            "currency": "€",
+            "investors": "October"
+        }
+    ],
+    "industry": "Insurance",
+    "keywords": [
+        "finance",
+        "assurance",
+        "asset management",
+        "cyber insurance",
+        "insurance underwriting",
+        "healthtech",
+        "insurance products",
+        "blockchain in insurance",
+        "insurance marketing",
+        "ai-driven underwriting",
+        "personal insurance",
+        "asset protection",
+        "pension schemes",
+        "auto insurance",
+        "customer-centric insurance",
+        "international reach",
+        "sustainable insurance",
+        "insurance product innovation",
+        "property insurance",
+        "insurance customer loyalty",
+        "artificial intelligence",
+        "digital insurance",
+        "insurance brokerage",
+        "market leader",
+        "personalized insurance",
+        "insurance digitalization",
+        "home insurance",
+        "allianz group",
+        "climate risk management",
+        "financial planning",
+        "sustainability",
+        "risk assessment",
+        "trade credit risk",
+        "innovation",
+        "insurance regulation",
+        "trade credit insurance",
+        "insurtech",
+        "services",
+        "digital insurance technologies",
+        "casualty insurance",
+        "market expertise",
+        "insurance claims",
+        "france",
+        "financial strength",
+        "reinsurance",
+        "data analytics",
+        "insurance pricing",
+        "retirement solutions",
+        "big data analytics",
+        "insurance solutions",
+        "insurance compliance tech",
+        "business insurance",
+        "reinsurance carriers",
+        "insurance portfolio management",
+        "digital transformation",
+        "multichannel distribution",
+        "market research",
+        "sustainable growth",
+        "insurance risk analysis",
+        "customer engagement",
+        "investment products",
+        "life insurance",
+        "predictive analytics",
+        "innovative insurance",
+        "financial services",
+        "multinational insurance",
+        "insurance innovation",
+        "insurance product customization",
+        "employee benefits",
+        "risk management",
+        "insurance automation",
+        "retirement planning",
+        "investment solutions",
+        "corporate insurance",
+        "claims automation",
+        "insurance compliance",
+        "insurance fraud detection",
+        "client protection",
+        "insurance data security",
+        "customer experience",
+        "savings and retirement",
+        "savings products",
+        "b2c",
+        "insurance",
+        "claims processing",
+        "insurance market analytics",
+        "insurance distribution",
+        "customer service",
+        "e-commerce",
+        "claims management",
+        "cross-border insurance",
+        "digital platforms",
+        "advisory services",
+        "health insurance",
+        "agency network",
+        "digital claims management",
+        "retail",
+        "car insurance",
+        "financial savings",
+        "electric car insurance",
+        "2-wheel insurance",
+        "multi-risk insurance",
+        "home equipment insurance",
+        "renewable energy insurance",
+        "savings plan",
+        "loan insurance",
+        "family protection insurance",
+        "liability insurance",
+        "professional liability insurance",
+        "complementary health insurance",
+        "insurance against accidents",
+        "legal protection insurance",
+        "collection car insurance",
+        "homeowner insurance",
+        "tenant insurance",
+        "damage insurance",
+        "assistance services",
+        "vehicle insurance",
+        "commercial vehicle insurance",
+        "insurance for the self-employed",
+        "insurance for pets",
+        "inheritance insurance",
+        "personal liability insurance",
+        "claims assistance",
+        "digital insurance services",
+        "insurance agency",
+        "health coverage",
+        "property coverage",
+        "education insurance",
+        "emergency assistance",
+        "online insurance quotes",
+        "insurance consultation",
+        "premium insurance",
+        "motorcycle insurance",
+        "scooter insurance",
+        "flood insurance",
+        "event insurance",
+        "business interruption insurance",
+        "contract insurance",
+        "b2b",
+        "healthcare",
+        "distribution",
+        "transportation & logistics",
+        "information technology & services",
+        "environmental services",
+        "renewables & environment",
+        "enterprise software",
+        "enterprises",
+        "computer software",
+        "consumer internet",
+        "consumers",
+        "internet",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "Allianz France",
+        "Paris La Defense",
+        "services financiers",
+        "protection"
+    ],
+    "latest_funding_stage": "Publicly Traded",
+    "linkedin_url": "http://www.linkedin.com/company/allianz-france",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6a2d17e7584703000159aeae/picture",
+    "name": "Allianz France",
+    "num_suborganizations": 4,
+    "phone": "+33 5 65 73 64 50",
+    "postal_code": "92076",
+    "raw_address": "1 Cours Michelet, Paris La Defense Cedex, France",
+    "seo_description": null,
+    "short_description": "Services d'assurance et de protection financière basés à Paris La Défense.",
+    "state": "Ile-de-France",
+    "street_address": "1 Cours Michelet",
+    "suborganizations": [
+        {
+            "id": "674337e1eec91f0001771a2b",
+            "name": "Allianz Cabinet Paturel Assurances",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "66f07c6c4fa9a10001cf8d66",
+            "name": "Assurance auto pas cher Figeac",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "6736ef5c22118700018af41a",
+            "name": "Mondial Assistance S.A.S.",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "67420acb6b1c50000186162c",
+            "name": "Allianz Mathieu Payeur & Jérémy Brianzi",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "adp",
+            "name": "ADP",
+            "category": "Recruitment"
+        },
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "alex",
+            "name": "ALEX",
+            "category": "Other"
+        },
+        {
+            "uid": "aws_glue_data_catalog",
+            "name": "AWS Glue Data Catalog",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "adobe",
+            "name": "Adobe",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "adobe_cq",
+            "name": "Adobe CQ",
+            "category": "CMS"
+        },
+        {
+            "uid": "adobe_digital_marketing_suite",
+            "name": "Adobe Digital Marketing Suite",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "adobe_experience_manager",
+            "name": "Adobe Experience Manager",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "adobe_marketing_cloud",
+            "name": "Adobe Marketing Cloud",
+            "category": "Search Marketing"
+        },
+        {
+            "uid": "adobe_tag_management",
+            "name": "Adobe Tag Management",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "akamai_identity_cloud",
+            "name": "Akamai Identity Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_ams",
+            "name": "Amazon AMS",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_advertising",
+            "name": "Amazon Advertising",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "amazon_associates",
+            "name": "Amazon Associates",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "anthropic_claude",
+            "name": "Anthropic Claude",
+            "category": "Other"
+        },
+        {
+            "uid": "apache",
+            "name": "Apache",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "argocd",
+            "name": "Argocd",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "arista_extensible_operating_system",
+            "name": "Arista Extensible Operating System",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "atlassian_confluence",
+            "name": "Atlassian Confluence",
+            "category": "CMS"
+        },
+        {
+            "uid": "azure_active_directory_b2c",
+            "name": "Azure Active Directory B2C",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_analysis_services",
+            "name": "Azure Analysis Services",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "bing_ads",
+            "name": "Bing Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "c3.js",
+            "name": "C3.js",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "captcha",
+            "name": "CAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "cpi",
+            "name": "CPI",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "canon_multifunction_copiers",
+            "name": "Canon Multifunction Copiers",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "celonis",
+            "name": "Celonis",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "chatgpt",
+            "name": "ChatGPT",
+            "category": "Chats"
+        },
+        {
+            "uid": "cisco_amp_for_email",
+            "name": "Cisco AMP for Email",
+            "category": "Event Management"
+        },
+        {
+            "uid": "cisco_collaboration",
+            "name": "Cisco Collaboration",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "cisco_email_security",
+            "name": "Cisco Email Security",
+            "category": "Event Management"
+        },
+        {
+            "uid": "cisco_ironport",
+            "name": "Cisco IronPort",
+            "category": "Security"
+        },
+        {
+            "uid": "cisco_webex_teams",
+            "name": "Cisco WebEx Teams",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "cisco_webex_control_hub",
+            "name": "Cisco Webex Control Hub",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "cloudflare_hosting",
+            "name": "CloudFlare Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "copilot",
+            "name": "Copilot",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "databricks",
+            "name": "Databricks",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "dell_network_attached_storage_nas",
+            "name": "Dell Network Attached Storage (NAS)",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "doubleclick",
+            "name": "DoubleClick",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "email_attitude_1000mercis",
+            "name": "Email Attitude (1000mercis)",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "eyefinity_officemate",
+            "name": "Eyefinity OfficeMate",
+            "category": "Appointment Scheduling"
+        },
+        {
+            "uid": "facebook",
+            "name": "Facebook",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "fusion_erp_analytics",
+            "name": "Fusion ERP Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "git",
+            "name": "Git",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "github_actions",
+            "name": "GitHub Actions",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "google_business_profile",
+            "name": "Google Business Profile",
+            "category": "Customer Reviews"
+        },
+        {
+            "uid": "google_search_central",
+            "name": "Google Search Central",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+        },
+        {
+            "uid": "ionos",
+            "name": "IONOS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "instagram",
+            "name": "Instagram",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "jira",
+            "name": "Jira",
+            "category": "CMS"
+        },
+        {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "lucide",
+            "name": "Lucide",
+            "category": "Fonts"
+        },
+        {
+            "uid": "mailjet",
+            "name": "MailJet",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_advertising",
+            "name": "Microsoft Advertising",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_onedrive_for_business",
+            "name": "Microsoft OneDrive for Business",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft_power_apps",
+            "name": "Microsoft Power Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_power_platform",
+            "name": "Microsoft Power Platform",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_powerpoint",
+            "name": "Microsoft PowerPoint",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "microsoft_sharepoint",
+            "name": "Microsoft Sharepoint",
+            "category": "CMS"
+        },
+        {
+            "uid": "microsoft_teams",
+            "name": "Microsoft Teams",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_teams_rooms",
+            "name": "Microsoft Teams Rooms",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "mongodb",
+            "name": "MongoDB",
+            "category": "Database"
+        },
+        {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+        },
+        {
+            "uid": "nextjs",
+            "name": "Next.js",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "nexthink",
+            "name": "Nexthink",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "ovhcloud",
+            "name": "OVHcloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Widgets"
+        },
+        {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+        },
+        {
+            "uid": "oracle_commerce",
+            "name": "Oracle Commerce",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "power_bi_documenter",
+            "name": "Power BI Documenter",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "pyspark",
+            "name": "PySpark",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "quantum_metric",
+            "name": "Quantum Metric",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "radarstats",
+            "name": "Radarstats",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "radix_ui",
+            "name": "Radix UI",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "sam",
+            "name": "SAM",
+            "category": "Other"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "sas_analytics_pro",
+            "name": "SAS Analytics Pro",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "sas_enterprise_guide",
+            "name": "SAS Enterprise Guide",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce_sales_cloud",
+            "name": "Salesforce Sales Cloud",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "samsung_tablets",
+            "name": "Samsung Tablets",
+            "category": "Other"
+        },
+        {
+            "uid": "secured_mvc_forum_on_windows_2012_r2",
+            "name": "Secured MVC Forum on Windows 2012 R2",
+            "category": "CMS"
+        },
+        {
+            "uid": "specific_media",
+            "name": "Specific Media",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "swiper",
+            "name": "Swiper",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "systools_vba_password_recovery",
+            "name": "SysTools VBA Password Recovery",
+            "category": "Security"
+        },
+        {
+            "uid": "tune",
+            "name": "TUNE",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "tag_commander",
+            "name": "Tag Commander",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "tiktok",
+            "name": "TikTok",
+            "category": "Other"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "accessibe",
+            "name": "accessiBe",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "pandas",
+            "name": "pandas",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "Cloudflare",
+            "category": "CDN / Security"
+        },
+        {
+            "uid": "perimeterx",
+            "name": "PerimeterX",
+            "category": "Bot Protection"
+        }
+    ],
+    "total_funding": "114.0K",
+    "twitter_url": "https://twitter.com/allianzfrance",
+    "website_url": "http://www.allianz.fr",
+    "fiscal_year_end": "December",
+    "is_subsidiary": true,
+    "parent_company": "Allianz SE",
+    "competitors": [
+        "AXA France",
+        "Generali France",
+        "Groupama",
+        "Covéa",
+        "CNP Assurances"
+    ],
+    "data_quality_score": 0.91
+}

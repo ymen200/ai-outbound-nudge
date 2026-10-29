@@ -1,0 +1,70 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 4,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "69ce93b6680d2b0019ed5dc4",
+      "url": "https://www.energyglobal.com/energy-storage/02042026/neoen-announces-ako-battery-its-first-big-battery-in-japan",
+      "domain": "energyglobal.com",
+      "title": "Neoen announces Ako Battery, its first big battery in Japan.",
+      "snippet": "Neoen is collaborating with French company, Equans, and Japanese company, Toho, on this project and obtained a grid connection agreement with the network operator, Kansai Electric Power Co., in January 2026.",
+      "organization_ids": [
+        "54a12a6469702dc12878d101",
+        "60e2bd38f49d92008c001a98"
+      ],
+      "published_at": "2026-04-02T11:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "677029e4772f4c03ee8510d0",
+      "url": "https://www.masstransitmag.com/technology/press-release/55248031/fort-wayne-citilink-citilink-introduces-token-transit-mobile-validators-on-buses-partners-with-equans-to-implement-its-navineo-cad-avl-solution",
+      "domain": "masstransitmag.com",
+      "title": "Citilink introduces Token Transit mobile validators on buses, partners with Equans to implement its NAVINEO CAD/AVL solution",
+      "snippet": "In addition to the Token Transit mobile validators on its buses, Citilink is partnering with Equans to implement its NAVINEO Computer Aided Dispatch/Automatic Vehicle Location (CAD/AVL) solution, anticipated for summer 2025.",
+      "organization_ids": [
+        "5da6eb37bddb8300019b1373",
+        "60e2bd38f49d92008c001a98"
+      ],
+      "published_at": "2024-12-06T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "677029e4772f4c01b0868cc8",
+      "url": "https://www.masstransitmag.com/technology/press-release/55248031/fort-wayne-citilink-citilink-introduces-token-transit-mobile-validators-on-buses-partners-with-equans-to-implement-its-navineo-cad-avl-solution",
+      "domain": "masstransitmag.com",
+      "title": "Citilink introduces Token Transit mobile validators on buses, partners with Equans to implement its NAVINEO CAD/AVL solution",
+      "snippet": "In addition to the Token Transit mobile validators on its buses, Citilink is partnering with Equans to implement its NAVINEO Computer Aided Dispatch/Automatic Vehicle Location (CAD/AVL) solution, anticipated for summer 2025.",
+      "organization_ids": [
+        "5da6eb37bddb8300019b1373",
+        "60e2bd38f49d92008c001a98"
+      ],
+      "published_at": "2024-12-06T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "63d72dbcca26eb00db516397",
+      "url": "https://www.financierworldwide.com/fw-news/2021/11/9/bouygues-group-to-acquire-equans-from-engie-in-71bn-deal",
+      "domain": "financierworldwide.com",
+      "title": "Bouygues Group to acquire Equans from Engie in €7.1bn deal — Financier Worldwide",
+      "snippet": "Through the acquisition of Equans, Bouygues intends to create a world leader in multi-technical services, anchored in France.",
+      "organization_ids": [
+        "5f466a3dc01a9b000170484a",
+        "60e2bd38f49d92008c001a98"
+      ],
+      "published_at": "2021-11-09T09:34:59.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    }
+  ]
+}

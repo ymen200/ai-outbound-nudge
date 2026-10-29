@@ -1,0 +1,26 @@
+{
+  "member_id": "ACoAAB7-k6wBH8iuSni-TwMUsNudNLIAg3-piPk",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAB7-k6wBH8iuSni-TwMUsNudNLIAg3-piPk"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 0,
+      "total_count": 0
+    },
+    "cursor": null
+  }
+}

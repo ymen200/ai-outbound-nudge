@@ -1,0 +1,35 @@
+{
+  "request_id": 4214111990716038952,
+  "webhook_status": "success",
+  "request_type": "phone",
+  "last_dispatched_at": "2026-07-18T12:42:01Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "unique_enriched_records": 1,
+    "missing_records": 0,
+    "credits_consumed": 8,
+    "people": [
+      {
+        "id": "5c589c8ba3ae61321f797eb0",
+        "status": "success",
+        "phone_numbers": [
+          {
+            "_id": "6a5b74860d0365000198b14c",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+1 832-325-7775",
+            "sanitized_number": "+18323257775",
+            "status_cd": "valid_number",
+            "type_cd": "other",
+            "id": "6a5b74860d0365000198b14c",
+            "key": "6a5b74860d0365000198b14c"
+          }
+        ]
+      }
+    ]
+  }
+}

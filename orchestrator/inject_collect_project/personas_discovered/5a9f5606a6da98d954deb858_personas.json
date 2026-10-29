@@ -1,0 +1,69 @@
+[
+    {
+        "id": "66ee7b482871ba0001979c73",
+        "first_name": "Christophe",
+        "last_name": "Smith",
+        "name": "Christophe Smith",
+        "linkedin_url": "http://www.linkedin.com/in/christophe-smith-49b9a4107",
+        "title": "Sales Business Development",
+        "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+        "twitter_url": null,
+        "github_url": null,
+        "facebook_url": null,
+        "extrapolated_email_confidence": null,
+        "headline": "--",
+        "organization_id": "5a9f5606a6da98d954deb858",
+        "employment_history": [
+            {
+                "_id": "6a2fca7b79a4cb000151a661",
+                "created_at": null,
+                "current": true,
+                "degree": null,
+                "description": null,
+                "emails": null,
+                "end_date": null,
+                "grade_level": null,
+                "kind": null,
+                "major": null,
+                "org_matched_by_name": false,
+                "organization_id": "5a9f5606a6da98d954deb858",
+                "organization_name": "Schneider Electric",
+                "raw_address": null,
+                "start_date": "1987-11-01",
+                "title": "Sales Business Development",
+                "updated_at": null,
+                "id": "6a2fca7b79a4cb000151a661",
+                "key": "6a2fca7b79a4cb000151a661"
+            }
+        ],
+        "street_address": "",
+        "city": null,
+        "state": null,
+        "country": "France",
+        "postal_code": null,
+        "formatted_address": "France",
+        "time_zone": "Europe/Paris",
+        "email": "email_not_unlocked@domain.com",
+        "email_status": "verified",
+        "departments": [
+            "master_sales"
+        ],
+        "subdepartments": [
+            "business_development",
+            "sales"
+        ],
+        "seniority": "entry",
+        "functions": [
+            "sales",
+            "business_development"
+        ],
+        "intent_strength": null,
+        "show_intent": false,
+        "email_domain_catchall": false,
+        "email_domain_catchall_verdict": "allow",
+        "has_email": true,
+        "has_phone": false,
+        "mail_pro": false,
+        "source": "Apollo"
+    }
+]

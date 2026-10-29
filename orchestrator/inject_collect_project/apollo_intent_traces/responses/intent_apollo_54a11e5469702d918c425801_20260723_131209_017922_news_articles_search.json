@@ -1,0 +1,297 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 214,
+    "total_pages": 11
+  },
+  "news_articles": [
+    {
+      "id": "6a0289e1541ae300152b81b1",
+      "url": "https://zoomlinenetwork.com/aruba-vs-cisco-vs-ubiquiti",
+      "domain": "zoomlinenetwork.com",
+      "title": "Aruba vs. Cisco vs. Ubiquiti: which enterprise Wi-Fi solution is right for your UAE business in 2026?",
+      "snippet": "Aruba vs. Cisco vs. Ubiquiti: which enterprise Wi-Fi solution is right for your UAE business in 2026?",
+      "organization_ids": [
+        "54a11e5469702d918c425801",
+        "54a25f2b7468693cdd6dc41d"
+      ],
+      "published_at": "2026-04-27T05:11:03.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "66455546004fe901d33fd5b8",
+      "url": "https://www.intelligenttechchannels.com/2024/05/15/hpe-aruba-networking-appoints-mark-weeks-to-lead-uk-and-ireland-sales",
+      "domain": "intelligenttechchannels.com",
+      "title": "HPE Aruba Networking appoints Mark Weeks to lead UK and Ireland sales",
+      "snippet": "HPE Aruba Networking appoints Mark Weeks to lead UK and Ireland sales.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-05-15T00:00:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "66401ef80b39c501c7ffb13a",
+      "url": "https://themachinemaker.com/technology/hpe-aruba-empowers-organizations-to-combat-ai-cyber-risks",
+      "domain": "themachinemaker.com",
+      "title": "HPE Aruba empowers Organizations to combat AI Cyber Risks",
+      "snippet": "HPE Aruba Networking introduces new AI-powered observable security and behavioral analytics capabilities through HPE Aruba Networking Central.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-05-11T11:20:23.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "663dfb436783c404475481d3",
+      "url": "https://www.sdxcentral.com/articles/interview/hpe-aruba-cso-details-new-network-security-control-features/2024/05",
+      "domain": "sdxcentral.com",
+      "title": "HPE Aruba CSO details new network security control features",
+      "snippet": "HPE Aruba also announced new firewall-as-a-service (FWaaS) capabilities within its secure access service edge (SASE) solution.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-05-09T20:05:33.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "662d02e6814caa05770f625a",
+      "url": "https://www.techzine.eu/news/infrastructure/119139/new-hpe-aruba-wifi-7-access-points-suitable-for-ai-edge-applications",
+      "domain": "techzine.eu",
+      "title": "New HPE Aruba WiFi 7 access points suitable for AI edge applications",
+      "snippet": "HPE Aruba has launched new HPE Aruba 700 Series WiFi 7 access points specifically suited for supporting AI and IoT applications in edge environments.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-04-24T12:54:36.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "662d5f7edbec8001c7eb6804",
+      "url": "https://www.itvoice.in/hpe-aruba-networking-introduces-high-capacity-wi-fi-7-access-points-to-improve-enterprise-security-address-ai-and-iot-challenges",
+      "domain": "itvoice.in",
+      "title": "HPE Aruba Networking introduces high-capacity Wi-Fi 7 access points to improve enterprise security, address AI and IoT challenges",
+      "snippet": "HPE Aruba Networking introduces high-capacity Wi-Fi 7 access points to improve enterprise security, address AI and IoT challenges.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-04-24T07:45:28.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "662938aa4a691f01c721d7a5",
+      "url": "https://www.crn.com.au/news/hpe-aruba-wi-fi-7-launch-lays-foundation-to-power-advanced-ai-iot-services-607388?utm_source=feed&utm_medium=rss&utm_campaign=CRN+",
+      "domain": "crn.com.au",
+      "title": "HPE Aruba: Wi-Fi 7 launch lays 'foundation' to power advanced AI, IoT services",
+      "snippet": "HPE Aruba Networking is unveiling its first line of Wi-Fi 7-capable access points.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-04-24T06:14:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "66287ce02f15d601c7960574",
+      "url": "https://www.networkworld.com/article/2094588/hpe-aruba-boosts-wi-fi-7-ap-capacity-eases-iot-network-management.html",
+      "domain": "networkworld.com",
+      "title": "HPE Aruba boosts Wi-Fi 7 AP capacity, eases IoT network management",
+      "snippet": "HPE Aruba has rolled out new Wi-Fi 7 access points (AP) that are aimed at bolstering the capacity of wireless networks while eliminating the need for managing complicated IoT overlay networks.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-04-23T18:56:15.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "660587424f24310a54fe15cf",
+      "url": "https://www.networkworld.com/article/2074758/hpe-aruba-adds-genai-search-tools-to-network-management-platform.html",
+      "domain": "networkworld.com",
+      "title": "HPE Aruba adds genAI search tools to network management platform",
+      "snippet": "HPE Aruba adds genAI search tools to network management platform.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-03-27T02:07:44.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "65f40183cc431e01c6a2f6a9",
+      "url": "https://www.hpe.com/us/en/newsroom/press-release/2024/03/hpe-asset-upcycling-services-selected-by-astellas-pharma-to-support-sustainability-commitments-and-drive-network-standardization.html",
+      "domain": "hpe.com",
+      "title": "HPE Asset Upcycling Services selected by Astellas Pharma to support sustainability commitments and drive network standardization",
+      "snippet": "Astellas also selected HPE Aruba Networking solutions to strengthen its backbone network",
+      "organization_ids": [
+        "54a11e5469702d918c425801",
+        "61f195a14ac90500a4b47430"
+      ],
+      "published_at": "2024-03-14T00:00:00.000+00:00",
+      "event_categories": [
+        "signs_new_client"
+      ]
+    },
+    {
+      "id": "65f0911868f47c01c679005d",
+      "url": "https://www.businesswire.com/news/home/20240311838914/en/HPE-Aruba-Networking-Positioned-as-a-Leader-for-18th-Consecutive-Time-in-2024-Gartner%C2%AE-Magic-Quadrant%E2%84%A2-for-Enterprise-Wired-and-Wireless-LAN-Infrastructure-Report",
+      "domain": "businesswire.com",
+      "title": "HPE Aruba Networking Positioned as a Leader for 18th Consecutive Time in 2024 Gartner(R) Magic Quadrant(TM) for Enterprise Wired and Wireless LAN Infrastructure Report",
+      "snippet": "HPE Aruba Networking positioned as a Leader for 18th consecutive time in 2024 Gartner(R) Magic Quadrant(TM) for Enterprise Wired and Wireless LAN Infrastructure report.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-03-11T00:00:00.000+00:00",
+      "event_categories": [
+        "recognized_as"
+      ]
+    },
+    {
+      "id": "65ea4c5bec7e2905779ddee8",
+      "url": "https://www.cryptika.com/arubaos-security-flaw-let-attackers-execute-remote-code",
+      "domain": "cryptika.com",
+      "title": "ArubaOS Security Flaw Let Attackers Execute Remote Code",
+      "snippet": "However, to mitigate these vulnerabilities, HPE Aruba Networking has released patches for ArubaOS.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-03-07T11:20:02.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "65eb1af752fa3903007d3e1f",
+      "url": "https://sol-distribution.co.uk/news/article/sol-distribution-enters-strategic-commercial-partnership-with-hpe-aruba",
+      "domain": "sol-distribution.co.uk",
+      "title": "Sol Distribution enters strategic commercial partnership with HPE Aruba",
+      "snippet": "Sol Distribution enters strategic commercial partnership with HPE Aruba.",
+      "organization_ids": [
+        "55e86ee6f3e5bb77200000d2",
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-03-05T13:21:07.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "65e15d6113e9210300ce150d",
+      "url": "https://www.cndltd.com/blog-mobile/daily-vulnerability-blog/new-vulnerabilities-wednesday-28-february",
+      "domain": "cndltd.com",
+      "title": "New Vulnerabilities Wednesday 28 February",
+      "snippet": "HPE Aruba Networking has released updates to ClearPass Policy Manager that address multiple security vulnerabilities.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-02-28T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "65d399148fb2fb031a9404a8",
+      "url": "https://www.channelweb.co.uk/news/4175753/cisco-ceo-lot-noise-hpe-juniper-deal-little",
+      "domain": "channelweb.co.uk",
+      "title": "Cisco CEO: 'A lot of noise' on HPE-Juniper deal but 'it's a little early'",
+      "snippet": "Hewlett Packard Enterprise's plans to buy fellow networking provider Juniper Networks is putting some tech leaders on the edge of their seats to see how the deal plays out in the wired and wireless networking market.",
+      "organization_ids": [
+        "54a11e5469702d918c425801",
+        "6018f6686593a5012069631f"
+      ],
+      "published_at": "2024-02-19T14:56:09.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "65a4688fcadca306e33be116",
+      "url": "https://www.sdxcentral.com/articles/analysis/hpes-long-and-winding-networking-acquisition-road/2024/01/",
+      "domain": "sdxcentral.com",
+      "title": "HPE's long and winding networking acquisition road",
+      "snippet": "When HP acquired Aruba Networks, Aruba was predominantly a wireless networking vendor, with limited wired switching assets.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2024-01-10T20:36:11.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "6584b998d2ad4403000099e6",
+      "url": "https://bnnbreaking.com/politics/arubas-progress-acknowledged-by-mep-shailiny-tromp-lee-amidst-opposition-criticism/",
+      "domain": "bnnbreaking.com",
+      "title": "Aruba's Progress Acknowledged by MEP Shailiny Tromp-Lee Amidst Opposition Criticism",
+      "snippet": "Akoustis Technologies and HPE Aruba Networking were recently awarded the 8th Annual Wi-Fi NOW Awards Gala for the Best Enterprise Wi-Fi Solution.",
+      "organization_ids": [
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2023-12-21T05:21:04.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    },
+    {
+      "id": "6568d635bfba1000a3b639df",
+      "url": "https://www.hgc.com.hk/press-releases/hgc-delivers-one-stop-ict-solutions-to-rmhc-hong-kongs-kwun-tong-house",
+      "domain": "hgc.com.hk",
+      "title": "stop ICT Solutions to RMHC Hong Kong's Kwun Tong House",
+      "snippet": "HGC Global Communications Limited is delighted to be working with HPE Aruba Networking to build a full coverage network environment for the newly launched RMH in Kwun Tong.",
+      "organization_ids": [
+        "5d09f178f65125c101e46a64",
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2023-11-23T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "653489ef22f7d600a37ffb3b",
+      "url": "https://www.tahawultech.com/news/premier-inn-middle-east-elevates-guest-experience-with-hpe-aruba-networking/",
+      "domain": "tahawultech.com",
+      "title": "Premier Inn Middle East Elevates Guest Experience with HPE Aruba Networking",
+      "snippet": "Recently, Premier Inn Middle East has announced a transformative collaboration with HPE Aruba Networking to enhance their digital hospitality offerings.",
+      "organization_ids": [
+        "604a6b73ac990e000106ea72",
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2023-10-19T10:32:11.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "65348ae2a74572008b4498d1",
+      "url": "https://www.tahawultech.com/news/precedence-technologies-partners-with-hpe-aruba-to-expand-its-msp/",
+      "domain": "tahawultech.com",
+      "title": "Precedence Technologies partners with HPE Aruba to Expand its MSP",
+      "snippet": "Precedence Technologies partners with HPE Aruba to expand its MSP.",
+      "organization_ids": [
+        "5da29bcdaf1aef00012731dd",
+        "54a11e5469702d918c425801"
+      ],
+      "published_at": "2023-10-19T09:16:02.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    }
+  ]
+}

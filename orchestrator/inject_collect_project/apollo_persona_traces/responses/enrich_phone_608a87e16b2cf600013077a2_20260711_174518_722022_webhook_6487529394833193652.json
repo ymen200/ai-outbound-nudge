@@ -1,0 +1,35 @@
+{
+  "request_id": 6487529394833193652,
+  "webhook_status": "success",
+  "request_type": "phone",
+  "last_dispatched_at": "2026-07-11T16:45:13Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "unique_enriched_records": 1,
+    "missing_records": 0,
+    "credits_consumed": 8,
+    "people": [
+      {
+        "id": "608a87e16b2cf600013077a2",
+        "status": "success",
+        "phone_numbers": [
+          {
+            "_id": "6a52731916d19c00012c398f",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+39 02 2495 9189",
+            "sanitized_number": "+390224959189",
+            "status_cd": "valid_number",
+            "type_cd": "other",
+            "id": "6a52731916d19c00012c398f",
+            "key": "6a52731916d19c00012c398f"
+          }
+        ]
+      }
+    ]
+  }
+}

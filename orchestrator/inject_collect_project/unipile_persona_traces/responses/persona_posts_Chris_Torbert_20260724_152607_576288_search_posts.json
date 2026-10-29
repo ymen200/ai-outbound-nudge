@@ -1,0 +1,405 @@
+{
+  "member_id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7485720926437904384",
+        "share_url": "https://www.linkedin.com/posts/christorbert_we-asked-founders-and-executives-at-cannes-activity-7485720926974656512-HkDD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1d",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 6,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Absolutely love this.  Simple but shows the difference between generic AI and AI with real work context. #ClickUp #Brain² #Brain",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "christorbert",
+          "id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+          "name": "Chris Torbert",
+          "is_company": false,
+          "headline": "Sr. Director, Enterprise Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D35AQHg9euoBFslqA/profile-framedphoto-shrink_200_200/B4DZ1Ok6wuH4AY-/0/1775139794323?e=1785510000&v=beta&t=UzrtKKdJEYjw-vMKGFR3wcXMsZ9jgfOVSIbf4l3T_SE"
+        },
+        "id": "7485720926437904384",
+        "is_repost": true,
+        "repost_id": "7485720926974656512",
+        "parsed_datetime": "2026-07-22T15:42:26.832Z",
+        "repost_content": {
+          "id": "7485717984783544321",
+          "date": "1d",
+          "parsed_datetime": "2026-07-22T15:30:45.487Z",
+          "text": "We asked founders and executives at Cannes to put their AI up against Brain².\n\n\nSaket Mehta Raz Malas",
+          "author": {
+            "public_identifier": "clickup-app",
+            "id": null,
+            "name": "ClickUp",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7477442717925666816",
+        "share_url": "https://www.linkedin.com/posts/christorbert_a-few-weeks-ago-i-was-on-a-plane-crossing-activity-7477442718609137664-XHhn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "3w",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 5,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Take the 60 seconds to read this and watch the short video.  As Malte Stryhn Pontoppidan Thomsen shared, this happens on a daily basis here.  We have had the pleasure of using this for the last 1-2 months here at ClickUp and I cannot imagine doing my job without it now.\n\nBrain² is our best release yet.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAA3XSFsBfuqiFh7VpesauSRiGc4e9N07WDU",
+            "length": 32,
+            "start": 64
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "christorbert",
+          "id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+          "name": "Chris Torbert",
+          "is_company": false,
+          "headline": "Sr. Director, Enterprise Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D35AQHg9euoBFslqA/profile-framedphoto-shrink_200_200/B4DZ1Ok6wuH4AY-/0/1775139794323?e=1785510000&v=beta&t=UzrtKKdJEYjw-vMKGFR3wcXMsZ9jgfOVSIbf4l3T_SE"
+        },
+        "id": "7477442717925666816",
+        "is_repost": true,
+        "repost_id": "7477442718609137664",
+        "parsed_datetime": "2026-06-29T19:27:48.121Z",
+        "repost_content": {
+          "id": "7477316673042219008",
+          "date": "3w",
+          "parsed_datetime": "2026-06-29T11:06:56.679Z",
+          "text": "A few weeks ago I was on a plane crossing the Atlantic. The video below was literally me.\n\nOne of my largest customers, a Group Director of Digital Transformation and close champion of ours, pinged me on WhatsApp requesting an urgent competitive analysis between ClickUp and a tool someone in his organisztion was evaluating, plus a presentation he could take to the C-Suite showcasing that ClickUp already had these capabilities natively, eliminating the need for another point product.\n\nBrain² came to the rescue:\n✅ In-depth comparison analysis generated as a ClickUp Document\n✅ Board-ready presentation created and shared with the customer\nAll with full historical context on the account. No code, no complex prompts, done in minutes, flying 10km above the ground.\n\nCheck it out here: clickup.com/brain",
+          "author": {
+            "public_identifier": "maltespthomsen",
+            "id": "ACoAAA3XSFsBfuqiFh7VpesauSRiGc4e9N07WDU",
+            "name": "Malte Stryhn Pontoppidan Thomsen",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7452412160414236672",
+        "share_url": "https://www.linkedin.com/posts/christorbert_brain-is-the-greatest-feature-clickup-activity-7452412160414236672-o-2z?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "3mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 28,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "\"@Brain\" is the greatest feature ClickUp has ever released.  If you know, you know.  If you don't - you are missing out!",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "christorbert",
+          "id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+          "name": "Chris Torbert",
+          "is_company": false,
+          "headline": "Sr. Director, Enterprise Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D35AQHg9euoBFslqA/profile-framedphoto-shrink_200_200/B4DZ1Ok6wuH4AY-/0/1775139794323?e=1785510000&v=beta&t=UzrtKKdJEYjw-vMKGFR3wcXMsZ9jgfOVSIbf4l3T_SE"
+        },
+        "id": "7452412160414236672",
+        "is_repost": false,
+        "parsed_datetime": "2026-04-21T17:45:18.165Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7447460348653219840",
+        "share_url": "https://www.linkedin.com/posts/christorbert_hiring-enterprisesales-salesleadership-activity-7447460348653219840-tsJL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "3mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 14,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Come join the leadership team - working for some of the best Sr Sales Leaders I've ever been around!",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "christorbert",
+          "id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+          "name": "Chris Torbert",
+          "is_company": false,
+          "headline": "Sr. Director, Enterprise Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D35AQHg9euoBFslqA/profile-framedphoto-shrink_200_200/B4DZ1Ok6wuH4AY-/0/1775139794323?e=1785510000&v=beta&t=UzrtKKdJEYjw-vMKGFR3wcXMsZ9jgfOVSIbf4l3T_SE"
+        },
+        "id": "7447460348653219840",
+        "is_repost": true,
+        "repost_id": "7447460348653219840",
+        "parsed_datetime": "2026-04-08T01:48:34.241Z",
+        "repost_content": {
+          "id": "7447318738309132288",
+          "date": "3mo",
+          "parsed_datetime": "2026-04-07T16:25:51.704Z",
+          "text": "The hiring spree continues. 🔥\n\nEarlier today I posted about growing our Enterprise AE team, and I am not done. I am also looking for a Regional Director, Enterprise based in Chicago, IL to lead one of our fastest-growing regions.\n\nThis is a true player/coach role at a company that is rewriting the playbook on productivity software. You will be building and leading a team of Enterprise AEs, driving strategy across major accounts in the Midwest, and doing it at a company where the product actually makes your sellers' jobs easier (yes, we eat our own cooking 🍳).\n\nWhat I am looking for:\nSomeone who's built and scaled Enterprise teams before. Someone who gets fired up coaching reps through complex, multi-threaded deals. And someone who wants to be part of a leadership team that is genuinely obsessed with winning together.\n\nWhat's in it for you:\n📈 Equity\n🏥 Health, Dental & Vision\n👶 Paid parental leave\n🧘 Employee wellness stipend\n…and a lot more.\n\nIf you are a sales leader in Chicago (or willing to be), I want to hear from you. DMs are open. Tag someone who'd be perfect. 👇\n\n#Hiring #EnterpriseSales #SalesLeadership #ClickUp #Chicago #RegionalDirector #SaaS",
+          "author": {
+            "public_identifier": "benlevien",
+            "id": "ACoAAANrr8UB4JJcFXnqcZSJK9atiAlf7djp7SQ",
+            "name": "Ben Levien",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7445475942493454336",
+        "share_url": "https://www.linkedin.com/posts/christorbert_hey-everyone-im-hiring-in-dallas-ive-activity-7445475942493454336-pBEG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "3mo",
+        "comment_counter": 17,
+        "impressions_counter": 0,
+        "reaction_counter": 75,
+        "repost_counter": 3,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Hey everyone, I’m hiring in Dallas! \n\nI’ve got a couple openings on my Enterprise team at ClickUp, selling into some of the largest companies in the world.\n\nWe’re winning bigger and bigger, with AI leading the way, and we’re 2+ years ahead of a lot of the market with our agentic AI capabilities. Enterprise CIOs are picking ClickUp as their agentic platform of choice to transform how projects, products, and campaigns get delivered at scale.\n\nIf you’ve sold into big accounts, awesome. If you’re making a career change and you’ve got grit and love being coached, I’m open to taking a bet on the right person.\n\nIf this is you (or you know someone), DM me. This is for the DFW area only.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "christorbert",
+          "id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+          "name": "Chris Torbert",
+          "is_company": false,
+          "headline": "Sr. Director, Enterprise Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D35AQHg9euoBFslqA/profile-framedphoto-shrink_200_200/B4DZ1Ok6wuH4AY-/0/1775139794323?e=1785510000&v=beta&t=UzrtKKdJEYjw-vMKGFR3wcXMsZ9jgfOVSIbf4l3T_SE"
+        },
+        "id": "7445475942493454336",
+        "is_repost": false,
+        "parsed_datetime": "2026-04-02T14:23:14.944Z",
+        "job_posting": {
+          "id": "4343759264",
+          "title": "Enterprise Account Executive- Dallas",
+          "location": "Dallas, Texas, United States (Hybrid)",
+          "company": {
+            "id": "12949663",
+            "name": "ClickUp",
+            "picture_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEql6F93s_63Q/company-logo_200_200/B4EZiaeAFtHEAM-/0/1754938213277/clickup_app_logo?e=1786579200&v=beta&t=-RJRWir1H1o12Fdy9sN3yZrVO2XxqTmQbjKz4UzHN7E"
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7439171106474725376",
+        "share_url": "https://www.linkedin.com/posts/christorbert_amazing-article-from-wes-luckock-highly-activity-7439171107267530752-42zh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "4mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 6,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Amazing article from Wes Luckock - HIGHLY recommend the read!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAZ9wd4BPNPo_gIsKyhvyEFSNFfTkn6M_Ec",
+            "length": 11,
+            "start": 21
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "christorbert",
+          "id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+          "name": "Chris Torbert",
+          "is_company": false,
+          "headline": "Sr. Director, Enterprise Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D35AQHg9euoBFslqA/profile-framedphoto-shrink_200_200/B4DZ1Ok6wuH4AY-/0/1775139794323?e=1785510000&v=beta&t=UzrtKKdJEYjw-vMKGFR3wcXMsZ9jgfOVSIbf4l3T_SE"
+        },
+        "id": "7439171107267530752",
+        "is_repost": false,
+        "parsed_datetime": "2026-03-16T04:50:05.088Z",
+        "article": {
+          "id": "7432149620631228416",
+          "title": "Your AI Chatbot Is the Pager of 2026—Here's What the iPhone Looks Like",
+          "author": "Wes Luckock",
+          "url": "https://www.linkedin.com/pulse/your-ai-chatbot-pager-2026heres-what-iphone-looks-like-wes-luckock-bnjac?trackingId=K%2FejlQN9SrK6gE7j3W8gsA%3D%3D",
+          "published_at": "2026-02-24T19:49:12.221Z",
+          "picture_url": "https://media.licdn.com/dms/image/v2/D5612AQFiy9mTX4kcNw/article-cover_image-shrink_423_752/B56ZyRQ0UDGwAU-/0/1771963631413?e=1786579200&v=beta&t=gvcOO9ZmFFzM6KQuD3Xttb27usGLGuCgWUfGDAIUSYM"
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7377051986141224960",
+        "share_url": "https://www.linkedin.com/posts/christorbert_brain-agent-200k-decision-activity-7377051986665357312-G8iK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "9mo",
+        "comment_counter": 3,
+        "impressions_counter": 0,
+        "reaction_counter": 15,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "This is the future",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "christorbert",
+          "id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+          "name": "Chris Torbert",
+          "is_company": false,
+          "headline": "Sr. Director, Enterprise Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D35AQHg9euoBFslqA/profile-framedphoto-shrink_200_200/B4DZ1Ok6wuH4AY-/0/1775139794323?e=1785510000&v=beta&t=UzrtKKdJEYjw-vMKGFR3wcXMsZ9jgfOVSIbf4l3T_SE"
+        },
+        "id": "7377051986141224960",
+        "is_repost": true,
+        "repost_id": "7377051986665357312",
+        "parsed_datetime": "2025-09-25T18:50:52.494Z",
+        "repost_content": {
+          "id": "7377035616703713280",
+          "date": "9mo",
+          "parsed_datetime": "2025-09-25T17:45:49.716Z",
+          "text": "Last month, I told ClickUp's @Brain Agent to make a $200k decision for me.. And it did!\n\"Zeb, if we want to grab these NYC spots, we have to tell them today 🙏\" - Kyle Coleman\nSwipe to see what happened next →\n\n44 minutes. $200,000 decision.\n\nWould you let AI make a real business decision for you?",
+          "author": {
+            "public_identifier": "zebevansclickup",
+            "id": "ACoAAAccGvwBQet_UtnjCJgTQxExDvFcoT02dKM",
+            "name": "Zeb Evans",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7371203206246293504",
+        "share_url": "https://www.linkedin.com/posts/christorbert_not-every-day-you-get-to-say-this-clickup-activity-7371203206921572352-xdI1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 6,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Dan is the absolute best - proud to be a part of this!",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "christorbert",
+          "id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+          "name": "Chris Torbert",
+          "is_company": false,
+          "headline": "Sr. Director, Enterprise Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D35AQHg9euoBFslqA/profile-framedphoto-shrink_200_200/B4DZ1Ok6wuH4AY-/0/1775139794323?e=1785510000&v=beta&t=UzrtKKdJEYjw-vMKGFR3wcXMsZ9jgfOVSIbf4l3T_SE"
+        },
+        "id": "7371203206246293504",
+        "is_repost": true,
+        "repost_id": "7371203206921572352",
+        "parsed_datetime": "2025-09-09T15:29:54.702Z",
+        "repost_content": {
+          "id": "7371198099651977216",
+          "date": "10mo",
+          "parsed_datetime": "2025-09-09T15:09:37.195Z",
+          "text": "not every day you get to say this…\n\nClickUp hit a milestone that once felt like a moonshot: $300M ARR. \n\nThis morning, I discussed our journey on NYSE interview. You can watch the full conversation here starting at 11:07: \nhttps://lnkd.in/erefxDmx \n\nScaling from startup to scale-up isn’t a straight line. It’s messy. It tests your culture.\nOurs: always iterating, always reinventing, always leaning into the growth pain.\n\nAs CFO, this is the proudest moment: watching this crew keep heads down, rally to the challenge, rise to an insane bar - with smiles, positivity, and lifelong friendships built in this special place.\n\nIn my 4-year journey here, I’ve seen how a bold vision + a resilient team can drive outsized result! At this scale, growth isn’t luck. It’s engineered with discipline, instrumented with rigor, and fueled by passion.\n\nNext: how fast can ClickUp get to $1B ARR?\nHere’s to the next chapter, and to everyone who believes in making work radically more productive.\n\nExperience Convergence today:\nhttp://bit.ly/3JMZOUy",
+          "author": {
+            "public_identifier": "danzhangdz",
+            "id": "ACoAAARq6dQBhJsuw3EYWcZw3VPDnm5UUZ7u_BY",
+            "name": "Dan Zhang",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7371187572544327681",
+        "share_url": "https://www.linkedin.com/posts/christorbert_clickup-just-blew-past-300m-arr-but-were-activity-7371187573093879808-ukxE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 13,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Exciting milestone on the way to $1B+ ARR.  The future is bright!",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "christorbert",
+          "id": "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms",
+          "name": "Chris Torbert",
+          "is_company": false,
+          "headline": "Sr. Director, Enterprise Sales @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D35AQHg9euoBFslqA/profile-framedphoto-shrink_200_200/B4DZ1Ok6wuH4AY-/0/1775139794323?e=1785510000&v=beta&t=UzrtKKdJEYjw-vMKGFR3wcXMsZ9jgfOVSIbf4l3T_SE"
+        },
+        "id": "7371187572544327681",
+        "is_repost": true,
+        "repost_id": "7371187573093879808",
+        "parsed_datetime": "2025-09-09T14:27:47.337Z",
+        "repost_content": {
+          "id": "7371180996961976320",
+          "date": "10mo",
+          "parsed_datetime": "2025-09-09T14:01:39.596Z",
+          "text": "ClickUp just blew past $300M ARR. But we're not just celebrating a number.\n\nWe're stopping to celebrate the entire journey - before we move the goal post again.\n\nAnd this journey has been nothing short of extraordinary. We’ve grown from a small team with a huge dream into a global company helping 20M+ people maximize their productivity.\n\n7 years ago, we set out with an ambitious vision.\n\nWe built ClickUp to end the chaos of work sprawl and converge many software categories together. We started when \"one app\" was seen as the wrong strategy, but today it's the only strategy to realize our mission of making people more productive.\n\nBecause 100% context is the single most important thing for enabling human productivity from AI.\n\nSo, this milestone? We stop. We breathe. We practice gratitude. We celebrate.\n\nTo our customers: Thank you so much for believing in us, and for sticking with us through growing pains.\n\nTo our teams: I'm infinitely grateful for how much you care, it energizes me to keep going every single day.\n\nWe’re just getting started. Thank you to everyone who’s been part of this story. 💜",
+          "author": {
+            "public_identifier": "zebevansclickup",
+            "id": "ACoAAAccGvwBQet_UtnjCJgTQxExDvFcoT02dKM",
+            "name": "Zeb Evans",
+            "is_company": false
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAkcZs0BcrQPOIrLdT0I_BKDUWn2gANgRms"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 9,
+      "total_count": 9
+    },
+    "cursor": null
+  }
+}

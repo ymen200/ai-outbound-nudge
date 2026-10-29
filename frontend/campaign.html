@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Campaign Studio — AI Outbound</title>
+  <meta name="description" content="Save and manage campaign parameters for the AI Outbound orchestrator." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="atmosphere" aria-hidden="true"></div>
+
+  <header class="site-nav">
+    <a class="brand" href="index.html">AI <span>Outbound</span></a>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html" class="hide-sm">Home</a>
+      <a class="is-active" href="campaign.html">Campaign Studio</a>
+      <a href="results.html">Results</a>
+    </nav>
+  </header>
+
+  <main class="studio">
+    <div class="studio-intro">
+      <div>
+        <h1>Campaign Studio</h1>
+        <p>All campaign params as form fields. POST creates/saves a draft; PATCH updates an existing one.</p>
+      </div>
+      <span id="statusPill" class="status-pill">Idle</span>
+    </div>
+
+    <section class="panel" aria-labelledby="form-title">
+      <div class="panel-head">
+        <h2 id="form-title">Parameters</h2>
+      </div>
+
+      <div class="tabs" role="tablist" aria-label="Parameter groups">
+        <button type="button" class="tab is-active" data-tab="basics" role="tab" aria-selected="true">Basics</button>
+        <button type="button" class="tab" data-tab="blacklist" role="tab" aria-selected="false">Blacklist</button>
+        <button type="button" class="tab" data-tab="weights" role="tab" aria-selected="false">Weights</button>
+        <button type="button" class="tab" data-tab="outreach" role="tab" aria-selected="false">Outreach</button>
+      </div>
+
+      <form id="form" novalidate>
+        <!-- BASICS -->
+        <div class="tab-panel is-active" id="panel-basics" role="tabpanel">
+          <div class="field">
+            <label for="user_id">user_id <span class="hint">required</span></label>
+            <input type="text" id="user_id" name="user_id" value="test-user-1" required autocomplete="username" />
+          </div>
+          <div class="field">
+            <label for="icp_description_text">icp_description_text</label>
+            <textarea id="icp_description_text" name="icp_description_text" class="textarea-lg">We sell NudgeShield cyber-risk analytics to mid-market insurance and financial services companies in the United States. Contact risk, underwriting, and revenue leaders.
+
+- Industry: Insurance, Financial Services, Banking, Fintech
+- Company size: 200 to 5000 employees
+- Located in: United States
+
+- Annual revenue / ARR: $10,000,000 to $500,000,000
+- Preferred cities: San Francisco (United States), New York (United States), Austin (United States)
+- Tech stack: Guidewire, Salesforce, Snowflake, AWS, Tableau, Slack
+- Growth stage: growth stage
+- Funding stage: Series B, Series C, or later
+
+Exclude:
+- Industries: Gambling, Government, Non-profit, Software
+- Keywords: agency, staffing, consulting-only, competitor
+- Company size under 50 employees
+
+Target roles:
+- VP of Sales
+- Head of Sales
+- Director of Sales
+- Chief Revenue Officer
+- Head of Revenue Operations
+- Sales Operations Manager</textarea>
+          </div>
+          <div class="field">
+            <label for="user_offering">user_offering</label>
+            <textarea id="user_offering" name="user_offering" style="min-height:100px;font-family:var(--font-body)">NudgeShield is a cyber-risk and underwriting intelligence platform that helps insurers and financial institutions detect emerging threats, score account risk, and prioritize high-intent commercial opportunities.</textarea>
+          </div>
+          <div class="field">
+            <label for="company_limit">company_limit</label>
+            <input type="number" id="company_limit" name="company_limit" min="1" value="6" />
+          </div>
+          <div class="check-row">
+            <label class="check"><input type="checkbox" id="run_async" name="run_async" checked /> run_async</label>
+            <label class="check"><input type="checkbox" id="auto_start_outreach" name="auto_start_outreach" /> auto_start_outreach</label>
+          </div>
+        </div>
+
+        <!-- BLACKLIST -->
+        <div class="tab-panel" id="panel-blacklist" role="tabpanel" hidden>
+          <p class="field-note">One entry per line. Sent as <code>blacklist.companies</code> / <code>blacklist.personas</code>.</p>
+          <div class="field">
+            <label for="blacklist_companies">blacklist.companies</label>
+            <textarea id="blacklist_companies" name="blacklist_companies" style="min-height:120px;font-family:var(--font-body)">Gitlab</textarea>
+          </div>
+          <div class="field">
+            <label for="blacklist_personas">blacklist.personas <span class="hint">LinkedIn profile URLs</span></label>
+            <textarea id="blacklist_personas" name="blacklist_personas" style="min-height:120px;font-family:var(--font-body)" placeholder="https://linkedin.com/in/..."></textarea>
+          </div>
+        </div>
+
+        <!-- WEIGHTS -->
+        <div class="tab-panel" id="panel-weights" role="tabpanel" hidden>
+          <p class="field-note">All values map to <code>configurable_weights</code>.</p>
+          <h3 class="subhead">Firmographic</h3>
+          <div class="grid-4">
+            <div class="field">
+              <label for="w_industry_weight">industry_weight</label>
+              <input type="number" id="w_industry_weight" step="any" value="0.50" />
+            </div>
+            <div class="field">
+              <label for="w_size_weight">size_weight</label>
+              <input type="number" id="w_size_weight" step="any" value="0.30" />
+            </div>
+            <div class="field">
+              <label for="w_revenue_weight">revenue_weight</label>
+              <input type="number" id="w_revenue_weight" step="any" value="0.10" />
+            </div>
+            <div class="field">
+              <label for="w_tech_stack_weight">tech_stack_weight</label>
+              <input type="number" id="w_tech_stack_weight" step="any" value="0.10" />
+            </div>
+          </div>
+          <h3 class="subhead">Blend</h3>
+          <div class="grid-2">
+            <div class="field">
+              <label for="w_firmographic_weight">firmographic_weight</label>
+              <input type="number" id="w_firmographic_weight" step="any" value="0.60" />
+            </div>
+            <div class="field">
+              <label for="w_intent_weight">intent_weight</label>
+              <input type="number" id="w_intent_weight" step="any" value="0.40" />
+            </div>
+          </div>
+          <h3 class="subhead">Persona axis</h3>
+          <div class="grid-4">
+            <div class="field">
+              <label for="w_fit_weight">fit_weight</label>
+              <input type="number" id="w_fit_weight" step="any" value="0.70" />
+            </div>
+            <div class="field">
+              <label for="w_reachability_weight">reachability_weight</label>
+              <input type="number" id="w_reachability_weight" step="any" value="0.20" />
+            </div>
+            <div class="field">
+              <label for="w_timing_weight">timing_weight</label>
+              <input type="number" id="w_timing_weight" step="any" value="0.10" />
+            </div>
+            <div class="field">
+              <label for="w_engagement_weight">engagement_weight</label>
+              <input type="number" id="w_engagement_weight" step="any" value="40.0" />
+            </div>
+          </div>
+          <h3 class="subhead">Authority</h3>
+          <div class="grid-2">
+            <div class="field">
+              <label for="w_functional_weight">functional_weight</label>
+              <input type="number" id="w_functional_weight" step="any" value="0.60" />
+            </div>
+            <div class="field">
+              <label for="w_authority_weight">authority_weight</label>
+              <input type="number" id="w_authority_weight" step="any" value="0.40" />
+            </div>
+          </div>
+        </div>
+
+        <!-- OUTREACH -->
+        <div class="tab-panel" id="panel-outreach" role="tabpanel" hidden>
+          <div class="grid-2">
+            <div class="field">
+              <label for="sender_company">sender_company</label>
+              <input type="text" id="sender_company" name="sender_company" value="NudgeShield" />
+            </div>
+            <div class="field">
+              <label for="offer_name">offer_name</label>
+              <input type="text" id="offer_name" name="offer_name" value="Cyber-Risk Audit" />
+            </div>
+          </div>
+          <div class="field">
+            <label for="sender_elevator_pitch">sender_elevator_pitch</label>
+            <textarea id="sender_elevator_pitch" name="sender_elevator_pitch" style="min-height:88px;font-family:var(--font-body)">We help insurers and financial institutions detect emerging cyber threats and prioritize high-intent commercial opportunities.</textarea>
+          </div>
+          <div class="field">
+            <label for="solution_summary">solution_summary</label>
+            <textarea id="solution_summary" name="solution_summary" style="min-height:72px;font-family:var(--font-body)">Quick cyber-risk and underwriting intelligence snapshot</textarea>
+          </div>
+          <div class="grid-2">
+            <div class="field">
+              <label for="cta">cta</label>
+              <input type="text" id="cta" name="cta" value="Reply to book a 15-minute call" />
+            </div>
+            <div class="field">
+              <label for="approval_mode">approval_mode</label>
+              <select id="approval_mode" name="approval_mode">
+                <option value="per_sequence" selected>per_sequence</option>
+                <option value="per_step">per_step</option>
+                <option value="per_step_and_message">per_step_and_message</option>
+              </select>
+            </div>
+          </div>
+          <div class="field">
+            <label for="message_language">message_language</label>
+            <input type="text" id="message_language" name="message_language" value="en" />
+          </div>
+          <div class="check-row">
+            <label class="check"><input type="checkbox" id="use_native_language" name="use_native_language" /> use_native_language</label>
+            <label class="check"><input type="checkbox" id="has_inmail_credits" name="has_inmail_credits" /> has_inmail_credits</label>
+            <label class="check"><input type="checkbox" id="debug_mode" name="debug_mode" checked /> debug_mode</label>
+          </div>
+        </div>
+
+        <div class="form-actions">
+          <button class="btn btn-primary" type="submit" id="saveBtn">Save params (POST)</button>
+          <button class="btn btn-secondary" type="button" id="patchBtn">Save changes (PATCH)</button>
+          <button class="btn btn-secondary" type="button" id="loadBtn">Load saved</button>
+          <button class="btn btn-secondary" type="button" id="startBtn">Start campaign</button>
+          <button class="btn btn-ghost" type="button" id="sampleBtn">Reset to sample</button>
+        </div>
+      </form>
+    </section>
+
+    <aside class="panel response-panel" aria-labelledby="response-title">
+      <div class="panel-head">
+        <h2 id="response-title">Response</h2>
+      </div>
+      <pre id="result">(no requests yet)</pre>
+      <p class="api-meta">
+        POST /campaigns/params · PATCH /campaigns/params/:user_id · GET /campaigns/params/:user_id · POST /campaigns/start<br />
+        Base <code id="apiBaseLabel"></code>
+      </p>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <div>AI Outbound · Campaign Studio</div>
+    <a href="index.html">Back to home</a>
+  </footer>
+
+  <script src="js/api.js"></script>
+  <script src="js/campaign.js"></script>
+</body>
+</html>

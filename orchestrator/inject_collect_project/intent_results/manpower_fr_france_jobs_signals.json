@@ -1,0 +1,994 @@
+{
+    "target_domain": "manpower.fr",
+    "job_country_filter": "France",
+    "news_filter": "Global",
+    "organization_id": "5e57f39c5e3c2600014de891",
+    "extracted_jobs": [
+        {
+            "id": "6a200ba199fe5700016eb8bf",
+            "title": "Technicien qualitÃ© industriel (H/F)",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-qualit%C3%A9-industriel-h-f-at-manpower-france-4419679596",
+            "city": "Dourdan",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-06-03T11:10:25.163+00:00",
+            "posted_at": "2026-06-03T10:10:25.163+00:00"
+        },
+        {
+            "id": "6a20036802acff00016a392e",
+            "title": "ChargÃ© de QualitÃ© systÃ¨me Groupe H/F",
+            "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-de-qualit%C3%A9-syst%C3%A8me-groupe-h-f-at-manpower-france-4419686460",
+            "city": "Clermont-Ferrand",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-06-03T10:35:20.368+00:00",
+            "posted_at": "2026-06-03T09:35:20.368+00:00"
+        },
+        {
+            "id": "6a2015c224832800015ada07",
+            "title": "Juriste H/F",
+            "url": "https://fr.linkedin.com/jobs/view/juriste-h-f-at-manpower-france-4419280565",
+            "city": "Biot",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-06-03T11:53:38.492+00:00",
+            "posted_at": "2026-06-02T13:53:38.492+00:00"
+        },
+        {
+            "id": "6a1eb2dab1363c00019e808f",
+            "title": "acheteur indirect H/F",
+            "url": "https://fr.linkedin.com/jobs/view/acheteur-indirect-h-f-at-manpower-france-4419232875",
+            "city": "Les Mureaux",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-06-02T10:39:22.301+00:00",
+            "posted_at": "2026-06-02T08:39:22.301+00:00"
+        },
+        {
+            "id": "6a1e9ff0986410000180424d",
+            "title": "MÃ©decin du travail",
+            "url": "https://fr.linkedin.com/jobs/view/m%C3%A9decin-du-travail-at-manpower-france-4398205705",
+            "city": null,
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-06-02T09:18:40.349+00:00",
+            "posted_at": "2026-06-02T08:28:40.349+00:00"
+        },
+        {
+            "id": "6a1e9fe0386888000167f8ea",
+            "title": "Technicien Ã©lectronique/Technicienne Ã©lectronique",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-%C3%A9lectronique-technicienne-%C3%A9lectronique-at-manpower-france-4418761480",
+            "city": "Toulouse",
+            "state": "Occitanie",
+            "country": "France",
+            "last_seen_at": "2026-06-02T09:18:24.090+00:00",
+            "posted_at": "2026-06-01T15:18:24.090+00:00"
+        },
+        {
+            "id": "6a1dcfdf5b03630001804b90",
+            "title": "Responsable secteur",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-secteur-at-manpower-france-4418760342",
+            "city": "Melun",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-06-01T18:30:55.871+00:00",
+            "posted_at": "2026-06-01T14:30:55.871+00:00"
+        },
+        {
+            "id": "6a1e9cc1ce179b000149c2d4",
+            "title": "Assistant commercial/Assistante commerciale",
+            "url": "https://fr.linkedin.com/jobs/view/assistant-commercial-assistante-commerciale-at-manpower-france-4418775054",
+            "city": "Lons-le-Saunier",
+            "state": "Bourgogne-Franche-Comte",
+            "country": "France",
+            "last_seen_at": "2026-06-02T09:05:05.751+00:00",
+            "posted_at": "2026-06-01T13:05:05.751+00:00"
+        },
+        {
+            "id": "6a1e9fef246438000160f4fa",
+            "title": "Chef de chantier canalisations humides H/F",
+            "url": "https://fr.linkedin.com/jobs/view/chef-de-chantier-canalisations-humides-h-f-at-manpower-france-4418731529",
+            "city": "Aix-en-Provence",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-06-02T09:18:39.377+00:00",
+            "posted_at": "2026-06-01T10:18:39.377+00:00"
+        },
+        {
+            "id": "6a1aa6c747a93600016d8d6b",
+            "title": "Psychiatre",
+            "url": "https://fr.linkedin.com/jobs/view/psychiatre-at-manpower-france-4417944994",
+            "city": "Dax",
+            "state": "Nouvelle-Aquitaine",
+            "country": "France",
+            "last_seen_at": "2026-05-30T08:58:47.552+00:00",
+            "posted_at": "2026-05-29T15:58:47.552+00:00"
+        },
+        {
+            "id": "6a1af1283b9eea0001e28df3",
+            "title": "Developpeur WMS Reflex F/H",
+            "url": "https://fr.linkedin.com/jobs/view/developpeur-wms-reflex-f-h-at-manpower-france-4417962103",
+            "city": "Valbonne",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-30T14:16:08.203+00:00",
+            "posted_at": "2026-05-29T15:16:08.203+00:00"
+        },
+        {
+            "id": "6a1af244467f6100014414fc",
+            "title": "IngÃ©nieur projet industrielle",
+            "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-projet-industrielle-at-manpower-france-4417955331",
+            "city": "Saint-Martin-de-Crau",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-30T14:20:52.193+00:00",
+            "posted_at": "2026-05-29T14:20:52.193+00:00"
+        },
+        {
+            "id": "6a1a922a20496e00017942b5",
+            "title": "EmployÃ© de service de paie/EmployÃ©e de service de paie",
+            "url": "https://fr.linkedin.com/jobs/view/employ%C3%A9-de-service-de-paie-employ%C3%A9e-de-service-de-paie-at-manpower-france-4417947443",
+            "city": "Lyon",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-30T07:30:50.188+00:00",
+            "posted_at": "2026-05-29T13:30:50.188+00:00"
+        },
+        {
+            "id": "6a1aaa07890ddb00016e7264",
+            "title": "Directeur de Cabinet de recrutement (H/F) - Toulouse (31)",
+            "url": "https://fr.linkedin.com/jobs/view/directeur-de-cabinet-de-recrutement-h-f-toulouse-31-at-manpower-france-4417945347",
+            "city": "Toulouse",
+            "state": "Occitanie",
+            "country": "France",
+            "last_seen_at": "2026-05-30T09:12:38.941+00:00",
+            "posted_at": "2026-05-29T13:12:38.941+00:00"
+        },
+        {
+            "id": "6a19566bb7480d0001dc958f",
+            "title": "Commercial/Commerciale",
+            "url": "https://fr.linkedin.com/jobs/view/commercial-commerciale-at-manpower-france-4417917885",
+            "city": null,
+            "state": "Bourgogne-Franche-Comte",
+            "country": "France",
+            "last_seen_at": "2026-05-29T09:03:38.897+00:00",
+            "posted_at": "2026-05-29T08:58:38.897+00:00"
+        },
+        {
+            "id": "6a196c81e058a000014c0f3f",
+            "title": "Responsable administratif et financier/Responsable administrative et financiÃ¨re",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-administratif-et-financier-responsable-administrative-et-financi%C3%A8re-at-manpower-france-4417209749",
+            "city": "Bischoffsheim",
+            "state": "Grand Est",
+            "country": "France",
+            "last_seen_at": "2026-05-29T10:37:53.184+00:00",
+            "posted_at": "2026-05-28T15:37:53.184+00:00"
+        },
+        {
+            "id": "6a1959f1d5f59b0001e74c44",
+            "title": "Responsable Ã©tudes de prix",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-%C3%A9tudes-de-prix-at-manpower-france-4417218464",
+            "city": "Ernolsheim-les-Saverne",
+            "state": "Grand Est",
+            "country": "France",
+            "last_seen_at": "2026-05-29T09:18:40.921+00:00",
+            "posted_at": "2026-05-28T15:18:40.921+00:00"
+        },
+        {
+            "id": "6a1959f1d5f59b0001e74c40",
+            "title": "Directeur des systÃ¨mes d'information/Directrice des systÃ¨mes d'information",
+            "url": "https://fr.linkedin.com/jobs/view/directeur-des-syst%C3%A8mes-d-information-directrice-des-syst%C3%A8mes-d-information-at-manpower-france-4414340383",
+            "city": "Strasbourg",
+            "state": "Grand Est",
+            "country": "France",
+            "last_seen_at": "2026-05-29T09:18:40.919+00:00",
+            "posted_at": "2026-05-28T15:18:40.919+00:00"
+        },
+        {
+            "id": "6a1959d2ff025b000196608f",
+            "title": "Technicien qualitÃ© fournisseur H/F",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-qualit%C3%A9-fournisseur-h-f-at-manpower-france-4417633474",
+            "city": "Annemasse",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-29T09:18:10.260+00:00",
+            "posted_at": "2026-05-28T12:18:10.260+00:00"
+        },
+        {
+            "id": "6a17f3e29059ca00011d6eb2",
+            "title": "Comptable",
+            "url": "https://fr.linkedin.com/jobs/view/comptable-at-manpower-france-4417216981",
+            "city": "Chaponnay",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-28T07:50:57.911+00:00",
+            "posted_at": "2026-05-27T15:50:57.911+00:00"
+        },
+        {
+            "id": "6a17f27a73806100012e5442",
+            "title": "Responsable de production",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-de-production-at-manpower-france-4417215918",
+            "city": "Saint-Etienne",
+            "state": "Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-28T07:44:58.240+00:00",
+            "posted_at": "2026-05-27T15:44:58.240+00:00"
+        },
+        {
+            "id": "6a18008b42e2f80001eb46b4",
+            "title": "MÃ©decin gÃ©nÃ©raliste (H/F)",
+            "url": "https://fr.linkedin.com/jobs/view/m%C3%A9decin-g%C3%A9n%C3%A9raliste-h-f-at-manpower-france-4417217286",
+            "city": null,
+            "state": "Nouvelle-Aquitaine",
+            "country": "France",
+            "last_seen_at": "2026-05-28T08:44:59.382+00:00",
+            "posted_at": "2026-05-27T13:44:59.381+00:00"
+        },
+        {
+            "id": "6a17f9c774551b0001f39210",
+            "title": "Assistant de direction/Assistante de direction",
+            "url": "https://fr.linkedin.com/jobs/view/assistant-de-direction-assistante-de-direction-at-manpower-france-4417228041",
+            "city": "Chamarande",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-28T08:16:07.869+00:00",
+            "posted_at": "2026-05-27T13:16:07.869+00:00"
+        },
+        {
+            "id": "6a17f61fd70d8d00013550c2",
+            "title": "Commercial/Commerciale",
+            "url": "https://fr.linkedin.com/jobs/view/commercial-commerciale-at-manpower-france-4416896676",
+            "city": "Lille",
+            "state": "Nord-Pas-de-Calais",
+            "country": "France",
+            "last_seen_at": "2026-05-28T08:00:31.377+00:00",
+            "posted_at": "2026-05-27T11:00:31.377+00:00"
+        },
+        {
+            "id": "6a17f3bbc2fbd40001524611",
+            "title": "Responsable maintenance",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-maintenance-at-manpower-france-4416885436",
+            "city": "Oyonnax",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-28T07:50:19.256+00:00",
+            "posted_at": "2026-05-27T08:50:19.256+00:00"
+        },
+        {
+            "id": "6a17f2d57bc5d300019b7023",
+            "title": "Coordinateur travaux/Coordinatrice travaux",
+            "url": "https://fr.linkedin.com/jobs/view/coordinateur-travaux-coordinatrice-travaux-at-manpower-france-4416888367",
+            "city": "Saint-Constant-Fournoules",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-28T07:46:29.887+00:00",
+            "posted_at": "2026-05-27T08:46:29.887+00:00"
+        },
+        {
+            "id": "6a16b5fb1c3b1a000160036a",
+            "title": "Technicien contrÃ´le qualitÃ© en usinage mÃ©canique expÃ©rimentÃ© (H/F)",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-contr%C3%B4le-qualit%C3%A9-en-usinage-m%C3%A9canique-exp%C3%A9riment%C3%A9-h-f-at-manpower-france-4416893188",
+            "city": "Les Ulis",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-27T09:14:35.176+00:00",
+            "posted_at": "2026-05-27T08:14:35.176+00:00"
+        },
+        {
+            "id": "6a16b5fb3409d70001122e18",
+            "title": "Technicien maintenance/Technicienne maintenance",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-maintenance-technicienne-maintenance-at-manpower-france-4418566729",
+            "city": "Vert-le-Grand",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-27T09:14:35.146+00:00",
+            "posted_at": "2026-05-27T07:14:35.146+00:00"
+        },
+        {
+            "id": "6a16b5f93409d70001122e11",
+            "title": "Technicien contrÃ´le qualitÃ©/Technicienne contrÃ´le qualitÃ©",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-contr%C3%B4le-qualit%C3%A9-technicienne-contr%C3%B4le-qualit%C3%A9-at-manpower-france-4416882272",
+            "city": null,
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-27T09:14:33.484+00:00",
+            "posted_at": "2026-05-27T07:14:33.484+00:00"
+        },
+        {
+            "id": "6a16b5d3d577680001e3d8ea",
+            "title": "Comptable auxiliaire H/F",
+            "url": "https://fr.linkedin.com/jobs/view/comptable-auxiliaire-h-f-at-manpower-france-4416818787",
+            "city": "Saint-Bon-Tarentaise",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-27T09:13:55.460+00:00",
+            "posted_at": "2026-05-26T16:13:55.460+00:00"
+        },
+        {
+            "id": "6a16b5fa5c846700017d99a4",
+            "title": "Technicien de maintenance automatisme industriel expert - bases IT itinÃ©rant H/F",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automatisme-industriel-expert-bases-it-itin%C3%A9rant-h-f-at-manpower-france-4416809025",
+            "city": "Franconville",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-27T09:14:34.799+00:00",
+            "posted_at": "2026-05-26T13:14:34.799+00:00"
+        },
+        {
+            "id": "6a1561cebb091e0001b60f5f",
+            "title": "Responsable des SystÃ¨mes CVC",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-des-syst%C3%A8mes-cvc-at-manpower-france-4414349347",
+            "city": "Strasbourg",
+            "state": "Grand Est",
+            "country": "France",
+            "last_seen_at": "2026-05-26T09:03:10.050+00:00",
+            "posted_at": "2026-05-26T08:03:10.050+00:00"
+        },
+        {
+            "id": "6a1167df86f65d0001cc9bea",
+            "title": "Responsable de la restauration",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-de-la-restauration-at-manpower-france-4414348335",
+            "city": "Moissy-Cramayel",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-23T08:39:57.482+00:00",
+            "posted_at": "2026-05-22T15:39:57.482+00:00"
+        },
+        {
+            "id": "6a116184cc71aa000175bd27",
+            "title": "Responsable hygiÃ¨ne environnement",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-hygi%C3%A8ne-environnement-at-manpower-france-4414318251",
+            "city": "Moissy-Cramayel",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-23T08:12:52.916+00:00",
+            "posted_at": "2026-05-22T15:12:52.916+00:00"
+        },
+        {
+            "id": "6a11833bd05cc50001cfc2ca",
+            "title": "Juriste",
+            "url": "https://fr.linkedin.com/jobs/view/juriste-at-manpower-france-4414317197",
+            "city": "Nice",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-23T10:36:43.774+00:00",
+            "posted_at": "2026-05-22T13:36:43.774+00:00"
+        },
+        {
+            "id": "6a116ec3f4598c0001418611",
+            "title": "Technicien de maintenance AprÃ¨s-Vente",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-apr%C3%A8s-vente-at-manpower-france-4414314612",
+            "city": null,
+            "state": "Occitanie",
+            "country": "France",
+            "last_seen_at": "2026-05-23T09:09:23.043+00:00",
+            "posted_at": "2026-05-22T13:09:23.043+00:00"
+        },
+        {
+            "id": "6a116e10fcb4690001617d52",
+            "title": "Technicien de maintenance Automaticien / Roboticien (H/F)",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-automaticien-roboticien-h-f-at-manpower-france-4414317000",
+            "city": "Montpellier",
+            "state": "Languedoc-Roussillon",
+            "country": "France",
+            "last_seen_at": "2026-05-23T09:06:24.164+00:00",
+            "posted_at": "2026-05-22T13:06:24.164+00:00"
+        },
+        {
+            "id": "6a0fad0ebedced0001dfd241",
+            "title": "Technicien production/Technicienne production aÃ©ronautique",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-production-technicienne-production-a%C3%A9ronautique-at-manpower-france-4414002673",
+            "city": "Annecy",
+            "state": "Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-22T01:10:38.116+00:00",
+            "posted_at": "2026-05-21T15:10:38.116+00:00"
+        },
+        {
+            "id": "6a101d116bbd170001e93068",
+            "title": "Conseiller en assurances/ConseillÃ¨re en assurances",
+            "url": "https://fr.linkedin.com/jobs/view/conseiller-en-assurances-conseill%C3%A8re-en-assurances-at-manpower-france-4414021339",
+            "city": "Longwy",
+            "state": "Grand Est",
+            "country": "France",
+            "last_seen_at": "2026-05-22T09:08:32.993+00:00",
+            "posted_at": "2026-05-21T15:08:32.993+00:00"
+        },
+        {
+            "id": "6a0fac8ca4717300017705cf",
+            "title": "ChargÃ©(e) dâAffaires Exploitation - Industrie (H/F)",
+            "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-e-d%E2%80%99affaires-exploitation-industrie-h-f-at-manpower-france-4414006315",
+            "city": "Chambery",
+            "state": "Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-22T01:08:28.304+00:00",
+            "posted_at": "2026-05-21T14:08:28.304+00:00"
+        },
+        {
+            "id": "6a10341e8b18de00017ef1e8",
+            "title": "Technicien BE en Ã©lectricitÃ© industrielle H/F",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-be-en-%C3%A9lectricit%C3%A9-industrielle-h-f-at-manpower-france-4414011199",
+            "city": null,
+            "state": "Hauts-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-22T10:46:54.553+00:00",
+            "posted_at": "2026-05-21T13:46:54.553+00:00"
+        },
+        {
+            "id": "6a1023c2ed5c1c00012fcc72",
+            "title": "Chef dâÃ©quipe de production/Cheffe dâÃ©quipe de production",
+            "url": "https://fr.linkedin.com/jobs/view/chef-d%E2%80%99%C3%A9quipe-de-production-cheffe-d%E2%80%99%C3%A9quipe-de-production-at-manpower-france-4413678398",
+            "city": "Aizenay",
+            "state": "Pays de la Loire",
+            "country": "France",
+            "last_seen_at": "2026-05-22T09:37:06.119+00:00",
+            "posted_at": "2026-05-21T10:37:06.119+00:00"
+        },
+        {
+            "id": "6a0eca5117ae350001350a78",
+            "title": "Technicien/Technicienne",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-technicienne-at-manpower-france-4413614695",
+            "city": "Saint-Brieuc",
+            "state": "Brittany",
+            "country": "France",
+            "last_seen_at": "2026-05-21T09:03:13.500+00:00",
+            "posted_at": "2026-05-20T16:03:13.500+00:00"
+        },
+        {
+            "id": "6a0e54ed0f54f600011ccd3a",
+            "title": "Coordinateur qualitÃ©/Coordinatrice qualitÃ©",
+            "url": "https://fr.linkedin.com/jobs/view/coordinateur-qualit%C3%A9-coordinatrice-qualit%C3%A9-at-manpower-france-4413626380",
+            "city": "Monistrol-sur-Loire",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-21T00:42:21.701+00:00",
+            "posted_at": "2026-05-20T15:42:21.701+00:00"
+        },
+        {
+            "id": "6a0e558f4e9a5400014311a6",
+            "title": "IngÃ©nieur conception mÃ©canique/IngÃ©nieure conception mÃ©canique de prÃ©cision",
+            "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-conception-m%C3%A9canique-ing%C3%A9nieure-conception-m%C3%A9canique-de-pr%C3%A9cision-at-manpower-france-4417076800",
+            "city": "Annecy",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-21T00:45:03.253+00:00",
+            "posted_at": "2026-05-20T12:45:03.253+00:00"
+        },
+        {
+            "id": "6a0d887b8ccce50001f9ca9a",
+            "title": "Solution Manager Compute F/H",
+            "url": "https://fr.linkedin.com/jobs/view/solution-manager-compute-f-h-at-manpower-france-4413330741",
+            "city": "Biot",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-20T10:10:03.045+00:00",
+            "posted_at": "2026-05-19T16:10:03.045+00:00"
+        },
+        {
+            "id": "6a0c2a4117ceba00018df017",
+            "title": "Responsable d'agence de travail temporaire - Sallanches (74)",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-d-agence-de-travail-temporaire-sallanches-74-at-manpower-france-4406455240",
+            "city": "Sallanches",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-19T09:15:45.675+00:00",
+            "posted_at": "2026-05-19T07:15:45.675+00:00"
+        },
+        {
+            "id": "6a0c35af892f950001779f77",
+            "title": "Technicien mÃ©thodes industrielles",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-industrielles-at-manpower-france-4401292577",
+            "city": "Orange",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-19T10:04:31.050+00:00",
+            "posted_at": "2026-05-19T07:04:31.050+00:00"
+        },
+        {
+            "id": "6a0c2a4065b9bb0001a1bdf9",
+            "title": "Technicien qualitÃ©/Technicienne qualitÃ©",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-qualit%C3%A9-technicienne-qualit%C3%A9-at-manpower-france-4412294383",
+            "city": "Issoire",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-19T09:15:44.672+00:00",
+            "posted_at": "2026-05-18T11:15:44.672+00:00"
+        },
+        {
+            "id": "6a06c5878f58a90001053cc0",
+            "title": "IngÃ©nieur automaticien/IngÃ©nieure automaticienne",
+            "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-automaticien-ing%C3%A9nieure-automaticienne-at-manpower-france-4411517096",
+            "city": "Aix-en-Provence",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-15T07:04:39.202+00:00",
+            "posted_at": "2026-05-14T18:04:39.202+00:00"
+        },
+        {
+            "id": "6a058fbc2e3e1e00019635b4",
+            "title": "Directeur de Secteur (H/F) Bretagne Sud (56 + 29)",
+            "url": "https://fr.linkedin.com/jobs/view/directeur-de-secteur-h-f-bretagne-sud-56-%2B-29-at-manpower-france-4410612564",
+            "city": null,
+            "state": "Brittany",
+            "country": "France",
+            "last_seen_at": "2026-05-14T09:02:52.505+00:00",
+            "posted_at": "2026-05-13T16:02:52.504+00:00"
+        },
+        {
+            "id": "6a0593382a3a880001532d2f",
+            "title": "Directeur de secteur",
+            "url": "https://fr.linkedin.com/jobs/view/directeur-de-secteur-at-manpower-france-4410616656",
+            "city": "Lille",
+            "state": "Nord-Pas-de-Calais",
+            "country": "France",
+            "last_seen_at": "2026-05-14T09:17:44.077+00:00",
+            "posted_at": "2026-05-13T15:17:44.077+00:00"
+        },
+        {
+            "id": "6a05112520f11d0001bcd770",
+            "title": "Superviseur de Nettoyage (H/F)",
+            "url": "https://fr.linkedin.com/jobs/view/superviseur-de-nettoyage-h-f-at-manpower-france-4410605369",
+            "city": "Evian-les-Bains",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-14T00:02:45.291+00:00",
+            "posted_at": "2026-05-13T14:02:45.291+00:00"
+        },
+        {
+            "id": "6a05195644c2b30001572d1b",
+            "title": "IngÃ©nieur industriel/IngÃ©nieure industrielle",
+            "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-industriel-ing%C3%A9nieure-industrielle-at-manpower-france-4410382377",
+            "city": "Saint-Maixent-l'Ecole",
+            "state": "Nouvelle-Aquitaine",
+            "country": "France",
+            "last_seen_at": "2026-05-14T00:37:42.431+00:00",
+            "posted_at": "2026-05-13T10:37:42.431+00:00"
+        },
+        {
+            "id": "6a0404c9f5ce770001672216",
+            "title": "Technicien mÃ©thodes Ã©lectricitÃ© industrielle",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-m%C3%A9thodes-%C3%A9lectricit%C3%A9-industrielle-at-manpower-france-4410183662",
+            "city": "Bayonne",
+            "state": "Nouvelle-Aquitaine",
+            "country": "France",
+            "last_seen_at": "2026-05-13T04:57:45.372+00:00",
+            "posted_at": "2026-05-12T15:57:45.372+00:00"
+        },
+        {
+            "id": "6a0441a54bad170001cc93d2",
+            "title": "Chef d'Ãquipe de Maintenance",
+            "url": "https://fr.linkedin.com/jobs/view/chef-d-%C3%A9quipe-de-maintenance-at-manpower-france-4410169196",
+            "city": "Aubergenville",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-13T09:17:25.636+00:00",
+            "posted_at": "2026-05-12T10:17:25.635+00:00"
+        },
+        {
+            "id": "6a04113fb398df000158b800",
+            "title": "ReprÃ©sentant technico-commercial/ReprÃ©sentante technico-commercial",
+            "url": "https://fr.linkedin.com/jobs/view/repr%C3%A9sentant-technico-commercial-repr%C3%A9sentante-technico-commercial-at-manpower-france-4410152160",
+            "city": null,
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-13T05:50:55.383+00:00",
+            "posted_at": "2026-05-12T09:50:55.383+00:00"
+        },
+        {
+            "id": "6a02fe877dde170001a996a6",
+            "title": "Directeur administratif et financier/Directrice administrative et financiÃ¨re",
+            "url": "https://fr.linkedin.com/jobs/view/directeur-administratif-et-financier-directrice-administrative-et-financi%C3%A8re-at-manpower-france-4410151053",
+            "city": "Reims",
+            "state": "Grand Est",
+            "country": "France",
+            "last_seen_at": "2026-05-12T10:18:47.036+00:00",
+            "posted_at": "2026-05-12T09:18:47.036+00:00"
+        },
+        {
+            "id": "6a02f0eb9cafd30001483e2e",
+            "title": "RÃ©ceptionnaire",
+            "url": "https://fr.linkedin.com/jobs/view/r%C3%A9ceptionnaire-at-manpower-france-4410154097",
+            "city": "Dompierre-sur-Yon",
+            "state": "Pays de la Loire",
+            "country": "France",
+            "last_seen_at": "2026-05-12T09:20:43.337+00:00",
+            "posted_at": "2026-05-12T09:08:43.337+00:00"
+        },
+        {
+            "id": "6a02f09e8e4a240001be83e8",
+            "title": "Responsable de bureau dâÃ©tude",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-de-bureau-d%E2%80%99%C3%A9tude-at-manpower-france-4410134457",
+            "city": "Reims",
+            "state": "Grand Est",
+            "country": "France",
+            "last_seen_at": "2026-05-12T09:19:25.965+00:00",
+            "posted_at": "2026-05-12T07:19:25.965+00:00"
+        },
+        {
+            "id": "6a02f08ee6a4960001ad79fa",
+            "title": "Responsable de production",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-de-production-at-manpower-france-4412907322",
+            "city": "Agen",
+            "state": "Nouvelle-Aquitaine",
+            "country": "France",
+            "last_seen_at": "2026-05-12T09:19:10.465+00:00",
+            "posted_at": "2026-05-11T15:19:10.465+00:00"
+        },
+        {
+            "id": "6a019e8a7d1e930001f9fd2a",
+            "title": "Directeur d'Exploitation production et maintenance H/F",
+            "url": "https://fr.linkedin.com/jobs/view/directeur-d-exploitation-production-et-maintenance-h-f-at-manpower-france-4412738342",
+            "city": "Thiers",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-11T09:16:58.271+00:00",
+            "posted_at": "2026-05-11T09:02:58.271+00:00"
+        },
+        {
+            "id": "6a019c76f3fc5e0001b21c88",
+            "title": "SpÃ©cialiste des transferts",
+            "url": "https://fr.linkedin.com/jobs/view/sp%C3%A9cialiste-des-transferts-at-manpower-france-4412737440",
+            "city": "Pouzauges",
+            "state": "Pays de la Loire",
+            "country": "France",
+            "last_seen_at": "2026-05-11T09:08:06.074+00:00",
+            "posted_at": "2026-05-11T08:57:06.074+00:00"
+        },
+        {
+            "id": "6a019ca93d99c50001baa4b7",
+            "title": "Technicien R&D bioprocÃ©dÃ©s (DSP)",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-r-d-bioproc%C3%A9d%C3%A9s-dsp-at-manpower-france-4412732215",
+            "city": "Nice",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-11T09:08:57.323+00:00",
+            "posted_at": "2026-05-11T08:08:57.323+00:00"
+        },
+        {
+            "id": "6a019c593d99c50001baa481",
+            "title": "IngÃ©nieur structure/IngÃ©nieure structure bois",
+            "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-structure-ing%C3%A9nieure-structure-bois-at-manpower-france-4399966636",
+            "city": null,
+            "state": "Midi-Pyrenees",
+            "country": "France",
+            "last_seen_at": "2026-05-11T09:07:37.185+00:00",
+            "posted_at": "2026-05-11T07:07:37.185+00:00"
+        },
+        {
+            "id": "6a019c58628f2800010a2dee",
+            "title": "Conducteur de travaux H/F",
+            "url": "https://fr.linkedin.com/jobs/view/conducteur-de-travaux-h-f-at-manpower-france-4399957871",
+            "city": null,
+            "state": "Midi-Pyrenees",
+            "country": "France",
+            "last_seen_at": "2026-05-11T09:07:36.482+00:00",
+            "posted_at": "2026-05-11T07:07:36.482+00:00"
+        },
+        {
+            "id": "69fd234c72ccb90001a6e7b4",
+            "title": "Global R2R Finance Process Lead H/F",
+            "url": "https://fr.linkedin.com/jobs/view/global-r2r-finance-process-lead-h-f-at-manpower-france-4409287988",
+            "city": "La Garenne-Colombes",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-07T23:42:04.899+00:00",
+            "posted_at": "2026-05-07T16:42:04.899+00:00"
+        },
+        {
+            "id": "69fd1779eb17e50001a943fa",
+            "title": "Commercial(e) BtoB - Ã©nergies renouvelables (H/F)",
+            "url": "https://fr.linkedin.com/jobs/view/commercial-e-btob-%C3%A9nergies-renouvelables-h-f-at-manpower-france-4409299136",
+            "city": "Albertville",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-07T22:51:36.984+00:00",
+            "posted_at": "2026-05-07T15:51:36.984+00:00"
+        },
+        {
+            "id": "69fd1736a2a09200012037a9",
+            "title": "Masseur kinÃ©sithÃ©rapeute agrÃ©Ã©/Masseuse kinÃ©sithÃ©rapeute agrÃ©Ã©e",
+            "url": "https://fr.linkedin.com/jobs/view/masseur-kin%C3%A9sith%C3%A9rapeute-agr%C3%A9%C3%A9-masseuse-kin%C3%A9sith%C3%A9rapeute-agr%C3%A9%C3%A9e-at-manpower-france-4409601079",
+            "city": "Montagne",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-07T22:50:30.255+00:00",
+            "posted_at": "2026-05-07T15:50:30.255+00:00"
+        },
+        {
+            "id": "69fda9d0a1ca3500010a7158",
+            "title": "Approvisionneur industriel HF",
+            "url": "https://fr.linkedin.com/jobs/view/approvisionneur-industriel-hf-at-manpower-france-4409272801",
+            "city": "Gonesse",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-08T09:15:59.917+00:00",
+            "posted_at": "2026-05-07T13:15:59.917+00:00"
+        },
+        {
+            "id": "69fda9d28ea7360001eb572a",
+            "title": "Architecte logiciels",
+            "url": "https://fr.linkedin.com/jobs/view/architecte-logiciels-at-manpower-france-4409263767",
+            "city": "Plaisir",
+            "state": "Ile-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-08T09:16:01.982+00:00",
+            "posted_at": "2026-05-07T12:16:01.982+00:00"
+        },
+        {
+            "id": "69fd1a6899402b000110f5db",
+            "title": "Conseiller clients/ConseillÃ¨re clients",
+            "url": "https://fr.linkedin.com/jobs/view/conseiller-clients-conseill%C3%A8re-clients-at-manpower-france-4409259825",
+            "city": "Le Mans",
+            "state": "Pays de la Loire",
+            "country": "France",
+            "last_seen_at": "2026-05-07T23:04:08.091+00:00",
+            "posted_at": "2026-05-07T11:04:08.091+00:00"
+        },
+        {
+            "id": "69fd1a63273d9000015f07a2",
+            "title": "Conseiller en assurance/ConseillÃ¨re en assurance",
+            "url": "https://fr.linkedin.com/jobs/view/conseiller-en-assurance-conseill%C3%A8re-en-assurance-at-manpower-france-4409257715",
+            "city": "Le Mans",
+            "state": "Pays de la Loire",
+            "country": "France",
+            "last_seen_at": "2026-05-07T23:04:03.438+00:00",
+            "posted_at": "2026-05-07T11:04:03.438+00:00"
+        },
+        {
+            "id": "69fc57f4c898e800010e5ccf",
+            "title": "Conseiller clientÃ¨le assurances H/F",
+            "url": "https://fr.linkedin.com/jobs/view/conseiller-client%C3%A8le-assurances-h-f-at-manpower-france-4409244957",
+            "city": "Annecy",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-07T09:14:28.640+00:00",
+            "posted_at": "2026-05-07T08:30:28.640+00:00"
+        },
+        {
+            "id": "69fbf76126f2350001246122",
+            "title": "Ordonnanceur / Adjoint de Production H/F",
+            "url": "https://fr.linkedin.com/jobs/view/ordonnanceur-adjoint-de-production-h-f-at-manpower-france-4408858621",
+            "city": "Barraux",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-07T02:22:25.021+00:00",
+            "posted_at": "2026-05-06T15:22:25.021+00:00"
+        },
+        {
+            "id": "69fbde6ef3f67300017be81b",
+            "title": "ChargÃ© d'Ã©tudes de prix",
+            "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-d-%C3%A9tudes-de-prix-at-manpower-france-4398673913",
+            "city": "Lectoure",
+            "state": "Occitanie",
+            "country": "France",
+            "last_seen_at": "2026-05-07T00:35:58.535+00:00",
+            "posted_at": "2026-05-06T14:35:58.535+00:00"
+        },
+        {
+            "id": "69fbf75e1cc2a300012977f4",
+            "title": "Technicien contrÃ´le qualitÃ©/Technicienne contrÃ´le qualitÃ©",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-contr%C3%B4le-qualit%C3%A9-technicienne-contr%C3%B4le-qualit%C3%A9-at-manpower-france-4408845716",
+            "city": "Cluses",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-07T02:22:22.697+00:00",
+            "posted_at": "2026-05-06T13:22:22.697+00:00"
+        },
+        {
+            "id": "69fbe1c8f75264000190190b",
+            "title": "Chef dâÃ©quipe de la logistique/Cheffe dâÃ©quipe de la logistique",
+            "url": "https://fr.linkedin.com/jobs/view/chef-d%E2%80%99%C3%A9quipe-de-la-logistique-cheffe-d%E2%80%99%C3%A9quipe-de-la-logistique-at-manpower-france-4408837637",
+            "city": "Salon-de-Provence",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-07T00:50:16.320+00:00",
+            "posted_at": "2026-05-06T12:50:16.320+00:00"
+        },
+        {
+            "id": "69fc551355971900010b13f3",
+            "title": "Comptable GÃ©nÃ©raliste",
+            "url": "https://fr.linkedin.com/jobs/view/comptable-g%C3%A9n%C3%A9raliste-at-manpower-france-4408815442",
+            "city": "Josselin",
+            "state": "Brittany",
+            "country": "France",
+            "last_seen_at": "2026-05-07T09:02:11.805+00:00",
+            "posted_at": "2026-05-06T10:02:11.805+00:00"
+        },
+        {
+            "id": "69fbe1d627eb970001f70f00",
+            "title": "Conducteur de travaux H/F",
+            "url": "https://fr.linkedin.com/jobs/view/conducteur-de-travaux-h-f-at-manpower-france-4408488818",
+            "city": "Aix-en-Provence",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-07T00:50:30.511+00:00",
+            "posted_at": "2026-05-06T08:50:30.511+00:00"
+        },
+        {
+            "id": "69fbe1d17f06eb0001bc10f8",
+            "title": "Responsable administratif et financier/Responsable administrative et financiÃ¨re",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-administratif-et-financier-responsable-administrative-et-financi%C3%A8re-at-manpower-france-4401625872",
+            "city": "Biot",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-07T00:50:25.229+00:00",
+            "posted_at": "2026-05-06T08:50:25.229+00:00"
+        },
+        {
+            "id": "69fb078d1a3b960001703de3",
+            "title": "ReprÃ©sentant technico-commercial/ReprÃ©sentante technico-commercial",
+            "url": "https://fr.linkedin.com/jobs/view/repr%C3%A9sentant-technico-commercial-repr%C3%A9sentante-technico-commercial-at-manpower-france-4408804548",
+            "city": "Venelles",
+            "state": "Provence-Alpes-Cote d'Azur",
+            "country": "France",
+            "last_seen_at": "2026-05-06T09:19:09.281+00:00",
+            "posted_at": "2026-05-06T08:19:09.281+00:00"
+        },
+        {
+            "id": "69fa8604e1f19f0001019d62",
+            "title": "Technicien production aÃ©ronautique H/F",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-production-a%C3%A9ronautique-h-f-at-manpower-france-4408414471",
+            "city": "Annecy",
+            "state": "Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-06T00:06:28.299+00:00",
+            "posted_at": "2026-05-05T16:06:28.299+00:00"
+        },
+        {
+            "id": "69fa85f9a773590001d568f8",
+            "title": "Responsable commercial Zone Europe - Oil & Gas",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-commercial-zone-europe-oil-gas-at-manpower-france-4408412821",
+            "city": null,
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-06T00:06:17.230+00:00",
+            "posted_at": "2026-05-05T15:06:17.230+00:00"
+        },
+        {
+            "id": "69fa8eacc602bb00014a9673",
+            "title": "Solar Project Manager H/F/X",
+            "url": "https://fr.linkedin.com/jobs/view/solar-project-manager-h-f-x-at-manpower-france-4408409443",
+            "city": "Toulouse",
+            "state": "Occitanie",
+            "country": "France",
+            "last_seen_at": "2026-05-06T00:43:24.003+00:00",
+            "posted_at": "2026-05-05T12:43:24.003+00:00"
+        },
+        {
+            "id": "69f9c01b309dd9000105d4fb",
+            "title": "Technicien Ã©lectromÃ©canique/Technicienne Ã©lectromÃ©canique",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-%C3%A9lectrom%C3%A9canique-technicienne-%C3%A9lectrom%C3%A9canique-at-manpower-france-4408170857",
+            "city": null,
+            "state": "Pays de la Loire",
+            "country": "France",
+            "last_seen_at": "2026-05-05T10:02:03.419+00:00",
+            "posted_at": "2026-05-05T09:54:03.419+00:00"
+        },
+        {
+            "id": "69fa85fab341190001acb1f5",
+            "title": "Responsable supply chain",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-supply-chain-at-manpower-france-4408168655",
+            "city": "St-Chamond",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-06T00:06:18.419+00:00",
+            "posted_at": "2026-05-05T09:06:18.419+00:00"
+        },
+        {
+            "id": "69f9c01a004e8b0001449b08",
+            "title": "Technicien de maintenance industrielle",
+            "url": "https://fr.linkedin.com/jobs/view/technicien-de-maintenance-industrielle-at-manpower-france-4408179655",
+            "city": null,
+            "state": "Pays de la Loire",
+            "country": "France",
+            "last_seen_at": "2026-05-05T10:02:02.243+00:00",
+            "posted_at": "2026-05-05T09:04:02.243+00:00"
+        },
+        {
+            "id": "69f9bfb3e2e7d60001f9fc35",
+            "title": "Gestionnaire administration des ventes",
+            "url": "https://fr.linkedin.com/jobs/view/gestionnaire-administration-des-ventes-at-manpower-france-4408177474",
+            "city": "St-Chamond",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-05T10:00:19.215+00:00",
+            "posted_at": "2026-05-05T09:00:19.215+00:00"
+        },
+        {
+            "id": "69f9c02849eff30001f4a3be",
+            "title": "Superviseur paie/Superviseuse paie",
+            "url": "https://fr.linkedin.com/jobs/view/superviseur-paie-superviseuse-paie-at-manpower-france-4408171220",
+            "city": "Laon",
+            "state": "Hauts-de-France",
+            "country": "France",
+            "last_seen_at": "2026-05-05T10:02:16.412+00:00",
+            "posted_at": "2026-05-05T08:02:16.412+00:00"
+        },
+        {
+            "id": "69f9b2aac243c60001025d1c",
+            "title": "Conseiller en assurances/ConseillÃ¨re en assurances",
+            "url": "https://fr.linkedin.com/jobs/view/conseiller-en-assurances-conseill%C3%A8re-en-assurances-at-manpower-france-4407775757",
+            "city": "Reims",
+            "state": "Grand Est",
+            "country": "France",
+            "last_seen_at": "2026-05-05T09:04:42.830+00:00",
+            "posted_at": "2026-05-04T15:04:42.830+00:00"
+        },
+        {
+            "id": "69f9b5534b4add000122979a",
+            "title": "Directeur administratif et financier/Directrice administrative et financiÃ¨re",
+            "url": "https://fr.linkedin.com/jobs/view/directeur-administratif-et-financier-directrice-administrative-et-financi%C3%A8re-at-manpower-france-4407770947",
+            "city": "L'Arbresle",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-05T09:16:03.523+00:00",
+            "posted_at": "2026-05-04T14:16:03.523+00:00"
+        },
+        {
+            "id": "69f9b556ca62ec0001aa6c23",
+            "title": "Assistant commercial/Assistante commerciale",
+            "url": "https://fr.linkedin.com/jobs/view/assistant-commercial-assistante-commerciale-at-manpower-france-4407765604",
+            "city": "Izernore",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-05T09:16:06.552+00:00",
+            "posted_at": "2026-05-04T12:16:06.552+00:00"
+        },
+        {
+            "id": "69f9b5581ff940000198df97",
+            "title": "Chef de projets plasturgie H/F",
+            "url": "https://fr.linkedin.com/jobs/view/chef-de-projets-plasturgie-h-f-at-manpower-france-4407757288",
+            "city": "Cluses",
+            "state": "Auvergne-Rhone-Alpes",
+            "country": "France",
+            "last_seen_at": "2026-05-05T09:16:08.626+00:00",
+            "posted_at": "2026-05-04T10:16:08.626+00:00"
+        },
+        {
+            "id": "69f380c120c19c0001578332",
+            "title": "Responsable d'Exploitation de Parc d'Usines HydroÃ©lectriques",
+            "url": "https://fr.linkedin.com/jobs/view/responsable-d-exploitation-de-parc-d-usines-hydro%C3%A9lectriques-at-manpower-france-4406094485",
+            "city": "Toulouse",
+            "state": "Occitanie",
+            "country": "France",
+            "last_seen_at": "2026-04-30T16:18:09.020+00:00",
+            "posted_at": "2026-04-29T17:18:09.020+00:00"
+        },
+        {
+            "id": "69f1d885c8d5b80001c51ef0",
+            "title": "Conducteur de travaux rÃ©habiliation rÃ©seaux",
+            "url": "https://fr.linkedin.com/jobs/view/conducteur-de-travaux-r%C3%A9habiliation-r%C3%A9seaux-at-manpower-france-4401649407",
+            "city": "Toulouse",
+            "state": "Occitanie",
+            "country": "France",
+            "last_seen_at": "2026-04-29T10:08:05.458+00:00",
+            "posted_at": "2026-04-28T14:08:05.458+00:00"
+        },
+        {
+            "id": "69df3a509847360001636e27",
+            "title": "IngÃ©nieur conception mÃ©canique (H/F)",
+            "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-conception-m%C3%A9canique-h-f-at-manpower-france-4399735967",
+            "city": "Muret",
+            "state": "Occitanie",
+            "country": "France",
+            "last_seen_at": "2026-04-15T07:12:16.651+00:00",
+            "posted_at": "2026-04-14T10:12:16.651+00:00"
+        }
+    ],
+    "extracted_news": [
+        {
+            "id": "6383a191e50e4300d160d51c",
+            "url": "https://finance.yahoo.com/news/manpowergroup-elects-muriel-p-nicaud-120000702.html",
+            "domain": "yahoo.com",
+            "title": "ManpowerGroup Elects Muriel Pénicaud to Board of Directors",
+            "snippet": "ManpowerGroup (NYSE: MAN) announced today that Muriel Pénicaud, formerly French Ambassador to the OECD and the Minister of Labor in France under President Emmanuel Macron, has been elected to the company's Board of Directors, effective December 12, 2022.",
+            "organization_ids": [
+                "5e57f39c5e3c2600014de891"
+            ],
+            "published_at": "2022-11-15T12:00:00.000+00:00",
+            "event_categories": [
+                "hires"
+            ]
+        }
+    ]
+}

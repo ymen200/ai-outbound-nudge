@@ -1,0 +1,30 @@
+{
+  "organization_job_postings": [
+    {
+      "id": "6a5ea80a2ccdaf0001d42384",
+      "title": "Sports Reporter",
+      "url": "https://www.linkedin.com/jobs/view/sports-reporter-at-the-wall-street-journal-4442090255",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "last_seen_at": "2026-07-20T22:58:18.823+00:00",
+      "posted_at": "2026-07-20T15:58:18.823+00:00"
+    },
+    {
+      "id": "6a5ea5b3970d390001775b23",
+      "title": "Designer, Visual Storytelling",
+      "url": "https://www.linkedin.com/jobs/view/designer-visual-storytelling-at-the-wall-street-journal-4442086404",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "last_seen_at": "2026-07-20T22:48:19.911+00:00",
+      "posted_at": "2026-07-20T15:48:19.911+00:00"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "per_page": 10000,
+    "total_entries": 2,
+    "total_pages": 1
+  }
+}

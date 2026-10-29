@@ -1,0 +1,310 @@
+{
+    "domain": "sicam-tunisia.com",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "SICAM Tunisia",
+                "ai": "SICAM"
+            },
+            "industry": {
+                "apollo": "food production",
+                "ai": "Transformation de produits agricoles, Agroalimentaire"
+            },
+            "founded_year": {
+                "apollo": 1969,
+                "ai": 1969
+            },
+            "short_description": {
+                "apollo": "SICAM Tunisia is an agricultural company based in Tunisia, specializing in the cultivation and production of high-quality tomatoes. The company leverages the country's fertile lands and abundant sunshine to position itself as a leader in the local market and a significant player internationally. SICAM emphasizes its connection to nature, branding its products as **100% PUR SOLEIL DE TUNISIE** (100% Pure Tunisian Sun), which reflects the unique flavor imparted by Tunisia's optimal growing conditions.\n\nThe company focuses on cultivating tomatoes to perfect maturity, ensuring exceptional taste and quality. SICAM builds strong, long-term relationships with selected farmer partners through careful selection processes, showcasing its commitment to agricultural mastery and social responsibility.",
+                "ai": "SICAM est le leader tunisien de la transformation de tomates depuis 1969, reconnu pour ses produits certifiés Zéro Résidu de Pesticides (ZRP), son engagement pour l'agriculture durable et la qualité 100% tunisienne, exportant vers plus de 30 pays."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Découvrez SICAM, N°1 tunisien des tomates pelées concassées. Expert depuis 1969, certifié Zéro Résidu de Pesticides (ZRP) et engagé pour une qualité 100% tunisienne. Exportation vers +30 pays."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": 40000000.0,
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "56M",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Private Equity",
+                "ai": null
+            },
+            "estimated_employees": {
+                "apollo": 750,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/sicam-tunisia",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "https://twitter.com/SICAM_Tunisia",
+                "ai": null
+            },
+            "facebook_url": {
+                "apollo": "https://facebook.com/SICAMTunisia",
+                "ai": "https://www.facebook.com/SICAMTunisia"
+            },
+            "phone": {
+                "apollo": "+216 71 123 456",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "Beja , TN",
+                "ai": "Beja, Tunisia"
+            },
+            "city": {
+                "apollo": "Beja",
+                "ai": "Beja"
+            },
+            "country": {
+                "apollo": "Tunisia",
+                "ai": "Tunisia"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": null
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "societe industrielle de conserves alimentaires de medjez el beb",
+                    "food & beverage manufacturing",
+                    "agri-food industry",
+                    "food industry leader",
+                    "food preservation",
+                    "food safety training",
+                    "agri-food export growth",
+                    "food manufacturing",
+                    "food industry marketing",
+                    "food industry digital transformation",
+                    "food safety management",
+                    "food industry investments",
+                    "food export & import",
+                    "harissa",
+                    "agriculture",
+                    "food industry innovation",
+                    "food industry sustainability",
+                    "sustainability",
+                    "food safety training programs",
+                    "international food standards",
+                    "food safety compliance",
+                    "fruit jam manufacturing",
+                    "product quality assurance",
+                    "global trade participation",
+                    "food packaging innovations",
+                    "product range",
+                    "food quality assurance systems",
+                    "food safety",
+                    "food export",
+                    "food packaging technology",
+                    "food industry quality management",
+                    "food safety audits",
+                    "export logistics",
+                    "food quality control",
+                    "food processing",
+                    "food industry partnerships",
+                    "food & beverage distribution",
+                    "market leader tunisia",
+                    "product innovation",
+                    "food industry growth",
+                    "export-oriented food processing",
+                    "consumer goods",
+                    "product quality",
+                    "food processing technology tunisia",
+                    "agriculture & food products",
+                    "canned fruits and vegetables",
+                    "food manufacturing automation",
+                    "food processing technology",
+                    "food industry automation",
+                    "manufacturing",
+                    "food safety certifications",
+                    "export expansion",
+                    "market expansion",
+                    "food industry growth trends",
+                    "canned tomatoes",
+                    "supply chain management",
+                    "export markets",
+                    "food industry supply chain",
+                    "food industry branding and marketing",
+                    "food manufacturing processes",
+                    "packaging",
+                    "food industry certifications",
+                    "frozen food manufacturing",
+                    "food product innovation tunisia",
+                    "food export logistics",
+                    "export market penetration food",
+                    "domestic and international markets",
+                    "modern food preservation",
+                    "food industry supply chain management",
+                    "food industry export regulations",
+                    "food safety certification process",
+                    "food industry export strategies",
+                    "growth strategy",
+                    "food safety management systems",
+                    "food processing plant modernization",
+                    "modern preservation",
+                    "food safety compliance tunisia",
+                    "private equity investment",
+                    "retail and industrial buyers",
+                    "food safety standards compliance",
+                    "food product diversification tunisia",
+                    "food product development",
+                    "food safety standards",
+                    "food safety certifications tunisia",
+                    "shelf life extension",
+                    "food safety regulations",
+                    "international food standards compliance",
+                    "quality standards",
+                    "harissa paste production",
+                    "food & beverage retail",
+                    "tunisia food sector",
+                    "fruit jams",
+                    "food safety audits tunisia",
+                    "food industry sustainability practices",
+                    "food industry investment opportunities",
+                    "food export strategy",
+                    "agri-business",
+                    "shelf stability",
+                    "food industry growth africa",
+                    "food industry digitalization",
+                    "food technology",
+                    "b2b",
+                    "canned tomato products",
+                    "private equity in food sector",
+                    "international certifications",
+                    "production flexibility",
+                    "tomato paste",
+                    "conserves",
+                    "fruit preserves",
+                    "sauces",
+                    "quality control",
+                    "agronomy",
+                    "natural ingredients",
+                    "recipe development",
+                    "tinned fruits",
+                    "food certifications",
+                    "tomato derivatives",
+                    "flavoring sauces",
+                    "mediterranean cuisine",
+                    "taste profiles",
+                    "local sourcing",
+                    "harvest management",
+                    "vegetable processing",
+                    "food distribution",
+                    "international trade shows",
+                    "product traceability",
+                    "sterilization",
+                    "nutritional value",
+                    "preservation techniques",
+                    "non-chemical additives",
+                    "processing capacity",
+                    "raw materials",
+                    "fresh produce",
+                    "environmental responsibility",
+                    "quality assurance",
+                    "private label products",
+                    "food industry",
+                    "local partnerships",
+                    "culinary excellence",
+                    "farm-to-table",
+                    "agricultural expertise",
+                    "confitures",
+                    "b2c",
+                    "distribution",
+                    "consumer products & retail",
+                    "transportation & logistics",
+                    "food production",
+                    "environmental services",
+                    "renewables & environment",
+                    "food & beverages",
+                    "consumers",
+                    "mechanical or industrial engineering",
+                    "logistics & supply chain",
+                    "shipping"
+                ],
+                "ai": "tomates, transformation, agroalimentaire, Zéro Résidu de Pesticides, ZRP, Tunisie, agriculture durable, export, produits tunisiens, qualité alimentaire, concentré de tomates"
+            },
+            "technologies": {
+                "apollo": [
+                    "AI",
+                    "Bootstrap Framework",
+                    "Mobile Friendly",
+                    "Outlook"
+                ],
+                "ai": [
+                    "Tailwind CSS"
+                ]
+            }
+        }
+    },
+    "apollo_only_attributes": {
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a80a2ef1a2340001a5a6de/picture",
+        "departments": {
+            "engineering": 11,
+            "information_technology": 2,
+            "human_resources": 1,
+            "sales": 3,
+            "finance": 4,
+            "accounting": 3,
+            "administrative": 3,
+            "marketing": 1,
+            "support": 1,
+            "operations": 0,
+            "legal": 0,
+            "business_development": 0,
+            "product_management": 0,
+            "consulting": 0,
+            "education": 0,
+            "media_and_commmunication": 0,
+            "arts_and_design": 0,
+            "entrepreneurship": 0,
+            "data_science": 0
+        },
+        "funding_events": [
+            {
+                "id": "63b10bba285b110001242e49",
+                "date": "2020-05-01T00:00:00.000+00:00",
+                "type": "Private Equity",
+                "amount": "56M",
+                "currency": "$",
+                "investors": "Development Partners International"
+            }
+        ]
+    },
+    "ai_only_attributes": {
+        "data_quality_score": {
+            "value": 0.55,
+            "confidence": 0.9,
+            "source": "Analyse de complétude et qualité des données extraites"
+        },
+        "market_intelligence": {
+            "competitors": [
+                "Sticap",
+                "Jadida",
+                "Société Africaine des Conserves (SAC)",
+                "Mabrouka"
+            ]
+        },
+        "fiscal_year_end": null,
+        "annual_revenue_USD": null,
+        "is_subsidiary": false,
+        "parent_company": null,
+        "subsidiaries_list": []
+    }
+}

@@ -1,0 +1,296 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 51,
+    "total_pages": 3
+  },
+  "news_articles": [
+    {
+      "id": "6a3e06928c12ed00201c6e50",
+      "url": "https://www.stcatharinesstandard.ca/news/canada/father-of-the-northern-games-honoured-with-commemorative-stamp/article_e9a2808d-0217-5037-b1c9-1c499c92b03a.html",
+      "domain": "stcatharinesstandard.ca",
+      "title": "'Father of the Northern Games' honoured with commemorative stamp.",
+      "snippet": "Canada Post has announced a new stamp in honour of Edward Lennie, known as \"the father of the Northern Games.\"",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-06-24T22:54:51.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a2e01b9d1af43001c994ef4",
+      "url": "https://ibftoday.ca/door-to-door-mail-service-stopping-in-parts-of-3-central-okanagan-communities-next-year-vernon-morning-star",
+      "domain": "ibftoday.ca",
+      "title": "Door-to-door mail service stopping in parts of 3 Central Okanagan communities next year - Vernon Morning Star.",
+      "snippet": "Canada Post's door-to-door mail service in Kelowna, West Kelowna, and Westbank First Nation (Tsinstikeptum 10 and Tsinstikeptum 9) is set to come an end for a large majority of residents in 2027.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-06-12T16:45:53.000+00:00",
+      "event_categories": [
+        "closes_offices_in"
+      ]
+    },
+    {
+      "id": "6a2de9de553b61001cf90af1",
+      "url": "https://calgary.citynews.ca/2026/06/12/canada-post-to-expand-community-mailboxes-to-56000-more-addresses-in-edmonton-and-calgary",
+      "domain": "citynews.ca",
+      "title": "Canada Post to expand community mailboxes to 56,000 more addresses in Edmonton and Calgary.",
+      "snippet": "Canada Post to expand community mailboxes to 56,000 more addresses in Edmonton and Calgary.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-06-12T15:51:43.000+00:00",
+      "event_categories": [
+        "expands_offices_in"
+      ]
+    },
+    {
+      "id": "6a2dea0995a0da001cc6a040",
+      "url": "https://calgary.citynews.ca/2026/06/12/canada-post-to-expand-community-mailboxes-to-56000-more-addresses-in-edmonton-and-calgary",
+      "domain": "citynews.ca",
+      "title": "Canada Post to expand community mailboxes to 56,000 more addresses in Edmonton and Calgary.",
+      "snippet": "Canada Post to expand community mailboxes to 56,000 more addresses in Edmonton and Calgary.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-06-12T15:51:43.000+00:00",
+      "event_categories": [
+        "expands_offices_in"
+      ]
+    },
+    {
+      "id": "6a2d54b416ae87000c4bac10",
+      "url": "https://nationtalk.ca/story/door-to-door-mail-service-stopping-in-parts-of-3-central-okanagan-communities-next-year-vernon-morning-star",
+      "domain": "nationtalk.ca",
+      "title": "Door-to-door mail service stopping in parts of 3 Central Okanagan communities next year - Vernon Morning Star.",
+      "snippet": "Canada Post's door-to-door mail service in Kelowna, West Kelowna, and Westbank First Nation (Tsinstikeptum 10 and Tsinstikeptum 9) is set to come an end for a large majority of residents in 2027.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-06-12T00:00:00.000+00:00",
+      "event_categories": [
+        "closes_offices_in"
+      ]
+    },
+    {
+      "id": "6a2311147a693e000c207b53",
+      "url": "https://www.newswire.ca/news-releases/canada-s-2slgbtqia-pioneers-commemorated-in-new-stamp-issue-846324757.html",
+      "domain": "newswire.ca",
+      "title": "Canada's 2SLGBTQIA+ pioneers commemorated in new stamp issue Français.",
+      "snippet": "Today at an event celebrating The 519, Canada Post unveiled four new Places of Pride stamps highlighting pivotal sites that 2SLGBTQIA+ communities in Canada fought to make their own.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-06-05T01:38:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a0a832ec932da002080ec25",
+      "url": "https://www.sustainablepurchasing.org/news/spotlight-marketing-benefits-of-sustainable-procurement",
+      "domain": "sustainablepurchasing.org",
+      "title": "Case Study spotlight: the marketing benefits of sustainable procurement.",
+      "snippet": "The Canada Post Corporation case study was submitted to the SPLC Leadership Awards program, and was awarded the 2025 SPLC Leadership Award for Business Case.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-04-22T00:00:00.000+00:00",
+      "event_categories": [
+        "receives_award"
+      ]
+    },
+    {
+      "id": "69e7f8a563b81e00212cb7ee",
+      "url": "https://ladingcargo.com/blog/canada-post-at-a-breaking-point-record-losses-and-a-race-for-survival",
+      "domain": "ladingcargo.com",
+      "title": "Canada Post at a breaking point: record losses and a race for survival.",
+      "snippet": "Simultaneously, Canada Post's share of the lucrative parcel market has been cannibalized by agile, low-cost competitors like Amazon and Intelcom, dropping from 62% in 2019 to just 29% in 2023.",
+      "organization_ids": [
+        "5592342c7369640b18106100",
+        "55f442a3f3e5bb1e090072e2"
+      ],
+      "published_at": "2026-04-21T13:03:08.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "69e72758b04adc00159cf989",
+      "url": "https://www.lesaffaires.com/bourse/economie/postes-canada-annonce-une-perte-record-de-157g-en-2025",
+      "domain": "lesaffaires.com",
+      "title": "Canada Post announces a record loss of $1.57B in 2025.",
+      "snippet": "Canada Post employees began voting Monday on a five-year collective agreement, following a labor dispute and as some of their union leaders urge them to reject the deal.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-04-20T22:04:48.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "69e2a679cc933b0019efa02e",
+      "url": "https://www.niagarathisweek.com/news/cn-tower-toonie-exchange-torobntno-richmondhill/article_71e2ebd1-e36b-50a6-917e-38c2bc483ba0.html",
+      "domain": "niagarathisweek.com",
+      "title": "Ontario residents can trade their pocket change for a glow-in-the-dark CN Tower toonie.",
+      "snippet": "The Royal Canadian Mint and Canada Post are teaming up to help Toronto-area collectors get their hands on Canada's new glow-in-the-dark toonie celebrating the 50th anniversary of the CN Tower.",
+      "organization_ids": [
+        "682ef6efc9ce230001a4aaef",
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-04-17T17:27:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "69d9d1f081ef61001d40fe19",
+      "url": "https://www.benefitscanada.com/notice/appointment-notice/canada-post-pension-plan-appointing-ozlem-teksin-as-head-of-investment-operations-investment-technology",
+      "domain": "benefitscanada.com",
+      "title": "Canada Post pension plan appointing Ozlem Teksin as head of investment operations, investment technology.",
+      "snippet": "Canada Post pension plan appointing Ozlem Teksin as head of investment operations, investment technology.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-04-10T19:00:35.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "69de8cb9301c27001d3c0ae6",
+      "url": "https://www.canadapost-postescanada.ca/blogs/business/ecommerce/bon-magasinage-makes-second-hand-the-first-choice",
+      "domain": "canadapost-postescanada.ca",
+      "title": "As one of the first platforms to offer second-hand clothing in Quebec, Bon Magasinage is now setting its sights on the rest of the country. The goal is to make second-hand the first choice for fashion in Canada.",
+      "snippet": "* Bon Magasinage grew from a grassroots idea into one of Canada's leading circular-fashion platforms by partnering with Canada Post.",
+      "organization_ids": [
+        "5e572386558b3d0001ab83d3",
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-04-08T11:50:09.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "69b3dfe7aa1b4900154a0342",
+      "url": "https://www.trucknews.com/transportation/sgr-trucklines-earns-canada-post-national-safety-award/1003211001",
+      "domain": "trucknews.com",
+      "title": "SGR Trucklines earns Canada Post national safety award",
+      "snippet": "The awards were presented as part of Canada Post's broader Health and Safety Recognition Awards program.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-03-12T18:50:41.000+00:00",
+      "event_categories": [
+        "attends_event"
+      ]
+    },
+    {
+      "id": "69b34772f73bef000d7186cb",
+      "url": "https://www.northumberlandnews.com/news/canada-post-cherry-blossom-stamps-2026/article_4d8d3141-a1c1-535d-bf32-4b223059151d.html",
+      "domain": "northumberlandnews.com",
+      "title": "'A joyful sign of spring': Canada Post unveils new cherry blossom stamps",
+      "snippet": "'A joyful sign of spring': Canada Post unveils new cherry blossom stamps.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2026-03-12T09:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6924deb9b8dff5000d2dcdf0",
+      "url": "https://www.hcamag.com/ca/news/general/canada-post-to-cut-30000-more-jobs/557174",
+      "domain": "hcamag.com",
+      "title": "Canada Post to cut 30,000 more jobs",
+      "snippet": "Canada Post expects to eliminate 30,000 more jobs in the next few years, on top of job cuts already announced this year, the Crown corporation said on Tuesday.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2025-11-19T11:26:01.000+00:00",
+      "event_categories": [
+        "decreases_headcount_by"
+      ]
+    },
+    {
+      "id": "68d6c6756277d60015f08a7d",
+      "url": "https://www.freightcom.com/blog/canada-post-alternative",
+      "domain": "freightcom.com",
+      "title": "Canada Post Strike: What Small Businesses Need to Know and How to Keep Shipping Without Disruption",
+      "snippet": "At Freightcom, Freightcom Inc. partner with Canada Post and over 50 leading carriers.",
+      "organization_ids": [
+        "54a11f1a69702d918c79aa01",
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2025-09-26T13:57:50.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "68adcae45feb9e001d596637",
+      "url": "https://www.ecommercebytes.com/2025/08/26/ebay-expands-international-shipping-program-for-canadian-sellers",
+      "domain": "ecommercebytes.com",
+      "title": "eBay Expands International Shipping Program for Canadian Sellers",
+      "snippet": "Canada Post said it is partnering with Zonos to collect duties before packages enter its network, and sellers (shippers) will be able to access it through Canada Post's software systems - Snap Ship and Shipping Manager; through its web services and APIs; and at post offices across the country.",
+      "organization_ids": [
+        "5592342c7369640b18106100",
+        "5b846b97f874f762eb553ea9"
+      ],
+      "published_at": "2025-08-26T01:00:23.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "68423daa8a2e2d001d190031",
+      "url": "https://www.biv.com/news/canada-post-union-files-labour-practices-complaint-10764746",
+      "domain": "biv.com",
+      "title": "Canada Post union files labour practices complaint",
+      "snippet": "OTTAWA - The Canadian Union of Postal Workers has filed an unfair labour practice complaint against Canada Post over ongoing contract negotiations, as the union scrambles to overcome bargaining pushback from both management and its membership.",
+      "organization_ids": [
+        "54a1baba74686945fa2dc10b",
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2025-06-05T20:51:16.000+00:00",
+      "event_categories": [
+        "files_suit_against"
+      ]
+    },
+    {
+      "id": "67f6cd988d39b7000d3b84d0",
+      "url": "https://readysetship.ca/2025/04/09/third-party-logistics-services-in-canada",
+      "domain": "readysetship.ca",
+      "title": "Third Party Logistics Services in Canada",
+      "snippet": "Canpar and CanadaPost are among the top 3PL companies in Canada, offering a broad range of solutions to improve your logistics operations.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2025-04-09T17:22:04.000+00:00",
+      "event_categories": [
+        "recognized_as"
+      ]
+    },
+    {
+      "id": "67dddea0ab05e5000dafe63a",
+      "url": "https://ncfacanada.org/canada-post-launches-postal-banking-with-koho",
+      "domain": "ncfacanada.org",
+      "title": "Canada Post Launches Postal Banking With KOHO",
+      "snippet": "On March 17 2025, Canada Post announced the launch of MyMoney Account, a digital-first banking option developed in partnership with Canadian fintech company KOHO.",
+      "organization_ids": [
+        "5592342c7369640b18106100"
+      ],
+      "published_at": "2025-03-21T01:46:30.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    }
+  ]
+}

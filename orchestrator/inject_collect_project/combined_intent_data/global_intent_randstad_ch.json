@@ -1,0 +1,303 @@
+[
+    {
+        "id": "61fd701893c85b00db93b04e",
+        "url": "https://www.randstad.ch/en/workforce360/media-releases/ceo-of-randstad-global-takes-part-in-charity-work-in-switzerland/",
+        "domain": "randstad.ch",
+        "title": "CEO of randstad global takes part in charity work in switzerland. | Randstad",
+        "snippet": "Randstad launched the \"Randstad With Heart\" program in 38 countries in the fall of last year.",
+        "organization_ids": [
+            "5b80a1a6324d440ce9b4dc93"
+        ],
+        "published_at": "2019-02-25T00:00:00.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Logistiker",
+        "location": "Schweiz",
+        "department": "Logistik",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Logistiker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.0,
+            "evidence_density": 0.67
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Sachbearbeiter",
+        "location": "Schweiz",
+        "department": "Administration",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Sachbearbeiter Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.05,
+            "evidence_density": 0.74
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Produktionsmitarbeiter",
+        "location": "Schweiz",
+        "department": "Produktion",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Produktionsmitarbeiter Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 0.81
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Monteur",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Monteur Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.58
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Chauffeur",
+        "location": "Schweiz",
+        "department": "Transport",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Chauffeur Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.02,
+            "evidence_density": 0.64
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Elektroniker",
+        "location": "Schweiz",
+        "department": "IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Elektroniker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.03,
+            "evidence_density": 0.71
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Laborant",
+        "location": "Schweiz",
+        "department": "Life Sciences",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Laborant Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.04,
+            "evidence_density": 0.62
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Maschinenführer",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Maschinenführer Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.75
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Projektleiter",
+        "location": "Schweiz",
+        "department": "Engineering",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Projektleiter Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.04,
+            "evidence_density": 0.72
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Metallbauer",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Metallbauer Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.01,
+            "evidence_density": 0.69
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Personalberater",
+        "location": "Schweiz",
+        "department": "HR",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Personalberater Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.75
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Aussendienst",
+        "location": "Schweiz",
+        "department": "Verkauf & Marketing",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Aussendienst Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.03,
+            "evidence_density": 0.71
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Assistant",
+        "location": "Schweiz",
+        "department": "Administration",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Assistant Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.02,
+            "evidence_density": 0.64
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Account Manager",
+        "location": "Schweiz",
+        "department": "Verkauf & Marketing",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Account Manager Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.75
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Sanitär",
+        "location": "Schweiz",
+        "department": "Gesundheitswesen",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Sanitär Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.06,
+            "evidence_density": 0.58
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Techniker",
+        "location": "Schweiz",
+        "department": "IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Techniker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.02,
+            "evidence_density": 0.64
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Polymechaniker",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Polymechaniker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.05,
+            "evidence_density": 0.74
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Mechaniker",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Mechaniker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.0,
+            "evidence_density": 0.67
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Automatiker",
+        "location": "Schweiz",
+        "department": "Industrie",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Automatiker Jobs",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.01,
+            "evidence_density": 0.69
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

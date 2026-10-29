@@ -1,0 +1,77 @@
+{
+  "person": {
+    "id": "57db91b3a6da9868bbff1a46",
+    "first_name": "Mahmoud",
+    "last_name": "Elmelegy",
+    "name": "Mahmoud Elmelegy",
+    "linkedin_url": "http://www.linkedin.com/in/mahmoud-elmelegy-09b248103",
+    "title": "Account Executive",
+    "photo_url": "https://media.licdn.com/dms/image/v2/C5603AQGOwCOchnIEDg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517059433177?e=2147483647&v=beta&t=fTCracQ_-8oPriGSgvIPqDPqE9rIwWvabpHjJhYyRws",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": 0.69,
+    "headline": "Account Executive at Telecom Egypt",
+    "organization_id": "54a134e169702d407f115900",
+    "employment_history": [
+      {
+        "_id": "6a2da05fffc1b40001543560",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a134e169702d407f115900",
+        "organization_name": "Telecom Egypt",
+        "raw_address": null,
+        "start_date": "2017-08-01",
+        "title": "Account Executive",
+        "updated_at": null,
+        "id": "6a2da05fffc1b40001543560",
+        "key": "6a2da05fffc1b40001543560"
+      }
+    ],
+    "street_address": "",
+    "city": null,
+    "state": null,
+    "country": "Egypt",
+    "postal_code": null,
+    "formatted_address": "Egypt",
+    "time_zone": "Africa/Cairo",
+    "email": "mahmoud.elmelegy@te.eg",
+    "email_status": "extrapolated",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "inside_sales",
+      "sales"
+    ],
+    "seniority": "entry",
+    "functions": [
+      "sales"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": [
+      "mahmoud.elmelegy@te.eg"
+    ]
+  },
+  "waterfall": {
+    "status": "accepted",
+    "message": "Waterfall enrichment request accepted. Results will be sent to the provided webhook URL."
+  },
+  "request_id": 4065953598597159310
+}

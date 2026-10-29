@@ -1,0 +1,617 @@
+{
+    "domain": "eneos.co.jp",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "ENEOS Group",
+                "ai": "ENEOS株式会社 (ENEOS Corporation)"
+            },
+            "domain": {
+                "apollo": "eneos.co.jp",
+                "ai": "eneos.co.jp"
+            },
+            "industry": {
+                "apollo": "oil & energy",
+                "ai": "Petroleum and Energy"
+            },
+            "founded_year": {
+                "apollo": 1888,
+                "ai": "1888"
+            },
+            "short_description": {
+                "apollo": "ENEOS Group is Japan's largest energy, resources, and materials conglomerate, headquartered in Tokyo. Established as a holding company in 2010, it coordinates five major operating companies and has a significant presence in the energy sector. The group reported approximately ¥13.9 trillion in revenue for the fiscal year ending March 31, 2024. ENEOS Group is a key player in Japan's energy security and decarbonization efforts, aiming to contribute to a low-carbon, recycling-oriented society.\n\nThe group operates through three primary business segments: Energy, Oil and Natural Gas Exploration and Production, and Metals. Its Energy segment includes refining and marketing petroleum products, managing a network of around 12,000 gas stations, and supplying electricity and natural gas. The Oil and Natural Gas segment focuses on exploration and production, while the Metals segment involves mining, recycling, and producing advanced materials. ENEOS Group collaborates with major automotive manufacturers and engages in strategic partnerships to enhance its offerings and expand its market reach.",
+                "ai": "Leading Japanese energy company involved in oil refining, gas import, petrochemicals, and hydrogen supply."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "カーボンニュートラル社会実現のための新たな取り組み、データセンターでの消費電力削減に貢献 IXシリーズ"
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": 73727953000.0,
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": "30,000,000,000 JPY (Capital)"
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": "Wholly Owned Subsidiary"
+            },
+            "estimated_num_employees": {
+                "apollo": 44000,
+                "ai": "7,539"
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/eneosgroup",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "https://twitter.com/ENEOS_group",
+                "ai": null
+            },
+            "facebook_url": {
+                "apollo": "https://facebook.com/eneosin",
+                "ai": "https://www.facebook.com/eneos.jp/"
+            },
+            "phone": {
+                "apollo": "+81 362-57-7150",
+                "ai": "0120-56-8704"
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "1-2 Otemachi 1-chome, Tokyo, Chiyoda 100-8163, JP",
+                "ai": "〒100-8162 東京都千代田区大手町一丁目1番2号"
+            },
+            "city": {
+                "apollo": "Tokyo",
+                "ai": "Tokyo"
+            },
+            "country": {
+                "apollo": "Japan",
+                "ai": "Japan"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 6,
+                "ai": "3"
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "carbon capture and storage",
+                    "hydrogen station network in japan",
+                    "energy innovation",
+                    "energy transition",
+                    "hydrogen",
+                    "co2-free hydrogen",
+                    "advanced lubricants for oems",
+                    "energy development",
+                    "synthetic fuels",
+                    "oil exploration",
+                    "hydrogen energy",
+                    "hydrogen stations",
+                    "clean energy",
+                    "ccs",
+                    "oil and gas production technology",
+                    "hydrogen station ownership",
+                    "hydrogen energy in japan",
+                    "oil and gas upstream activities",
+                    "synthetic fuel from co2",
+                    "international ccs projects",
+                    "petroleum refineries",
+                    "oem lubricants",
+                    "saf production",
+                    "resource extraction",
+                    "sustainability",
+                    "innovation",
+                    "resource-based energy solutions",
+                    "environmental technology",
+                    "services",
+                    "co2-free hydrogen supply chain",
+                    "retail",
+                    "lubricants",
+                    "automotive lubricants",
+                    "global energy markets",
+                    "carbon capture",
+                    "oil refinery-based saf",
+                    "energy infrastructure",
+                    "mega-solar projects",
+                    "refining",
+                    "petrochemicals",
+                    "b2b",
+                    "energy infrastructure projects",
+                    "carbon neutrality",
+                    "co2 sequestration projects",
+                    "biomass power",
+                    "oil and petrochemical manufacturing",
+                    "gas station network",
+                    "customer engagement",
+                    "hydrogen supply chain development",
+                    "esg",
+                    "oil production",
+                    "government",
+                    "gas stations",
+                    "exploration",
+                    "synthetic fuel development in japan",
+                    "renewable hydrogen",
+                    "sustainable fuels",
+                    "oil refining technology",
+                    "petroleum refining",
+                    "large-scale ccs",
+                    "energy and materials innovation",
+                    "hydrogen infrastructure",
+                    "d2c",
+                    "renewable energy capacity",
+                    "oil and gas",
+                    "renewable energy integration",
+                    "oil and gas exploration",
+                    "industrial energy",
+                    "mega-solar",
+                    "green energy",
+                    "climate-neutral fuels",
+                    "b2c",
+                    "energy policy",
+                    "petrochemical products",
+                    "oil refining for sustainable fuels",
+                    "co2 utilization",
+                    "marketing",
+                    "carbon neutrality initiatives",
+                    "renewable energy transition",
+                    "climate change mitigation",
+                    "customer service",
+                    "energy efficiency",
+                    "e-commerce",
+                    "solar power",
+                    "energy",
+                    "japanese energy conglomerate",
+                    "biomass power plants",
+                    "energy sustainability",
+                    "biomass power generation",
+                    "metals and mining",
+                    "renewable energy",
+                    "synthetic fuel development",
+                    "energy r&d",
+                    "high performance materials",
+                    "electricity",
+                    "hydrogen business",
+                    "carbon offset fuel",
+                    "energy solutions",
+                    "fuel products",
+                    "energy transformation",
+                    "innovation in energy",
+                    "resource management",
+                    "community development",
+                    "environmental impact",
+                    "corporate social responsibility",
+                    "supply chain solutions",
+                    "energy for industrial customers",
+                    "cfp system",
+                    "business partnerships",
+                    "tireless efforts",
+                    "positive change",
+                    "technological advancements",
+                    "diverse technologies",
+                    "support for everyday life",
+                    "corporate governance",
+                    "investor relations",
+                    "market innovation",
+                    "high performance fuels",
+                    "advanced materials",
+                    "renewable technology",
+                    "energy storage solutions",
+                    "emissions reduction",
+                    "global energy solutions",
+                    "sustainable practices",
+                    "performance optimization",
+                    "fuel efficiency",
+                    "material sciences",
+                    "resource recycling",
+                    "effective leadership",
+                    "business growth strategies",
+                    "collaboration",
+                    "research and development",
+                    "manufacturing",
+                    "distribution",
+                    "transportation & logistics",
+                    "energy & utilities",
+                    "environmental services",
+                    "renewables & environment",
+                    "oil & energy",
+                    "consumer internet",
+                    "consumers",
+                    "internet",
+                    "information technology & services",
+                    "clean energy & technology",
+                    "material science",
+                    "research & development",
+                    "mechanical or industrial engineering"
+                ],
+                "ai": "Petroleum, Refining, Hydrogen, Carbon Neutral, Service Station, Gas, Petrochemicals, Energy Future"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "ai",
+                        "name": "AI",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "apc",
+                        "name": "APC",
+                        "category": "Shipping"
+                    },
+                    {
+                        "uid": "aws_application_load_balancer",
+                        "name": "AWS Application Load Balancer",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "aws_cloud",
+                        "name": "AWS Cloud",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "aws_cloud",
+                        "name": "AWS Cloud",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "amazon_aws",
+                        "name": "Amazon AWS",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "amazon_cloudfront",
+                        "name": "Amazon CloudFront",
+                        "category": "Content Delivery Networks"
+                    },
+                    {
+                        "uid": "amazon_elastic_load_balancer",
+                        "name": "Amazon Elastic Load Balancer",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "amazon_elastic_load_balancer",
+                        "name": "Amazon Elastic Load Balancer",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "amazon_route_53",
+                        "name": "Amazon Route 53",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "amazon_route_53",
+                        "name": "Amazon Route 53",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "apache",
+                        "name": "Apache",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "apache_http_server",
+                        "name": "Apache HTTP Server",
+                        "category": "Hosting"
+                    },
+                    {
+                        "uid": "apple_ios",
+                        "name": "Apple iOS",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "azure_digital_twins",
+                        "name": "Azure Digital Twins",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "brevo",
+                        "name": "Brevo",
+                        "category": "Email Marketing"
+                    },
+                    {
+                        "uid": "compressor",
+                        "name": "Compressor",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "dc_storm",
+                        "name": "DC Storm",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "dynatrace_application_monitoring",
+                        "name": "Dynatrace Application Monitoring",
+                        "category": "Web Performance Monitoring"
+                    },
+                    {
+                        "uid": "dynatrace_application_monitoring",
+                        "name": "Dynatrace Application Monitoring",
+                        "category": "Web Performance Monitoring"
+                    },
+                    {
+                        "uid": "dynatrace_rum",
+                        "name": "Dynatrace RUM",
+                        "category": "Web Performance Monitoring"
+                    },
+                    {
+                        "uid": "frac_pumps",
+                        "name": "FRAC Pumps",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "facebook_login",
+                        "name": "Facebook Login (Connect)",
+                        "category": "Social Login"
+                    },
+                    {
+                        "uid": "facebook_sdk",
+                        "name": "Facebook SDK",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "flow",
+                        "name": "Flow",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "google_font_api",
+                        "name": "Google Font API",
+                        "category": "Fonts"
+                    },
+                    {
+                        "uid": "google_tag_manager",
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "hsts",
+                        "name": "HSTS",
+                        "category": "Security"
+                    },
+                    {
+                        "uid": "iot",
+                        "name": "IoT",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "mode",
+                        "name": "Mode",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "ning",
+                        "name": "Ning",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "olo",
+                        "name": "Olo",
+                        "category": "Food Ordering Services"
+                    },
+                    {
+                        "uid": "open_graph",
+                        "name": "Open Graph",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "outlook",
+                        "name": "Outlook",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "rss",
+                        "name": "RSS",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "rapid7_insightvm",
+                        "name": "Rapid7 InsightVM",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "slick",
+                        "name": "Slick",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "undertone",
+                        "name": "Undertone",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "viewport_meta",
+                        "name": "Viewport Meta",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "wp_engine",
+                        "name": "WP Engine",
+                        "category": "CMS"
+                    },
+                    {
+                        "uid": "dynatrace",
+                        "name": "dynaTrace",
+                        "category": "Web Performance Monitoring"
+                    },
+                    {
+                        "uid": "dynatrace",
+                        "name": "dynaTrace",
+                        "category": "Web Performance Monitoring"
+                    },
+                    {
+                        "uid": "dynatrace",
+                        "name": "dynaTrace",
+                        "category": "Web Performance Monitoring"
+                    },
+                    {
+                        "uid": "jquery",
+                        "name": "jQuery",
+                        "category": "CSS and JavaScript Libraries"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "Google Analytics",
+                        "category": "Analytics",
+                        "confidence": 0.99,
+                        "source": "www.google-analytics.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.24,
+                            "evidence_density": 0.67
+                        }
+                    },
+                    {
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management",
+                        "confidence": 0.99,
+                        "source": "www.googletagmanager.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.23,
+                            "evidence_density": 0.75
+                        }
+                    },
+                    {
+                        "name": "Microsoft Clarity",
+                        "category": "Heatmaps",
+                        "confidence": 0.99,
+                        "source": "scripts.clarity.ms",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.42,
+                            "evidence_density": 0.94
+                        }
+                    },
+                    {
+                        "name": "OneTrust",
+                        "category": "Consent Management",
+                        "confidence": 0.99,
+                        "source": "cdn-au.onetrust.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.4,
+                            "evidence_density": 0.42
+                        }
+                    },
+                    {
+                        "name": "Twitter Ads",
+                        "category": "Advertising",
+                        "confidence": 0.99,
+                        "source": "static.ads-twitter.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.57,
+                            "evidence_density": 0.5
+                        }
+                    },
+                    {
+                        "name": "LinkedIn Insight Tag",
+                        "category": "Advertising",
+                        "confidence": 0.99,
+                        "source": "snap.licdn.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.81,
+                            "evidence_density": 1.43
+                        }
+                    },
+                    {
+                        "name": "Amazon CloudFront",
+                        "category": "CDN",
+                        "confidence": 0.99,
+                        "source": "via: 1.1 CloudFront",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.32,
+                            "evidence_density": 0.89
+                        }
+                    },
+                    {
+                        "name": "Apache",
+                        "category": "Web Server",
+                        "confidence": 0.99,
+                        "source": "server: Apache",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.39,
+                            "evidence_density": 0.43
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [
+                    {
+                        "id": "693792d9a6d833000db1acc0",
+                        "name": "ENEOS USA",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "67138599b3a8a60001724681",
+                        "name": "（株）ＥＮＥＯＳジェネレーションズ",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "5fc9133c7489bb000101baaf",
+                        "name": "ENEOS Europe Limited",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "5e55da944e4f6600012e99e0",
+                        "name": "ENEOS Renewable Energy Corporation",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "66e605e1bed1eb0001cf20dd",
+                        "name": "JRE Operations Corporation",
+                        "domain": "Non renseigné"
+                    },
+                    {
+                        "id": "66eeb814f097180001a451e6",
+                        "name": "ジャパン・リニューアブル・エナジー株式会社",
+                        "domain": "Non renseigné"
+                    }
+                ],
+                "ai": [
+                    "株式会社ENEOSモビリニア",
+                    "株式会社ENEOSデジネット",
+                    "ENEOS喜入基地株式会社"
+                ]
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Idemitsu Kosan",
+                    "Cosmo Energy Holdings",
+                    "Mitsubishi Corporation"
+                ]
+            }
+        }
+    }
+}

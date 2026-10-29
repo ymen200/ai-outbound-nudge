@@ -1,0 +1,146 @@
+{
+  "member_id": "ACoAAD6vKFIBlqQnsf2E_T0LLxYnqKnATcMH9Aw",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7480647727421272065",
+        "share_url": "https://www.linkedin.com/posts/activity-7480647727421272065-q2gs?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "2w",
+        "comment_counter": 2,
+        "impressions_counter": 0,
+        "reaction_counter": 43,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I’m looking for motivated mortgage professionals who are passionate about helping members ‘Get Their Money Right’! If you think you’d be a good fit, let’s connect! 🐎",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "dylan-roberts-38224b254",
+          "id": "ACoAAD6vKFIBlqQnsf2E_T0LLxYnqKnATcMH9Aw",
+          "name": "Dylan Roberts",
+          "is_company": false,
+          "headline": "Operations Leader | Customer Success Manager | Client Advocate | Operations Sales Manager (Home Loans) - SoFi",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEkWLso6mMllQ/profile-displayphoto-shrink_400_400/B4EZPclWI8GYAg-/0/1734572599704?e=1786579200&v=beta&t=EXeGO2x2xRuuUqz5hvb1eeR8_eL5owiGlnqKFKdnc30"
+        },
+        "id": "7480647727421272065",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-08T15:43:21.931Z",
+        "job_posting": {
+          "id": "4346674393",
+          "title": "Home Loans Member Advocate",
+          "location": "Charlotte, North Carolina, United States",
+          "company": {
+            "id": "2301992",
+            "name": "SoFi",
+            "picture_url": "https://media.licdn.com/dms/image/v2/C560BAQH0xjWQVXJr6w/company-logo_200_200/company-logo_200_200/0/1630660955481/sofi_logo?e=1786579200&v=beta&t=t7tzC37RALsxEzqX8_sq563xny0qUFT3qOJVaRatfz8"
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7415470186872684544",
+        "share_url": "https://www.linkedin.com/posts/activity-7415470186872684544-P6xX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "6mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 14,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Let’s go!!",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "dylan-roberts-38224b254",
+          "id": "ACoAAD6vKFIBlqQnsf2E_T0LLxYnqKnATcMH9Aw",
+          "name": "Dylan Roberts",
+          "is_company": false,
+          "headline": "Operations Leader | Customer Success Manager | Client Advocate | Operations Sales Manager (Home Loans) - SoFi",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEkWLso6mMllQ/profile-displayphoto-shrink_400_400/B4EZPclWI8GYAg-/0/1734572599704?e=1786579200&v=beta&t=EXeGO2x2xRuuUqz5hvb1eeR8_eL5owiGlnqKFKdnc30"
+        },
+        "id": "7415470186872684544",
+        "is_repost": true,
+        "repost_id": "7415470186872684544",
+        "parsed_datetime": "2026-01-09T19:11:05.324Z",
+        "repost_content": {
+          "id": "7415439269114179584",
+          "date": "6mo",
+          "parsed_datetime": "2026-01-09T17:08:13.956Z",
+          "text": "We are thrilled to announce that SoFi has been named a Built In 2026 Best Place to Work for the fifth year in a row, earning top honors in five different categories across the New York City, San Francisco, Seattle, and Dallas-Forth Worth area! 🏆\n\nAt SoFi, we’ve always believed that our people are our greatest asset. This recognition is so meaningful to us because it isn’t just about the perks or the offices—it’s a reflection of the incredible individuals who show up every day to live The SoFi Way. Read more about what being a Best Place To Work means to us ➡️ https://lnkd.in/gaKKKAVb",
+          "author": {
+            "public_identifier": "sofi",
+            "id": null,
+            "name": "SoFi",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7375875871838064640",
+        "share_url": "https://www.linkedin.com/posts/activity-7375875872626462720-Pya0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 19,
+        "impressions_counter": 0,
+        "reaction_counter": 53,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I’m happy to share that I’m starting a new position as Sales Operations Manager at SoFi!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/sofi/",
+            "length": 4,
+            "start": 83
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "dylan-roberts-38224b254",
+          "id": "ACoAAD6vKFIBlqQnsf2E_T0LLxYnqKnATcMH9Aw",
+          "name": "Dylan Roberts",
+          "is_company": false,
+          "headline": "Operations Leader | Customer Success Manager | Client Advocate | Operations Sales Manager (Home Loans) - SoFi",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQEkWLso6mMllQ/profile-displayphoto-shrink_400_400/B4EZPclWI8GYAg-/0/1734572599704?e=1786579200&v=beta&t=EXeGO2x2xRuuUqz5hvb1eeR8_eL5owiGlnqKFKdnc30"
+        },
+        "id": "7375875872626462720",
+        "is_repost": false,
+        "parsed_datetime": "2025-09-22T12:57:25.181Z"
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAD6vKFIBlqQnsf2E_T0LLxYnqKnATcMH9Aw"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 3,
+      "total_count": 3
+    },
+    "cursor": null
+  }
+}

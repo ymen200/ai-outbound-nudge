@@ -1,0 +1,248 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Frankfurt am Main, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Köln, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Nürnberg, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Ingolstadt (Lenting), Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Donauwörth, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Stuttgart, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Mannheim, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Coburg, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Berlin, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Wolfsburg, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "Hamburg, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Various Engineering and IT Positions",
+        "location": "München, Germany",
+        "department": "Engineering, IT",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Unsere aktuellen Karrieremöglichkeiten entdecken",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.63,
+            "evidence_density": 0.75
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "ALTEN stärkt seine Organisation in Deutschland durch die Verschmelzung der ALTEN Technology GmbH mit der ALTEN GmbH - ALTEN strengthens its organization in Germany through the merger of ALTEN Technology GmbH with ALTEN GmbH",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "ALTEN stärkt seine Organisation in Deutschland durch die Verschmelzung der ALTEN Technology GmbH mit der ALTEN GmbH",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.22,
+            "evidence_density": 1.94
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Pharma 5.0: ALTEN optimiert digitale Prozesse - Pharma 5.0: ALTEN optimizes digital processes",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "Pharma 5.0: ALTEN optimiert digitale Prozesse",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.25,
+            "evidence_density": 2.07
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "KI-Cockpit: Wie vernetzte Fahrzeuge die Mobilität revolutionieren - KI-Cockpit: How connected vehicles are revolutionizing mobility",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "KI-Cockpit: Wie vernetzte Fahrzeuge die Mobilität revolutionieren",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.24,
+            "evidence_density": 2.02
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "ALTEN & Airbus: Partnerschaft mit Zukunft - ALTEN & Airbus: Partnership with a future",
+        "date": "2026",
+        "news_type": "Partnership",
+        "confidence": 0.9,
+        "source": "ALTEN & Airbus: Partnerschaft mit Zukunft",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.25,
+            "evidence_density": 2.07
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Gemeinsam in die Zukunft - in-motion feiert erfolgreiche Übernahme durch ALTEN - Together into the future - in-motion celebrates successful takeover by ALTEN",
+        "date": "Not specified",
+        "news_type": "Acquisition",
+        "confidence": 0.9,
+        "source": "Gemeinsam in die Zukunft - in-motion feiert erfolgreiche Übernahme durch ALTEN",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.24,
+            "evidence_density": 2.01
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "ALTEN übernimmt in-motion - ALTEN takes over in-motion",
+        "date": "Not specified",
+        "news_type": "Acquisition",
+        "confidence": 0.9,
+        "source": "ALTEN übernimmt in-motion",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.27,
+            "evidence_density": 2.16
+        }
+    }
+]

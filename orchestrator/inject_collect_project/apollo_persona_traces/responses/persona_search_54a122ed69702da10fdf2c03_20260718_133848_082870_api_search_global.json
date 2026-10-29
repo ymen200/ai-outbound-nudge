@@ -1,0 +1,51 @@
+{
+  "total_entries": 32,
+  "people": [
+    {
+      "id": "57e119c6a6da987ddc729305",
+      "first_name": "Caio",
+      "last_name_obfuscated": "Da***l",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-06-27T23:46:25.991+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "PetroChina",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5c589c8ba3ae61321f797eb0",
+      "first_name": "Luis",
+      "last_name_obfuscated": "Go***z",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-06-26T14:41:44.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "PetroChina",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

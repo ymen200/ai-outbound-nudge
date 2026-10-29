@@ -1,0 +1,369 @@
+{
+    "alexa_ranking": 39563,
+    "annual_revenue": null,
+    "apollo_id": "54a1295a69702d9548d38301",
+    "city": "Toronto",
+    "country": "Canada",
+    "departments": {
+        "human_resources": 194,
+        "business_development": 44,
+        "finance": 39,
+        "support": 29,
+        "consulting": 151,
+        "information_technology": 24,
+        "accounting": 43,
+        "sales": 25,
+        "operations": 16,
+        "engineering": 28,
+        "marketing": 10,
+        "administrative": 20,
+        "data_science": 3,
+        "arts_and_design": 2,
+        "legal": 5,
+        "education": 6,
+        "media_and_commmunication": 1,
+        "product_management": 0,
+        "entrepreneurship": 0
+    },
+    "domain": "randstad.ca",
+    "estimated_num_employees": 1300,
+    "facebook_url": "https://www.facebook.com/CanadaRandstad/",
+    "founded_year": 1997,
+    "funding_events": [],
+    "industry": "Staffing & Recruitment Agency, HR Services",
+    "keywords": [
+        "temp permanent positions",
+        "hr outsourcing",
+        "staffing & hr",
+        "human resources",
+        "outsourced hr capabilities",
+        "permanent jobs",
+        "contract jobs",
+        "temporary hiring",
+        "hiring strategy",
+        "employer branding",
+        "technologies staffing",
+        "hr services",
+        "it recruitment",
+        "staffing solutions",
+        "temp amp permanent positions",
+        "hr consulting",
+        "recruitment",
+        "sales marketing",
+        "finding jobs",
+        "engineering recruitment",
+        "jobs",
+        "recruiting",
+        "engineering staffing",
+        "temp jobs",
+        "permanent hiring",
+        "staffing",
+        "finance accounting staffing",
+        "resource process outsourcing",
+        "resource process outsourcing rpo",
+        "b2b",
+        "management consulting",
+        "Full-Time Jobs",
+        "Talent Solutions",
+        "Digital Transformation",
+        "Workforce Solutions",
+        "Career Opportunities",
+        "Permanent Staffing",
+        "Temporary Staffing",
+        "Contract Search",
+        "Executive Search"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/randstadcanada",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a4b81d0dd2370001d5cc5e/picture",
+    "name": "Randstad Canada",
+    "num_suborganizations": 26,
+    "phone": "1.800.540.3594",
+    "postal_code": "M5G 2C8",
+    "raw_address": "11 King St W, Suite 1700, Toronto, ON M5H 4C7, Canada",
+    "seo_description": "Full-Time Jobs, Temp Jobs, Staffing & Recruitment Agency. Top Talent Recruitment Services in Canada.",
+    "short_description": "Randstad Canada is a leading staffing and recruitment agency providing full-time, temporary, and professional talent solutions, connecting job seekers and employers across Canada.",
+    "state": "Ontario",
+    "street_address": "777 Bay Street",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "Barrie, Ontario office",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Brantford, Ontario office",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Brossard, Quebec office",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Burlington, Ontario office",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Calgary, Alberta (North) office",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "adobe_media_optimizer",
+            "name": "Adobe Media Optimizer",
+            "category": "Search Marketing"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_ses",
+            "name": "Amazon SES",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "bing_ads",
+            "name": "Bing Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "cedexis_radar",
+            "name": "Cedexis Radar",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "content_ad",
+            "name": "Content.ad",
+            "category": "Content Syndication Networks"
+        },
+        {
+            "uid": "crazyegg",
+            "name": "CrazyEgg",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "decibel_insight",
+            "name": "Decibel Insight",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "doubleclick",
+            "name": "DoubleClick",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "doubleclick_conversion",
+            "name": "DoubleClick Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "dropbox",
+            "name": "Dropbox",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "facebook_conversion_tracking",
+            "name": "Facebook Conversion Tracking",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "facebook_web_custom_audiences",
+            "name": "Facebook Custom Audiences",
+            "category": "Retargeting"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_widget",
+            "name": "Facebook Widget",
+            "category": "Widgets"
+        },
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "google_adwords_conversion",
+            "name": "Google AdWords Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_apps",
+            "name": "Google Apps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_dynamic_remarketing",
+            "name": "Google Dynamic Remarketing",
+            "category": "Retargeting"
+        },
+        {
+            "uid": "google_maps",
+            "name": "Google Maps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_maps_non_paid_users",
+            "name": "Google Maps (Non Paid Users)",
+            "category": "Other"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_plus_login",
+            "name": "Google Plus",
+            "category": "Social Login"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "liveramp",
+            "name": "LiveRamp",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "multilingual",
+            "name": "Multilingual",
+            "category": "Widgets"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Widgets"
+        },
+        {
+            "uid": "optimizely",
+            "name": "Optimizely",
+            "category": "Online Testing Platforms"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "route_53",
+            "name": "Route 53",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "amazon_s3",
+            "name": "Amazon S3",
+            "category": "Cloud Storage / Hosting"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "CDN"
+        },
+        {
+            "uid": "express.js",
+            "name": "Express.js",
+            "category": "Web Framework"
+        },
+        {
+            "uid": "cookie_consent_management",
+            "name": "Cookie Consent Management",
+            "category": "Privacy / Compliance"
+        },
+        {
+            "uid": "hubspot_forms",
+            "name": "HubSpot Forms",
+            "category": "Form Management"
+        },
+        {
+            "uid": "tailwind_css_(or_similar_utility_first_framework)",
+            "name": "Tailwind CSS (or similar utility-first framework)",
+            "category": "CSS Framework"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/RandstadCanada",
+    "website_url": "http://www.randstad.ca",
+    "is_subsidiary": true,
+    "parent_company": "Randstad N.V.",
+    "competitors": [
+        "Adecco Group Canada",
+        "ManpowerGroup Canada",
+        "Kelly Services Canada",
+        "Robert Half Canada"
+    ],
+    "data_quality_score": 0.93
+}

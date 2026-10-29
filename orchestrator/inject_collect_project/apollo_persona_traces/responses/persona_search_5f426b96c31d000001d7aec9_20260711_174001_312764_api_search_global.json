@@ -1,0 +1,28 @@
+{
+  "total_entries": 1,
+  "people": [
+    {
+      "id": "608a87e16b2cf600013077a2",
+      "first_name": "Dario",
+      "last_name_obfuscated": "Ca***i",
+      "title": "Sales Director",
+      "last_refreshed_at": "2026-07-06T16:15:52.246+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Ministry of Enterprises and Made in Italy",
+        "has_industry": true,
+        "has_phone": false,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

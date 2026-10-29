@@ -1,0 +1,356 @@
+{
+  "member_id": "ACoAAAVTsWkBcyvFoFZ5WZiyIRiZ-p57c6Th9yw",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7415061889400987648",
+        "share_url": "https://www.linkedin.com/posts/jay-kinderknecht-3a1b1b25_sdr-bdr-activity-7415061890395189249-Jt_J?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "6mo",
+        "comment_counter": 28,
+        "impressions_counter": 0,
+        "reaction_counter": 155,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Exciting news from our Sales Dev team at ClickUp!\n\nCongrats to Nicholas Lopez, Emma Lancaster, Sarah James, Sarah Ali, Sarah Handfelt, and Francesca Becker on their promotions to SMB Account Executives. Watching you all grow in the BDR role and earn this next step has been awesome to see!\n\nWe currently have 26 AEs that came from our XDR org. 🚀 \n\nAlso congrats to Adam Hebert and Michael Rubly on moving up from SDR to BDR. You've both crushed it and I'm excited to see what you do next!\n\nWith these promotions, we have openings for SDR and BDR roles. If you're in San Diego or DFW and interested in a hybrid position where there's real room to grow, send me a message.\n\n#SDR #BDR",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 41
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADUKKJcBVp0n8ACBYOJrmradWROQS-MWCDQ",
+            "length": 14,
+            "start": 63
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAEBUtv0B9XiIudb2BKCM0ar3Cjs8ijL0Zw4",
+            "length": 14,
+            "start": 79
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADKauAABR8GBUU_dyyufT9KagP1PK5iUgqY",
+            "length": 11,
+            "start": 95
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACOwbwABxaI9CTI1bl844_DgwmlqEmzEYAI",
+            "length": 9,
+            "start": 108
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADMfjmoBsHLzhZ1uOYnGPHiG4d_rRKpkYFU",
+            "length": 14,
+            "start": 119
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADMowuMBX9qh-5oRoS0dpNZzcPnsD9D964U",
+            "length": 16,
+            "start": 139
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADjJuKUByBEukclE8JhJVJIjvvknWX50-Uk",
+            "length": 11,
+            "start": 365
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADXwlP4BaMYVDgIsdfWuBHe_xgEHh7qVVyA",
+            "length": 13,
+            "start": 381
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D5622AQEEIk9QSCDlTQ",
+            "sticker": false,
+            "size": {
+              "height": 351,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQEEIk9QSCDlTQ/feedshare-shrink_480/B56ZueXfxBIYAY-/0/1767888518810?e=1786579200&v=beta&t=Ltnrj4T4QrTRrbvJAlngbKUECZwiIhBHerD3h1agXes"
+          },
+          {
+            "id": "D5622AQFXFZaSw_IudQ",
+            "sticker": false,
+            "size": {
+              "height": 296,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQFXFZaSw_IudQ/feedshare-shrink_480/B56ZueXfwtH0Ac-/0/1767888518690?e=1786579200&v=beta&t=QDSe9l3j6Nj5HIV1QVRohPgPXy_P2CEgBBA3VLWdWXE"
+          }
+        ],
+        "author": {
+          "public_identifier": "jay-kinderknecht-3a1b1b25",
+          "id": "ACoAAAVTsWkBcyvFoFZ5WZiyIRiZ-p57c6Th9yw",
+          "name": "Jay Kinderknecht",
+          "is_company": false,
+          "headline": "Regional Director, Sales Development at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFj13n5jGbo9w/profile-displayphoto-scale_400_400/B56ZxsttuYHUAg-/0/1771350452378?e=1786579200&v=beta&t=483lk3ZC8WfvvJGPOYpy9STBdijo_CRLT5h47A4PXjU"
+        },
+        "id": "7415061890395189249",
+        "is_repost": false,
+        "parsed_datetime": "2026-01-08T16:08:39.858Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7411527802061041664",
+        "share_url": "https://www.linkedin.com/posts/jay-kinderknecht-3a1b1b25_im-grateful-for-the-professional-development-activity-7411527802061041664-SxCA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "6mo",
+        "comment_counter": 6,
+        "impressions_counter": 0,
+        "reaction_counter": 82,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "I'm grateful for the professional development stipend at ClickUp. It is a huge perk to work for a company that genuinely invests in our growth.\n\nI used some of the funds this year to dive into the StackOptimise ⚙️ GTM Engineering course.\n\nI recommend it to other SDR Leaders looking for a technical breakdown of the end to end process, from building signal-based lead lists to landing the meeting with effective messaging at scale. It gave me a much better perspective on how to orchestrate tools like Clay and Make to automate so our reps can focus on higher-quality conversations.\n\nLucky to have a talented demand team (s/o Sai David Kyle Andy Vasu Katherine) already doing the heavy lifting, but it feels good to speak their language a bit better now.  Looking forward to getting into the weeds with the team and applying what I learned.\n\nAnd thanks to Felix Frank and Penn Frank for putting together such tactical content!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 57
+          },
+          {
+            "url": "https://www.linkedin.com/company/stackoptimise/",
+            "length": 16,
+            "start": 197
+          },
+          {
+            "url": "https://www.linkedin.com/company/grow-with-clay/",
+            "length": 4,
+            "start": 502
+          },
+          {
+            "url": "https://www.linkedin.com/company/itsmakehq/",
+            "length": 4,
+            "start": 511
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACFxS48BsTYQZvPp69G2ppp7CKeOR3L4b6Q",
+            "length": 3,
+            "start": 626
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAABjXyNsBVcin2ZFHHLj13thuttLrSBH1k-M",
+            "length": 5,
+            "start": 630
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACC30sgBFoE7ISFJdXhzxeTjZKcLL0iBDpA",
+            "length": 4,
+            "start": 636
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAHkbnABg5pB4UIl4cylX442yiB2-zKHxdA",
+            "length": 4,
+            "start": 641
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACTOtwUBxih5ESt16EZE3WHnw4UvMGVBPTA",
+            "length": 4,
+            "start": 646
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAxGJS0B6dPL-TW-VoFLXPODv0g7IH07FmQ",
+            "length": 9,
+            "start": 651
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACH6mkkBDSEvLzES-HYYMobeZ6AjjpoWjVM",
+            "length": 11,
+            "start": 856
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACbEiOYBUzbxoOZWOcEKqvynbY5bGzeJ44o",
+            "length": 10,
+            "start": 872
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "jay-kinderknecht-3a1b1b25",
+          "id": "ACoAAAVTsWkBcyvFoFZ5WZiyIRiZ-p57c6Th9yw",
+          "name": "Jay Kinderknecht",
+          "is_company": false,
+          "headline": "Regional Director, Sales Development at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFj13n5jGbo9w/profile-displayphoto-scale_400_400/B56ZxsttuYHUAg-/0/1771350452378?e=1786579200&v=beta&t=483lk3ZC8WfvvJGPOYpy9STBdijo_CRLT5h47A4PXjU"
+        },
+        "id": "7411527802061041664",
+        "is_repost": false,
+        "parsed_datetime": "2025-12-29T22:05:27.539Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7408957893888249857",
+        "share_url": "https://www.linkedin.com/posts/jay-kinderknecht-3a1b1b25_excited-to-share-what-the-team-has-been-building-activity-7408958229860298752-6L9x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "7mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 34,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Excited to share what the team has been building with our new ClickUp Super Agents.\n\nMost AI feels like a tool you visit.\n \nClickUp Super Agents feel like teammates you work with.\n \nThey:\n▪️ Live inside your ClickUp workspace\n▪️ Use tasks to track their work\n▪️ Retain context across docs, tasks, and decisions\n▪️ Run continuously in the background on triggers, schedules, and signals from your work\n \nYou lead. Your Super Agents go to work.\n \nLaunch video below if you want to see how it all comes together.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 62
+          }
+        ],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D5605AQFy8yyJX0Vh1A",
+            "size": {
+              "height": 720,
+              "width": 1280
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQFy8yyJX0Vh1A/mp4-720p-30fp-crf28/B56ZtHoF4SHYCI-/0/1766433291623?e=1785510000&v=beta&t=yxetTo6cESvhyPUS24CdNkxzp7IZljHmUnPFfQrtkkQ"
+          }
+        ],
+        "author": {
+          "public_identifier": "jay-kinderknecht-3a1b1b25",
+          "id": "ACoAAAVTsWkBcyvFoFZ5WZiyIRiZ-p57c6Th9yw",
+          "name": "Jay Kinderknecht",
+          "is_company": false,
+          "headline": "Regional Director, Sales Development at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFj13n5jGbo9w/profile-displayphoto-scale_400_400/B56ZxsttuYHUAg-/0/1771350452378?e=1786579200&v=beta&t=483lk3ZC8WfvvJGPOYpy9STBdijo_CRLT5h47A4PXjU"
+        },
+        "id": "7408958229860298752",
+        "is_repost": false,
+        "parsed_datetime": "2025-12-22T19:54:53.786Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7371681445628731392",
+        "share_url": "https://www.linkedin.com/posts/jay-kinderknecht-3a1b1b25_gopadres-activity-7371681445628731392-Jrs7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 12,
+        "impressions_counter": 0,
+        "reaction_counter": 175,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Great couple of days in San Diego spending time with our San Diego Sales Development crew #gopadres\n\nClickUp is the first Converged AI Workspace, bringing everything teams need into one place. We just hit $300m ARR and there’s a ton of opportunity to learn, grow, and make an impact.\n\nWe’re hiring for two open roles that are perfect for people looking to join a high-growth company with an innovative product, a culture of coaching and development, and a clear path for SDRs to become successful AEs:\n\n▪️ Manager, Sales Development (San Diego-based): Lead, coach, and help shape the future of our SDR team.\n▪️ Sales Development Rep (Dallas Fort Worth or San Diego): Jump in, learn fast, and grow your career.\n\nIf you’re interested or want to hear more, shoot me a message.",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 101
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D5622AQH3JmxZUdtAGQ",
+            "sticker": false,
+            "size": {
+              "height": 449,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D5622AQH3JmxZUdtAGQ/feedshare-shrink_800/B56Zk15NIvI8Ag-/0/1757545815224?e=1786579200&v=beta&t=YxdT-oOq7_r09DVNziBGeXhyncRuc1GkqP8ff-1qrlQ"
+          }
+        ],
+        "author": {
+          "public_identifier": "jay-kinderknecht-3a1b1b25",
+          "id": "ACoAAAVTsWkBcyvFoFZ5WZiyIRiZ-p57c6Th9yw",
+          "name": "Jay Kinderknecht",
+          "is_company": false,
+          "headline": "Regional Director, Sales Development at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFj13n5jGbo9w/profile-displayphoto-scale_400_400/B56ZxsttuYHUAg-/0/1771350452378?e=1786579200&v=beta&t=483lk3ZC8WfvvJGPOYpy9STBdijo_CRLT5h47A4PXjU"
+        },
+        "id": "7371681445628731392",
+        "is_repost": false,
+        "parsed_datetime": "2025-09-10T23:10:15.856Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7371253898399059968",
+        "share_url": "https://www.linkedin.com/posts/jay-kinderknecht-3a1b1b25_clickup-just-blew-past-300m-arr-but-were-activity-7371253898944290816-aapd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 17,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Grateful to be on the journey to $1b+ ARR!  \n\nCheck out the Axios interview with our CEO, Zeb Evans for an in-depth look at this milestone: \nhttps://lnkd.in/gmiSWpP2",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "jay-kinderknecht-3a1b1b25",
+          "id": "ACoAAAVTsWkBcyvFoFZ5WZiyIRiZ-p57c6Th9yw",
+          "name": "Jay Kinderknecht",
+          "is_company": false,
+          "headline": "Regional Director, Sales Development at ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQFj13n5jGbo9w/profile-displayphoto-scale_400_400/B56ZxsttuYHUAg-/0/1771350452378?e=1786579200&v=beta&t=483lk3ZC8WfvvJGPOYpy9STBdijo_CRLT5h47A4PXjU"
+        },
+        "id": "7371253898399059968",
+        "is_repost": true,
+        "repost_id": "7371253898944290816",
+        "parsed_datetime": "2025-09-09T18:51:20.653Z",
+        "repost_content": {
+          "id": "7371180996961976320",
+          "date": "10mo",
+          "parsed_datetime": "2025-09-09T14:01:39.596Z",
+          "text": "ClickUp just blew past $300M ARR. But we're not just celebrating a number.\n\nWe're stopping to celebrate the entire journey - before we move the goal post again.\n\nAnd this journey has been nothing short of extraordinary. We’ve grown from a small team with a huge dream into a global company helping 20M+ people maximize their productivity.\n\n7 years ago, we set out with an ambitious vision.\n\nWe built ClickUp to end the chaos of work sprawl and converge many software categories together. We started when \"one app\" was seen as the wrong strategy, but today it's the only strategy to realize our mission of making people more productive.\n\nBecause 100% context is the single most important thing for enabling human productivity from AI.\n\nSo, this milestone? We stop. We breathe. We practice gratitude. We celebrate.\n\nTo our customers: Thank you so much for believing in us, and for sticking with us through growing pains.\n\nTo our teams: I'm infinitely grateful for how much you care, it energizes me to keep going every single day.\n\nWe’re just getting started. Thank you to everyone who’s been part of this story. 💜",
+          "author": {
+            "public_identifier": "zebevansclickup",
+            "id": "ACoAAAccGvwBQet_UtnjCJgTQxExDvFcoT02dKM",
+            "name": "Zeb Evans",
+            "is_company": false
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAVTsWkBcyvFoFZ5WZiyIRiZ-p57c6Th9yw"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 5,
+      "total_count": 5
+    },
+    "cursor": null
+  }
+}

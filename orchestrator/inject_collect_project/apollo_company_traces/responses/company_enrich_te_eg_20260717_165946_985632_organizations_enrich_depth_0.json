@@ -1,0 +1,669 @@
+{
+  "organization": {
+    "id": "54a134e169702d407f115900",
+    "name": "Telecom Egypt",
+    "website_url": "http://www.te.eg",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/telecom-egypt",
+    "twitter_url": "https://twitter.com/telecomegypt",
+    "facebook_url": "https://facebook.com/TelecomEgypt/",
+    "primary_phone": {
+      "number": "+20 2 33320700",
+      "source": "Owler",
+      "sanitized_number": "+20233320700"
+    },
+    "languages": [],
+    "alexa_ranking": 2615,
+    "phone": "+20 2 33320700",
+    "linkedin_uid": "25448",
+    "founded_year": 1854,
+    "publicly_traded_symbol": "ETEL",
+    "publicly_traded_exchange": "other",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a4b0204dfcc20001354a90/picture",
+    "crunchbase_url": null,
+    "primary_domain": "te.eg",
+    "sic_codes": [
+      "3661"
+    ],
+    "naics_codes": [
+      "517111",
+      "517112",
+      "518210"
+    ],
+    "sanitized_phone": "+20233320700",
+    "industry": "telecommunications",
+    "estimated_num_employees": 54000,
+    "keywords": [
+      "voice",
+      "data",
+      "ip managed services",
+      "internet",
+      "offshoring",
+      "pcs global data services",
+      "mobile",
+      "landline",
+      "iaas",
+      "government",
+      "data center",
+      "managed security services",
+      "data protection",
+      "network infrastructure",
+      "national roaming agreement",
+      "customer experience",
+      "sea-me-we 6",
+      "fiber deployment",
+      "mobile services",
+      "services",
+      "enterprise ict",
+      "b2c",
+      "subsea cable systems",
+      "international connectivity",
+      "iot",
+      "iot solutions",
+      "mobile network",
+      "international partnerships",
+      "fiber to the home",
+      "wholesale bandwidth",
+      "cloud computing",
+      "network expansion",
+      "cloud services",
+      "internet services",
+      "it services",
+      "digital services",
+      "information technology",
+      "greece-egypt subsea link",
+      "broadband",
+      "regional data hub",
+      "microwave networks",
+      "submarine cables",
+      "2africa subsea cable",
+      "managed services",
+      "b2b",
+      "eg-ix internet exchange",
+      "cable and satellite services",
+      "digital inclusion",
+      "fixed-line services",
+      "enterprise solutions",
+      "fleet management",
+      "digital transformation",
+      "telecommunications",
+      "satellite communications",
+      "wired and wireless telecommunications carriers (except satellite)",
+      "data centers",
+      "international cables",
+      "ict solutions",
+      "customer engagement",
+      "wholesale services",
+      "fiber optics",
+      "telecom egypt",
+      "retail",
+      "network modernization",
+      "fixed broadband",
+      "4g",
+      "5g",
+      "data connectivity",
+      "subsea cables",
+      "voice services",
+      "internet exchange",
+      "mobile rate plans",
+      "prepaid",
+      "postpaid",
+      "business solutions",
+      "cloud hosting",
+      "ip vpn",
+      "ddos protection",
+      "voice solutions",
+      "international roaming",
+      "business sms",
+      "smart meters",
+      "digital solutions",
+      "mobile wallet",
+      "smart home services",
+      "telecom operator",
+      "public cloud",
+      "video conferencing",
+      "m2m communication",
+      "enhanced security",
+      "telecom network",
+      "international bandwidth",
+      "sustainability practices",
+      "citizen engagement",
+      "innovation programs",
+      "capacity planning",
+      "service quality",
+      "multi-channel support",
+      "connect egypt",
+      "construction & real estate",
+      "information technology & services",
+      "internet service providers",
+      "computer & network security",
+      "enterprise software",
+      "enterprises",
+      "computer software"
+    ],
+    "organization_revenue_printed": "2.4B",
+    "organization_revenue": 2383026000.0,
+    "industries": [
+      "telecommunications",
+      "internet"
+    ],
+    "secondary_industries": [
+      "internet"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd4c7369644d39080000",
+    "industry_tag_hash": {
+      "telecommunications": "5567cd4c7369644d39080000",
+      "internet": "5567cd4d736964397e020000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "B7 Building, K28 Cairo Alex Desrt Road, Smart Village, Giza, EG",
+    "street_address": "7 طريق القاهرة الاسكندرية الصحراوي",
+    "city": null,
+    "state": "Giza Governorate",
+    "postal_code": null,
+    "country": "Egypt",
+    "owned_by_organization_id": null,
+    "num_languages": 0,
+    "num_retail_locations": 0,
+    "short_description": "Telecom Egypt, officially known as Telecom Egypt Company S.A.E., is the primary fixed-line telecommunications operator in Egypt and a leading provider of wholesale telecommunications services. Established in 1854, it is the first telecommunications company in Africa and one of the oldest globally. The company was incorporated in its current form in 1998 and is listed on the Egyptian Exchange and the London Stock Exchange.\n\nTelecom Egypt offers a wide range of services, including fixed voice services, high-speed broadband, mobile services, and entertainment options. It also provides enterprise solutions such as managed ICT services, data center facilities, and smart solutions for businesses. The company operates a significant submarine cable network, connecting Egypt to global destinations, and holds a 45% stake in Vodafone Egypt, enhancing its mobile service offerings. With a strong presence in both domestic and international markets, Telecom Egypt plays a crucial role in the country's digital infrastructure and connectivity.",
+    "suborganizations": [
+      {
+        "id": "69953f1d00aabb00017c6ded",
+        "name": "Growfet",
+        "website_url": "http://www.growfet.com",
+        "industries": [
+          "professional training & coaching",
+          "education management"
+        ],
+        "estimated_num_employees": 17,
+        "country": "Egypt"
+      }
+    ],
+    "num_suborganizations": 1,
+    "annual_revenue_printed": "2.4B",
+    "annual_revenue": 2383026000.0,
+    "technology_names": [
+      "ACL",
+      "AI",
+      "AT&T",
+      "AWS DeepComposer",
+      "AWS SDK for JavaScript",
+      "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+      "Android",
+      "Ansible",
+      "Apache HTTP Server",
+      "Apache Tomcat",
+      "Azure Devops",
+      "Cisco BroadWorks",
+      "Cisco Collaboration",
+      "Cisco Webex Control Hub",
+      "Docker",
+      "ELK Stack",
+      "Elite Software HVAC Solution",
+      "F5 BIG-IP",
+      "Fortinet",
+      "GitLab",
+      "Google",
+      "Google Analytics",
+      "Google Analytics 4 (GA4)",
+      "Google Play",
+      "Google Search Central",
+      "Google Search Console",
+      "Google Tag Manager",
+      "Grafana",
+      "HREF Lang",
+      "Hibernate",
+      "Huawei",
+      "IBM Watson",
+      "ICE",
+      "Jenkins",
+      "Juniper Networks",
+      "Kiosked",
+      "Kotlin",
+      "Kubernetes",
+      "LEAP",
+      "Liferay",
+      "Liferay",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Email Providers",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Microsoft-IIS",
+      "Mobile Friendly",
+      "Nginx",
+      "Nokia",
+      "Objective-C",
+      "Oracle Database",
+      "Oracle GoldenGate",
+      "Oracle RAC One Node",
+      "Outlook",
+      "Palo Alto PA-5000 Series",
+      "Prometheus",
+      "RabbitMQ",
+      "React",
+      "React Native",
+      "Red Hat JBoss Enterprise SOA Platform",
+      "Redis",
+      "Remote",
+      "SWIFT",
+      "SentenceTransformers",
+      "Spring",
+      "Spring Boot",
+      "Terraform",
+      "Tor",
+      "UPS",
+      "Viewport Meta",
+      "Webex Calling",
+      "ZTE"
+    ],
+    "current_technologies": [
+      {
+        "uid": "acl",
+        "name": "ACL",
+        "category": "Other"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "at&t",
+        "name": "AT&T",
+        "category": "Hosting"
+      },
+      {
+        "uid": "aws_deepcomposer",
+        "name": "AWS DeepComposer",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_sdk_for_javascript",
+        "name": "AWS SDK for JavaScript",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "amazon_managed_streaming_for_apache_kafka_amazon_msk",
+        "name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "android",
+        "name": "Android",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "ansible",
+        "name": "Ansible",
+        "category": "Other"
+      },
+      {
+        "uid": "apache_http_server",
+        "name": "Apache HTTP Server",
+        "category": "Hosting"
+      },
+      {
+        "uid": "apache_tomcat",
+        "name": "Apache Tomcat",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "azure devops",
+        "name": "Azure Devops",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "cisco_broadworks",
+        "name": "Cisco BroadWorks",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cisco_collaboration",
+        "name": "Cisco Collaboration",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "cisco_webex_control_hub",
+        "name": "Cisco Webex Control Hub",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "docker",
+        "name": "Docker",
+        "category": "Other"
+      },
+      {
+        "uid": "elk_stack",
+        "name": "ELK Stack",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "elite_software_hvac_solution",
+        "name": "Elite Software HVAC Solution",
+        "category": "Other"
+      },
+      {
+        "uid": "f5_big-ip",
+        "name": "F5 BIG-IP",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "fortinet",
+        "name": "Fortinet",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "gitlab",
+        "name": "GitLab",
+        "category": "CMS"
+      },
+      {
+        "uid": "google",
+        "name": "Google",
+        "category": "Other"
+      },
+      {
+        "uid": "google_analytics",
+        "name": "Google Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_analytics_4_ga4",
+        "name": "Google Analytics 4 (GA4)",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_play",
+        "name": "Google Play",
+        "category": "Widgets"
+      },
+      {
+        "uid": "google_search_central",
+        "name": "Google Search Central",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "grafana",
+        "name": "Grafana",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "href_lang",
+        "name": "HREF Lang",
+        "category": "Other"
+      },
+      {
+        "uid": "hibernate",
+        "name": "Hibernate",
+        "category": "Database"
+      },
+      {
+        "uid": "huawei",
+        "name": "Huawei",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "ibm_watson",
+        "name": "IBM Watson",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "ice",
+        "name": "ICE",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "jenkins",
+        "name": "Jenkins",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "juniper_networks",
+        "name": "Juniper Networks",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "kiosked",
+        "name": "Kiosked",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "kotlin",
+        "name": "Kotlin",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "kubernetes",
+        "name": "Kubernetes",
+        "category": "Other"
+      },
+      {
+        "uid": "leap",
+        "name": "LEAP",
+        "category": "ERP"
+      },
+      {
+        "uid": "liferay",
+        "name": "Liferay",
+        "category": "CMS"
+      },
+      {
+        "uid": "liferay",
+        "name": "Liferay",
+        "category": "CMS"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_email_providers",
+        "name": "Microsoft Email Providers",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft-iis",
+        "name": "Microsoft-IIS",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "nginx",
+        "name": "Nginx",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "nokia",
+        "name": "Nokia",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "objectivec",
+        "name": "Objective-C",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "oracle_database",
+        "name": "Oracle Database",
+        "category": "Database"
+      },
+      {
+        "uid": "oracle_goldengate",
+        "name": "Oracle GoldenGate",
+        "category": "Database"
+      },
+      {
+        "uid": "oracle_rac_one_node",
+        "name": "Oracle RAC One Node",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "palo_alto_pa5000_series",
+        "name": "Palo Alto PA-5000 Series",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "prometheus",
+        "name": "Prometheus",
+        "category": "Database"
+      },
+      {
+        "uid": "rabbitmq",
+        "name": "RabbitMQ",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "react native",
+        "name": "React Native",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "red_hat_jboss_enterprise_soa_platform",
+        "name": "Red Hat JBoss Enterprise SOA Platform",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "redis",
+        "name": "Redis",
+        "category": "Database"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "swift",
+        "name": "SWIFT",
+        "category": "Financial Software"
+      },
+      {
+        "uid": "sentencetransformers",
+        "name": "SentenceTransformers",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "spring",
+        "name": "Spring",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "spring_boot",
+        "name": "Spring Boot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "terraform",
+        "name": "Terraform",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "tor",
+        "name": "Tor",
+        "category": "Security"
+      },
+      {
+        "uid": "ups",
+        "name": "UPS",
+        "category": "Shipping"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "webex_calling",
+        "name": "Webex Calling",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "zte",
+        "name": "ZTE",
+        "category": "Cloud Services"
+      }
+    ],
+    "org_chart_root_people_ids": [],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "administrative": 54,
+      "marketing": 212,
+      "consulting": 31,
+      "engineering": 2339,
+      "finance": 170,
+      "sales": 1372,
+      "information_technology": 416,
+      "support": 1973,
+      "business_development": 187,
+      "operations": 803,
+      "arts_and_design": 53,
+      "accounting": 180,
+      "data_science": 70,
+      "human_resources": 192,
+      "legal": 60,
+      "media_and_commmunication": 202,
+      "product_management": 10,
+      "education": 28,
+      "entrepreneurship": 0
+    },
+    "organization_headcount_six_month_growth": 0.0003823726221202562,
+    "organization_headcount_twelve_month_growth": -0.01264270214171148,
+    "organization_headcount_twenty_four_month_growth": -0.01820058166807393
+  }
+}

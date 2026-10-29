@@ -1,0 +1,39 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Rene Püchner – Geschäftsführer bei Capri Sun ...",
+        "clean_name_used": "Rene Püchner – Geschäftsführer bei Capri Sun ...",
+        "linkedin_url": "https://de.linkedin.com/in/rene-p%C3%BCchner-429791ba",
+        "company": "Lebensmittelverband",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Silvia Wiesner – CEO Rotkäppchen-Mumm | Ex-Unilever",
+        "clean_name_used": "Silvia Wiesner – CEO Rotkäppchen",
+        "linkedin_url": "https://de.linkedin.com/in/silvia-wiesner",
+        "company": "Lebensmittelverband",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Non trouvé",
+        "clean_name_used": "Non trouvé",
+        "linkedin_url": "Non trouvé",
+        "company": "Lebensmittelverband",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

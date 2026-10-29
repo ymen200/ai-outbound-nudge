@@ -1,0 +1,151 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Manufacturing & Production",
+        "location": "United States",
+        "department": "Manufacturing & Production",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Employees at U. S. Steel's manufacturing facilities play essential roles in the production of our high-quality innovative products.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.48,
+            "evidence_density": 0.2
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Business & Support Services",
+        "location": "United States",
+        "department": "Business & Support Services",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Making steel requires more than just highly skilled employees in our plants. U. S. Steel also needs talented individuals to fill a variety of business and support services functions.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.55,
+            "evidence_density": 0.15
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Engineering & Research",
+        "location": "United States",
+        "department": "Engineering & Research",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "Steel is one of the most highly engineered materials in the world, but its possibilities are endless. That’s where U. S. Steel's engineers and research personnel come in.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.58,
+            "evidence_density": 0.13
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Hiring",
+        "location": "United States",
+        "department": "Hiring",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "At U. S. Steel , we know that having a talented and engaged workplace is essential to delivering on our corporate goals.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.7,
+            "evidence_density": 0.05
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Recent College Graduates",
+        "location": "United States",
+        "department": "Recent College Graduates",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "At U. S. Steel we welcome the fresh energy and new ideas that recent college graduates can contribute.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.42,
+            "evidence_density": 0.24
+        }
+    },
+    {
+        "intent_type": "job_post",
+        "title": "Student Employment",
+        "location": "United States",
+        "department": "Student Employment",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "We value the intellectual curiosity and fresh perspectives that students bring to U. S. Steel .",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.62,
+            "evidence_density": 0.19
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "U. S. Steel Unveils New Era of Growth - U. S. Steel outlined its next era of growth in its partnership with Nippon Steel, including significant capital investments and world-class technology sharing that will forge the future of the American steel industry.",
+        "date": "Not specified",
+        "news_type": "Partnership",
+        "confidence": 0.9,
+        "source": "U. S. Steel outlined its next era of growth in its partnership with Nippon Steel, including significant capital investments and world-class technology sharing that will forge the future of the American steel industry.",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.02,
+            "evidence_density": 1.18
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Nippon Steel and U. S. Steel Finalize Historic Partnership - U. S. Steel to retain its iconic name and headquarters in Pittsburgh, Pennsylvania and continue to be mined, melted, and made in America",
+        "date": "Not specified",
+        "news_type": "Partnership",
+        "confidence": 0.9,
+        "source": "U. S. Steel to retain its iconic name and headquarters in Pittsburgh, Pennsylvania and continue to be mined, melted, and made in America",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.08,
+            "evidence_density": 1.45
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "A Legacy Renewed. A Future Secured. - At Global Steel Dynamics 2025, U. S. Steel President & CEO Dave Burritt gave the closing keynote address where he shared how our new partnership with Nippon Steel will transform American steelmaking.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "At Global Steel Dynamics 2025, U. S. Steel President & CEO Dave Burritt gave the closing keynote address where he shared how our new partnership with Nippon Steel will transform American steelmaking.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.11,
+            "evidence_density": 1.19
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Becoming the Best Steelmaker with World-Leading Capabilities - Nippon Steel and U. S. Steel are moving forward together with a common purpose: Become the best steelmaker for our employees, our customers, our communities, and more.",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Nippon Steel and U. S. Steel are moving forward together with a common purpose: Become the best steelmaker for our employees, our customers, our communities, and more.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.04,
+            "evidence_density": 1.38
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Building Mini Mill Leadership to Transform the Future - Big River Steel is now part of U. S. Steel , bringing mini mill leadership, a LEED-certified steel mill and an innovator’s mentality to our drive to be a leader in sustainable steelmaking and products.",
+        "date": "Not specified",
+        "news_type": "Acquisition",
+        "confidence": 0.9,
+        "source": "Big River Steel is now part of U. S. Steel , bringing mini mill leadership, a LEED-certified steel mill and an innovator’s mentality to our drive to be a leader in sustainable steelmaking and products.",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.02,
+            "evidence_density": 1.28
+        }
+    }
+]

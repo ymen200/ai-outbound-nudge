@@ -1,0 +1,1004 @@
+{
+    "annual_revenue": 302400000.0,
+    "apollo_id": "6107a2faadfcd30114c4f60d",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "departments": {
+        "engineering": 7,
+        "information_technology": 40,
+        "support": 24,
+        "sales": 3,
+        "operations": 30,
+        "business_development": 13,
+        "consulting": 7,
+        "human_resources": 8,
+        "finance": 1,
+        "media_and_commmunication": 1,
+        "accounting": 0,
+        "marketing": 0,
+        "legal": 0,
+        "product_management": 0,
+        "education": 0,
+        "administrative": 0,
+        "arts_and_design": 0,
+        "entrepreneurship": 0,
+        "data_science": 0
+    },
+    "domain": "everience.com",
+    "estimated_num_employees": "4000",
+    "facebook_url": null,
+    "founded_year": 1994,
+    "funding_events": [],
+    "industry": "Conseil & services numériques augmentés",
+    "keywords": [
+        "business service management",
+        "user experience management",
+        "it service management",
+        "it services & it consulting",
+        "business performance",
+        "it support solutions",
+        "it logistics",
+        "it service optimization",
+        "it asset management",
+        "it asset tracking",
+        "it management tools",
+        "knowledge exploitation",
+        "support chatbot",
+        "support remote access",
+        "it service desk",
+        "data analytics",
+        "digital workplace",
+        "employee engagement",
+        "enterprise software",
+        "digital transformation",
+        "support scalability",
+        "logistics services",
+        "business support services",
+        "smart office",
+        "support center modernization",
+        "cost optimization",
+        "user experience",
+        "support incident management",
+        "computer systems design and related services",
+        "support user satisfaction",
+        "mobility solutions",
+        "multilingual support",
+        "support performance metrics",
+        "it support",
+        "support analytics",
+        "support request automation",
+        "services",
+        "it service automation",
+        "it asset lifecycle",
+        "support efficiency",
+        "itsm",
+        "support process optimization",
+        "solution integration",
+        "employee productivity",
+        "collaborative work",
+        "support service management",
+        "knowledge management",
+        "it infrastructure",
+        "support self-service",
+        "it innovation",
+        "support user journey",
+        "employee productivity tools",
+        "support personalization",
+        "healthcare",
+        "support knowledge base",
+        "consulting",
+        "it infrastructure management",
+        "support ticket automation",
+        "support process automation",
+        "information technology and services",
+        "manufacturing",
+        "remote work",
+        "support channels",
+        "it cost control",
+        "support omnichannel",
+        "it consulting",
+        "logistics and supply chain management",
+        "remote work security",
+        "it services",
+        "b2b",
+        "support cost reduction",
+        "mobile solutions",
+        "it support outsourcing",
+        "support quality improvement",
+        "support metrics",
+        "project management",
+        "operational efficiency",
+        "finance",
+        "it cost reduction",
+        "support automation tools",
+        "cross-channel support",
+        "it support services",
+        "it service delivery",
+        "support service design",
+        "process optimization",
+        "innovative workplace",
+        "digital employee experience",
+        "enterprise it services",
+        "it solutions",
+        "support automation",
+        "it service automation tools",
+        "consulting services",
+        "cloud support",
+        "service desk optimization",
+        "it cost management",
+        "business applications",
+        "intelligent workplace",
+        "cross-channel experience",
+        "user satisfaction",
+        "business support",
+        "smart office technology",
+        "innovation in workplaces",
+        "hybrid work model",
+        "employer branding",
+        "automation in it support",
+        "remote workforce management",
+        "strategic partnerships",
+        "global it services",
+        "cost reduction strategies",
+        "flexible work environments",
+        "application integration",
+        "user-friendly interfaces",
+        "operational excellence",
+        "knowledge base development",
+        "corporate training solutions",
+        "customized it solutions",
+        "user autonomy",
+        "smart technology solutions",
+        "real-time monitoring",
+        "teleworking solutions",
+        "client-centered services",
+        "business performance enhancement",
+        "workplace innovation",
+        "employee retention strategies",
+        "digital usage facilitation",
+        "distribution",
+        "transportation & logistics",
+        "information technology & services",
+        "enterprises",
+        "computer software",
+        "ux",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "mechanical or industrial engineering",
+        "management consulting",
+        "productivity",
+        "financial services",
+        "IA générative",
+        "Expérience employé",
+        "Data",
+        "Cybersécurité",
+        "Cloud",
+        "Conseil",
+        "Numérique responsable",
+        "Développement applicatif",
+        "Gestion des actifs IT"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/everience-tunisia",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69621d4e0e7d01000129cf32/picture",
+    "name": "Everience Tunisia",
+    "num_suborganizations": 0,
+    "phone": null,
+    "postal_code": "1002",
+    "raw_address": "Jeanne d'Arc, Tunisia",
+    "seo_description": "Conseil & services numériques augmentés",
+    "short_description": "Everience guide les organisations pour orchestrer la symbiose homme – IA en entreprise.",
+    "state": "Tunis",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "Everience Tunisia",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "8x8",
+            "name": "8x8",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "aws_analytics",
+            "name": "AWS Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "aws_sdk_for_javascript",
+            "name": "AWS SDK for JavaScript",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "aws_vpn",
+            "name": "AWS VPN",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "adform_dmp",
+            "name": "Adform DMP",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "airflow",
+            "name": "Airflow",
+            "category": "Other"
+        },
+        {
+            "uid": "akamai_cdn_solutions",
+            "name": "Akamai CDN Solutions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "amazon_elastic_load_balancer",
+            "name": "Amazon Elastic Load Balancer",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "amazon_managed_streaming_for_apache_kafka_amazon_msk",
+            "name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "android",
+            "name": "Android",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ansible",
+            "name": "Ansible",
+            "category": "Other"
+        },
+        {
+            "uid": "apache",
+            "name": "Apache",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "appdynamics",
+            "name": "AppDynamics",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "apple_macos",
+            "name": "Apple macOS",
+            "category": "Other"
+        },
+        {
+            "uid": "aruba",
+            "name": "Aruba",
+            "category": "Hosting"
+        },
+        {
+            "uid": "atlassian_confluence",
+            "name": "Atlassian Confluence",
+            "category": "CMS"
+        },
+        {
+            "uid": "azure_ad_p2",
+            "name": "Azure AD P2",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_ai_studio",
+            "name": "Azure AI Studio",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_active_directory",
+            "name": "Azure Active Directory",
+            "category": "Security"
+        },
+        {
+            "uid": "azure_active_directory_b2c",
+            "name": "Azure Active Directory B2C",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_analysis_services",
+            "name": "Azure Analysis Services",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "azure_app_service",
+            "name": "Azure App Service",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure devops",
+            "name": "Azure Devops",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "azure_functions",
+            "name": "Azure Functions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_linux_virtual_machines",
+            "name": "Azure Linux Virtual Machines",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_openai_service",
+            "name": "Azure OpenAI Service",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "barracuda_spam_firewall",
+            "name": "Barracuda Spam Firewall",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "c#",
+            "name": "C#",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "css",
+            "name": "CSS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "canon_multifunction_copiers",
+            "name": "Canon Multifunction Copiers",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cegid_hr",
+            "name": "Cegid HR",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "checkpoint",
+            "name": "CheckPoint",
+            "category": "Security"
+        },
+        {
+            "uid": "cisco_meraki",
+            "name": "Cisco Meraki",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cisco_meraki_sdwan",
+            "name": "Cisco Meraki SD-WAN",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "citrix_hypervisor",
+            "name": "Citrix Hypervisor",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cohesity",
+            "name": "Cohesity",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "controlm",
+            "name": "Control-M",
+            "category": "Other"
+        },
+        {
+            "uid": "dataflow",
+            "name": "DATAflow",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "dax",
+            "name": "DAX",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "docker",
+            "name": "Docker",
+            "category": "Other"
+        },
+        {
+            "uid": "dotnetnuke",
+            "name": "DotNetNuke",
+            "category": "CMS"
+        },
+        {
+            "uid": "eaglestats",
+            "name": "Eaglestats",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "eyefinity_officemate",
+            "name": "Eyefinity OfficeMate",
+            "category": "Appointment Scheduling"
+        },
+        {
+            "uid": "f5_big-ip",
+            "name": "F5 BIG-IP",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "fliphtml5",
+            "name": "FlipHTML5",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "fortinet",
+            "name": "Fortinet",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "fortinet_fortianalyzer",
+            "name": "Fortinet FortiAnalyzer",
+            "category": "Security"
+        },
+        {
+            "uid": "fortinet_fortigate",
+            "name": "Fortinet FortiGate",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "fortinet_fortimanager",
+            "name": "Fortinet FortiManager",
+            "category": "Security"
+        },
+        {
+            "uid": "frame",
+            "name": "Frame",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "fusion_erp_analytics",
+            "name": "Fusion ERP Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "gemini",
+            "name": "Gemini",
+            "category": "Other"
+        },
+        {
+            "uid": "git",
+            "name": "Git",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "gitlab",
+            "name": "GitLab",
+            "category": "CMS"
+        },
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "google_adwords_conversion",
+            "name": "Google AdWords Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_apps",
+            "name": "Google Apps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_cloud_dataproc",
+            "name": "Google Cloud Dataproc",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_cloud_hosting",
+            "name": "Google Cloud Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "google_cloud_sql",
+            "name": "Google Cloud SQL",
+            "category": "Database"
+        },
+        {
+            "uid": "google_kubernetes_engine_gke",
+            "name": "Google Kubernetes Engine (GKE)",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "hi-media_performance",
+            "name": "Hi-Media Performance",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "iso",
+            "name": "ISO+™",
+            "category": "Other"
+        },
+        {
+            "uid": "infoblox_dhcp",
+            "name": "Infoblox DHCP",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "javascript",
+            "name": "Javascript",
+            "category": "Other"
+        },
+        {
+            "uid": "jira",
+            "name": "Jira",
+            "category": "CMS"
+        },
+        {
+            "uid": "kiosked",
+            "name": "Kiosked",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "kubernetes",
+            "name": "Kubernetes",
+            "category": "Other"
+        },
+        {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "logitech_video_conferencing",
+            "name": "Logitech Video Conferencing",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "micro_focus_universal_cmdb",
+            "name": "Micro Focus Universal CMDB",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_active_directory_federation_services",
+            "name": "Microsoft Active Directory Federation Services",
+            "category": "Event Management"
+        },
+        {
+            "uid": "microsoft_azure_monitor",
+            "name": "Microsoft Azure Monitor",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "microsoft_dynamics_365",
+            "name": "Microsoft Dynamics 365",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "microsoft_entra_id",
+            "name": "Microsoft Entra ID",
+            "category": "Enterprise Mobility Management"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_exchange_server_2003",
+            "name": "Microsoft Exchange Server 2003",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft_intune_enterprise_application_management",
+            "name": "Microsoft Intune Enterprise Application Management",
+            "category": "Enterprise Mobility Management"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_power_automate",
+            "name": "Microsoft Power Automate",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "microsoft_powerpoint",
+            "name": "Microsoft PowerPoint",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "microsoft_powershell",
+            "name": "Microsoft PowerShell",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "microsoft_sql_server_reporting_services",
+            "name": "Microsoft SQL Server Reporting Services",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "microsoft_sharepoint",
+            "name": "Microsoft Sharepoint",
+            "category": "CMS"
+        },
+        {
+            "uid": "microsoft_system_center_configuration_manager",
+            "name": "Microsoft System Center Configuration Manager",
+            "category": "Enterprise Mobility Management"
+        },
+        {
+            "uid": "microsoft_teams_rooms",
+            "name": "Microsoft Teams Rooms",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_windows_10",
+            "name": "Microsoft Windows 10",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_windows_server_2000",
+            "name": "Microsoft Windows Server 2000",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft_windows_server_2012",
+            "name": "Microsoft Windows Server 2012",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoftnet_core_31",
+            "name": "Microsoft.NET Core 3.1",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "mode",
+            "name": "Mode",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "mongodb",
+            "name": "MongoDB",
+            "category": "Database"
+        },
+        {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+        },
+        {
+            "uid": "nltk",
+            "name": "NLTK",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "openai",
+            "name": "OpenAI",
+            "category": "Other"
+        },
+        {
+            "uid": "opencv",
+            "name": "OpenCV",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "openldap",
+            "name": "OpenLDAP",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "oracle_analytics_cloud",
+            "name": "Oracle Analytics Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "playwright",
+            "name": "Playwright",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "postgresql",
+            "name": "PostgreSQL",
+            "category": "Database"
+        },
+        {
+            "uid": "postman",
+            "name": "Postman",
+            "category": "Other"
+        },
+        {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "pytorch",
+            "name": "PyTorch",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "rest",
+            "name": "REST",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "rabbitmq",
+            "name": "RabbitMQ",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "react_router",
+            "name": "React Router",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "remedy_single_sign_on",
+            "name": "Remedy Single Sign On",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "secured_mvc_forum_on_windows_2012_r2",
+            "name": "Secured MVC Forum on Windows 2012 R2",
+            "category": "CMS"
+        },
+        {
+            "uid": "selenium",
+            "name": "Selenium",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "sentencetransformers",
+            "name": "SentenceTransformers",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "service_now",
+            "name": "ServiceNow",
+            "category": "Case Management"
+        },
+        {
+            "uid": "servicenow_configuration_management_database",
+            "name": "ServiceNow Configuration Management Database",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "sizmek_mediamind",
+            "name": "Sizmek (MediaMind)",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "switch_concepts",
+            "name": "Switch Concepts",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "tensorflow",
+            "name": "TensorFlow",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "terraform",
+            "name": "Terraform",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "typescript",
+            "name": "TypeScript",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ukg_pro_benefits_administration",
+            "name": "UKG Pro Benefits Administration",
+            "category": "HR Solutions"
+        },
+        {
+            "uid": "vmware",
+            "name": "VMware",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "vmware_nsx",
+            "name": "VMware NSX",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "varonis_gdpr_patterns",
+            "name": "Varonis GDPR Patterns",
+            "category": "Security"
+        },
+        {
+            "uid": "wms",
+            "name": "WMS",
+            "category": "Other"
+        },
+        {
+            "uid": "weboffice",
+            "name": "WebOffice",
+            "category": "CMS"
+        },
+        {
+            "uid": "wellnessliving",
+            "name": "WellnessLiving",
+            "category": "Appointment Scheduling"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "xray",
+            "name": "Xray",
+            "category": "Other"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "zabbix",
+            "name": "Zabbix",
+            "category": "ERP"
+        },
+        {
+            "uid": "checkmk",
+            "name": "checkmk",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "pandas",
+            "name": "pandas",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "scikitlearn",
+            "name": "scikit-learn",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "spacy",
+            "name": "spaCy",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "axept.io",
+            "name": "Axept.io",
+            "category": "Consent Management"
+        },
+        {
+            "uid": "microsoft_clarity",
+            "name": "Microsoft Clarity",
+            "category": "Analytics"
+        },
+        {
+            "uid": "wordpress",
+            "name": "WordPress",
+            "category": "CMS"
+        },
+        {
+            "uid": "yoast_seo",
+            "name": "Yoast SEO",
+            "category": "SEO"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": null,
+    "website_url": "http://www.everience.com",
+    "is_subsidiary": true,
+    "parent_company": "Groupe Everience",
+    "competitors": [
+        "Capgemini",
+        "Accenture",
+        "Sopra Steria",
+        "Atos"
+    ],
+    "data_quality_score": 0.95
+}

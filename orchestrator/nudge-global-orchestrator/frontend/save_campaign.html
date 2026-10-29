@@ -1,0 +1,273 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Save Campaign Params — Test UI</title>
+  <style>
+    body{font-family:system-ui,Segoe UI,Arial;margin:20px}
+    label{display:block;margin-top:8px}
+    textarea{width:100%;height:120px}
+    input[type=text],input[type=number]{width:100%}
+    .row{display:flex;gap:8px}
+    .col{flex:1}
+    pre{background:#f4f4f4;padding:10px;overflow:auto}
+  </style>
+</head>
+<body>
+  <h2>Save Campaign Params — Test UI</h2>
+  <form id="form">
+    <label>User ID (required)
+      <input type="text" id="user_id" value="test-user" required />
+    </label>
+
+    <label>ICP Description
+      <textarea id="icp_description_text">Companies selling developer tools to startups</textarea>
+    </label>
+
+    <label>User offering
+      <input type="text" id="user_offering" value="My product" />
+    </label>
+
+    <div class="row">
+      <div class="col">
+        <label>Company limit
+          <input type="number" id="company_limit" min="1" />
+        </label>
+      </div>
+      <div class="col">
+        <label>Approval mode
+          <input type="text" id="approval_mode" placeholder="per_sequence" />
+        </label>
+      </div>
+    </div>
+
+    <label>Blacklist companies (comma-separated)
+      <input type="text" id="blacklist_companies" placeholder="Gitlab,Example Co" />
+    </label>
+    <label>Blacklist personas (comma-separated)
+      <input type="text" id="blacklist_personas" placeholder="Contractor,Temp" />
+    </label>
+
+    <fieldset style="margin-top:8px;padding:8px">
+      <legend>Configurable weights</legend>
+      <div class="row">
+        <div class="col"><label>industry_weight <input type="number" id="w_industry_weight" step="0.01" value="0.5" /></label></div>
+        <div class="col"><label>size_weight <input type="number" id="w_size_weight" step="0.01" value="0.3" /></label></div>
+      </div>
+      <div class="row">
+        <div class="col"><label>revenue_weight <input type="number" id="w_revenue_weight" step="0.01" value="0.1" /></label></div>
+        <div class="col"><label>tech_stack_weight <input type="number" id="w_tech_stack_weight" step="0.01" value="0.1" /></label></div>
+      </div>
+      <div class="row">
+        <div class="col"><label>firmographic_weight <input type="number" id="w_firmographic_weight" step="0.01" value="0.6" /></label></div>
+        <div class="col"><label>intent_weight <input type="number" id="w_intent_weight" step="0.01" value="0.4" /></label></div>
+      </div>
+      <div class="row">
+        <div class="col"><label>fit_weight <input type="number" id="w_fit_weight" step="0.01" value="0.7" /></label></div>
+        <div class="col"><label>reachability_weight <input type="number" id="w_reachability_weight" step="0.01" value="0.2" /></label></div>
+      </div>
+      <div class="row">
+        <div class="col"><label>timing_weight <input type="number" id="w_timing_weight" step="0.01" value="0.1" /></label></div>
+        <div class="col"><label>functional_weight <input type="number" id="w_functional_weight" step="0.01" value="0.6" /></label></div>
+      </div>
+      <div class="row">
+        <div class="col"><label>authority_weight <input type="number" id="w_authority_weight" step="0.01" value="0.4" /></label></div>
+        <div class="col"><label>engagement_weight <input type="number" id="w_engagement_weight" step="0.1" value="40.0" /></label></div>
+      </div>
+    </fieldset>
+
+    <label>Sender company
+      <input type="text" id="sender_company" />
+    </label>
+    <label>Sender elevator pitch
+      <textarea id="sender_elevator_pitch"></textarea>
+    </label>
+    <label>Offer name
+      <input type="text" id="offer_name" />
+    </label>
+    <label>Solution summary
+      <input type="text" id="solution_summary" />
+    </label>
+    <label>CTA
+      <input type="text" id="cta" />
+    </label>
+
+    <fieldset style="margin-top:8px;padding:8px">
+      <legend>Sequence / Message options</legend>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <label><input type="checkbox" id="seq_vary_tone" /> vary_tone</label>
+        <label><input type="checkbox" id="seq_include_breakup" /> include_breakup</label>
+        <label><input type="checkbox" id="seq_reference_previous" /> reference_previous</label>
+        <label><input type="checkbox" id="seq_cross_channel" /> cross_channel</label>
+      </div>
+      <label>Stage instruction - initial
+        <textarea id="stage_initial" placeholder="Keep it short, value-first"></textarea>
+      </label>
+      <label>Stage instruction - followup
+        <textarea id="stage_followup" placeholder="Reference previous message"></textarea>
+      </label>
+    </fieldset>
+
+    <fieldset style="margin-top:8px;padding:8px">
+      <legend>Personality config</legend>
+      <label>Base template
+        <input type="text" id="pc_base_template" placeholder="helpful" />
+      </label>
+      <label>Personality traits (comma-separated)
+        <input type="text" id="pc_traits" placeholder="concise,friendly" />
+      </label>
+      <label>Always include phrases (comma-separated)
+        <input type="text" id="pc_always" placeholder="no commitment" />
+      </label>
+      <label>Never use phrases (comma-separated)
+        <input type="text" id="pc_never" placeholder="buy now" />
+      </label>
+      <label>Urgency level
+        <select id="pc_urgency"><option value="low">low</option><option value="medium">medium</option><option value="high">high</option></select>
+      </label>
+    </fieldset>
+
+    <div class="row" style="margin-top:8px">
+      <label style="display:flex;align-items:center"><input type="checkbox" id="run_async" checked /> Run async</label>
+      <label style="display:flex;align-items:center"><input type="checkbox" id="auto_start_outreach" /> Auto start outreach</label>
+      <label style="display:flex;align-items:center"><input type="checkbox" id="use_native_language" /> Use native language</label>
+    </div>
+
+    <div class="row" style="margin-top:8px">
+      <label style="display:flex;align-items:center"><input type="checkbox" id="has_inmail_credits" /> Has InMail credits</label>
+      <label style="display:flex;align-items:center"><input type="checkbox" id="debug_mode" /> Debug mode</label>
+      <label>Message language
+        <input type="text" id="message_language" placeholder="en" />
+      </label>
+    </div>
+
+    <div style="margin-top:12px">
+      <button type="submit">Save params (POST /campaigns/params)</button>
+      <button id="sample" type="button">Load sample</button>
+      <button id="showJSON" type="button">Show JSON</button>
+    </div>
+  </form>
+
+  <h3>Response</h3>
+  <pre id="result">(no requests yet)</pre>
+
+  <script>
+    const form = document.getElementById('form');
+    const result = document.getElementById('result');
+    document.getElementById('sample').addEventListener('click', () => {
+      document.getElementById('user_id').value = 'test-user-1';
+      document.getElementById('icp_description_text').value = `We sell NudgeShield cyber-risk analytics to mid-market insurance and financial services companies in the United States. Contact risk, underwriting, and revenue leaders.\n\n- Industry: Insurance, Financial Services, Banking, Fintech\n- Company size: 200 to 5000 employees\n- Located in: United States\n\n- Annual revenue / ARR: $10,000,000 to $500,000,000\n- Preferred cities: San Francisco (United States), New York (United States), Austin (United States)\n- Tech stack: Guidewire, Salesforce, Snowflake, AWS, Tableau, Slack\n- Growth stage: growth stage\n- Funding stage: Series B, Series C, or later\n\nExclude:\n- Industries: Gambling, Government, Non-profit, Software\n- Keywords: agency, staffing, consulting-only, competitor\n- Company size under 50 employees\n\nTarget roles:\n- VP of Sales\n- Head of Sales\n- Director of Sales\n- Chief Revenue Officer\n- Head of Revenue Operations\n- Sales Operations Manager`;
+      document.getElementById('user_offering').value = `NudgeShield is a cyber-risk and underwriting intelligence platform that helps insurers and financial institutions detect emerging threats, score account risk, and prioritize high-intent commercial opportunities.`;
+      document.getElementById('company_limit').value = 6;
+      document.getElementById('approval_mode').value = 'per_sequence';
+      document.getElementById('blacklist_companies').value = 'Gitlab';
+      document.getElementById('blacklist_personas').value = '';
+      document.getElementById('w_industry_weight').value = 0.50;
+      document.getElementById('w_size_weight').value = 0.30;
+      document.getElementById('w_revenue_weight').value = 0.10;
+      document.getElementById('w_tech_stack_weight').value = 0.10;
+      document.getElementById('w_firmographic_weight').value = 0.60;
+      document.getElementById('w_intent_weight').value = 0.40;
+      document.getElementById('w_fit_weight').value = 0.70;
+      document.getElementById('w_reachability_weight').value = 0.20;
+      document.getElementById('w_timing_weight').value = 0.10;
+      document.getElementById('w_functional_weight').value = 0.60;
+      document.getElementById('w_authority_weight').value = 0.40;
+      document.getElementById('w_engagement_weight').value = 40.0;
+      document.getElementById('sender_company').value = 'NudgeShield';
+      document.getElementById('sender_elevator_pitch').value = 'We help insurers and financial institutions detect emerging cyber threats and prioritize high-intent commercial opportunities.';
+      document.getElementById('offer_name').value = 'Cyber-Risk Audit';
+      document.getElementById('solution_summary').value = 'Quick cyber-risk and underwriting intelligence snapshot';
+      document.getElementById('cta').value = 'Reply to book a 15-minute call';
+      document.getElementById('debug_mode').checked = true;
+      document.getElementById('run_async').checked = true;
+      document.getElementById('seq_vary_tone').checked = false;
+      document.getElementById('seq_include_breakup').checked = false;
+      document.getElementById('seq_reference_previous').checked = false;
+      document.getElementById('seq_cross_channel').checked = false;
+      document.getElementById('stage_initial').value = 'Keep it short, value-first';
+      document.getElementById('stage_followup').value = 'Reference previous message';
+      document.getElementById('pc_base_template').value = 'helpful';
+      document.getElementById('pc_traits').value = 'concise,friendly';
+      document.getElementById('pc_always').value = 'no commitment';
+      document.getElementById('pc_never').value = 'buy now';
+      document.getElementById('pc_urgency').value = 'low';
+    });
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const body = {
+        user_id: document.getElementById('user_id').value,
+        icp_description_text: document.getElementById('icp_description_text').value,
+        user_offering: document.getElementById('user_offering').value || undefined,
+        company_limit: (()=>{const v=document.getElementById('company_limit').value; return v?Number(v):undefined})(),
+        run_async: document.getElementById('run_async').checked,
+        approval_mode: document.getElementById('approval_mode').value || undefined,
+        sender_company: document.getElementById('sender_company').value || undefined,
+        sender_elevator_pitch: document.getElementById('sender_elevator_pitch').value || undefined,
+        offer_name: document.getElementById('offer_name').value || undefined,
+        solution_summary: document.getElementById('solution_summary').value || undefined,
+        cta: document.getElementById('cta').value || undefined,
+        auto_start_outreach: document.getElementById('auto_start_outreach').checked,
+        use_native_language: document.getElementById('use_native_language').checked,
+        message_language: (document.getElementById('message_language').value || undefined),
+        has_inmail_credits: document.getElementById('has_inmail_credits').checked,
+        debug_mode: document.getElementById('debug_mode').checked,
+      };
+
+      // optional blacklist
+      const bl = document.getElementById('blacklist_companies').value.trim();
+      const blp = document.getElementById('blacklist_personas').value.trim();
+      if(bl || blp){ body.blacklist = { companies: bl?bl.split(/,\s*/):[], personas: blp?blp.split(/,\s*/):[] } }
+
+      // configurable weights from individual inputs
+      const weights = {};
+      [
+        'industry_weight','size_weight','revenue_weight','tech_stack_weight','firmographic_weight','intent_weight','fit_weight','reachability_weight','timing_weight','functional_weight','authority_weight'
+      ].forEach(name => {
+        const el = document.getElementById('w_' + name);
+        if(el && el.value!=='') weights[name] = Number(el.value);
+      });
+      const eng = document.getElementById('w_engagement_weight'); if(eng && eng.value!=='') weights['engagement_weight'] = Number(eng.value);
+      if(Object.keys(weights).length) body.configurable_weights = weights;
+
+      // sequence options
+      const seq = {};
+      seq['vary_tone'] = document.getElementById('seq_vary_tone').checked;
+      seq['include_breakup'] = document.getElementById('seq_include_breakup').checked;
+      seq['reference_previous'] = document.getElementById('seq_reference_previous').checked;
+      seq['cross_channel'] = document.getElementById('seq_cross_channel').checked;
+      body.sequence_options = seq;
+
+      // stage instructions
+      const stages = {};
+      if(document.getElementById('stage_initial').value) stages['initial'] = document.getElementById('stage_initial').value;
+      if(document.getElementById('stage_followup').value) stages['followup'] = document.getElementById('stage_followup').value;
+      if(Object.keys(stages).length) body.stage_instructions = stages;
+
+      // personality config
+      const pc = {};
+      if(document.getElementById('pc_base_template').value) pc['base_template'] = document.getElementById('pc_base_template').value;
+      if(document.getElementById('pc_traits').value) pc['personality_traits'] = document.getElementById('pc_traits').value.split(/,\s*/).filter(Boolean);
+      if(document.getElementById('pc_always').value) pc['always_include_phrases'] = document.getElementById('pc_always').value.split(/,\s*/).filter(Boolean);
+      if(document.getElementById('pc_never').value) pc['never_use_phrases'] = document.getElementById('pc_never').value.split(/,\s*/).filter(Boolean);
+      pc['urgency_level'] = document.getElementById('pc_urgency').value || undefined;
+      if(Object.keys(pc).length) body.personality_config = pc;
+
+      result.textContent = 'Sending...';
+      try{
+        const resp = await fetch('http://127.0.0.1:8100/campaigns/params', {
+          method: 'POST',
+          headers: {'Content-Type':'application/json'},
+          body: JSON.stringify(body)
+        });
+        const data = await resp.json();
+        result.textContent = resp.status + ' ' + (resp.statusText||'') + '\n' + JSON.stringify(data, null, 2);
+      }catch(err){
+        result.textContent = 'Request failed: '+err;
+      }
+    });
+  </script>
+</body>
+</html>

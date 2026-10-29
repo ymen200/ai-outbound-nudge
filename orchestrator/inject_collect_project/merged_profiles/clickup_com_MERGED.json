@@ -1,0 +1,1011 @@
+{
+    "alexa_ranking": 667,
+    "annual_revenue": 300000000.0,
+    "apollo_id": "628359dab6123a00f5442026",
+    "city": "San Diego",
+    "country": "United States",
+    "departments": {
+        "support": 152,
+        "accounting": 15,
+        "business_development": 26,
+        "engineering": 314,
+        "operations": 56,
+        "information_technology": 17,
+        "sales": 185,
+        "product_management": 22,
+        "consulting": 63,
+        "human_resources": 46,
+        "finance": 22,
+        "legal": 5,
+        "arts_and_design": 32,
+        "education": 1,
+        "marketing": 60,
+        "data_science": 12,
+        "entrepreneurship": 4,
+        "media_and_commmunication": 4,
+        "administrative": 1
+    },
+    "domain": "clickup.com",
+    "estimated_num_employees": 1600,
+    "facebook_url": "https://www.facebook.com/clickupprojectmanagement/",
+    "founded_year": 2017,
+    "funding_events": [
+        {
+            "id": "693be220fb463c00015303db",
+            "date": "2021-10-01T00:00:00.000+00:00",
+            "type": "Series C",
+            "amount": "400M",
+            "currency": "$",
+            "investors": "Lightspeed Venture Partners, Meritech Capital, Tiger Global, Andreessen Horowitz"
+        },
+        {
+            "id": "693be220fb463c00015303dd",
+            "date": "2020-12-01T00:00:00.000+00:00",
+            "type": "Series B",
+            "amount": "100M",
+            "currency": "$",
+            "investors": "Georgian, Craft Ventures"
+        },
+        {
+            "id": "693be220fb463c00015303df",
+            "date": "2020-06-01T00:00:00.000+00:00",
+            "type": "Series A",
+            "amount": "35M",
+            "currency": "$",
+            "investors": "Georgian, Craft Ventures"
+        },
+        {
+            "id": "6965fcf1eb0fd80001ef4aa6",
+            "date": "2018-01-01T00:00:00.000+00:00",
+            "type": "Seed",
+            "amount": "1.5M",
+            "currency": "$",
+            "investors": "Non renseigné"
+        },
+        {
+            "id": "6965fcf1eb0fd80001ef4a9e",
+            "date": "2017-04-01T00:00:00.000+00:00",
+            "type": "Convertible Note",
+            "amount": "200K",
+            "currency": "$",
+            "investors": "Non renseigné"
+        },
+        {
+            "id": "6965fcf1eb0fd80001ef4a99",
+            "date": "2016-11-01T00:00:00.000+00:00",
+            "type": "Seed",
+            "amount": "250K",
+            "currency": "$",
+            "investors": "Non renseigné"
+        }
+    ],
+    "industry": "Software, AI, and Productivity",
+    "keywords": [
+        "work management software",
+        "software development",
+        "b2b",
+        "saas",
+        "information technology & services",
+        "computer software",
+        "Productivity Software",
+        "AI Agents",
+        "Project Management",
+        "Workspace Automation",
+        "Collaboration Tools",
+        "Enterprise Search"
+    ],
+    "latest_funding_stage": "Series C",
+    "linkedin_url": "http://www.linkedin.com/company/clickup-app",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ae535855cc360001fe4b62/picture",
+    "name": "ClickUp",
+    "num_suborganizations": 4,
+    "phone": "+1 888-625-4258",
+    "postal_code": "92101-7433",
+    "raw_address": "350 10th Ave, San Diego, United States",
+    "seo_description": "ClickUp™ | Maximize productivity • Software, AI, and humans converge",
+    "short_description": "Productivity platform and AI-powered software designed to replace all other workplace apps by consolidating projects, chat, and docs.",
+    "state": "California",
+    "street_address": "350 10th Ave",
+    "suborganizations": [
+        {
+            "id": "5a9cc561a6da98d93bdbef80",
+            "name": "Ora.pm",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5c8be31e39fffa0929385e59",
+            "name": "Slapdash",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "65564a400f5bc901570f4fc6",
+            "name": "Codegen, Inc. - a ClickUp Company",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "68b98f1c914a9a0001acb885",
+            "name": "Qatalog Ltd.",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "angel_lms",
+            "name": "ANGEL LMS",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "aws_analytics",
+            "name": "AWS Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "aws_application_load_balancer",
+            "name": "AWS Application Load Balancer",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_bedrock",
+            "name": "AWS Bedrock",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_cloud",
+            "name": "AWS Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_cloudformation",
+            "name": "AWS CloudFormation",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_eventbridge",
+            "name": "AWS EventBridge",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_fargate",
+            "name": "AWS Fargate",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_marketplace",
+            "name": "AWS Marketplace",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_secrets_manager",
+            "name": "AWS Secrets Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_step_functions",
+            "name": "AWS Step Functions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_trusted_advisor",
+            "name": "AWS Trusted Advisor",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "adobe_marketo_engage",
+            "name": "Adobe Marketo Engage",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "amazon_api_gateway",
+            "name": "Amazon API Gateway",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "amazon_cloudwatch",
+            "name": "Amazon CloudWatch",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "amazon_dynamodb",
+            "name": "Amazon DynamoDB",
+            "category": "Database"
+        },
+        {
+            "uid": "amazon_ec2",
+            "name": "Amazon EC2",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_kinesis",
+            "name": "Amazon Kinesis",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "amazon_opensearch_service",
+            "name": "Amazon OpenSearch Service",
+            "category": "ERP"
+        },
+        {
+            "uid": "amazon_route_53",
+            "name": "Amazon Route 53",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "amazon_s3",
+            "name": "Amazon S3",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "amazon_ses",
+            "name": "Amazon SES",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "amazon_simple_email_service_amazon_ses",
+            "name": "Amazon Simple Email Service (Amazon SES)",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "amplitude",
+            "name": "Amplitude",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "android",
+            "name": "Android",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "angular",
+            "name": "Angular",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "anthropic_claude",
+            "name": "Anthropic Claude",
+            "category": "Other"
+        },
+        {
+            "uid": "apache_kafka",
+            "name": "Apache Kafka",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "apex",
+            "name": "Apex",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "apple_ios",
+            "name": "Apple iOS",
+            "category": "Other"
+        },
+        {
+            "uid": "aqua_trivy",
+            "name": "Aqua Trivy",
+            "category": "Event Management"
+        },
+        {
+            "uid": "aurora",
+            "name": "Aurora",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_linux_virtual_machines",
+            "name": "Azure Linux Virtual Machines",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_virtual_machines",
+            "name": "Azure Virtual Machines",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "backstage",
+            "name": "Backstage",
+            "category": "Other"
+        },
+        {
+            "uid": "business_wire",
+            "name": "Business Wire",
+            "category": "Content Syndication Networks"
+        },
+        {
+            "uid": "cdk",
+            "name": "CDK",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "callminer_eureka",
+            "name": "CallMiner Eureka",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "chatgpt",
+            "name": "ChatGPT",
+            "category": "Chats"
+        },
+        {
+            "uid": "chili_piper",
+            "name": "Chili Piper",
+            "category": "Appointment Scheduling"
+        },
+        {
+            "uid": "clickdimensions",
+            "name": "ClickDimensions",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "clickup",
+            "name": "ClickUp",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "cohere_ai",
+            "name": "Cohere AI",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "contentful",
+            "name": "Contentful",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "cursor",
+            "name": "Cursor",
+            "category": "Other"
+        },
+        {
+            "uid": "datadog",
+            "name": "Datadog",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "dealhubio",
+            "name": "DealHub.io",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "deel",
+            "name": "Deel",
+            "category": "Payments"
+        },
+        {
+            "uid": "docker",
+            "name": "Docker",
+            "category": "Other"
+        },
+        {
+            "uid": "drift",
+            "name": "Drift",
+            "category": "Widgets"
+        },
+        {
+            "uid": "ecs",
+            "name": "ECS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "etap",
+            "name": "ETAP",
+            "category": "Other"
+        },
+        {
+            "uid": "elasticsearch",
+            "name": "Elasticsearch",
+            "category": "Search Appliances"
+        },
+        {
+            "uid": "express",
+            "name": "Express",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "facebook",
+            "name": "Facebook",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "figma",
+            "name": "Figma",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "flow",
+            "name": "Flow",
+            "category": "Other"
+        },
+        {
+            "uid": "flutter",
+            "name": "Flutter",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "framer",
+            "name": "Framer",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "git",
+            "name": "Git",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "github_actions",
+            "name": "GitHub Actions",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "github_copilot",
+            "name": "GitHub Copilot",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "glassdoor",
+            "name": "Glassdoor",
+            "category": "Customer Reviews"
+        },
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "google",
+            "name": "Google",
+            "category": "Other"
+        },
+        {
+            "uid": "google_ads",
+            "name": "Google Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_ads_conversion",
+            "name": "Google Ads Conversion",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_artifact_registry",
+            "name": "Google Artifact Registry",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_cloud_bigquery",
+            "name": "Google Cloud BigQuery",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "google_cloud_functions",
+            "name": "Google Cloud Functions",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_cloud_monitoring",
+            "name": "Google Cloud Monitoring",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_cloud_run",
+            "name": "Google Cloud Run",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_cloud_scheduler",
+            "name": "Google Cloud Scheduler",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_cloud_storage",
+            "name": "Google Cloud Storage",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "google_compute_engine",
+            "name": "Google Compute Engine",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_search_central",
+            "name": "Google Search Central",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_secret_manager",
+            "name": "Google Secret Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+        },
+        {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+        },
+        {
+            "uid": "http/3",
+            "name": "HTTP/3",
+            "category": "Other"
+        },
+        {
+            "uid": "harness",
+            "name": "Harness",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "hex",
+            "name": "Hex",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "idc",
+            "name": "IDC",
+            "category": "Other"
+        },
+        {
+            "uid": "instagram",
+            "name": "Instagram",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "javascript",
+            "name": "Javascript",
+            "category": "Other"
+        },
+        {
+            "uid": "jest",
+            "name": "Jest",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "lambda_cloud",
+            "name": "Lambda Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "langgraph",
+            "name": "LangGraph",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "lexity",
+            "name": "Lexity",
+            "category": "E-commerce Tools"
+        },
+        {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "linkedin_sales_navigator",
+            "name": "LinkedIn Sales Navigator",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "locust",
+            "name": "Locust",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "mag",
+            "name": "Mag+",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "maven",
+            "name": "Maven",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "mode",
+            "name": "Mode",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "mulesoft",
+            "name": "Mulesoft",
+            "category": "Other"
+        },
+        {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+        },
+        {
+            "uid": "ngrx",
+            "name": "NGRX",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "nestjs",
+            "name": "Nestjs",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "netsuite",
+            "name": "NetSuite",
+            "category": "CMS"
+        },
+        {
+            "uid": "netsuite_suitescript",
+            "name": "NetSuite SuiteScript",
+            "category": "ERP"
+        },
+        {
+            "uid": "nextjs",
+            "name": "Next.js",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ning",
+            "name": "Ning",
+            "category": "CMS"
+        },
+        {
+            "uid": "node.js",
+            "name": "Node.js",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "okta",
+            "name": "Okta",
+            "category": "Security"
+        },
+        {
+            "uid": "onetrust",
+            "name": "OneTrust",
+            "category": "Widgets"
+        },
+        {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+        },
+        {
+            "uid": "openai",
+            "name": "OpenAI",
+            "category": "Other"
+        },
+        {
+            "uid": "peo",
+            "name": "PEO",
+            "category": "HR Solutions"
+        },
+        {
+            "uid": "pwa",
+            "name": "PWA",
+            "category": "Other"
+        },
+        {
+            "uid": "playwright",
+            "name": "Playwright",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "plotlyjs",
+            "name": "Plotly.js",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "postgresql",
+            "name": "PostgreSQL",
+            "category": "Database"
+        },
+        {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "rxjs",
+            "name": "RXJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "reddit_for_business",
+            "name": "Reddit for business",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "replit",
+            "name": "Repl.it",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "retool",
+            "name": "Retool",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "sam",
+            "name": "SAM",
+            "category": "Other"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce crm analytics",
+            "name": "Salesforce CRM Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "salesforce_sales_cloud",
+            "name": "Salesforce Sales Cloud",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "segment",
+            "name": "Segment",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "sizmek_mediamind",
+            "name": "Sizmek (MediaMind)",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "skai",
+            "name": "Skai",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "skeeks",
+            "name": "Skeeks",
+            "category": "CMS"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "snowflake",
+            "name": "Snowflake",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "splunk",
+            "name": "Splunk",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "tableau",
+            "name": "Tableau",
+            "category": "Widgets"
+        },
+        {
+            "uid": "terraform",
+            "name": "Terraform",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "the_trade_desk",
+            "name": "The Trade Desk",
+            "category": "Demand Side Platforms"
+        },
+        {
+            "uid": "tiktok",
+            "name": "TikTok",
+            "category": "Other"
+        },
+        {
+            "uid": "tor",
+            "name": "Tor",
+            "category": "Security"
+        },
+        {
+            "uid": "trident_ab",
+            "name": "Trident AB",
+            "category": "Online Testing Platforms"
+        },
+        {
+            "uid": "trustpilot",
+            "name": "Trustpilot",
+            "category": "Customer Reviews"
+        },
+        {
+            "uid": "typescript",
+            "name": "TypeScript",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "typeform",
+            "name": "Typeform",
+            "category": "Widgets"
+        },
+        {
+            "uid": "unity",
+            "name": "Unity",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "vector",
+            "name": "Vector",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "workfusion_ai_digital_agents",
+            "name": "WorkFusion AI Digital Agents",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "workato",
+            "name": "Workato",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "x_twitter",
+            "name": "X (Twitter)",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "youtube_advertising",
+            "name": "YouTube Advertising",
+            "category": "Video Advertising Networks"
+        },
+        {
+            "uid": "zapier",
+            "name": "Zapier",
+            "category": "Widgets"
+        },
+        {
+            "uid": "zendesk",
+            "name": "Zendesk",
+            "category": "Support and Feedback"
+        },
+        {
+            "uid": "zendesk_support_suite",
+            "name": "Zendesk Support Suite",
+            "category": "Support and Feedback"
+        },
+        {
+            "uid": "zendesk_for_service",
+            "name": "Zendesk for Service",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "zoomdata",
+            "name": "Zoomdata",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "dbt",
+            "name": "dbt",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "ebs",
+            "name": "ebs",
+            "category": "Other"
+        },
+        {
+            "uid": "jsdelivr",
+            "name": "jsDelivr",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "cloudfront",
+            "name": "CloudFront",
+            "category": "CDN"
+        },
+        {
+            "uid": "marketo",
+            "name": "Marketo",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "clearbit",
+            "name": "Clearbit",
+            "category": "Data Enrichment"
+        },
+        {
+            "uid": "qualified",
+            "name": "Qualified",
+            "category": "Conversational Marketing"
+        },
+        {
+            "uid": "g2_crowd",
+            "name": "G2 Crowd",
+            "category": "Review Management"
+        },
+        {
+            "uid": "lift_ai",
+            "name": "Lift AI",
+            "category": "Intent Data"
+        }
+    ],
+    "total_funding": "537M",
+    "twitter_url": "https://twitter.com/clickup",
+    "website_url": "http://www.clickup.com",
+    "is_subsidiary": false,
+    "parent_company": "Mango Technologies, Inc.",
+    "competitors": [
+        "Asana",
+        "Monday.com",
+        "Notion",
+        "Wrike",
+        "Atlassian"
+    ],
+    "data_quality_score": 0.95
+}

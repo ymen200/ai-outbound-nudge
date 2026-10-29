@@ -1,0 +1,67 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Hugging Face Introduces New AI Models and Features - The AI community building the future",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Hugging Face – The AI community building the future",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.09,
+            "evidence_density": 1.75
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+        "date": "7 days ago",
+        "news_type": "Product Launch",
+        "confidence": 0.9,
+        "source": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Introducing Cosmos 3 Edge",
+        "date": "3 days ago",
+        "news_type": "Product Launch",
+        "confidence": 0.9,
+        "source": "Introducing Cosmos 3 Edge",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model",
+        "date": "4 days ago",
+        "news_type": "Product Launch",
+        "confidence": 0.9,
+        "source": "Aether-7B-5Attn: A 100% Open-Source Sovereign Foundation Model",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU",
+        "date": "about 6 hours ago",
+        "news_type": "Product Launch",
+        "confidence": 0.9,
+        "source": "POCKET: a 35-billion-parameter model that runs on your iPhone — and on your PC with no GPU",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.1,
+            "evidence_density": 1.0
+        }
+    }
+]

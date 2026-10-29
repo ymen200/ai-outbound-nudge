@@ -1,0 +1,297 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 42,
+    "total_pages": 3
+  },
+  "news_articles": [
+    {
+      "id": "6a315b933b6bdc0010fc1c3f",
+      "url": "https://bunkerindex.com/articles/article.php?a=23029&h=nyk-yanmar-and-eneos-to-install-hydrogen-fuel-cell-system-on-new-tokyo-dining-cruise-vessel",
+      "domain": "bunkerindex.com",
+      "title": "NYK, Yanmar and Eneos to install hydrogen fuel cell system on new Tokyo dining cruise vessel.",
+      "snippet": "NYK, Yanmar and Eneos to install hydrogen fuel cell system on new Tokyo dining cruise vessel.",
+      "organization_ids": [
+        "618526082016e900dbd74bbc",
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2026-06-16T05:16:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a268af7a50c8b0018be0470",
+      "url": "https://en.antaranews.com/news/418451/totalenergies-eneos-extends-solar-partnership-with-ceres-in-indonesia?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right",
+      "domain": "antaranews.com",
+      "title": "TotalEnergies ENEOS extends solar partnership with Ceres in Indonesia.",
+      "snippet": "The company is a 50/50 joint venture between TotalEnergies and ENEOS to develop onsite B2B solar distributed generation across Asia.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2026-06-08T09:26:35.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6a0f5a8625da770018f89fda",
+      "url": "https://news.chemnet.com/news-5389.html",
+      "domain": "chemnet.com",
+      "title": "Japanese Eneos acquires Chevron's Asia-Pacific oil and gas assets for $2.17 billion.",
+      "snippet": "Japanese Eneos acquires Chevron's Asia-Pacific oil and gas assets for $2.17 billion.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2026-05-14T17:45:04.000+00:00",
+      "event_categories": [
+        "invests_into_assets"
+      ]
+    },
+    {
+      "id": "6a0f169c88c8ab00207d80ee",
+      "url": "https://www.rigzone.com/news/wire/eneos_buys_chevron_oil_assets_in_apac_for_22b-14-may-2026-183687-article",
+      "domain": "rigzone.com",
+      "title": "Eneos buys Chevron oil assets in APAC for $2.2B.",
+      "snippet": "Eneos buys Chevron oil assets in APAC for $2.2B.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2026-05-14T00:00:00.000+00:00",
+      "event_categories": [
+        "invests_into_assets"
+      ]
+    },
+    {
+      "id": "69f08f7f17db1a0019d2929e",
+      "url": "https://theedgemalaysia.com/node/801619",
+      "domain": "theedgemalaysia.com",
+      "title": "Eneos said to be in final talks for Chevron's Asian assets, including in Malaysia",
+      "snippet": "(April 28): Tokyo-listed Eneos Holdings Inc is the last remaining bidder for some of Chevron Corp's Asian assets in a deal that might be valued at more than US$2 billion (RM7.9 billion), according to people familiar with the matter.",
+      "organization_ids": [
+        "5f49df5c1fe0980001b3b364",
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2026-04-28T09:18:07.000+00:00",
+      "event_categories": [
+        "sells_assets_to"
+      ]
+    },
+    {
+      "id": "69e868b3c867c500194c1141",
+      "url": "https://www.koreaherald.com/article/10723067",
+      "domain": "koreaherald.com",
+      "title": "TotalEnergies ENEOS signs 15-year PPA with Thailand's Jintana Intertrade.",
+      "snippet": "The company is a 50/50 joint venture between TotalEnergies and ENEOS to develop onsite B2B solar distributed generation across Asia.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2026-04-22T03:10:10.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "68eff1739281ab001977bbdb",
+      "url": "https://www.businessworld.in/article/ntpc-green-energy-japan-s-eneos-sign-mou-to-develop-green-hydrogen-value-chain-575106",
+      "domain": "businessworld.in",
+      "title": "NTPC Green Energy, Japan's ENEOS Sign MoU To Develop Green Hydrogen Value Chain",
+      "snippet": "NTPC Green Energy (NGEL), a wholly owned subsidiary of NTPC, has signed a memorandum of understanding (MoU) with Japan's ENEOS Corporation to explore cooperation in the field of green hydrogen and its derivatives, including green methanol and other renewable-based chemicals.",
+      "organization_ids": [
+        "61ad44f971e3c400011f48a7",
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2025-10-11T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "687e7f5bb16d6100191b5436",
+      "url": "https://www.packaginginsights.com/news/eneos-mitsubishi-chemical-plastic-recycling.html",
+      "domain": "packaginginsights.com",
+      "title": "Eneos and Mitsubishi Chemical introduce plastic-to-oil recycling facility in Japan",
+      "snippet": "Eneos and Mitsubishi Corporation partnered with Neste and Suntory to develop PET resin made with Neste RE, a feedstock made from bio-based raw materials.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2025-07-20T00:00:00.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6823cd567c7f60001172ca27",
+      "url": "https://e-powerpc.com.ar/daring-shift-in-japans-energy-landscape-eneos-holdings-triple-bet-on-the-future",
+      "domain": "e-powerpc.com.ar",
+      "title": "Daring Shift in Japan's Energy Landscape: Eneos Holdings' Triple Bet on the Future",
+      "snippet": "Eneos is actively developing a hydrogen supply chain to power buses and freight, enhancing transport sustainability.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2025-05-13T13:08:22.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "67f67c767729ad001148aa60",
+      "url": "https://www.fuelsandlubes.com/eneos-accelerates-ai-driven-development-of-new-lubricants-and-cooling-fluids",
+      "domain": "fuelsandlubes.com",
+      "title": "ENEOS accelerates AI-driven development of new lubricants and cooling fluids",
+      "snippet": "ENEOS Corporation has announced its new collaboration with NVIDIA and Preferred Computational Chemistry Inc. (PFCC) to accelerate the AI-driven discovery and optimisation of new lubricants and immersion cooling fluids.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb",
+        "5f50a22da4560d00e3eddf31"
+      ],
+      "published_at": "2025-04-08T04:48:04.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "67ed914ea3b0b00015799cee",
+      "url": "https://www.porttechnology.org/news/c2x-eneos-maersk-invest-100-million-in-green-methanol-portfolio",
+      "domain": "porttechnology.org",
+      "title": "C2X, ENEOS, Maersk invest $100 million in green methanol portfolio",
+      "snippet": "C2X, a green methanol developer, and ENEOS, a japanese energy company, have secured a $100 million investment from A.P. Moller holding, and A.P. Moller - Maersk.",
+      "organization_ids": [
+        "5d09fd9b80f93ef6da2c61ef",
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2025-04-02T11:57:53.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "67ca216a4b1d44001d4aed98",
+      "url": "https://www.h2-view.com/story/chiyoda-wins-epc-contract-for-eneos-liquid-organic-hydrogen-carrier-project/2122599.article",
+      "domain": "h2-view.com",
+      "title": "Chiyoda wins EPC contract for Eneos' liquid organic hydrogen carrier project",
+      "snippet": "Last December, Eneos announced plans for the AUD $200m ($129.9m) facility, which they anticipate to produce 680kg of hydrogen per day.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2025-03-06T08:47:47.000+00:00",
+      "event_categories": [
+        "invests_into_assets"
+      ]
+    },
+    {
+      "id": "67bff297e9091e0011a614d4",
+      "url": "https://www.airport-technology.com/news/eneos-mitsubishi-saf-production-japan",
+      "domain": "airport-technology.com",
+      "title": "Eneos, Mitsubishi partner to advance SAF production in Japan",
+      "snippet": "Japanese petroleum company Eneos has collaborated with Mitsubishi to conduct a front-end engineering design (FEED) to accelerate the study of a sustainable aviation fuel (SAF) production facility at the Eneos Wakayama plant in Arida City, Japan.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb",
+        "5f498c69ae31f700019a05c7"
+      ],
+      "published_at": "2025-02-24T17:26:17.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "67bf3d275201820021b9360f",
+      "url": "https://www.fuelsandlubes.com/mitsubishi-and-eneos-to-advance-saf-production-in-japan",
+      "domain": "fuelsandlubes.com",
+      "title": "Mitsubishi and ENEOS to advance SAF production in Japan",
+      "snippet": "Mitsubishi Corporation (MC) and ENEOS Corporation have partnered to conduct a Front End Engineering Design (FEED) study for the production of sustainable aviation fuel (SAF) at the ENEOS Wakayama Plant in Arida City, Japan.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2025-02-24T04:55:55.000+00:00",
+      "event_categories": [
+        "expands_facilities"
+      ]
+    },
+    {
+      "id": "677ab95719199903d31535fd",
+      "url": "https://www.electricmotornews.com/gb/eventi/xing-eneos-batterie-immersione",
+      "domain": "electricmotornews.com",
+      "title": "XING and ENEOS for immersion cooling battery systems",
+      "snippet": "In the pursuit of global sustainability, ENEOS, Japan's energy giant, launches advanced immersion cooling fluids to optimize the thermal management of data center servers and battery systems.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2024-12-23T23:13:45.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "67af360176b6d6002151710d",
+      "url": "https://www.japantimes.co.jp/business/2024/12/19/companies/eneos-ipo-plan",
+      "domain": "japantimes.co.jp",
+      "title": "Eneos considers IPO of up to 70% of JX Advanced Metals",
+      "snippet": "Eneos considers IPO of up to 70% of JX Advanced Metals.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2024-12-19T05:37:00.000+00:00",
+      "event_categories": [
+        "goes_public"
+      ]
+    },
+    {
+      "id": "67af37176b1b3c0021b3fe6c",
+      "url": "https://www.miningnews.ir/japans-jx-advanced-metals-files-ipo-application-in-tokyo",
+      "domain": "miningnews.ir",
+      "title": "Japan's JX Advanced Metals files IPO application in Tokyo",
+      "snippet": "Eneos and JXAM have been preparing for the initial public offering (IPO) of the metal unit since May 2023, stating that it is the best way to promote the sustainable growth of corporate value for both companies.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2024-10-08T00:00:00.000+00:00",
+      "event_categories": [
+        "goes_public"
+      ]
+    },
+    {
+      "id": "66eb642afcc73a01b34deedd",
+      "url": "https://www.qcintel.com/biofuels/article/eneos-launches-saf-book-and-claim-service-with-shell-s-avelia-system-29458.html",
+      "domain": "qcintel.com",
+      "title": "Eneos launches SAF book and claim service with Shell's Avelia system",
+      "snippet": "Eneos launches SAF book and claim service with Shell's Avelia system.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2024-09-12T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "65d0e7224f5b5e06b1da37ff",
+      "url": "https://renewablesnow.com/news/japans-eneos-to-develop-lohc-project-using-honeywell-tech-848773",
+      "domain": "renewablesnow.com",
+      "title": "Japan's Eneos to develop LOHC project using Honeywell tech",
+      "snippet": "Japan's Eneos to develop LOHC project using Honeywell tech.",
+      "organization_ids": [
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2024-02-15T00:00:00.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "654b615e273a5c00ba2cf828",
+      "url": "https://www.tradewindsnews.com/tankers/stolt-tankers-and-nyk-team-up-with-eneos-to-expand-chemical-tanker-pool/2-1-1550920",
+      "domain": "tradewindsnews.com",
+      "title": "Stolt Tankers and NYK team up with Eneos to expand chemical tanker pool",
+      "snippet": "Stolt Tankers and NYK team up with Eneos to expand chemical tanker pool.",
+      "organization_ids": [
+        "649fd0522d94df000170d2d9",
+        "60489ba850e46100015bd5bb"
+      ],
+      "published_at": "2023-11-08T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    }
+  ]
+}

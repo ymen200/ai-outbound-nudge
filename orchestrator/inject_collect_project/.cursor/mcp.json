@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "B2B_Enrichment": {
+      "command": "C:\\Users\\aymen\\anaconda3\\python.exe",
+      "args": [
+        "C:\\Users\\aymen\\OneDrive\\Desktop\\inject_collect_project\\mcp_server.py"
+      ],
+      "cwd": "C:\\Users\\aymen\\OneDrive\\Desktop\\inject_collect_project"
+    }
+  }
+}

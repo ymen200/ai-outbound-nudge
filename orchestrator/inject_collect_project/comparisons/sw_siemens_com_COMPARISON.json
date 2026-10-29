@@ -1,0 +1,195 @@
+{
+    "domain": "sw.siemens.com",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "Siemens Digital Industries Software",
+                "ai": "Siemens Digital Industries Software"
+            },
+            "domain": {
+                "apollo": "sw.siemens.com",
+                "ai": "siemens.com"
+            },
+            "industry": {
+                "apollo": "information technology & services",
+                "ai": "Industrial Engineering Software"
+            },
+            "founded_year": {
+                "apollo": "Non renseigné",
+                "ai": "2007"
+            },
+            "short_description": {
+                "apollo": "Non renseigné",
+                "ai": "Global provider of software solutions for product lifecycle management (PLM) and manufacturing operations management (MOM)."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Siemens Digital Industries Software helps designers and manufacturers deliver better products faster using the digital twin."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": "Non renseigné",
+                "ai": 21500000000
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": "Acquired"
+            },
+            "estimated_num_employees": {
+                "apollo": 22000,
+                "ai": "24,000"
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/siemenssoftware",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "Non renseigné",
+                "ai": "https://twitter.com/siemenssoftware"
+            },
+            "facebook_url": {
+                "apollo": "Non renseigné",
+                "ai": "https://www.facebook.com/siemenssoftware"
+            },
+            "phone": {
+                "apollo": "+49 5036 857000",
+                "ai": "+1 972-987-3000"
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "5800 granite pkwy, 600, plano, texas 75024, us",
+                "ai": "5800 Granite Pkwy, Plano, TX 75024, United States"
+            },
+            "city": {
+                "apollo": "Plano",
+                "ai": "Plano"
+            },
+            "country": {
+                "apollo": "United States",
+                "ai": "United States"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": "15+"
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": "Non renseigné",
+                "ai": "Industrial AI, Digital Twin, PLM, NX, Teamcenter, CAD, Simulation, Xcelerator, Industrial Automation"
+            },
+            "technologies": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    {
+                        "name": "React",
+                        "category": "Frontend Framework",
+                        "confidence": 0.99,
+                        "source": "MATCHES REGEX CLASSIQUES",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.78,
+                            "evidence_density": 0.21
+                        }
+                    },
+                    {
+                        "name": "Amazon CloudFront",
+                        "category": "CDN",
+                        "confidence": 0.99,
+                        "source": "via: 1.1 ... cloudfront.net (CloudFront)",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.57,
+                            "evidence_density": 0.42
+                        }
+                    },
+                    {
+                        "name": "Amazon S3",
+                        "category": "Hosting",
+                        "confidence": 0.99,
+                        "source": "server: AmazonS3",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.35,
+                            "evidence_density": 0.56
+                        }
+                    },
+                    {
+                        "name": "Usercentrics",
+                        "category": "Consent Management",
+                        "confidence": 0.99,
+                        "source": "app.usercentrics.eu script",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.36,
+                            "evidence_density": 0.46
+                        }
+                    },
+                    {
+                        "name": "Nice InContact",
+                        "category": "Customer Support",
+                        "confidence": 0.95,
+                        "source": "home-e31.niceincontact.com script",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.4,
+                            "evidence_density": 0.42
+                        }
+                    },
+                    {
+                        "name": "Swiper",
+                        "category": "UI Components",
+                        "confidence": 0.9,
+                        "source": "swiper-* CSS prefixes",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.46,
+                            "evidence_density": 0.29
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Mendix",
+                    "Polarion",
+                    "Supplyframe",
+                    "Avasis",
+                    "Sustaira"
+                ]
+            },
+            "funding_events": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    {
+                        "date": "2007-05-04",
+                        "type": "Acquisition",
+                        "amount": "$3.5 Billion"
+                    }
+                ]
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Dassault Systèmes",
+                    "PTC",
+                    "Autodesk",
+                    "Ansys",
+                    "SAP"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,484 @@
+{
+  "member_id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7490106883090051072",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_when-one-of-the-nations-largest-employers-activity-7490106883090051072-aMxt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1d",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 4,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Chime continues to drive value to our members and employer partners.  Really exciting partnership, and looking forward to driving great outcomes for Allied employees.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7490106883090051072",
+        "is_repost": true,
+        "repost_id": "7490106883090051072",
+        "parsed_datetime": "2026-08-03T18:10:40.385Z",
+        "repost_content": {
+          "id": "7490035819966259200",
+          "date": "2d",
+          "parsed_datetime": "2026-08-03T13:28:17.616Z",
+          "text": "Proud to partner with Allied Universal, a global leader in security and facility services and one of the nation’s largest employers with 320K employees in North America.\n\nAllied’s workforce will gain access to Chime’s fee-free financial wellness tools. This is how financial progress happens. 🤝",
+          "author": {
+            "public_identifier": "chime-card",
+            "id": null,
+            "name": "Chime",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7487189308630716416",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_earned-wage-access-has-come-a-long-way-since-activity-7487189308630716416-Pth4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1w",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 26,
+        "repost_counter": 4,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Earned wage access has come a long way since the payroll headache it once was.\n\nI’m excited to partner with PayrollOrg (formerly the American Payroll Association and GPMI) for an upcoming webinar with Kira Rubiano, Partner at Payrollminds, to discuss what payroll-first EWA looks like today, and why it’s becoming easier than ever to implement and manage.\n\nWe’ll also share new PayrollOrg survey findings and practical guidance for evaluating solutions, whether you’re considering EWA for the first time or replacing a legacy solution.\n\nExcited to represent Chime Workplace. Hope you’ll join us.\n\n📅 August 6 | 1:00 PM EDT\n\nRegister here: https://bit.ly/4fpcBde",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/payroll-org/",
+            "length": 63,
+            "start": 108
+          },
+          {
+            "url": "https://www.linkedin.com/company/payrollminds-bv/",
+            "length": 12,
+            "start": 226
+          },
+          {
+            "url": "https://www.linkedin.com/company/chime-workplace/",
+            "length": 15,
+            "start": 558
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E10AQEiPlsIkoLSrQ",
+            "sticker": false,
+            "size": {
+              "height": 480,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E10AQEiPlsIkoLSrQ/image-shrink_480/B4EZ.fXAQPIAAQ-/0/1785085036025?e=1786546800&v=beta&t=Gn_btp6NxrtNUlLoPfCN9Gi9ACRzJmRxqvxvzehGjMo"
+          }
+        ],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7487189308630716416",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-26T16:57:16.428Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7480708117899456512",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_in-20-years-of-workplace-benefits-savings-activity-7480708117899456512-pWMO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "3w",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 39,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "In 20+ years of workplace benefits, savings is the piece most programs still get wrong. Helping employees build savings is good for them, and good for business.\n\nI'm joining Workday's Aimee Greene to talk through what actually moves the needle: A Playbook for Boosting Employee Savings.\n\n📅 July 22, 10am PT / 1pm ET\n🔗 Register: https://bit.ly/4eWhw3y",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/workday/",
+            "length": 7,
+            "start": 174
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E10AQHCU0mJdDLBzg",
+            "sticker": false,
+            "size": {
+              "height": 600,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E10AQHCU0mJdDLBzg/image-shrink_480/B4EZ9DQZL.J0AQ-/0/1783539799276?e=1786546800&v=beta&t=zaJoCA533j0qdadxcIpnsjHYw3EGjfozh3WIj3SP-GM"
+          }
+        ],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7480708117899456512",
+        "is_repost": false,
+        "parsed_datetime": "2026-07-08T19:43:20.143Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7477334587375980544",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_wdayelevate-workdaypartner-activity-7477334587375980544-oUtf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 8,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Another great partner event.  Looking forward to making new connections in NYC.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7477334587375980544",
+        "is_repost": true,
+        "repost_id": "7477334587375980544",
+        "parsed_datetime": "2026-06-29T12:18:07.789Z",
+        "repost_content": {
+          "id": "7476318615177285632",
+          "date": "1mo",
+          "parsed_datetime": "2026-06-26T17:01:01.141Z",
+          "text": "Next stop on the #WDAYElevate tour: New York City.🗽And a big thank you to everyone who made last week in San Francisco a success!\n\nFind Jeff Gies, Michael Mckeon, Brian Irion, and Patrick Brunner in the Chime Workplace partner lounge on June 30. Come say hello.\n\nWorkday Partners Workday #WorkdayPartner",
+          "author": {
+            "public_identifier": "chime-workplace",
+            "id": null,
+            "name": "Chime Workplace",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7472319876674703360",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_wdayelevate-workdaypartner-activity-7472319876674703360-chQa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 22,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Heading to #WDAYElevate in San Francisco on June 17.\n\nThe partnership between @Chime-Workplace and @Workday matters to me because it's solving something real: helping employees make genuine financial progress, at the scale Workday reaches. That's a conversation worth having.\n\nStop by the Chime Workplace partner lounge. I'd love to connect.\n\n#WorkdayPartner",
+        "mentions": [],
+        "attachments": [
+          {
+            "id": "D4E22AQGgAEfp_qG3_w",
+            "sticker": false,
+            "size": {
+              "height": 1000,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGgAEfp_qG3_w/feedshare-shrink_800/B4EZ7MDVKHIAAc-/0/1781539886316?e=1787788800&v=beta&t=aldfOkkaGepvWZuvJPJLhuElK6A1DOC0qHeB4sNZveQ"
+          }
+        ],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7472319876674703360",
+        "is_repost": false,
+        "parsed_datetime": "2026-06-15T16:11:27.589Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7468703136673882112",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_chime-surpassed-10-million-active-members-activity-7468703136673882112-P1-e?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 10,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Chime continues our mission, Helping everday Americans make financial progress.  Proud to work for a company that truly cares about each and every member and employer partner.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7468703136673882112",
+        "is_repost": true,
+        "repost_id": "7468703136673882112",
+        "parsed_datetime": "2026-06-05T16:39:49.577Z",
+        "repost_content": {
+          "id": "7468371976836018176",
+          "date": "2mo",
+          "parsed_datetime": "2026-06-04T18:43:54.919Z",
+          "text": "Chime surpassed 10 million Active Members in Q1.\n\nThese members choose Chime, whether it's to unlock rewards, higher savings, or early pay.\n\nReally proud of what this team has built — and how we’ve kept our members front and center throughout. Here's to the next 10 million. 🙌\n\nSee the full Q1 results → https://bit.ly/4aokyft",
+          "author": {
+            "public_identifier": "brentbamberger",
+            "id": "ACoAAAABGqwBqgXpbA0GlKqpNkMJoqhgJtg18HY",
+            "name": "Brent Bamberger",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7458141248273645568",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_hope-to-see-everyone-in-nashville-activity-7458141248273645568-VgTr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "2mo",
+        "comment_counter": 6,
+        "impressions_counter": 0,
+        "reaction_counter": 75,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Hope to see everyone in Nashville.",
+        "mentions": [],
+        "attachments": [
+          {
+            "id": "D4E22AQG4T05vp6XI1g",
+            "sticker": false,
+            "size": {
+              "height": 800,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQG4T05vp6XI1g/feedshare-shrink_800/B4EZ4Cj8YhJMAc-/0/1778159437842?e=1787788800&v=beta&t=pv3454y2f3Y37vIp38JIgF-Hantzg4GH5IukFbdb-b0"
+          }
+        ],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7458141248273645568",
+        "is_repost": false,
+        "parsed_datetime": "2026-05-07T13:10:39.152Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7457851200512626688",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_paycon-activity-7457851200512626688-w9fW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "2mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 9,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "This will be a great event with two world class leaders.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7457851200512626688",
+        "is_repost": true,
+        "repost_id": "7457851200512626688",
+        "parsed_datetime": "2026-05-06T17:58:06.377Z",
+        "repost_content": {
+          "id": "7457821947121496064",
+          "date": "2mo",
+          "parsed_datetime": "2026-05-06T16:01:51.825Z",
+          "text": "Payroll isn’t broken. It’s just been stuck in the same aging model for decades.\n\nThat’s finally changing.\n\nIf you’re heading to #PayCon, join me for a live session where we’ll show what “payroll made easier” actually looks like in practice featuring a real-world payroll pro.\n\n Wednesday, May 13\n 12:15pm – 1:00pm\n Closed Theater on the Expo Floor\n\nI’ll be joined by Heidi Shimp - Fava at Senior Living Communities, LLC, who’s living this shift firsthand. We’ll walk through how payroll teams are navigating:\n- Clearer pay visibility\n- Low-lift integration (no heavy operational burden)\n- Reducing compliance complexity instead of adding to it\n\nAnd we’ll leave plenty of time for candid Q&A. See you there!",
+          "author": {
+            "public_identifier": "katelcheesman",
+            "id": "ACoAAARQrjwBa5d-RbT9LQQuXQ3ssvPwGL4c6v0",
+            "name": "Kate Cheesman",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7444859724308647937",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_bringing-the-right-people-together-at-the-activity-7444859724308647937-aRfE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "4mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 44,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Bringing the right people together at the right moment is what great partnerships are all about.\n\nDallas was one of those moments, where we could connect CHROs and senior leaders for a real conversation on how AI is reshaping the workforce — and what it will take to lead through it.\n\nAppreciate the perspectives shared and the strength of the network we’re continuing to build in this space.",
+        "mentions": [],
+        "attachments": [
+          {
+            "id": "D4E22AQHQq_N5gdVg9Q",
+            "sticker": false,
+            "size": {
+              "height": 600,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHQq_N5gdVg9Q/feedshare-shrink_800/B4EZ1F0eC8H0Ao-/0/1774992876565?e=1787788800&v=beta&t=KQgllNdj6mudba09WiVlSb2eVXFjUpd_li8WAOK6yCE"
+          }
+        ],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7444859724308647937",
+        "is_repost": false,
+        "parsed_datetime": "2026-03-31T21:34:37.080Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7433190937813598208",
+        "share_url": "https://www.linkedin.com/posts/chimejeffgies_activity-7433190937813598208--nrq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "5mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 17,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Great opportunity to join a company with explosive growth.  There is no better leader than Jamaal, if you want to be part of a highly successful team, please apply.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "chimejeffgies",
+          "id": "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU",
+          "name": "Jeff Gies",
+          "is_company": false,
+          "headline": "Sales Leader/Team Builder",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQFSegerbVmHCw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516299615762?e=1787788800&v=beta&t=bxEAfukBWJ8ao0R29ExWvnOWzE39tn9kj1_SSsPJPWc"
+        },
+        "id": "7433190937813598208",
+        "is_repost": true,
+        "repost_id": "7433190937813598208",
+        "parsed_datetime": "2026-02-27T16:47:01.584Z",
+        "repost_content": {
+          "id": "7432894963186634752",
+          "date": "5mo",
+          "parsed_datetime": "2026-02-26T21:10:55.734Z",
+          "text": "",
+          "author": {
+            "public_identifier": "jamaalcbscott",
+            "id": "ACoAACZLXZcBV0yEE8lhCV0JUewJ5ZmgxI2tyKs",
+            "name": "Jamaal S.",
+            "is_company": false
+          },
+          "job_posting": {
+            "id": "4375270994",
+            "title": "Sales Development Representative",
+            "location": "New York, New York, United States (On-site)",
+            "company": {
+              "id": "3738695",
+              "name": "Chime",
+              "picture_url": "https://media.licdn.com/dms/image/v2/C560BAQHrNpL2djW5Xw/company-logo_200_200/company-logo_200_200/0/1657036140305/chime_card_logo?e=1787788800&v=beta&t=_VezD__d-sYvuL0XjiXeI0TKMbaOqpAQjOmDEVj4taY"
+            }
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAACUkbwBKu21MBMFtZSFsAM6Kn_FoA5YORU"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 10,
+      "total_count": 18
+    },
+    "cursor": "eyJhY2NvdW50X2lkIjoiTGFlQzNxZ0lRei1BQ1BvbkhPdUZGZyIsImxpbWl0IjoxMCwic3RhcnQiOjEwLCJwYXJhbXMiOnsiYXBpIjoiY2xhc3NpYyIsImNhdGVnb3J5IjoicG9zdHMiLCJwb3N0ZWRfYnkiOnsibWVtYmVyIjpbIkFDb0FBQUNVa2J3Qkt1MjFNQk1GdFpTRnNBTTZLbl9Gb0E1WU9SVSJdfSwic29ydF9ieSI6ImRhdGUifX0="
+  }
+}

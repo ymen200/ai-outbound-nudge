@@ -1,0 +1,20 @@
+@startuml
+title Injection & Collection Sequence
+actor User
+participant Orchestrator
+participant Injector
+participant "Target System" as Target
+participant Collector
+database DB
+
+User -> Orchestrator : CreateJob(payload, schedule)
+Orchestrator -> DB : INSERT job
+Orchestrator -> Broker : publish job message
+Broker -> Injector : deliver job
+Injector -> Target : POST payload
+Target --> Injector : 200 / response
+Injector -> Collector : emit result (push) or expect Collector to poll
+Collector -> DB : INSERT result
+Collector -> S3 : PUT large payload (optional)
+Orchestrator -> DB : update job status (success/failure)
+@enduml

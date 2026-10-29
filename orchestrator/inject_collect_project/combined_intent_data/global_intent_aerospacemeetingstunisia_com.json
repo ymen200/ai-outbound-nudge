@@ -1,0 +1,16 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Aerospace Meetings Tunisia - International Aerospace Industry Event",
+        "date": "2026-07-07",
+        "news_type": "Event",
+        "confidence": 0.9,
+        "source": "Aerospace Meetings Tunisia est le rendez-vous incontournable de l'industrie aéronautique en Tunisie .",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.33,
+            "evidence_density": 0.66
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

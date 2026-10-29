@@ -1,0 +1,80 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 5,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "63b358c8d04df100e39b7e40",
+      "url": "https://coinstradings.com/binance-announces-objective-moon-100m-eur-crypto-blockchain-initiative-in-france-05133683",
+      "domain": "coinstradings.com",
+      "title": "Binance Announces Objective Moon: 100M EUR Crypto & Blockchain Initiative in France",
+      "snippet": "Binance today announced a partnership with France FinTech, on a 100M EUR initiative to help make France and Europe a leading global player in the blockchain and crypto industry.",
+      "organization_ids": [
+        "55f53684f3e5bb6e7c001e3c"
+      ],
+      "published_at": "2022-12-28T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "628351b34b6bee008db45836",
+      "url": "https://en.karmen.io/blog-posts/karmen-rejoint-france-fintech",
+      "domain": "karmen.io",
+      "title": "Karmen wins the France Fintech award",
+      "snippet": "Karmen joined France Fintech in June 2021 and participated in the Fintech R:evolution event on 14 October 2021.",
+      "organization_ids": [
+        "55f53684f3e5bb6e7c001e3c"
+      ],
+      "published_at": "2022-03-24T00:00:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "620cbf8c07a58d00db56ec01",
+      "url": "https://francefintech.org/en/a-clot-france-fintech-les-levees-de-fonds-ont-atteint-23-milliards-deuros-en-2021/",
+      "domain": "francefintech.org",
+      "title": "A. Clot (France FinTech): “Fundraising reached 2,3 billion euros in 2021” | France FinTech",
+      "snippet": "Its recruitments have been numerous, the sector now has 30 jobs and Francefintech expect to hire another 000 people in 10.",
+      "organization_ids": [
+        "55f53684f3e5bb6e7c001e3c"
+      ],
+      "published_at": "2022-02-08T00:00:00.000+00:00",
+      "event_categories": [
+        "increases_headcount_by"
+      ]
+    },
+    {
+      "id": "6184b81575515100a490743c",
+      "url": "https://www.coinbureau.com/news/binance-to-drop-115-million-on-building-new-crypto-ecosystem-in-france/",
+      "domain": "coinbureau.com",
+      "title": "Binance To Drop $115 Million On Building New Crypto Ecosystem in France",
+      "snippet": "Binance, the world’s largest cryptocurrency exchange, is partnering with French non-profit France Fintech to make the country the center of Europe’s blockchain industry.",
+      "organization_ids": [
+        "55f53684f3e5bb6e7c001e3c"
+      ],
+      "published_at": "2021-11-04T16:00:46.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "61841cc1ec08df00da635b45",
+      "url": "https://cryptoslate.com/binance-funds-a-116-millon-initiative-aimed-at-developing-a-cryptocurrency-ecosystem-in-france/",
+      "domain": "cryptoslate.com",
+      "title": "Binance funds a $116 million initiative aimed at developing a crypto ecosystem in France",
+      "snippet": "Cryptocurrency exchange Binance has partnered up with France Fintech, a non-profit organization to accelerate the adoption of cryptocurrency in France.",
+      "organization_ids": [
+        "55f53684f3e5bb6e7c001e3c"
+      ],
+      "published_at": "2021-11-04T12:00:49.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Jessica OKeefe, CTC",
+        "clean_name_used": "Jessica OKeefe",
+        "linkedin_url": "https://www.linkedin.com/in/jessicaokeefe",
+        "company": "Egyptair",
+        "email": "jessica.okeefe@egyptair.com",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Ayman Alsimery Youssef",
+        "clean_name_used": "Ayman Alsimery Youssef",
+        "linkedin_url": "https://www.linkedin.com/in/ayman-alsimery-youssef-09135a190",
+        "company": "Egyptair",
+        "email": "ayman.alsimery-youssef@egyptair.com",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Zeenat Koreishi",
+        "clean_name_used": "Zeenat Koreishi",
+        "linkedin_url": "https://www.linkedin.com/in/zeenat-koreishi-38163b40",
+        "company": "Egyptair",
+        "email": "zeenat.koreishi@egyptair.com",
+        "mail_pro": true,
+        "title": "Sales Manager",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    }
+]

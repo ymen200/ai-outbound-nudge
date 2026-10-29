@@ -1,0 +1,67 @@
+[
+  {
+    "id": "69dcce0858d9a100011a99ef",
+    "first_name": "Alan",
+    "last_name": "Kastner",
+    "name": "Alan Kastner",
+    "linkedin_url": "http://www.linkedin.com/in/alan-kastner-2803a35",
+    "title": "Director of Sales",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Director of Sales at Aruba Networks",
+    "organization_id": "54a11e5469702d918c425801",
+    "employment_history": [
+      {
+        "_id": "6a5f10242a7ea50001483963",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a11e5469702d918c425801",
+        "organization_name": "Aruba Networks",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Director of Sales",
+        "updated_at": null,
+        "id": "6a5f10242a7ea50001483963",
+        "key": "6a5f10242a7ea50001483963"
+      }
+    ],
+    "street_address": "",
+    "city": "Bridgewater",
+    "state": "New Jersey",
+    "country": "United States",
+    "postal_code": null,
+    "formatted_address": "Bridgewater, NJ, USA",
+    "time_zone": "America/New_York",
+    "email": null,
+    "email_status": "unavailable",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "sales"
+    ],
+    "seniority": "director",
+    "functions": [
+      "sales"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "has_email": false,
+    "has_phone": false,
+    "mail_pro": false,
+    "source": "Apollo"
+  }
+]

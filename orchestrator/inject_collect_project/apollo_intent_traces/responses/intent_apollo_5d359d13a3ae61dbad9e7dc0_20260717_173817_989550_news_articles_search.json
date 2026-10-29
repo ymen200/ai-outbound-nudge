@@ -1,0 +1,297 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 30,
+    "total_pages": 2
+  },
+  "news_articles": [
+    {
+      "id": "6a52c3b8f18de80010834c5a",
+      "url": "https://www.upi.com/Top_News/US/2026/06/18/Bosch-pays-export-fine/5371781769505",
+      "domain": "upi.com",
+      "title": "Bosch agrees to pay $36M as DOJ declines prosecution in export case.",
+      "snippet": "June 18 (UPI) - German engineering and technology firm Bosch has agreed to pay a $36 million fine to resolve federal allegations that it exported restricted products and software to China's Huawei.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2026-06-18T08:42:23.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a06df0f392458000d6fa2aa",
+      "url": "https://autonews.gasgoo.com/articles/market-industry/gasgoo-express-bosch-china-and-spirit-ai-reach-strategic-partnership-report-geely-to-acquire-ford-spain-plant-production-line-2052377697945276416",
+      "domain": "gasgoo.com",
+      "title": "[Gasgoo express] Bosch China and Spirit AI reach strategic partnership; report: Geely to acquire Ford Spain plant production line.",
+      "snippet": "* Gasgoo: On May 6, as embodied intelligence accelerates toward large-scale deployment, Spirit AI and Bosch China officially signed a strategic partnership agreement.",
+      "organization_ids": [
+        "5fc97f58684f7800013f3dba",
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2026-05-07T21:18:52.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a04d1446fcd3900157bc92a",
+      "url": "https://equalocean.com/news/2026050621869",
+      "domain": "equalocean.com",
+      "title": "Spirit AI (千寻智能) and Bosch China (博世中国) sign strategic cooperation agreement to accelerate large-scale implementation of embodied intelligence.",
+      "snippet": "On May 6, Spirit AI (千寻智能), a leading domestic embodied intelligence company, and Bosch China (博世中国), the global technology and services giant, officially signed a strategic cooperation agreement.",
+      "organization_ids": [
+        "69953bfacd2e150001e8db89",
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2026-05-06T03:43:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "68151e61900efc00157bfdcd",
+      "url": "https://www.prnewswire.com/news-releases/horizon-robotics-and-bosch-intensify-collaboration-to-provide-assisted-driving-solutions-for-multiple-automakers-302438071.html",
+      "domain": "prnewswire.com",
+      "title": "Horizon Robotics and Bosch Intensify Collaboration to Provide Assisted Driving Solutions for Multiple Automakers",
+      "snippet": "According to the agreement, Bosch will develop its new multi purpose camera based on Horizon Robotics' Journey 6B, and its Bosch ADAS product family for mid segment using the Journey 6E/M, offering enhanced safety, convenience and comfort for both drivers and passengers.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2025-04-25T03:45:00.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6785337776c7f201b0f3cb13",
+      "url": "https://bangedbooty.com/news/474223.html&device=P&source=https://bangedbooty.com/news/257255.html",
+      "domain": "bangedbooty.com",
+      "title": "Neon Monster King",
+      "snippet": "Chinese state-owned automobile manufacturer Beijing Automotive Group (BAIC) reached a strategic partnership with Bosch China on Feb.while the German auto parts supplier eyes further expansion in China.",
+      "organization_ids": [
+        "666b08095467da038de2fee8",
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2025-01-13T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6735b0ae551c1e02cea29d6d",
+      "url": "https://www.campaignasia.com/article/phd-wins-35-million-bosch-china-media-account/499328",
+      "domain": "campaignasia.com",
+      "title": "PHD wins $35 million Bosch China media account",
+      "snippet": "Separately, Bosch China announced a deepened technology partnership with Tencent Holdings, expanding their collaboration in cloud computing and autonomous driving.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0",
+        "54a12a9569702d95480c1902"
+      ],
+      "published_at": "2024-11-14T03:25:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "650eab4d30f33100bae78e52",
+      "url": "https://www.ichongqing.info/2023/09/21/automaker-seres-spearheads-development-through-collaboration-with-huawei-bosch/",
+      "domain": "ichongqing.info",
+      "title": "Automaker Seres Spearheads Development Through Collaboration with Huawei, Bosch",
+      "snippet": "Under this agreement, Seres will work with Bosch in various fields, including vehicle safety systems, driver assistance, automation, powertrain, electrification solutions, and automotive aftermarket technology and services.",
+      "organization_ids": [
+        "5d7894330743ff0098d07e50",
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2023-09-21T09:11:06.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "644b7ff4f0e48000da01ab84",
+      "url": "https://menafn.com/1106057048/Homewares-Market-To-Be-Worth-202868-Billion-By-2028-With-CAGR-Of-35-Arc-International-SA-Ikea-Systems-SEB",
+      "domain": "menafn.com",
+      "title": "Homewares Market To Be Worth $2,028.68 Billion By 2028 With CAGR Of 3.5% | Arc International SA, Ikea Systems, SEB | MENAFN.COM",
+      "snippet": "For instance, in March 2019, Robert Bosch GmbH announced the launch of India-specific dishwashers that will incorporate the Kadhai feature, which is an essential utensil for Indian consumers.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2023-04-20T18:01:05.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "64515d48e38b2900a32d68d7",
+      "url": "https://www.bosch.com.cn/en/news-and-stories/auto-shanghai-2023/",
+      "domain": "bosch.com.cn",
+      "title": "Bosch presents innovations for software-defined vehicle and electrification at Auto Shanghai 2023 | Bosch in China",
+      "snippet": "As a leading expert in both software and automotive engineering, Bosch is ideally positioned to offer software solutions across all levels to enable its customers to efficiently develop intelligent and appealing vehicles.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2023-04-18T00:00:00.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "63f5de6c17b92d00c227047e",
+      "url": "https://thebrakereport.com/bosch-achieves-its-targets-in-2022/",
+      "domain": "thebrakereport.com",
+      "title": "Bosch Achieves Its Targets in 2022",
+      "snippet": "Recently, Bosch announced that some €950 million will be invested over 10 years in an engineering and manufacturing center in Suzhou, China.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2023-02-07T12:00:00.000+00:00",
+      "event_categories": [
+        "invests_into_assets"
+      ]
+    },
+    {
+      "id": "63c1069acd9ee3008b5720a6",
+      "url": "https://www.nasdaq.com/articles/bosch-to-open-billion-dollar-research-and-development-centre-in-suzhou-china",
+      "domain": "nasdaq.com",
+      "title": "Bosch to open billion-dollar research and development centre in Suzhou, China | Nasdaq",
+      "snippet": "BERLIN, Jan 12 (Reuters) - German automotive supplier Bosch is investing around one billion dollars in a new research, development and assembly centre in Suzhou, China, the company said on Thursday, with the first phase of the project ready by mid-2024.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2023-01-12T16:29:00.000+00:00",
+      "event_categories": [
+        "expands_facilities"
+      ]
+    },
+    {
+      "id": "63c0a2dd94225a008b74a16d",
+      "url": "https://www.autonews.com/china/bosch-open-billion-dollar-rd-center-suzhou-china",
+      "domain": "autonews.com",
+      "title": "Bosch to open billion-dollar R&D center in Suzhou, China | Automotive News",
+      "snippet": "BERLIN -- German automotive supplier Bosch is investing about $1 billion in a new R&D and assembly center in Suzhou, China, the company said on Thursday, with the first phase of the project ready by mid-2024.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2023-01-12T00:00:00.000+00:00",
+      "event_categories": [
+        "invests_into_assets"
+      ]
+    },
+    {
+      "id": "637d8554e87102008bd35f47",
+      "url": "https://www.bosch.com.cn/en/news-and-stories/bosch-connected-world-2022/",
+      "domain": "bosch.com.cn",
+      "title": "Bosch Connected World 2022 | Bosch in China",
+      "snippet": "For the technology of the more distant future, Hartung also announced that Bosch is partnering with IBM, a U.S.-based technology company, in the field of quantum computing.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0",
+        "5d33d0d1a3ae6113e19b1674"
+      ],
+      "published_at": "2022-11-11T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "637dab2a0fc14200a36a6ae1",
+      "url": "http://www.china.org.cn/business/2022-11/10/content_78511598.htm",
+      "domain": "china.org.cn",
+      "title": "CIIE key driver for German companies",
+      "snippet": "For instance, Bosch, a German industrial and technology group, introduced its 400-kilowatt fuel cell system test bench and full redundant electrical hydraulic steering system for heavy commercial vehicles at the CIIE, neither of which has yet been launched in Asia.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2022-11-10T02:48:38.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "62963572db8e3900a55e20e2",
+      "url": "https://europe.autonews.com/automakers/bosch-develop-autonomous-driving-software-chinas-weride",
+      "domain": "autonews.com",
+      "title": "Bosch to develop autonomous driving software with China's WeRide | Automotive News Europe",
+      "snippet": "German supplier Robert Bosch signed a partnership deal with WeRide, a Guangzhou-based autonomous driving technology provider, to develop software enabling autonomous driving functions for passenger vehicle makers in China.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0",
+        "5a9f3ca7a6da98d93be8762e"
+      ],
+      "published_at": "2022-05-27T07:03:39.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "629635727ef08c0114fd972a",
+      "url": "https://europe.autonews.com/automakers/bosch-develop-autonomous-driving-software-chinas-weride",
+      "domain": "autonews.com",
+      "title": "Bosch to develop autonomous driving software with China's WeRide | Automotive News Europe",
+      "snippet": "German supplier Robert Bosch signed a partnership deal with WeRide, a Guangzhou-based autonomous driving technology provider, to develop software enabling autonomous driving functions for passenger vehicle makers in China.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2022-05-27T07:03:39.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "62987063d268b000c0f3c9f8",
+      "url": "https://equalocean.com/news/2022052518126",
+      "domain": "equalocean.com",
+      "title": "WeRide Acquires Strategic Investment. From Bosch to Jointly Develop Self-Driving Solution | EqualOcean",
+      "snippet": "Bosch and WeRide will work together to develop data-driven software to serve OEMs in China; they will also move SAE Level 2 - 3 autonomous driving (AD) towards mass production and popularizing experiences covering more scenarios including urban roads, highways and overpasses.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2022-05-25T21:49:00.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "62986db6c9047300a5490574",
+      "url": "https://www.bosch.com.cn/en/news-and-stories/bosch-hydrogen-offensive-technology-for-climate-neutral-factories-and-zero-carbon-traffic/",
+      "domain": "bosch.com.cn",
+      "title": "Bosch hydrogen offensive: technology for climate-neutral factories and zero-carbon traffic | Bosch in China",
+      "snippet": "Bosch wants to develop components for electrolyzers that produce hydrogen.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2022-05-20T00:00:00.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "626ddf88477cb000a59e1a50",
+      "url": "https://www.frost.com/frost-perspectives/as-another-key-player-enters-chinas-battery-swap-market-frost-sullivan-evaluates-whether-battery-swapping-is-the-future-of-evs/",
+      "domain": "frost.com",
+      "title": "Frost & Sullivan Evaluates Whether Battery Swapping is the Future of EVs",
+      "snippet": "And now, there is news about Bosch, Mitsubishi Corporation, and Blue Park Smart Energy (BPSE) partnering to develop business models that support more efficient battery swapping.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2022-04-04T17:47:24.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6268e0b85989e100a5eba4e7",
+      "url": "https://www.nbdntools.com/n1872638/Bosch-China-to-start-mass-production-of-intelligent-driving-3-0-platform-in-2023.htm",
+      "domain": "nbdntools.com",
+      "title": "Bosch China to start mass production of intelligent driving 3.0 platform in 2023 | DNT Auto Tools News",
+      "snippet": "Notably, Bosch is developing an integrated platform for intelligent driving and cockpit that complies with the central electronic and electrical architecture.",
+      "organization_ids": [
+        "5d359d13a3ae61dbad9e7dc0"
+      ],
+      "published_at": "2022-03-29T00:00:00.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    }
+  ]
+}

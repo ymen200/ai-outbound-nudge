@@ -1,0 +1,143 @@
+{
+  "total_entries": 1085,
+  "people": [
+    {
+      "id": "69fae28f36f327000138c067",
+      "first_name": "Jon",
+      "last_name_obfuscated": "Za***e",
+      "title": "Account Executive",
+      "last_refreshed_at": "2026-05-28T15:03:11.599+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Telecom Egypt",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "57db91b3a6da9868bbff1a46",
+      "first_name": "Mahmoud",
+      "last_name_obfuscated": "El***y",
+      "title": "Account Executive",
+      "last_refreshed_at": "2026-06-06T20:49:42.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Telecom Egypt",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "66fc0e348fa0310001ea7aa1",
+      "first_name": "Qussay",
+      "last_name_obfuscated": "Bo***y",
+      "title": "Business Development Specialist",
+      "last_refreshed_at": "2026-05-28T17:55:03.840+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Telecom Egypt",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "57d98f58a6da98725add2e53",
+      "first_name": "Sara",
+      "last_name_obfuscated": "At***f",
+      "title": "IoT Business Development",
+      "last_refreshed_at": "2026-06-13T21:57:39.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Telecom Egypt",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "6874b96a4e5e630001931703",
+      "first_name": "Cherine",
+      "last_name_obfuscated": "Sa***m",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-06-04T04:55:13.787+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "Telecom Egypt",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5639737da6da983dab007b66",
+      "first_name": "Mai",
+      "last_name_obfuscated": "El***y",
+      "title": "Marketing Business Development",
+      "last_refreshed_at": "2026-05-14T06:45:31.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Telecom Egypt",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": false,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

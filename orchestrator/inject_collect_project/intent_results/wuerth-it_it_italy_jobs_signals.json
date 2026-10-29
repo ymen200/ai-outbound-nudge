@@ -1,0 +1,139 @@
+{
+    "target_domain": "wuerth-it.it",
+    "job_country_filter": "Italy",
+    "news_filter": "Global",
+    "organization_id": "691cb5f60b4e1100195d1034",
+    "extracted_jobs": [
+        {
+            "id": "69dc62834d90250001f26869",
+            "title": "Search Backend Engineer",
+            "url": "https://www.wuerth-it.it/en/job/search-backend-engineer",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-01T20:26:40.000+00:00",
+            "posted_at": "2026-04-11T22:00:27.000+00:00"
+        },
+        {
+            "id": "69db1e2cfb3c840001ffaff0",
+            "title": "Search Platform Engineer",
+            "url": "https://www.wuerth-it.it/en/job/search-platform-engineer",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-01T20:26:48.000+00:00",
+            "posted_at": "2026-04-11T22:00:27.000+00:00"
+        },
+        {
+            "id": "69c8a0926711180001bed7c7",
+            "title": "DevOps Engineer (Microsoft Oriented)",
+            "url": "https://www.wuerth-it.it/en/job/devops-engineer-microsoft-oriented",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-02T00:12:53.000+00:00",
+            "posted_at": "2026-03-28T22:53:15.000+00:00"
+        },
+        {
+            "id": "69c9e7fff2f059000115a301",
+            "title": "Linux System Administrator (Elastic Engineer CDC Career Path)",
+            "url": "https://www.wuerth-it.it/en/job/linux-system-administrator-elastic-engineer-cdc-career-path",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-02T00:11:29.000+00:00",
+            "posted_at": "2026-03-28T22:53:15.000+00:00"
+        },
+        {
+            "id": "69b6272b4ba3120001649a18",
+            "title": "Security Software Engineer with the role of Security Champion",
+            "url": "https://www.wuerth-it.it/en/job/security-software-engineer-with-the-role-of-security-champion",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-01T12:13:01.000+00:00",
+            "posted_at": "2026-03-14T22:47:07.000+00:00"
+        },
+        {
+            "id": "69b6245c4ba3120001649223",
+            "title": "DevOps Engineer",
+            "url": "https://www.wuerth-it.it/en/job/devops-engineer",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-01T13:11:44.000+00:00",
+            "posted_at": "2026-03-14T22:47:07.000+00:00"
+        },
+        {
+            "id": "69b62a844ba312000164a37b",
+            "title": "Software Integration Engineer",
+            "url": "https://www.wuerth-it.it/en/job/software-integration-engineer",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-02T22:10:01.000+00:00",
+            "posted_at": "2026-03-14T22:47:07.000+00:00"
+        },
+        {
+            "id": "69a3b0771d80950001b39728",
+            "title": "DevOps Engineer with Frontend Skills (Vue.js) (m/f/d)",
+            "url": "https://www.wuerth-it.it/en/job/devops-engineer-frontend-vuejs",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-02T02:47:58.000+00:00",
+            "posted_at": "2026-02-28T22:39:15.000+00:00"
+        },
+        {
+            "id": "69a3b00a0caa000001da0e55",
+            "title": "SAP CRM / Sales & Service v2 Consultant (m/f/d)",
+            "url": "https://www.wuerth-it.it/en/job/sap-crm-sales-service-consultant",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-01T16:18:48.000+00:00",
+            "posted_at": "2026-02-28T22:39:15.000+00:00"
+        },
+        {
+            "id": "6993e0280891650001d17ec7",
+            "title": "Cyber Defense Center (CDC) Elastic Engineer",
+            "url": "https://www.wuerth-it.it/en/job/cyber-defense-center-cdc-elastic-engineer",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-02T06:31:04.000+00:00",
+            "posted_at": "2025-08-02T16:58:33.000+00:00"
+        },
+        {
+            "id": "698e9e86ed19730001deb3a6",
+            "title": "Business Consultant – Microsoft Dynamics 365 ERP Solutions (m/f/d)",
+            "url": "https://www.wuerth-it.it/en/job/business-consultant-for-microsoft-dynamics-365-erp-solutions-m-f-d",
+            "city": "Bolzano",
+            "state": "Trentino-Alto Adige/South Tyrol",
+            "country": "Italy",
+            "last_seen_at": "2026-06-02T04:23:10.000+00:00",
+            "posted_at": "2025-07-19T16:51:48.000+00:00"
+        },
+        {
+            "id": "698bf18fcf93f50001cc6632",
+            "title": "SQL Server Database Administrator – Speedy Sales Solutions (m/f/d)",
+            "url": "https://www.wuerth-it.it/en/job/sql-server-database-administrator-m-f-d",
+            "city": null,
+            "state": null,
+            "country": "Italy",
+            "last_seen_at": "2026-06-02T01:25:49.000+00:00",
+            "posted_at": "2025-06-21T16:37:48.000+00:00"
+        },
+        {
+            "id": "698d4b244397710001c98f5d",
+            "title": "Full Stack Developer for Microsoft Dynamics 365 CRM Solutions (m/f/d)",
+            "url": "https://www.wuerth-it.it/en/job/fullstack-developer-microsoftdynamics-crm",
+            "city": "Milan",
+            "state": "Lombardy",
+            "country": "Italy",
+            "last_seen_at": "2026-06-02T02:36:38.000+00:00",
+            "posted_at": "2025-06-07T16:33:42.000+00:00"
+        }
+    ],
+    "extracted_news": []
+}

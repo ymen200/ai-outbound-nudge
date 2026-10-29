@@ -1,0 +1,4785 @@
+{
+    "domain": "google.com",
+    "report_summary": "Comparaison complete des sources",
+    "common_attributes": {
+        "name": {
+            "database_value": "Google",
+            "ai_value": "Google (Mountain View Headquarters)"
+        },
+        "domain": {
+            "database_value": "google.com",
+            "ai_value": "google.com"
+        },
+        "industry": {
+            "database_value": "information technology & services",
+            "ai_value": "Technology and Search Services"
+        },
+        "founded_year": {
+            "database_value": 2010,
+            "ai_value": "1998"
+        },
+        "short_description": {
+            "database_value": "Google LLC is a leading American multinational technology corporation based in Mountain View, California. Founded in 1998 by Larry Page and Sergey Brin, Google started as a search engine and has since evolved into a diverse technology powerhouse. It is a subsidiary of Alphabet Inc., which was established in 2015 to oversee its various ventures.\n\nGoogle's extensive product portfolio includes Google Search, Android, YouTube, Google Cloud, Chrome, and Google Workspace. The company is recognized for its dominance in online search and advertising, generating significant revenue through platforms like Google Ads and AdSense. With over 182,000 employees and a market capitalization of $1.7 trillion, Google plays a crucial role in shaping the digital landscape. Its commitment to innovation is evident in its advancements in artificial intelligence, cloud computing, and sustainability initiatives, including achieving 100% renewable energy for its operations.",
+            "ai_value": "Google's primary operating headquarters focusing on search, advertising, and technology services."
+        },
+        "seo_description": {
+            "database_value": "Non renseigné",
+            "ai_value": "Google الكل صور تسجيل الدخول محرّك بحث Google"
+        },
+        "annual_revenue": {
+            "database_value": 422498000000.0,
+            "ai_value": 307390000000
+        },
+        "total_funding": {
+            "database_value": "1.7B",
+            "ai_value": "$25.1 Million (Pre-IPO total)"
+        },
+        "latest_funding_stage": {
+            "database_value": "Merger / Acquisition",
+            "ai_value": "Post-IPO Equity"
+        },
+        "estimated_num_employees": {
+            "database_value": 188000,
+            "ai_value": "182,502"
+        },
+        "linkedin_url": {
+            "database_value": "http://www.linkedin.com/company/google",
+            "ai_value": null
+        },
+        "twitter_url": {
+            "database_value": "http://twitter.com/Cat5BoatShoes.com",
+            "ai_value": "https://twitter.com/google"
+        },
+        "facebook_url": {
+            "database_value": "https://facebook.com/GoogleFiber",
+            "ai_value": "https://www.facebook.com/Google"
+        },
+        "phone": {
+            "database_value": "+1 800-665-7285",
+            "ai_value": "+1 650-253-0000"
+        },
+        "raw_address": {
+            "database_value": "1600 Amphitheatre Parkway, Mountain View, CA 94043, US",
+            "ai_value": "1600 Amphitheatre Parkway, Mountain View, CA 94043, United States"
+        },
+        "city": {
+            "database_value": "Mountain View",
+            "ai_value": "Mountain View"
+        },
+        "country": {
+            "database_value": "United States",
+            "ai_value": "United States"
+        },
+        "num_suborganizations": {
+            "database_value": 237,
+            "ai_value": "Unknown"
+        },
+        "keywords": {
+            "database_value": [
+                "search",
+                "ads",
+                "mobile",
+                "android",
+                "online video",
+                "apps",
+                "machine learning",
+                "virtual reality",
+                "cloud",
+                "hardware",
+                "artificial intelligence",
+                "youtube",
+                "software",
+                "e-commerce",
+                "fashion",
+                "retail",
+                "social commerce",
+                "consumer internet",
+                "internet",
+                "information technology",
+                "software development",
+                "big data",
+                "customer retention",
+                "google cloud ai tools",
+                "google cloud",
+                "smart home ecosystem",
+                "b2b",
+                "mobile operating system",
+                "ai research",
+                "personalized content",
+                "machine learning models",
+                "google lens",
+                "consumer electronics",
+                "enterprise cloud",
+                "advertising & marketing",
+                "google photos",
+                "ai integration",
+                "google ads",
+                "smart home technology",
+                "data security",
+                "data infrastructure",
+                "advertising",
+                "targeted advertising",
+                "digital advertising tools",
+                "quantum computing",
+                "video sharing",
+                "google x",
+                "google play",
+                "mobile apps",
+                "search engine",
+                "google services",
+                "ai-powered tools",
+                "google deepmind",
+                "cloud deployment",
+                "google brain",
+                "data management",
+                "cloud storage",
+                "cloud security solutions",
+                "mobile app development",
+                "web application development",
+                "user experience",
+                "google stadia",
+                "personalized search",
+                "renewable energy investments",
+                "automation tools",
+                "google x projects",
+                "remarketing",
+                "digital ecosystem",
+                "google hardware",
+                "brand awareness",
+                "gmail",
+                "targeted ads",
+                "google maps",
+                "government",
+                "google ai applications",
+                "digital marketing",
+                "data analytics",
+                "cloud migration",
+                "email service",
+                "google chrome",
+                "ai for natural language processing",
+                "real-time data processing",
+                "consulting",
+                "cloud service management",
+                "marketing automation",
+                "api access",
+                "cloud security",
+                "quantum computing research",
+                "google for nonprofits",
+                "mobile os",
+                "digital payments",
+                "video platform",
+                "digital advertising",
+                "autonomous vehicles",
+                "google glass",
+                "digital services",
+                "web search portals, libraries, archives, and other information services",
+                "services",
+                "ai for healthcare",
+                "data centers",
+                "innovation",
+                "ai ethics and safety",
+                "automated algorithms",
+                "google assistant",
+                "technology",
+                "cloud computing platforms",
+                "customer acquisition",
+                "cloud infrastructure",
+                "lead generation",
+                "enterprise solutions",
+                "user data analytics",
+                "digital transformation",
+                "ai solutions for business",
+                "advanced data centers",
+                "google for startups",
+                "online advertising",
+                "user experience optimization",
+                "google fiber",
+                "user engagement",
+                "google ai cloud",
+                "mobile operating systems",
+                "market research",
+                "ai-powered insights",
+                "video sharing platforms",
+                "google for education",
+                "cloud apis",
+                "web services",
+                "software engineering",
+                "web browser",
+                "google cardboard",
+                "self-driving car technology",
+                "renewable energy",
+                "smart home devices",
+                "web development",
+                "deep learning frameworks",
+                "cloud services",
+                "advertising platform",
+                "google ai research",
+                "google for enterprise",
+                "cloud-based software",
+                "programmatic advertising",
+                "enterprise software",
+                "online search",
+                "google ai hardware",
+                "cloud computing",
+                "ai for robotics",
+                "self-driving cars",
+                "content personalization",
+                "ai research divisions",
+                "digital marketing automation",
+                "google ai software",
+                "search ads",
+                "display ads",
+                "video ads",
+                "shopping ads",
+                "app ads",
+                "conversion tracking",
+                "google analytics",
+                "roi measurement",
+                "customer insights",
+                "ad optimization",
+                "ad campaign management",
+                "audience targeting",
+                "performance max",
+                "ad spend management",
+                "online sales",
+                "offline sales",
+                "mobile app promotion",
+                "retail advertising",
+                "ad formats",
+                "keyword planner",
+                "e-commerce advertising",
+                "search engine marketing",
+                "pay-per-click",
+                "ad monetization",
+                "lead tracking",
+                "budget optimization",
+                "ad creatives",
+                "call-to-action ads",
+                "analytics integration",
+                "marketing roi",
+                "data insights",
+                "ad reach",
+                "geotargeting",
+                "business solutions",
+                "content monetization",
+                "b2c",
+                "healthcare",
+                "finance",
+                "education",
+                "non-profit",
+                "consumer products & retail",
+                "energy & utilities",
+                "saas",
+                "information technology & services",
+                "consumers",
+                "enterprises",
+                "computer software",
+                "computer & network security",
+                "ux",
+                "marketing & advertising",
+                "internet service providers",
+                "internet infrastructure",
+                "sales",
+                "clean energy & technology",
+                "environmental services",
+                "renewables & environment",
+                "marketing",
+                "sem",
+                "health care",
+                "health, wellness & fitness",
+                "hospital & health care",
+                "financial services",
+                "nonprofit organization management"
+            ],
+            "ai_value": "Search Engine, Advertising, Cloud Computing, Artificial Intelligence, Consumer Electronics"
+        },
+        "technologies": {
+            "database_value": [
+                {
+                    "uid": "net",
+                    "name": ".NET",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "1shoppingcart",
+                    "name": "1shoppingcart",
+                    "category": "E-commerce Platforms"
+                },
+                {
+                    "uid": "24-7_media",
+                    "name": "24-7 Media",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "3m_360_encompass_health_analytics_suite",
+                    "name": "3M 360 Encompass - Health Analytics Suite",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "abb_distributed_control_systems_dcs",
+                    "name": "ABB Distributed Control Systems (DCS)",
+                    "category": "Other"
+                },
+                {
+                    "uid": "abb_robotics",
+                    "name": "ABB Robotics",
+                    "category": "Robotic Process Automation"
+                },
+                {
+                    "uid": "ac500_plc",
+                    "name": "AC500 PLC",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "acl",
+                    "name": "ACL",
+                    "category": "Other"
+                },
+                {
+                    "uid": "adp",
+                    "name": "ADP",
+                    "category": "Recruitment"
+                },
+                {
+                    "uid": "adva_optical",
+                    "name": "ADVA Optical",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "ai",
+                    "name": "AI",
+                    "category": "Other"
+                },
+                {
+                    "uid": "amd_sev",
+                    "name": "AMD SEV",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "amp",
+                    "name": "AMP",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "angel_lms",
+                    "name": "ANGEL LMS",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "ans",
+                    "name": "ANS",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "ansys",
+                    "name": "ANSYS",
+                    "category": "Other"
+                },
+                {
+                    "uid": "aris_simulation",
+                    "name": "ARIS Simulation",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "at_internet",
+                    "name": "AT Internet",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "at&t",
+                    "name": "AT&T",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "aveva_intouch_hmi",
+                    "name": "AVEVA InTouch HMI",
+                    "category": "Other"
+                },
+                {
+                    "uid": "aveva_pdms",
+                    "name": "AVEVA PDMS",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_analytics",
+                    "name": "AWS Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "aws_cloud",
+                    "name": "AWS Cloud",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_cloud",
+                    "name": "AWS Cloud",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_cloudhsm",
+                    "name": "AWS CloudHSM",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_glue_data_catalog",
+                    "name": "AWS Glue Data Catalog",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_identity_and_access_management_iam",
+                    "name": "AWS Identity and Access Management (IAM)",
+                    "category": "Security"
+                },
+                {
+                    "uid": "aws_machine_learning",
+                    "name": "AWS Machine Learning",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "aws_multifactor_authentication",
+                    "name": "AWS Multi-Factor Authentication",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "aws_sdk_for_javascript",
+                    "name": "AWS SDK for JavaScript",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "aws_transfer_for_sftp",
+                    "name": "AWS Transfer for SFTP",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "accesstrade",
+                    "name": "AccessTrade",
+                    "category": "Affiliate Advertising Network"
+                },
+                {
+                    "uid": "ace",
+                    "name": "Ace",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "acoustic",
+                    "name": "Acoustic",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "act",
+                    "name": "Act!",
+                    "category": "Other"
+                },
+                {
+                    "uid": "ad_astra",
+                    "name": "Ad Astra",
+                    "category": "Other"
+                },
+                {
+                    "uid": "adscale",
+                    "name": "AdScale",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "ada",
+                    "name": "Ada",
+                    "category": "Chats"
+                },
+                {
+                    "uid": "addthis",
+                    "name": "AddThis",
+                    "category": "Social Sharing"
+                },
+                {
+                    "uid": "adform_dmp",
+                    "name": "Adform DMP",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "admin",
+                    "name": "Admin",
+                    "category": "Other"
+                },
+                {
+                    "uid": "adobe_after_effects",
+                    "name": "Adobe After Effects",
+                    "category": "Web Presentation Tools"
+                },
+                {
+                    "uid": "adobe_analytics",
+                    "name": "Adobe Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "adobe_experience_cloud",
+                    "name": "Adobe Experience Cloud",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "adobe_marketo_engage",
+                    "name": "Adobe Marketo Engage",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "affilinet",
+                    "name": "Affilinet",
+                    "category": "Affiliate Advertising Network"
+                },
+                {
+                    "uid": "air",
+                    "name": "Air",
+                    "category": "Other"
+                },
+                {
+                    "uid": "aitthemes",
+                    "name": "AitThemes",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "akamai_app_api_protector",
+                    "name": "Akamai App & API Protector",
+                    "category": "Security"
+                },
+                {
+                    "uid": "allegro",
+                    "name": "Allegro",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "allegro_x_pcb_designer",
+                    "name": "Allegro X PCB Designer",
+                    "category": "Other"
+                },
+                {
+                    "uid": "altair_monarch",
+                    "name": "Altair Monarch",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "alteryx",
+                    "name": "Alteryx",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "alteryx_machine_learning_cloud",
+                    "name": "Alteryx Machine Learning Cloud",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "altitude_arena",
+                    "name": "Altitude ARENA",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "amadesa",
+                    "name": "Amadesa",
+                    "category": "Personalization"
+                },
+                {
+                    "uid": "amazon_aws",
+                    "name": "Amazon AWS",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "amazon_associates",
+                    "name": "Amazon Associates",
+                    "category": "Affiliate Advertising Network"
+                },
+                {
+                    "uid": "amazon_cloudfront",
+                    "name": "Amazon CloudFront",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "amazon_cloudwatch",
+                    "name": "Amazon CloudWatch",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "amazon_linux_2",
+                    "name": "Amazon Linux 2",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "amazon_pinpoint",
+                    "name": "Amazon Pinpoint",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "amazon_route_53",
+                    "name": "Amazon Route 53",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "amazon_s3",
+                    "name": "Amazon S3",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "amazon_ses",
+                    "name": "Amazon SES",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "amazon_video_ads",
+                    "name": "Amazon Video Ads",
+                    "category": "Video Advertising Networks"
+                },
+                {
+                    "uid": "amazon_virtual_private_cloud_vpc",
+                    "name": "Amazon Virtual Private Cloud (VPC)",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "amazon_workspaces",
+                    "name": "Amazon WorkSpaces",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "amdocs",
+                    "name": "Amdocs",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "analyzer",
+                    "name": "Analyzer",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "anaplan",
+                    "name": "Anaplan",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "android",
+                    "name": "Android",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "angular",
+                    "name": "Angular",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "angular_material",
+                    "name": "Angular Material",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "angularjs",
+                    "name": "AngularJS",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "ansible",
+                    "name": "Ansible",
+                    "category": "Other"
+                },
+                {
+                    "uid": "ansys_hfss",
+                    "name": "Ansys HFSS",
+                    "category": "Other"
+                },
+                {
+                    "uid": "ansys_redhawksc",
+                    "name": "Ansys RedHawk-SC",
+                    "category": "Other"
+                },
+                {
+                    "uid": "apache_http_server",
+                    "name": "Apache HTTP Server",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "apache_hadoop_hdfs",
+                    "name": "Apache Hadoop HDFS",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "apache_hudi",
+                    "name": "Apache Hudi",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "apache_iceberg",
+                    "name": "Apache Iceberg",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "apache_kafka",
+                    "name": "Apache Kafka",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "apache_spark",
+                    "name": "Apache Spark",
+                    "category": "Database"
+                },
+                {
+                    "uid": "apex",
+                    "name": "Apex",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "apigee",
+                    "name": "Apigee",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "apple_business_manager",
+                    "name": "Apple Business Manager",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "apple_core_ml",
+                    "name": "Apple Core ML",
+                    "category": "Other"
+                },
+                {
+                    "uid": "apple_school_manager",
+                    "name": "Apple School Manager",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "appsflyer",
+                    "name": "AppsFlyer",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "arc",
+                    "name": "Arc",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "arcgis_field_maps",
+                    "name": "ArcGIS Field Maps",
+                    "category": "Field Service Management"
+                },
+                {
+                    "uid": "arcspan",
+                    "name": "ArcSpan",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "arcserve",
+                    "name": "Arcserve",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "arena_plm",
+                    "name": "Arena PLM",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "atscale",
+                    "name": "AtScale",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "atex",
+                    "name": "Atex",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "atlas",
+                    "name": "Atlas",
+                    "category": "Other"
+                },
+                {
+                    "uid": "atlassian_bitbucket",
+                    "name": "Atlassian Bitbucket",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "attribution",
+                    "name": "Attribution",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "autodesk_cfd",
+                    "name": "Autodesk CFD",
+                    "category": "Other"
+                },
+                {
+                    "uid": "autodesk_inventor_tolerance_analysis",
+                    "name": "Autodesk Inventor Tolerance Analysis",
+                    "category": "Other"
+                },
+                {
+                    "uid": "avid_sibelius",
+                    "name": "Avid Sibelius",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "azure_ai_studio",
+                    "name": "Azure AI Studio",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "azure_ai_translator",
+                    "name": "Azure AI Translator",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "azure_active_directory_b2c",
+                    "name": "Azure Active Directory B2C",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "azure_analysis_services",
+                    "name": "Azure Analysis Services",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "azure_blockchain_service",
+                    "name": "Azure Blockchain Service",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "azure_data_lake_analytics",
+                    "name": "Azure Data Lake Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "azure_linux_virtual_machines",
+                    "name": "Azure Linux Virtual Machines",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "azure_maps",
+                    "name": "Azure Maps",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "azure_playfab",
+                    "name": "Azure PlayFab",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "azure_synapse_analytics",
+                    "name": "Azure Synapse Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "base",
+                    "name": "BASE",
+                    "category": "Other"
+                },
+                {
+                    "uid": "bmc_helix_discovery",
+                    "name": "BMC Helix Discovery",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "backbase_dfm",
+                    "name": "Backbase DFM",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "backblaze_computer_backup",
+                    "name": "Backblaze Computer Backup",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "baidu_search_engine",
+                    "name": "Baidu Search Engine",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "bash",
+                    "name": "Bash",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "bentley_openflows",
+                    "name": "Bentley OpenFlows",
+                    "category": "Contruction Management Platform"
+                },
+                {
+                    "uid": "better_replay",
+                    "name": "Better Replay",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "bitly",
+                    "name": "Bitly",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "blackbaud_award_management",
+                    "name": "Blackbaud Award Management",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "bombora_measurement",
+                    "name": "Bombora Measurement",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "bootstrap",
+                    "name": "Bootstrap",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "brandwatch",
+                    "name": "Brandwatch",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "broadcom_easytrieve",
+                    "name": "Broadcom Easytrieve",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "c#",
+                    "name": "C#",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "c_c++",
+                    "name": "C/C++",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "caesar_ii",
+                    "name": "CAESAR II",
+                    "category": "Contruction Management Platform"
+                },
+                {
+                    "uid": "cat",
+                    "name": "CAT",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "clear",
+                    "name": "CLEAR",
+                    "category": "Other"
+                },
+                {
+                    "uid": "cmpro",
+                    "name": "CMPRO",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "cpg_dragonfly",
+                    "name": "CPG Dragonfly",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "cpi",
+                    "name": "CPI",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "cpmstar",
+                    "name": "CPMStar",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "csc",
+                    "name": "CSC",
+                    "category": "Other"
+                },
+                {
+                    "uid": "cadence",
+                    "name": "Cadence",
+                    "category": "Other"
+                },
+                {
+                    "uid": "cadence_innovus",
+                    "name": "Cadence Innovus",
+                    "category": "Other"
+                },
+                {
+                    "uid": "cadence_omnis_cfd_platform",
+                    "name": "Cadence Omnis CFD Platform",
+                    "category": "Other"
+                },
+                {
+                    "uid": "callminer_eureka",
+                    "name": "CallMiner Eureka",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "candid_themes_fairy",
+                    "name": "Candid Themes Fairy",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "carbon",
+                    "name": "Carbon",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "cascade_cms",
+                    "name": "Cascade CMS",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "chai",
+                    "name": "Chai",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "channel_intelligence_by_google",
+                    "name": "Channel Intelligence by Google",
+                    "category": "E-commerce Tools"
+                },
+                {
+                    "uid": "check_point_cloudguard_cnapp",
+                    "name": "Check Point CloudGuard CNAPP",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "check_point_cloudguard_harmony_connect_cloudguard_connect",
+                    "name": "Check Point CloudGuard Harmony Connect (CloudGuard Connect)",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "checkmarx",
+                    "name": "Checkmarx",
+                    "category": "Security"
+                },
+                {
+                    "uid": "chili_piper",
+                    "name": "Chili Piper",
+                    "category": "Appointment Scheduling"
+                },
+                {
+                    "uid": "chorus_by_zoominfo",
+                    "name": "Chorus by ZoomInfo",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "chrome",
+                    "name": "Chrome",
+                    "category": "Other"
+                },
+                {
+                    "uid": "circle",
+                    "name": "Circle",
+                    "category": "Financial Software"
+                },
+                {
+                    "uid": "cisco_collaboration",
+                    "name": "Cisco Collaboration",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "cisco_ip_interoperability_and_collaboration_system_ipics",
+                    "name": "Cisco IP Interoperability and Collaboration System (IPICS)",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "cisco_meraki_ms",
+                    "name": "Cisco Meraki MS",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "cisco_ucs_servers",
+                    "name": "Cisco UCS Servers",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "cisco_webex_control_hub",
+                    "name": "Cisco Webex Control Hub",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "citrix_app_layering",
+                    "name": "Citrix App Layering",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "ckan",
+                    "name": "Ckan",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "clevertap",
+                    "name": "CleverTap",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "closure_library",
+                    "name": "Closure Library",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "compressor",
+                    "name": "Compressor",
+                    "category": "Other"
+                },
+                {
+                    "uid": "concur",
+                    "name": "Concur",
+                    "category": "Other"
+                },
+                {
+                    "uid": "concur_travel",
+                    "name": "Concur Travel",
+                    "category": "Reservation Software"
+                },
+                {
+                    "uid": "connectwise_cpq",
+                    "name": "ConnectWise CPQ",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "connectwise_control",
+                    "name": "ConnectWise Control",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "constant_contact",
+                    "name": "Constant Contact",
+                    "category": "Email Marketing"
+                },
+                {
+                    "uid": "cross_pixel_media",
+                    "name": "Cross Pixel Media",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "cvent",
+                    "name": "Cvent",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "dedge",
+                    "name": "D-EDGE",
+                    "category": "Other"
+                },
+                {
+                    "uid": "dataflow",
+                    "name": "DATAflow",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "dahua",
+                    "name": "Dahua",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "data analytics",
+                    "name": "Data Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "datapipe",
+                    "name": "Datapipe",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "datonics",
+                    "name": "Datonics",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "dell_emc_powerscale",
+                    "name": "Dell EMC PowerScale",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "dell_emc_powerstore",
+                    "name": "Dell EMC PowerStore",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "dell_emc_unity",
+                    "name": "Dell EMC Unity",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "dell_unisphere",
+                    "name": "Dell Unisphere",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "dell_idrac_integrated_dell_remote_access_controller",
+                    "name": "Dell iDRAC (Integrated Dell Remote Access Controller)",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "delta",
+                    "name": "Delta",
+                    "category": "Other"
+                },
+                {
+                    "uid": "delta_lake",
+                    "name": "Delta Lake",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "dialogtech",
+                    "name": "DialogTech",
+                    "category": "Call Tracking"
+                },
+                {
+                    "uid": "docker",
+                    "name": "Docker",
+                    "category": "Other"
+                },
+                {
+                    "uid": "doubleclick",
+                    "name": "DoubleClick",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "doubleclick_floodlight",
+                    "name": "DoubleClick Floodlight",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "dv360",
+                    "name": "Dv360",
+                    "category": "Demand Side Platforms"
+                },
+                {
+                    "uid": "emc",
+                    "name": "EMC",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "emaint",
+                    "name": "EMaint",
+                    "category": "Other"
+                },
+                {
+                    "uid": "etabs",
+                    "name": "ETABS",
+                    "category": "Contruction Management Platform"
+                },
+                {
+                    "uid": "etq_reliance_qms",
+                    "name": "ETQ Reliance QMS",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "echo",
+                    "name": "Echo",
+                    "category": "Other"
+                },
+                {
+                    "uid": "effective_measure",
+                    "name": "Effective Measure",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "electron",
+                    "name": "Electron",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "element",
+                    "name": "Element",
+                    "category": "Chats"
+                },
+                {
+                    "uid": "elite_software_hvac_solution",
+                    "name": "Elite Software HVAC Solution",
+                    "category": "Other"
+                },
+                {
+                    "uid": "email_verification_in_google_sheets",
+                    "name": "Email Verification in Google Sheets",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "emediate",
+                    "name": "Emediate",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "emma",
+                    "name": "Emma",
+                    "category": "Email Marketing"
+                },
+                {
+                    "uid": "enom",
+                    "name": "Enom",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "ensi",
+                    "name": "Ensi",
+                    "category": "E-commerce Platforms"
+                },
+                {
+                    "uid": "eventbrite",
+                    "name": "Eventbrite",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "frac_pumps",
+                    "name": "FRAC Pumps",
+                    "category": "Other"
+                },
+                {
+                    "uid": "fusion",
+                    "name": "FUSION",
+                    "category": "Other"
+                },
+                {
+                    "uid": "facebook_like_button",
+                    "name": "Facebook Like Button",
+                    "category": "Social Sharing"
+                },
+                {
+                    "uid": "facebook_pixel",
+                    "name": "Facebook Pixel",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "facebook_sdk",
+                    "name": "Facebook SDK",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "fathom",
+                    "name": "Fathom",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "figma",
+                    "name": "Figma",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "firebase",
+                    "name": "Firebase",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "fitbit",
+                    "name": "FitBit",
+                    "category": "Other"
+                },
+                {
+                    "uid": "fliphtml5",
+                    "name": "FlipHTML5",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "flow",
+                    "name": "Flow",
+                    "category": "Other"
+                },
+                {
+                    "uid": "flutter",
+                    "name": "Flutter",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "flux",
+                    "name": "Flux",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "forcepoint",
+                    "name": "Forcepoint",
+                    "category": "Security"
+                },
+                {
+                    "uid": "formassembly",
+                    "name": "Formassembly",
+                    "category": "Hosted Forms"
+                },
+                {
+                    "uid": "frame",
+                    "name": "Frame",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "gas",
+                    "name": "GAS",
+                    "category": "Other"
+                },
+                {
+                    "uid": "grin",
+                    "name": "GRIN",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "grpc",
+                    "name": "GRPC",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "gainsight_product_experience",
+                    "name": "Gainsight Product Experience",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "gauges",
+                    "name": "Gauges",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "gem",
+                    "name": "Gem",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "gemini",
+                    "name": "Gemini",
+                    "category": "Other"
+                },
+                {
+                    "uid": "gentext_ai_assistant_for_ms_word",
+                    "name": "GenText AI Assistant for MS Word",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "gerrit",
+                    "name": "Gerrit",
+                    "category": "Other"
+                },
+                {
+                    "uid": "git",
+                    "name": "Git",
+                    "category": "Deployment Tools"
+                },
+                {
+                    "uid": "github",
+                    "name": "GitHub",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "gleap",
+                    "name": "Gleap",
+                    "category": "Chats"
+                },
+                {
+                    "uid": "gmail",
+                    "name": "Gmail",
+                    "category": "Email Providers"
+                },
+                {
+                    "uid": "godaddy_verified",
+                    "name": "GoDaddy Verified",
+                    "category": "Security"
+                },
+                {
+                    "uid": "gotowebinar",
+                    "name": "GoToWebinar",
+                    "category": "Web Presentation Tools"
+                },
+                {
+                    "uid": "goodfirms",
+                    "name": "GoodFirms",
+                    "category": "Customer Reviews"
+                },
+                {
+                    "uid": "google",
+                    "name": "Google",
+                    "category": "Other"
+                },
+                {
+                    "uid": "google_ad_manager",
+                    "name": "Google Ad Manager",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "google_admob",
+                    "name": "Google AdMob",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "google_adsense",
+                    "name": "Google AdSense",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "google_adsense",
+                    "name": "Google AdSense",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "google_ads",
+                    "name": "Google Ads",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "google_ads_conversion",
+                    "name": "Google Ads Conversion",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_ads_data_hub",
+                    "name": "Google Ads Data Hub",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "google_alloydb_for_postgresql",
+                    "name": "Google AlloyDB for PostgreSQL",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_analytics",
+                    "name": "Google Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_analytics_ecommerce_tracking",
+                    "name": "Google Analytics Ecommerce Tracking",
+                    "category": "E-commerce Tools"
+                },
+                {
+                    "uid": "google_app_engine",
+                    "name": "Google App Engine",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_apps_script_for_g_suite",
+                    "name": "Google Apps Script for G Suite",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "google_artifact_registry",
+                    "name": "Google Artifact Registry",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_calendar",
+                    "name": "Google Calendar",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "google_classroom",
+                    "name": "Google Classroom",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "google_cloud",
+                    "name": "Google Cloud",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud",
+                    "name": "Google Cloud",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_ai_platform",
+                    "name": "Google Cloud AI Platform",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_anthos",
+                    "name": "Google Cloud Anthos",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_bigquery",
+                    "name": "Google Cloud BigQuery",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "google_cloud_build",
+                    "name": "Google Cloud Build",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_dns",
+                    "name": "Google Cloud DNS",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "google_cloud_dataproc",
+                    "name": "Google Cloud Dataproc",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_dialogflow",
+                    "name": "Google Cloud Dialogflow",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_hosting",
+                    "name": "Google Cloud Hosting",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "google_cloud_knative",
+                    "name": "Google Cloud Knative",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_logging",
+                    "name": "Google Cloud Logging",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_looker",
+                    "name": "Google Cloud Looker",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_cloud_looker",
+                    "name": "Google Cloud Looker",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_cloud_machine_learning_engine",
+                    "name": "Google Cloud Machine Learning Engine",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_monitoring",
+                    "name": "Google Cloud Monitoring",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_run",
+                    "name": "Google Cloud Run",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_security_command_center",
+                    "name": "Google Cloud Security Command Center",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_serverless",
+                    "name": "Google Cloud Serverless",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_spanner",
+                    "name": "Google Cloud Spanner",
+                    "category": "Database"
+                },
+                {
+                    "uid": "google_cloud_storage",
+                    "name": "Google Cloud Storage",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "google_cloud_tasks",
+                    "name": "Google Cloud Tasks",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "google_cloud_vertex_ai",
+                    "name": "Google Cloud Vertex AI",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_cloud_vertex_ai",
+                    "name": "Google Cloud Vertex AI",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_colab",
+                    "name": "Google Colab",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_compute_engine",
+                    "name": "Google Compute Engine",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_dataplex",
+                    "name": "Google Dataplex",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "google_deepmind",
+                    "name": "Google DeepMind",
+                    "category": "Other"
+                },
+                {
+                    "uid": "google_docs",
+                    "name": "Google Docs",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "google_earth_pro",
+                    "name": "Google Earth Pro",
+                    "category": "Other"
+                },
+                {
+                    "uid": "google_font_api",
+                    "name": "Google Font API",
+                    "category": "Fonts"
+                },
+                {
+                    "uid": "google_forms",
+                    "name": "Google Forms",
+                    "category": "Hosted Forms"
+                },
+                {
+                    "uid": "google_frontend_webserver",
+                    "name": "Google Frontend (Webserver)",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "google_identity_services_apis",
+                    "name": "Google Identity Services APIs",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_kubernetes_engine_gke",
+                    "name": "Google Kubernetes Engine (GKE)",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_kubernetes_engine_gke",
+                    "name": "Google Kubernetes Engine (GKE)",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_maps",
+                    "name": "Google Maps",
+                    "category": "Other"
+                },
+                {
+                    "uid": "google_maps_platform",
+                    "name": "Google Maps Platform",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_marketing_platform",
+                    "name": "Google Marketing Platform",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "google_meet",
+                    "name": "Google Meet",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "google_pay_for_business",
+                    "name": "Google Pay for Business",
+                    "category": "E-commerce Tools"
+                },
+                {
+                    "uid": "google_play",
+                    "name": "Google Play",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "google_plus_login",
+                    "name": "Google Plus",
+                    "category": "Social Login"
+                },
+                {
+                    "uid": "google_search_appliance",
+                    "name": "Google Search Appliance",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_search_central",
+                    "name": "Google Search Central",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_search_console",
+                    "name": "Google Search Console",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_sheets",
+                    "name": "Google Sheets",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "google_sites",
+                    "name": "Google Sites",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "google_tag_manager",
+                    "name": "Google Tag Manager",
+                    "category": "Tag Management"
+                },
+                {
+                    "uid": "google_tensorflow_enterprise",
+                    "name": "Google TensorFlow Enterprise",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_trends",
+                    "name": "Google Trends",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "google_wallet",
+                    "name": "Google Wallet",
+                    "category": "Payments"
+                },
+                {
+                    "uid": "google workspace",
+                    "name": "Google Workspace",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google workspace",
+                    "name": "Google Workspace",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "google_for_education",
+                    "name": "Google for Education",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "google_translate_api",
+                    "name": "Google translate API",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "google_translate_widget",
+                    "name": "Google translate widget",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "gorilla_nation",
+                    "name": "Gorilla Nation",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "graphql",
+                    "name": "GraphQL",
+                    "category": "Database"
+                },
+                {
+                    "uid": "graphy",
+                    "name": "Graphy",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "grav",
+                    "name": "Grav",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "gravity",
+                    "name": "Gravity",
+                    "category": "Content Syndication Networks"
+                },
+                {
+                    "uid": "guidewire_infocenter",
+                    "name": "Guidewire InfoCenter",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "hpe_proliant_ml110",
+                    "name": "HPE ProLiant ML110",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "html5_maker",
+                    "name": "HTML5 Maker",
+                    "category": "Web Presentation Tools"
+                },
+                {
+                    "uid": "html5_media",
+                    "name": "HTML5 Media",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "hackerearth_assessments",
+                    "name": "HackerEarth Assessments",
+                    "category": "Online Testing Platforms"
+                },
+                {
+                    "uid": "heartland_payments",
+                    "name": "Heartland Payments+",
+                    "category": "Payments"
+                },
+                {
+                    "uid": "hi-media_performance",
+                    "name": "Hi-Media Performance",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "histats",
+                    "name": "Histats",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "hive",
+                    "name": "Hive",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "homestead",
+                    "name": "Homestead",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "hubspot",
+                    "name": "Hubspot",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "ibm_cognos_analytics",
+                    "name": "IBM Cognos Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "ibm_ilog_cplex_optimization_studio",
+                    "name": "IBM ILOG CPLEX Optimization Studio",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "ibm_spss_modeler",
+                    "name": "IBM SPSS Modeler",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "ice",
+                    "name": "ICE",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "icp",
+                    "name": "ICP",
+                    "category": "Other"
+                },
+                {
+                    "uid": "idc",
+                    "name": "IDC",
+                    "category": "Other"
+                },
+                {
+                    "uid": "igel_endpoints",
+                    "name": "IGEL Endpoints",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "iso",
+                    "name": "ISO+™",
+                    "category": "Other"
+                },
+                {
+                    "uid": "inductive_automation_ignition",
+                    "name": "Inductive Automation Ignition",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "innovid_advertising_measurement",
+                    "name": "Innovid Advertising Measurement",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "instart_logic",
+                    "name": "Instart Logic",
+                    "category": "Content Delivery Networks"
+                },
+                {
+                    "uid": "intel",
+                    "name": "Intel Cloud Services",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "iot",
+                    "name": "IoT",
+                    "category": "Other"
+                },
+                {
+                    "uid": "ixia",
+                    "name": "Ixia",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "jax",
+                    "name": "JAX",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "jmp",
+                    "name": "JMP",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "jabra_headsets_and_speakerphones",
+                    "name": "Jabra Headsets And Speakerphones",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "java",
+                    "name": "Java",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "javascript",
+                    "name": "Javascript",
+                    "category": "Other"
+                },
+                {
+                    "uid": "john_doe",
+                    "name": "John Doe",
+                    "category": "Other"
+                },
+                {
+                    "uid": "kantar_marketplace",
+                    "name": "Kantar Marketplace",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "keka",
+                    "name": "Keka",
+                    "category": "HR Solutions"
+                },
+                {
+                    "uid": "keras",
+                    "name": "Keras",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "kernelcare",
+                    "name": "Kernelcare",
+                    "category": "Security"
+                },
+                {
+                    "uid": "kinaxis_rapidresponse",
+                    "name": "Kinaxis RapidResponse",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "kiosked",
+                    "name": "Kiosked",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "klarna",
+                    "name": "Klarna",
+                    "category": "Payments"
+                },
+                {
+                    "uid": "kotlin",
+                    "name": "Kotlin",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "kubernetes",
+                    "name": "Kubernetes",
+                    "category": "Other"
+                },
+                {
+                    "uid": "leap",
+                    "name": "LEAP",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "laserfiche",
+                    "name": "Laserfiche",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "leads_pedia",
+                    "name": "LeadsPedia",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "leaflink",
+                    "name": "LeafLink",
+                    "category": "E-commerce Platforms"
+                },
+                {
+                    "uid": "lens",
+                    "name": "Lens",
+                    "category": "Other"
+                },
+                {
+                    "uid": "lift",
+                    "name": "Lift",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "linkedin_ads",
+                    "name": "LinkedIn Ads",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "localgov_drupal",
+                    "name": "LocalGov Drupal",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "logic",
+                    "name": "LogIC",
+                    "category": "Other"
+                },
+                {
+                    "uid": "looker_studio",
+                    "name": "Looker Studio",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "lua",
+                    "name": "Lua",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "lytics",
+                    "name": "Lytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "matlab",
+                    "name": "MATLAB",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "mitre_attck",
+                    "name": "MITRE ATT&CK",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "mllib",
+                    "name": "MLlib",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mppglobal",
+                    "name": "MPP-Global",
+                    "category": "Payments"
+                },
+                {
+                    "uid": "mad_mobile",
+                    "name": "Mad Mobile",
+                    "category": "E-commerce Platforms"
+                },
+                {
+                    "uid": "madkudu",
+                    "name": "MadKudu",
+                    "category": "Marketing Automation"
+                },
+                {
+                    "uid": "mag",
+                    "name": "Mag+",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "magnetvideo",
+                    "name": "MagnetVideo",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "mailchimp",
+                    "name": "MailChimp",
+                    "category": "Email Marketing"
+                },
+                {
+                    "uid": "mailchimp",
+                    "name": "MailChimp",
+                    "category": "Email Marketing"
+                },
+                {
+                    "uid": "mailgun",
+                    "name": "Mailgun",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "manageengine_servicedesk_plus",
+                    "name": "ManageEngine ServiceDesk Plus",
+                    "category": "Case Management"
+                },
+                {
+                    "uid": "mandiant_mdr",
+                    "name": "Mandiant MDR",
+                    "category": "Security"
+                },
+                {
+                    "uid": "manhattan_active_omni",
+                    "name": "Manhattan Active Omni",
+                    "category": "E-commerce Platforms"
+                },
+                {
+                    "uid": "mari",
+                    "name": "Mari",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mcafee_virusscan_enterprise",
+                    "name": "McAfee VirusScan Enterprise",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "medium",
+                    "name": "Medium",
+                    "category": "Content Management Platform"
+                },
+                {
+                    "uid": "meetrics",
+                    "name": "Meetrics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "mentor_graphics",
+                    "name": "Mentor Graphics",
+                    "category": "Other"
+                },
+                {
+                    "uid": "meridianlink_mortgage",
+                    "name": "MeridianLink Mortgage",
+                    "category": "Financial Software"
+                },
+                {
+                    "uid": "micro",
+                    "name": "Micro",
+                    "category": "Other"
+                },
+                {
+                    "uid": "micro_focus_arcsight",
+                    "name": "Micro Focus ArcSight",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "microsoft_active_directory_federation_services",
+                    "name": "Microsoft Active Directory Federation Services",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "microsoft_advertising",
+                    "name": "Microsoft Advertising",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "microsoft_publisher",
+                    "name": "Microsoft Publisher",
+                    "category": "Web Presentation Tools"
+                },
+                {
+                    "uid": "microsoft_purview_ediscovery",
+                    "name": "Microsoft Purview eDiscovery",
+                    "category": "Case Management"
+                },
+                {
+                    "uid": "microsoft_windows_server_2012",
+                    "name": "Microsoft Windows Server 2012",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "minitab_statistical_software",
+                    "name": "Minitab Statistical Software",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "mist",
+                    "name": "Mist",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "mobile_friendly",
+                    "name": "Mobile Friendly",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mode",
+                    "name": "Mode",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "motion",
+                    "name": "Motion",
+                    "category": "Appointment Scheduling"
+                },
+                {
+                    "uid": "multilingual",
+                    "name": "Multilingual",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "multiview",
+                    "name": "Multiview",
+                    "category": "Other"
+                },
+                {
+                    "uid": "mysmtp",
+                    "name": "MySMTP",
+                    "category": "Email Delivery"
+                },
+                {
+                    "uid": "mysql",
+                    "name": "MySQL",
+                    "category": "Database"
+                },
+                {
+                    "uid": "mysql",
+                    "name": "MySQL",
+                    "category": "Database"
+                },
+                {
+                    "uid": "nec",
+                    "name": "NEC",
+                    "category": "Other"
+                },
+                {
+                    "uid": "nlp",
+                    "name": "NLP",
+                    "category": "Other"
+                },
+                {
+                    "uid": "nmu_ab",
+                    "name": "NMU AB",
+                    "category": "Domain Name Services"
+                },
+                {
+                    "uid": "ntent",
+                    "name": "NTENT",
+                    "category": "Content Syndication Networks"
+                },
+                {
+                    "uid": "nunit",
+                    "name": "NUnit",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "nvidia",
+                    "name": "NVIDIA",
+                    "category": "Other"
+                },
+                {
+                    "uid": "nvidia_a100_tensor_core_gpu",
+                    "name": "NVIDIA A100 Tensor Core GPU",
+                    "category": "Other"
+                },
+                {
+                    "uid": "nginx",
+                    "name": "Nginx",
+                    "category": "Load Balancers"
+                },
+                {
+                    "uid": "nielsen_dmp",
+                    "name": "Nielsen DMP",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "ning",
+                    "name": "Ning",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "node.js",
+                    "name": "Node.js",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "northbeam",
+                    "name": "Northbeam",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "nutanix_beam",
+                    "name": "Nutanix Beam",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "owasp_dependencycheck",
+                    "name": "OWASP Dependency-Check",
+                    "category": "Security"
+                },
+                {
+                    "uid": "objectivec",
+                    "name": "Objective-C",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "olo",
+                    "name": "Olo",
+                    "category": "Food Ordering Services"
+                },
+                {
+                    "uid": "omeda",
+                    "name": "Omeda",
+                    "category": "Email Marketing"
+                },
+                {
+                    "uid": "ometrics",
+                    "name": "Ometrics",
+                    "category": "Chats"
+                },
+                {
+                    "uid": "onestat",
+                    "name": "OneStat",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "onetrust_tech_risk_compliance",
+                    "name": "OneTrust Tech Risk & Compliance",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "onit",
+                    "name": "Onit",
+                    "category": "Case Management"
+                },
+                {
+                    "uid": "open_adstream",
+                    "name": "Open AdStream",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "open_adstream",
+                    "name": "Open AdStream",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "openapi",
+                    "name": "OpenAPI",
+                    "category": "Other"
+                },
+                {
+                    "uid": "openxr",
+                    "name": "OpenXR",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "opt-intelligence",
+                    "name": "Opt-Intelligence",
+                    "category": "Affiliate Advertising Network"
+                },
+                {
+                    "uid": "oracle_analytics_cloud",
+                    "name": "Oracle Analytics Cloud",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "oracle_bi_publisher",
+                    "name": "Oracle BI Publisher",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "oracle_bare_metal_cloud_services",
+                    "name": "Oracle Bare Metal Cloud Services",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "oracle_cloud_infrastructure_identity_and_access_management",
+                    "name": "Oracle Cloud Infrastructure Identity and Access Management",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "oracle_database",
+                    "name": "Oracle Database",
+                    "category": "Database"
+                },
+                {
+                    "uid": "oracle_exadata_cloud_service",
+                    "name": "Oracle Exadata Cloud Service",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "oracle_hyperion_enterprise",
+                    "name": "Oracle Hyperion Enterprise",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "orum",
+                    "name": "Orum",
+                    "category": "Other"
+                },
+                {
+                    "uid": "peo",
+                    "name": "PEO",
+                    "category": "HR Solutions"
+                },
+                {
+                    "uid": "pr_newswire",
+                    "name": "PR Newswire",
+                    "category": "Content Syndication Networks"
+                },
+                {
+                    "uid": "ptc_mathcad_express",
+                    "name": "PTC Mathcad Express",
+                    "category": "Other"
+                },
+                {
+                    "uid": "payara_server",
+                    "name": "Payara Server",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "paypal",
+                    "name": "Paypal",
+                    "category": "Payments"
+                },
+                {
+                    "uid": "percipio",
+                    "name": "Percipio",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "photon",
+                    "name": "Photon",
+                    "category": "Other"
+                },
+                {
+                    "uid": "pipedrive",
+                    "name": "Pipedrive",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "posit",
+                    "name": "Posit",
+                    "category": "Other"
+                },
+                {
+                    "uid": "postgresql",
+                    "name": "PostgreSQL",
+                    "category": "Database"
+                },
+                {
+                    "uid": "priority_hints",
+                    "name": "Priority Hints",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "pubsub",
+                    "name": "PubSub+",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "pulsant_hosting",
+                    "name": "Pulsant Hosting",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "pyspark",
+                    "name": "PySpark",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "pytorch",
+                    "name": "PyTorch",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "python",
+                    "name": "Python",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "qualys_penetration_testing",
+                    "name": "Qualys Penetration Testing",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "quantcast_measure",
+                    "name": "Quantcast Measure",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "quartic",
+                    "name": "Quartic",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "qubit",
+                    "name": "Qubit",
+                    "category": "Personalization"
+                },
+                {
+                    "uid": "quickbase",
+                    "name": "Quickbase",
+                    "category": "Database"
+                },
+                {
+                    "uid": "quip",
+                    "name": "Quip",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "r",
+                    "name": "R",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "reach",
+                    "name": "REACH",
+                    "category": "Other"
+                },
+                {
+                    "uid": "rec",
+                    "name": "REC",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "rest",
+                    "name": "REST",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "room",
+                    "name": "ROOM",
+                    "category": "Other"
+                },
+                {
+                    "uid": "ross",
+                    "name": "ROSS",
+                    "category": "Other"
+                },
+                {
+                    "uid": "rain",
+                    "name": "Rain",
+                    "category": "E-commerce Platforms"
+                },
+                {
+                    "uid": "react",
+                    "name": "React",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "redis",
+                    "name": "Redis",
+                    "category": "Database"
+                },
+                {
+                    "uid": "remedy_single_sign_on",
+                    "name": "Remedy Single Sign On",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "remintrex",
+                    "name": "Remintrex",
+                    "category": "Email Marketing"
+                },
+                {
+                    "uid": "remote",
+                    "name": "Remote",
+                    "category": "Other"
+                },
+                {
+                    "uid": "resi",
+                    "name": "Resi",
+                    "category": "Other"
+                },
+                {
+                    "uid": "resy",
+                    "name": "Resy",
+                    "category": "Reservation Software"
+                },
+                {
+                    "uid": "revit",
+                    "name": "Revit",
+                    "category": "Contruction Management Platform"
+                },
+                {
+                    "uid": "rise",
+                    "name": "Rise",
+                    "category": "Other"
+                },
+                {
+                    "uid": "robixcm_generator",
+                    "name": "RobixCM Generator",
+                    "category": "Other"
+                },
+                {
+                    "uid": "rocketchat",
+                    "name": "Rocket.Chat",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "roller",
+                    "name": "Roller",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "route",
+                    "name": "Route",
+                    "category": "Other"
+                },
+                {
+                    "uid": "rust",
+                    "name": "Rust",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "sam",
+                    "name": "SAM",
+                    "category": "Other"
+                },
+                {
+                    "uid": "sap",
+                    "name": "SAP",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "sap_asset_accounting_aa",
+                    "name": "SAP Asset Accounting (AA)",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "sap_data_migration",
+                    "name": "SAP Data Migration",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "sap_fieldglass",
+                    "name": "SAP Fieldglass",
+                    "category": "Human Capital Management"
+                },
+                {
+                    "uid": "sap_fiori",
+                    "name": "SAP Fiori",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "sap_master_data_governance_retail_and_fashion_management_extension_by_utopia",
+                    "name": "SAP Master Data Governance, Retail and Fashion Management extension by Utopia",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "sap_process_orchestration",
+                    "name": "SAP Process Orchestration",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "sap_s4hana",
+                    "name": "SAP S/4HANA",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "sap_travel_management",
+                    "name": "SAP Travel Management",
+                    "category": "ERP"
+                },
+                {
+                    "uid": "sap2000",
+                    "name": "SAP2000",
+                    "category": "Other"
+                },
+                {
+                    "uid": "sidearm_sports",
+                    "name": "SIDEARM Sports",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "smart_board",
+                    "name": "SMART Board",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "sps_commerce_analytics",
+                    "name": "SPS Commerce Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "ssc",
+                    "name": "SS&C",
+                    "category": "Financial Software"
+                },
+                {
+                    "uid": "ssms_tools_pack",
+                    "name": "SSMS Tools Pack",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "swift",
+                    "name": "SWIFT",
+                    "category": "Financial Software"
+                },
+                {
+                    "uid": "salesforce",
+                    "name": "Salesforce",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "salesforce crm analytics",
+                    "name": "Salesforce CRM Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "salesforce_crm_implementation_and_support_services",
+                    "name": "Salesforce CRM Implementation and Support Services",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "salesforce_customer_360_data_manager",
+                    "name": "Salesforce Customer 360 Data Manager",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "salesforce_service_cloud",
+                    "name": "Salesforce Service Cloud",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "scala",
+                    "name": "Scala",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "schrodinger_pymol",
+                    "name": "Schrodinger PyMol",
+                    "category": "Other"
+                },
+                {
+                    "uid": "scipy",
+                    "name": "Scipy",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "scupio",
+                    "name": "Scupio",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "secured_mvc_forum_on_windows_2012_r2",
+                    "name": "Secured MVC Forum on Windows 2012 R2",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "security",
+                    "name": "Security",
+                    "category": "Security"
+                },
+                {
+                    "uid": "securonix_security_operations_and_analytics_platform",
+                    "name": "Securonix Security Operations and Analytics Platform",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "semgrep",
+                    "name": "Semgrep",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "sentencetransformers",
+                    "name": "SentenceTransformers",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "sentinel",
+                    "name": "Sentinel",
+                    "category": "Security"
+                },
+                {
+                    "uid": "servicenow_problem_management",
+                    "name": "ServiceNow Problem Management",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "shopp",
+                    "name": "Shopp",
+                    "category": "E-commerce Platforms"
+                },
+                {
+                    "uid": "siemens_calibre",
+                    "name": "Siemens Calibre",
+                    "category": "Other"
+                },
+                {
+                    "uid": "siemens_calibre_nmdrc",
+                    "name": "Siemens Calibre nmDRC",
+                    "category": "Other"
+                },
+                {
+                    "uid": "siemens_calibre_nmlvs",
+                    "name": "Siemens Calibre nmLVS",
+                    "category": "Other"
+                },
+                {
+                    "uid": "siemens_profibus",
+                    "name": "Siemens PROFIBUS",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "siemens_simatic_s7",
+                    "name": "Siemens SIMATIC S7",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "siemens_simatic_scada",
+                    "name": "Siemens SIMATIC SCADA",
+                    "category": "Other"
+                },
+                {
+                    "uid": "siemens_valor",
+                    "name": "Siemens Valor",
+                    "category": "Other"
+                },
+                {
+                    "uid": "sigma",
+                    "name": "Sigma",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "signal",
+                    "name": "Signal",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "silkroad",
+                    "name": "SilkRoad",
+                    "category": "Recruitment"
+                },
+                {
+                    "uid": "site_vibes",
+                    "name": "Site Vibes",
+                    "category": "E-commerce Tools"
+                },
+                {
+                    "uid": "sitemeter",
+                    "name": "SiteMeter",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "smart_adserver",
+                    "name": "Smart AdServer",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "smartlook",
+                    "name": "Smartlook",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "snyk",
+                    "name": "Snyk",
+                    "category": "Security"
+                },
+                {
+                    "uid": "sortable",
+                    "name": "Sortable",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "soundcloud",
+                    "name": "SoundCloud",
+                    "category": "Other"
+                },
+                {
+                    "uid": "sovrn//commerce",
+                    "name": "Sovrn//Commerce",
+                    "category": "Affiliate Advertising Network"
+                },
+                {
+                    "uid": "speech_to_text",
+                    "name": "Speech to text",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "spicethemes_spicepress",
+                    "name": "SpiceThemes SpicePress",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "spiceworks_ip_scanner",
+                    "name": "Spiceworks IP Scanner",
+                    "category": "Security"
+                },
+                {
+                    "uid": "spirent_testcenter",
+                    "name": "Spirent TestCenter",
+                    "category": "Web Performance Monitoring"
+                },
+                {
+                    "uid": "splunk_soar",
+                    "name": "Splunk SOAR",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "sprinklr",
+                    "name": "Sprinklr",
+                    "category": "Social Media Marketing"
+                },
+                {
+                    "uid": "starrc",
+                    "name": "StarRC",
+                    "category": "Other"
+                },
+                {
+                    "uid": "statcounter",
+                    "name": "StatCounter",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "stitch",
+                    "name": "Stitch",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "streamroll",
+                    "name": "Streamroll",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "sumo",
+                    "name": "Sumo",
+                    "category": "Other"
+                },
+                {
+                    "uid": "switch_concepts",
+                    "name": "Switch Concepts",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "symantec_pgp",
+                    "name": "Symantec PGP",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "synopsys",
+                    "name": "Synopsys",
+                    "category": "Other"
+                },
+                {
+                    "uid": "synopsys_design_compiler",
+                    "name": "Synopsys Design Compiler",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "synopsys_primetime",
+                    "name": "Synopsys PrimeTime",
+                    "category": "Other"
+                },
+                {
+                    "uid": "systemverilog",
+                    "name": "SystemVerilog",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "tcp_timeclock_plus",
+                    "name": "TCP TimeClock Plus",
+                    "category": "HR Solutions"
+                },
+                {
+                    "uid": "tsys",
+                    "name": "TSYS",
+                    "category": "Payments"
+                },
+                {
+                    "uid": "tsheets",
+                    "name": "TSheets",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "tableau",
+                    "name": "Tableau",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "tapsell",
+                    "name": "Tapsell",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "tenable_security_center",
+                    "name": "Tenable Security Center",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "tensorflow",
+                    "name": "TensorFlow",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "tern",
+                    "name": "Tern",
+                    "category": "E-commerce Tools"
+                },
+                {
+                    "uid": "terraform",
+                    "name": "Terraform",
+                    "category": "Deployment Tools"
+                },
+                {
+                    "uid": "ticket_spice",
+                    "name": "Ticket Spice",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "tierpoint_draas",
+                    "name": "TierPoint DRaaS",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "tint",
+                    "name": "Tint",
+                    "category": "Social Media Marketing"
+                },
+                {
+                    "uid": "toolkit",
+                    "name": "Toolkit",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "tor",
+                    "name": "Tor",
+                    "category": "Security"
+                },
+                {
+                    "uid": "touchcommerce",
+                    "name": "TouchCommerce",
+                    "category": "Chats"
+                },
+                {
+                    "uid": "tradetracker",
+                    "name": "TradeTracker",
+                    "category": "Affiliate Advertising Network"
+                },
+                {
+                    "uid": "travelport_gds",
+                    "name": "Travelport GDS",
+                    "category": "Reservation Software"
+                },
+                {
+                    "uid": "trend_micro_smart_protection",
+                    "name": "Trend Micro Smart Protection",
+                    "category": "Security"
+                },
+                {
+                    "uid": "triple whale",
+                    "name": "Triple Whale",
+                    "category": "Data Management Platform"
+                },
+                {
+                    "uid": "typescript",
+                    "name": "TypeScript",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "ups",
+                    "name": "UPS",
+                    "category": "Shipping"
+                },
+                {
+                    "uid": "unity",
+                    "name": "Unity",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "unix",
+                    "name": "Unix",
+                    "category": "Other"
+                },
+                {
+                    "uid": "upfluence",
+                    "name": "Upfluence",
+                    "category": "Social Media Marketing"
+                },
+                {
+                    "uid": "vhdl",
+                    "name": "VHDL",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "vmware",
+                    "name": "VMware",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "vagaro",
+                    "name": "Vagaro",
+                    "category": "Appointment Scheduling"
+                },
+                {
+                    "uid": "varonis_gdpr_patterns",
+                    "name": "Varonis GDPR Patterns",
+                    "category": "Security"
+                },
+                {
+                    "uid": "vector",
+                    "name": "Vector",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "vena",
+                    "name": "Vena",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "veracode_appsec_governance",
+                    "name": "Veracode AppSec Governance",
+                    "category": "Event Management"
+                },
+                {
+                    "uid": "verilog",
+                    "name": "Verilog",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "vertex",
+                    "name": "Vertex",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "viewport_meta",
+                    "name": "Viewport Meta",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "vimeo",
+                    "name": "Vimeo",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "virustotal",
+                    "name": "VirusTotal",
+                    "category": "Security"
+                },
+                {
+                    "uid": "visual_basic",
+                    "name": "Visual-Basic-.NET",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "vormetric_data_security_platform",
+                    "name": "Vormetric Data Security Platform",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "wp_featherlight",
+                    "name": "WP Featherlight",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "wechat_work",
+                    "name": "WeChat Work",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "weborama",
+                    "name": "Weborama",
+                    "category": "Ad Servers"
+                },
+                {
+                    "uid": "wider_planet",
+                    "name": "Wider Planet",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "wireshark",
+                    "name": "Wireshark",
+                    "category": "Security"
+                },
+                {
+                    "uid": "wiz",
+                    "name": "Wiz",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "wordpress_org",
+                    "name": "WordPress.org",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "worksafebc",
+                    "name": "WorkSafeBC",
+                    "category": "Insurance Software"
+                },
+                {
+                    "uid": "workday",
+                    "name": "Workday",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "workday_prism_analytics",
+                    "name": "Workday Prism Analytics",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "worldox_gx4",
+                    "name": "Worldox GX4",
+                    "category": "Cloud Services"
+                },
+                {
+                    "uid": "wufoo",
+                    "name": "Wufoo",
+                    "category": "Hosted Forms"
+                },
+                {
+                    "uid": "xgboost",
+                    "name": "XGBoost",
+                    "category": "Business Intelligence"
+                },
+                {
+                    "uid": "xray",
+                    "name": "Xray",
+                    "category": "Other"
+                },
+                {
+                    "uid": "yahoo_ad_manager",
+                    "name": "Yahoo Ad Manager",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "yelp",
+                    "name": "Yelp",
+                    "category": "Other"
+                },
+                {
+                    "uid": "youtube",
+                    "name": "YouTube",
+                    "category": "Online Video Platforms"
+                },
+                {
+                    "uid": "zensai_formerly_lms365",
+                    "name": "Zensai (formerly LMS365)",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "zoho_crm",
+                    "name": "Zoho CRM",
+                    "category": "Customer Relationship Management"
+                },
+                {
+                    "uid": "athemes_astrid",
+                    "name": "aThemes Astrid",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "accessibe",
+                    "name": "accessiBe",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "dataai_ascend_formerly_app_annie",
+                    "name": "data.ai Ascend (formerly App Annie)",
+                    "category": "Analytics and Tracking"
+                },
+                {
+                    "uid": "edirectory",
+                    "name": "eDirectory",
+                    "category": "CMS"
+                },
+                {
+                    "uid": "emaint_cmms",
+                    "name": "eMaint CMMS",
+                    "category": "Field Service Management"
+                },
+                {
+                    "uid": "edx",
+                    "name": "edX",
+                    "category": "Education Management Software"
+                },
+                {
+                    "uid": "ezflow_for_google_docs_for_g_suite",
+                    "name": "ezFlow for Google Docs for G Suite",
+                    "category": "Communication and Collaboration"
+                },
+                {
+                    "uid": "go",
+                    "name": "go+",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "homepl",
+                    "name": "home.pl",
+                    "category": "Hosting"
+                },
+                {
+                    "uid": "itunes",
+                    "name": "iTunes",
+                    "category": "Widgets"
+                },
+                {
+                    "uid": "mabl",
+                    "name": "mabl",
+                    "category": "Other"
+                },
+                {
+                    "uid": "ntop",
+                    "name": "nTop",
+                    "category": "Other"
+                },
+                {
+                    "uid": "pandas",
+                    "name": "pandas",
+                    "category": "Frameworks and Programming Languages"
+                },
+                {
+                    "uid": "pdfmake",
+                    "name": "pdfmake",
+                    "category": "CSS and JavaScript Libraries"
+                },
+                {
+                    "uid": "recaptcha",
+                    "name": "reCAPTCHA",
+                    "category": "Captcha"
+                },
+                {
+                    "uid": "redvertisement",
+                    "name": "redvertisement",
+                    "category": "Advertising Networks"
+                },
+                {
+                    "uid": "snigel_adengine",
+                    "name": "snigel AdEngine",
+                    "category": "Advertising Networks"
+                }
+            ],
+            "ai_value": [
+                {
+                    "name": "gws",
+                    "category": "Web Server",
+                    "confidence": 0.99,
+                    "source": "server: gws header",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.7,
+                        "evidence_density": 0.17
+                    }
+                },
+                {
+                    "name": "Google Sign-In",
+                    "category": "Authentication",
+                    "confidence": 0.95,
+                    "source": "signin-* CSS classes",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.6,
+                        "evidence_density": 0.7
+                    }
+                },
+                {
+                    "name": "Custom Elements",
+                    "category": "Web Components",
+                    "confidence": 0.99,
+                    "source": "window.customElements object",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.34,
+                        "evidence_density": 0.54
+                    }
+                },
+                {
+                    "name": "Google Ads",
+                    "category": "Advertising",
+                    "confidence": 0.95,
+                    "source": "Mention of 'الإعلانات' (Ads) in text",
+                    "xai_metrics": {
+                        "faithfulness_score": 0,
+                        "calibration_error": 0.69,
+                        "evidence_density": 0.28
+                    }
+                }
+            ]
+        },
+        "suborganizations": {
+            "database_value": [
+                {
+                    "id": "54a11fa469702d9d7ebaef01",
+                    "name": "Synergyse",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1227769702d97c1b75f03",
+                    "name": "Kikscore LLC",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a126c669702d8cfcfc7300",
+                    "name": "Directr",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1279b69702d8eebcaeb00",
+                    "name": "PushLife Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "55694a9c7369642190ff2a00",
+                    "name": "VirusTotal",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "55698a8c7369642571834d00",
+                    "name": "SouRC Group",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5569d06e736964257d7b9d00",
+                    "name": "Liftware",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5adc66cca3ae61de8e842407",
+                    "name": "Skybox Imaging, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5d2721042329f40be1f3506f",
+                    "name": "Dataform",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6049e3c55420fb0001593d60",
+                    "name": "Angular",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "55920eb873696418bc504200",
+                    "name": "Velostrata, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "63c9057fc509ca0001e6829d",
+                    "name": "fastlane",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "64114f23a1acc400019129b9",
+                    "name": "NestSweden",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66f13ca39bc0e600010cc2ed",
+                    "name": "Abdallah Fayed Jewellery (FAYENDRA)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "670bc8c99dc7fa00011b1603",
+                    "name": "Greeco Marble And Granite Trading",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6727176893de3b0001b3ec7b",
+                    "name": "Pooja Infraventures Pvt Ltd",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67279e623ca5f70001a37d2b",
+                    "name": "21 GARAGE",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "672854a60b702b00015de6ea",
+                    "name": "Innfähre Kiefersfelden Ende April bis 3.So im Oktober",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "68445b6af73955001d064e57",
+                    "name": "SecOps Academy",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11c1269702da425837d00",
+                    "name": "drawElements",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11f7f69702d94a4decb01",
+                    "name": "Anvato",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11fec69702d9a8b413302",
+                    "name": "BrightBytes",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a126f669702d8eeb6d8e00",
+                    "name": "Appurify, Inc. (Acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a12a1869702d8eebcd4002",
+                    "name": "Gradient",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1358669702d36c94bdd00",
+                    "name": "Limes Audio",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5569ed7473696425c06eb700",
+                    "name": "PostRank (Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556d6909736964124b360501",
+                    "name": "Quest Visual, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556d9ad1736964120fc75801",
+                    "name": "Jetpac",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556d9ed473696411de955701",
+                    "name": "Dysonics",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5b8355ce324d447f4aa8ae51",
+                    "name": "Tenor",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5b83c12c324d4402f21c7dec",
+                    "name": "Cameyo",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5cb5423ea3ae6157975bc349",
+                    "name": "Looker",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5d0a36ab80f93e0ee5b76f73",
+                    "name": "Dialogflow",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5e56cb87aabd0c00019c89c3",
+                    "name": "FameBit",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5f21b402e9461e008cf66e1d",
+                    "name": "Skymind",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5f84a812d1a3fd01126a5da3",
+                    "name": "Common Sense Machines",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6491aa897d8d1200a3042540",
+                    "name": "Tenor",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6607e2fc2e52c60007d3dfe9",
+                    "name": "RH+",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6708cf8c7af71f0001bc7679",
+                    "name": "DF ELECTRIQUE",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6710ed75e2f77f0001b60550",
+                    "name": "KANZ AL AMANA FOODSTUFF TRADING L.L.C",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67395c2140844d0001e2ef6e",
+                    "name": "Patrik Veselý",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67457db0812b2f0001712a2a",
+                    "name": "Great Lakes Forestry Centre",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6768c8f82f5dad000192803a",
+                    "name": "FameBit",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6794be9b4dafc30001185160",
+                    "name": "Mandiant",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11af469702da753a60500",
+                    "name": "Rangespan (acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a12ae169702d8b1974d402",
+                    "name": "Quiksee (MentorWave Technologies)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a12b1269702dcef97e6f02",
+                    "name": "Instantiations",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1399369702d231f9f8200",
+                    "name": "Nepali Blogger",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "56d3f590f3e5bb3a5f002317",
+                    "name": "Relay Media (Acquired by Google October 2017)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "57c48ba8a6da981638766ec4",
+                    "name": "Alooma (acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5a9f1ba1a6da98d93be783ce",
+                    "name": "Typhoon Studios",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5fca20c4e62bbf0001d35632",
+                    "name": "Click Forensics",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5fca79b7f7d55900015217ef",
+                    "name": "Fitbit Health Solutions EMEA",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "608a68ad7e4337011a19f3f3",
+                    "name": "LeapDroid Media",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6671b350f66329000168e622",
+                    "name": "Cornerstone Technology B.V.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66e6e6d0ddb0eb000167f392",
+                    "name": "delcan interiors",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66ea792fb1caac0001d558e3",
+                    "name": "Nota Mil Serviços emMarcenaria",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66ebcb17a000470001aee6f6",
+                    "name": "Linwood custom restoration",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6727da583ca5f70001a5e447",
+                    "name": "My Neural",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "673456caa4167b000111061b",
+                    "name": "Padaria Umuarama",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6736ebd48b39b90001604315",
+                    "name": "yourbusiness.site",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "674045278df60d00019973ef",
+                    "name": "Artnow Design Dock",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67435dac51264500012b494e",
+                    "name": "bebop",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "674c66dd2f6f3300016879a7",
+                    "name": "Mount Colah Gourmet Chicken",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "680ad48ba067f9001d3b8759",
+                    "name": "Nest.Travel",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5b85ae0af874f70fb86c4cd5",
+                    "name": "Google Cloud Security",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11e2469702d86b6b53f01",
+                    "name": "Slide",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "63006377c31efa0001d10b2a",
+                    "name": "Eyefluence, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11e2869702d86b6df4101",
+                    "name": "ITA Software by Google",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11fb469702d918c27f401",
+                    "name": "Timeful",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a120fa69702d9a8bd5c802",
+                    "name": "Punchd",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1225169702da4253e2603",
+                    "name": "Jibe Mobile",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1229e69702d94a4c94103",
+                    "name": "Actifio",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a122f569702d9a8b889303",
+                    "name": "AppSheet",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1273669702d8cfc53b500",
+                    "name": "GFiber",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a127ca69702dc841ab7000",
+                    "name": "KoruLab",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1281669702d93137de900",
+                    "name": "Real Asset Management",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1294c69702d90a21faf01",
+                    "name": "Teracent",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1392969702d2d7fa02d00",
+                    "name": "Like.com",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a126fa69702d90a2b17900",
+                    "name": "BumpTop",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5500b64f7369647a927b1b00",
+                    "name": "Autofuss",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556d28a773696411d508a400",
+                    "name": "Behavio",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556d4afb736964121709cf00",
+                    "name": "Clever Sense, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "57c4b74da6da98370bc9529f",
+                    "name": "Google DeepMind",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "59e54fdaa6da98257aada4c2",
+                    "name": "Aimatter",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5db060cd4be54b00010a59a8",
+                    "name": "Ted & Fred",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5e6b825d39c2f20142826af7",
+                    "name": "Nest Labs",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "619ceb909a36fe00da1e5ce7",
+                    "name": "Flutter Community",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "63e3dd39656af900d9e22364",
+                    "name": "Galileo AI",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "64c4ef3211a2d3000169589c",
+                    "name": "Arçelik",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "652f8f32f62d0100a35878e3",
+                    "name": "Producer.ai",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "667e52acb5ff5f15757c2a07",
+                    "name": "Web Designer London",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66d5567a63e9e500014071b4",
+                    "name": "Royal Nursing Home",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66debfa0880c020001dbe0dd",
+                    "name": "beFlutter Pro",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66f3962a36152e0001adee38",
+                    "name": "Women Techmakers Lleida",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66f7c86a3f47a90001128cc1",
+                    "name": "SURAT WHOLESALE SAREE (Hanuman textile)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66f8cdf29ace3200010e566a",
+                    "name": "OREGON MACHINE WORKS, INC.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67010928e432020001170829",
+                    "name": "Western Decor Corporation",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6703b51ba4d32600016cf1a3",
+                    "name": "( DESIGN ARRAY ) INTERIOR DESIGNER",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6704d00911e68d0001aaab58",
+                    "name": "GHITECH",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "672b473fef1b850001d2bf4a",
+                    "name": "ShankShila Agro Warehouse",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "672f7fbecb4dd60001a228e1",
+                    "name": "Coursey Car Wash",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6742d8d469ee4100017c5089",
+                    "name": "Frestive Sulawesi",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67480b7a3d14ce00018fe2f7",
+                    "name": "Palki Sarees & Dresses",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "674d94aeb065470001f1e3ca",
+                    "name": "Berwick Charcoal Chickens",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67de2b064ed0f800015ef1a5",
+                    "name": "Tensor AI",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "68faee71a3a40800012667b8",
+                    "name": "Fiberpass",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a12b5969702d931377b602",
+                    "name": "FFlick",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1213569702d8ed4538102",
+                    "name": "Green Throttle Games, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11fe769702d8ccc572502",
+                    "name": "Aardvark",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556d25a373696411fdda9900",
+                    "name": "Industrial Perception, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1230569702d8aa1ab3303",
+                    "name": "Maxim Management Services",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5569505673696425213d0200",
+                    "name": "Invite Media",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1272069702dc1288d0e00",
+                    "name": "Wildfire Sweepstakes Inc",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556983b973696425b28b4700",
+                    "name": "Skillman & Hackett",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5d0a3a4bf65125730c29c98d",
+                    "name": "Circus Ponies Software Inc",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1216f69702d7fe625d502",
+                    "name": "The Dealmap",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "57c4a82ba6da9840c8cfa9e1",
+                    "name": "Quickylab",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5a9d529aa6da98d954d8e05a",
+                    "name": "Bolands Quay",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1d2de74686949e7483014",
+                    "name": "Ionia Corporation now Xively by LogMeIn",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5fca5efd1ab98f00d6ac740c",
+                    "name": "YouTube",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6049ba4166f73e0001392c18",
+                    "name": "Travcorp Poland",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1209569702d8ed4d64e02",
+                    "name": "Stackdriver",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556d15ba736964122a0e8200",
+                    "name": "Cask Data (acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6095466900e74f00a43d0d8b",
+                    "name": "Playspace (acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "60af17a3037a8b00018a95f7",
+                    "name": "Raxium",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "614d7f368c8aba00012ef274",
+                    "name": "Onward.ai",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "63924fec0b24cb0001d807db",
+                    "name": "Spider.io",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "63bde5de444f2f00e3e88713",
+                    "name": "Mineral.ai",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66ea4597203d4c0001386ba5",
+                    "name": "SHALOM ONLINE 4.0",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66f0639f4fa9a10001ce736b",
+                    "name": "SAMRAT COLD STORAGE PVT.Lmt",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66f95d1b27980600010f030a",
+                    "name": "Arkin for Architectural  & Interiors",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "670ba180d2b9b00001e6c298",
+                    "name": "La bodega de Godivah",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67134de3de5fbb000165f4b6",
+                    "name": "JASA LAYANAN KEBERSIHAN",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6725d99be44b1c0001340546",
+                    "name": "Gecko Design Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67265cae27034d00012fac6a",
+                    "name": "Kamal Pharma",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6729ecd2a039c700010f7145",
+                    "name": "ELECTROMECANICAS ASTURIAS JVJ, S.L.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "673450ea1cd87d00018f6adc",
+                    "name": "Administrative ll Capital ll Real Estate ll Cairolandmark",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67392ff2aad7d50001157d5e",
+                    "name": "Stylewell Furniture",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6748279a3b0300000186a9fc",
+                    "name": "RFD Plastic Ind e Com de Plásticos",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "674c6b0190dfc4000198a0f8",
+                    "name": "Bhartiya Ayurved Stores",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "674ca7c490dfc4000199db9b",
+                    "name": "EKO SUPREME",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "675cacaa2184a40001697320",
+                    "name": "Lynx Design, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "685236fc44197e0001c0e74d",
+                    "name": "Magneta Studio Creativo",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "55f2065cf3e5bb0b930010c4",
+                    "name": "Circus Ponies Software, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1391f69702d28510f2a00",
+                    "name": "Orbitera",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11e2369702d77c2276601",
+                    "name": "Global IP Solutions",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5fd19f754f331d0001fe4949",
+                    "name": "Lumedyne Inc",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "59e54f5aa6da98bc0885ffe5",
+                    "name": "Rana Mishra",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5fc8bff29c0c9800018d81c5",
+                    "name": "Kaggle",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a12a2369702d8eeb1c4602",
+                    "name": "Appetas (Acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a122a769702d94a4954a03",
+                    "name": "Meebo",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5569a60d7369642539537400",
+                    "name": "Elastifile (acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a12b0b69702dc128700c02",
+                    "name": "Divide™",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5b855542f874f76ac2aa2afc",
+                    "name": "Alter",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556959bc7369642585590e00",
+                    "name": "Fly Labs Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1222069702d94a4e41903",
+                    "name": "Panoram.io",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a120e869702da753666402",
+                    "name": "BreezoMeter (part of Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a25d747468693fdad23d1d",
+                    "name": "vlognepal",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5f48e0d76ea2bf0001aa0aff",
+                    "name": "Fitbit (now part of Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556d821373696411f4d33501",
+                    "name": "Measure Map",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1222169702d94a4741a03",
+                    "name": "LabPixies",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1234369702d84c5095e03",
+                    "name": "SlickLogin (acquired by google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1297c69702d8b19de1f02",
+                    "name": "WIMM Labs (acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "61ec0b9276d2f100018f6fd8",
+                    "name": "mafhh an institution",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "64f5ad44b78a8c000149e96b",
+                    "name": "NEST",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "65505be1b1fb6d00015bbc9b",
+                    "name": "Devfest Berlin",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66e7bd986d9fcc0001d1a9ff",
+                    "name": "Divanice Trailer",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6701a3c74352a40001fef6cb",
+                    "name": "Grupo Norte RH",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6726117fa213910001adbe79",
+                    "name": "The Doum Academy",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "674c44dbc9379b00016acb89",
+                    "name": "diz-web",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67d115a93198a7000146f487",
+                    "name": "Jetpac",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "67de2b326bee1f00017436f6",
+                    "name": "Titan Aerospace",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "68381491730f970001aa20c7",
+                    "name": "Kifi",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6a520c0f288b3600014e5fa4",
+                    "name": "Firebase, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556e336d7369641126e95001",
+                    "name": "Photomath",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1b36274686942d3ff5b09",
+                    "name": "Katango",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5569667e73696425b8712000",
+                    "name": "AppBridge",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5b848fdff874f7745ead6c59",
+                    "name": "Provino Technologies",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5e57bf5b9303fe0001d8ac4b",
+                    "name": "TensorFlow User Group (TFUG)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11d2969702da10faff500",
+                    "name": "Mandiant (part of Google Cloud)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a12a0d69702dab37f20002",
+                    "name": "Meka Robotics",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11af769702d9d7e080600",
+                    "name": "Socratic (acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5e0d40385eea85008c247eab",
+                    "name": "Sound Life Sciences (acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1271869702db878790f00",
+                    "name": "Divshot",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a23ab57468693cddf0fa17",
+                    "name": "Channel Intelligence",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5f45c7c6d4c070000185094a",
+                    "name": "Waze",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a13c6969702de5b3e6e401",
+                    "name": "Moodstocks",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "60486d89f83c850001b35095",
+                    "name": "Material Shell",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a121fa69702d88c4c68802",
+                    "name": "Launchpad Toys",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "618af2de0714c400015b529f",
+                    "name": "AngularJS",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "618b14a18f80ca0001a68cd0",
+                    "name": "Pring, Inc.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "636887742630490001ca73f7",
+                    "name": "Flutter India",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "63c7d720e2f82300012f5243",
+                    "name": "Be Here Now Productions 🪬",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "64af9a04350ae30001725d11",
+                    "name": "ProLawn",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6668e0116830010001ba7de2",
+                    "name": "Alpental Technologies",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66e00767f723ea00018a91fb",
+                    "name": "GINZA TRADING (BRANCH) BURDUBAI",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66e6cb5a91e05e0001bc3437",
+                    "name": "Pie",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66f080a04661480001219581",
+                    "name": "X1 Race Oficina de Motos",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6727b71f62f46c0001cc1b57",
+                    "name": "Thooba Motors",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6727c9aeed6bc200018c102d",
+                    "name": "APL Apollo piping systems",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "673d8954d14a3d0001f0f470",
+                    "name": "LIQUORLAND WAREHOUSE",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "679ec5b60f0b540001d0df34",
+                    "name": "Pointy",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "556d504073696412268edb00",
+                    "name": "Cronologics Corporation (Acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "63d4f54447b40e00016fbaad",
+                    "name": "Autonomous Factory",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a23da374686935be900519",
+                    "name": "Sparrow Mail",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1222f69702d94a44e2b03",
+                    "name": "Bitium (acquired by Google)",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5a9ea7e8a6da98d96d83ac3f",
+                    "name": "CloudSimple",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11fc069702d8cccd31502",
+                    "name": "Crashlytics",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a134c169702d46f0643900",
+                    "name": "Smartmedia Group",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5c74e525a3ae618d8e9846e3",
+                    "name": "Where is my Train",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11fa869702d8cccbc0102",
+                    "name": "Pulse.io",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11b1169702d918c1d1000",
+                    "name": "Quickoffice",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11ebf69702d77c292a401",
+                    "name": "Landslyde Advisors, LLC",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11ea769702d8ed4697301",
+                    "name": "Ruba.com",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a120e569702d9a8b7dbb02",
+                    "name": "Plink Solutions",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5da3b34bae73e60001684fab",
+                    "name": "GraphicsFuzz",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a129a069702db878198001",
+                    "name": "Neverware",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1220a69702d97c1394d03",
+                    "name": "Urban Engines",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "5c36308f4e70e50ba3b77a13",
+                    "name": "North",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a1277569702d8eebbad400",
+                    "name": "Green Parrot Pictures",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "59e5424ea6da98c4bf36c1ee",
+                    "name": "Attack Of The Androids",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a276b77468693a7ef8bb24",
+                    "name": "GECOmedia, Marketing Digital y Desarrollo Empresarial",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "54a11d4f69702d88c41ded00",
+                    "name": "On2 Technologies",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "60406f25548ae1008c4f4792",
+                    "name": "Pioneer Medical Practice",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "620b558da86b5200db0cf7a0",
+                    "name": "Apigee",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "63da9a8eb4fe3000da1ac783",
+                    "name": "DORA",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "64b64e349de79800a37dec02",
+                    "name": "TalentMaze",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "654fbd05d7aad6000139f204",
+                    "name": "Equalum Ltd.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "66f9c5e5ce26a000011bca8d",
+                    "name": "LISLOP S.A.",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "670ad2cf7d4923000150a173",
+                    "name": "Operamech",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6710c35475588000015fad39",
+                    "name": "Universal99 Tiling Services",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6716174fce2de900019da15a",
+                    "name": "Creative Developers",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "6727f2cc0426250001814cd8",
+                    "name": "Greenwich Agro",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "672b203068695e00016df77a",
+                    "name": "Api.ai",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "674d50de6a0b120001a806eb",
+                    "name": "Regina's Cleaning Services",
+                    "domain": "Non renseigné"
+                },
+                {
+                    "id": "68faf375798c9f0001fbda35",
+                    "name": "CyberSeminars AUTH",
+                    "domain": "Non renseigné"
+                }
+            ],
+            "ai_value": [
+                "YouTube",
+                "Google DeepMind",
+                "Waymo",
+                "Google Cloud"
+            ]
+        },
+        "funding_events": {
+            "database_value": [
+                {
+                    "id": "69b4c16a86663e00019a642f",
+                    "date": "2026-03-01T00:00:00.000+00:00",
+                    "type": "Merger / Acquisition",
+                    "amount": "Non renseigné",
+                    "currency": "$",
+                    "investors": "Astound"
+                },
+                {
+                    "id": "69660128eb0fd80001f05055",
+                    "date": "2024-07-01T00:00:00.000+00:00",
+                    "type": "Seed",
+                    "amount": "10K",
+                    "currency": "$",
+                    "investors": "Bridgewater Advisory"
+                },
+                {
+                    "id": "696601411bb2590001863dda",
+                    "date": "2023-12-01T00:00:00.000+00:00",
+                    "type": "Merger / Acquisition",
+                    "amount": "Non renseigné",
+                    "currency": "$",
+                    "investors": "Ohmconnect"
+                },
+                {
+                    "id": "6966032beb0fd80001f0d6c5",
+                    "date": "2020-12-01T00:00:00.000+00:00",
+                    "type": "Seed",
+                    "amount": "10.5M",
+                    "currency": "€",
+                    "investors": "Non renseigné"
+                },
+                {
+                    "id": "6966032beb0fd80001f0d6c2",
+                    "date": "2020-07-01T00:00:00.000+00:00",
+                    "type": "Other",
+                    "amount": "Non renseigné",
+                    "currency": "$",
+                    "investors": "Non renseigné"
+                },
+                {
+                    "id": "6966032beb0fd80001f0d6be",
+                    "date": "2019-05-01T00:00:00.000+00:00",
+                    "type": "Angel",
+                    "amount": "20K",
+                    "currency": "$",
+                    "investors": "Anjos do Brasil"
+                },
+                {
+                    "id": "696608f11cf1c20001872238",
+                    "date": "2016-05-01T00:00:00.000+00:00",
+                    "type": "Merger / Acquisition",
+                    "amount": "Non renseigné",
+                    "currency": "$",
+                    "investors": "Alphabet | Google"
+                },
+                {
+                    "id": "56ea9d11908ee93429001797",
+                    "date": "2016-03-17T00:00:00.000+00:00",
+                    "type": "Venture (Round not Specified)",
+                    "amount": "1.3M",
+                    "currency": "$",
+                    "investors": "Non renseigné"
+                },
+                {
+                    "id": "597a91b0a6da9857f11a8b44",
+                    "date": "2013-05-28T00:00:00.000+00:00",
+                    "type": "Series A",
+                    "amount": "4.5M",
+                    "currency": "$",
+                    "investors": "Foundation Capital, Felicis Ventures, Webb Investment Network, Data Collective Venture Capital"
+                },
+                {
+                    "id": "682083f8d3f490000173ab98",
+                    "date": "2007-06-01T00:00:00.000+00:00",
+                    "type": "Series B",
+                    "amount": "Non renseigné",
+                    "currency": "$",
+                    "investors": "Accel Partners"
+                },
+                {
+                    "id": "682083f8d3f490000173ab9a",
+                    "date": "2006-06-01T00:00:00.000+00:00",
+                    "type": "Other",
+                    "amount": "Non renseigné",
+                    "currency": "$",
+                    "investors": "Sequoia Capital"
+                },
+                {
+                    "id": "6936d6d3b9b4760001fcc3f8",
+                    "date": "2004-08-01T00:00:00.000+00:00",
+                    "type": "Other",
+                    "amount": "1.7B",
+                    "currency": "$",
+                    "investors": "Non renseigné"
+                },
+                {
+                    "id": "6a06517fccefe3000180f7b6",
+                    "date": "1999-06-01T00:00:00.000+00:00",
+                    "type": "Series A",
+                    "amount": "25M",
+                    "currency": "$",
+                    "investors": "Kleiner Perkins Caufield & Byers, Sequoia Capital"
+                },
+                {
+                    "id": "69e2fc6df7e8f20001bd8009",
+                    "date": "1998-08-01T00:00:00.000+00:00",
+                    "type": "Angel",
+                    "amount": "100K",
+                    "currency": "$",
+                    "investors": "Non renseigné"
+                }
+            ],
+            "ai_value": [
+                {
+                    "date": "2004-08-19",
+                    "type": "IPO",
+                    "amount": "$1.67 Billion"
+                }
+            ]
+        },
+        "competitors": {
+            "database_value": "Non renseigné",
+            "ai_value": [
+                "Microsoft",
+                "Amazon",
+                "Meta",
+                "Apple",
+                "Baidu"
+            ]
+        }
+    }
+}

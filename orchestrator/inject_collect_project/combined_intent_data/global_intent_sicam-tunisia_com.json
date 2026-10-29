@@ -1,0 +1,72 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "SICAM obtient la certification Zéro Résidu de Pesticides — ZRP en 2025",
+        "date": "2025",
+        "news_type": "Certification",
+        "confidence": 0.9,
+        "source": "2025 Révolution Zéro Résidu de Pesticides — ZRP (Certification)",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.27,
+            "evidence_density": 1.11
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "SICAM lance une nouvelle ligne de production GTP en 2023",
+        "date": "2023",
+        "news_type": "Product Launch",
+        "confidence": 0.8,
+        "source": "2023 Lancement de la nouvelle ligne de production GTP",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.05,
+            "evidence_density": 1.06
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "SICAM atteint une capacité quotidienne de 10 000 tonnes en 2022",
+        "date": "2022",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "2022 Atteinte de la capacité quotidienne de 10 000 tonnes",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.0,
+            "evidence_density": 1.11
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "SICAM acquiert la filiale PLANT en France en 2021",
+        "date": "2021",
+        "news_type": "Acquisition",
+        "confidence": 0.8,
+        "source": "2021 Acquisition de la filiale PLANT en France",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.08,
+            "evidence_density": 1.07
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "SICAM entre en partenariat avec le fonds d'investissement ADP III en 2020",
+        "date": "2020",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "2020 Entrée du fonds d'investissement ADP III comme partenaire financier et stratégique",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.28,
+            "evidence_density": 0.84
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

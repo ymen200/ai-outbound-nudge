@@ -1,0 +1,300 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 52,
+    "total_pages": 3
+  },
+  "news_articles": [
+    {
+      "id": "6a5ed11a0f50bc001cc05c71",
+      "url": "https://401kspecialistmag.com/chime-launches-chime-invest-to-expand-savings-opportunities",
+      "domain": "401kspecialistmag.com",
+      "title": "Chime launches Chime Invest to expand savings opportunities.",
+      "snippet": "Chime launches Chime Invest to expand savings opportunities.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2026-07-20T22:20:20.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5192502d01940010b89cba",
+      "url": "https://www.prnewswire.com/news-releases/fetch-announces-phil-mcdonnell-as-chief-product-officer-to-accelerate-product-innovation-302819499.html",
+      "domain": "prnewswire.com",
+      "title": "Fetch announces Phil McDonnell as Chief Product Officer to accelerate product innovation.",
+      "snippet": "Phil joins Fetch from Chime, where he served as Vice President of Product and led the core product team through the company's 2025 IPO.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2026-07-07T14:30:00.000+00:00",
+      "event_categories": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "6a3ed43d7b1c0f00186217d1",
+      "url": "https://thedig.howard.edu/all-stories/howard-football-student-athletes-gain-financial-playbook-through-chime-and-budget-university",
+      "domain": "howard.edu",
+      "title": "Howard Football student-athletes gain financial playbook through Chime and Budget University partnership.",
+      "snippet": "\"Budget University is proud to partner with Chime at Howard University to deliver financial education,\" said Shelby Patrice, founder and CEO of Budget University.",
+      "organization_ids": [
+        "61dc705d400b8101127d3e26",
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2026-06-24T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a37fa463314cd001c6edf3e",
+      "url": "https://theindustryspread.com/chime-profit-fintech-ipo-pipeline-revolut-monzo-2026",
+      "domain": "theindustryspread.com",
+      "title": "Forex liquidity providers - good or evil?",
+      "snippet": "Chime booked its first quarterly profit as a public company - $53 million in net income for the first quarter of 2026 - while Revolut has pushed its listing talk out to 2027 or 2028 and Monzo lost its chief executive in a board fight over IPO timing.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2026-06-18T13:57:07.000+00:00",
+      "event_categories": [
+        "has_earnings"
+      ]
+    },
+    {
+      "id": "6a1a67361a73a30020749701",
+      "url": "https://superpayrewards.com/blog/chime-unveils-5-cash-back-secured-card-with-zero-fees",
+      "domain": "superpayrewards.com",
+      "title": "Chime unveils 5% Cash Back Secured Card with zero fees.",
+      "snippet": "In a bold move, Chime has launched a secured Visa(R) Credit Card that promises a remarkable 5% cash back on a category of your choice - without any annual fees.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2026-05-24T05:40:43.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a0e517d6ec1ca0010c8a2a4",
+      "url": "https://fintechly.com/banking/jd-power-fintechs-take-bigger-share-of-new-us-banking-and-investment-accounts",
+      "domain": "fintechly.com",
+      "title": "Fintechs take bigger share of new US banking and investment accounts.",
+      "snippet": "Fintech brands ranked among the top three choices for new US checking, savings and investment account openings in the first quarter of 2026, according to JD Power data, as Chime, SoFi, Cash App and Robinhood gained ground in markets long dominated by banks and brokerages.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414",
+        "5a9d6ff7a6da98d93bdfcbbc"
+      ],
+      "published_at": "2026-05-03T12:56:01.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "69d3ffd3d63f3100199f7b1f",
+      "url": "https://globaltill.com/chime",
+      "domain": "globaltill.com",
+      "title": "Chime expands financial services amid regulatory scrutiny and growth plans.",
+      "snippet": "Industry analysts note that Chime operates in a crowded digital banking space alongside competitors such as Cash App, PayPal, and traditional banks expanding their own mobile offerings.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414",
+        "55923de0736964186f02ef00"
+      ],
+      "published_at": "2026-04-01T19:57:59.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "69c8ff7bb3d312001d4af239",
+      "url": "https://hustleplugged.com/make-500-fast-banking-bonuses-2026",
+      "domain": "hustleplugged.com",
+      "title": "How to make $500 fast: best banking & investment sign-up bonuses (2026 guide).",
+      "snippet": "Varo is a direct competitor to Chime and offers a similar, high-value incentive.",
+      "organization_ids": [
+        "604663aaa658db000115acab",
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2026-03-26T18:53:32.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "69c5e211511cc4000dacac30",
+      "url": "https://eldorar.info/post/neobanks-surge-in-popularity-how-digital-banking-is-redefining-money-management-in-2026",
+      "domain": "eldorar.info",
+      "title": "Neobanks surge in popularity: how digital banking is redefining money management in 2026.",
+      "snippet": "For example, Chime not too long ago launched automated financial savings instruments that spherical up purchases to the closest greenback and direct the distinction right into a financial savings account.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2026-03-22T14:00:30.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "69baa53645fb8600111731cc",
+      "url": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-feb-20-2026-1234885119",
+      "domain": "sportico.com",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for Feb. 20",
+      "snippet": "Major League Soccer announced a new multiyear partnership with Chime, naming the company the Official Retail Banking, Credit Card and Debit Card Partner of MLS in the United States.",
+      "organization_ids": [
+        "54a1358e69702d407f49b700",
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2026-02-20T19:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "68c1d8af87bc18001d2da880",
+      "url": "https://phsmdcjazzresidences.com/chime-premium-tier-banking-features",
+      "domain": "phsmdcjazzresidences.com",
+      "title": "Chime Premium Tier Banking Features (Chime+): 2025 Guide to APY, Deals & Support",
+      "snippet": "Chime has redefined digital banking once again with the launch of its Chime+ premium tier.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2025-08-29T07:49:17.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "68bbd2081ae85d0011005335",
+      "url": "https://www.chime.com/newsroom/news/chime-enterprise-adds-etech-as-newest-employer-partner-empowering-employees-with-chimes-comprehensive-fee-free-financial-wellness-suite",
+      "domain": "chime.com",
+      "title": "Chime Enterprise Adds Etech as Newest Employer Partner, Empowering Employees with Chime's Comprehensive Fee-Free Financial Wellness Suite",
+      "snippet": "Etech chose Chime to provide financial tools to its workforce over a legacy point solution, citing its comprehensive offering, ease of use, and lack of fees.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414",
+        "54a1390e69702d2a1e621a00"
+      ],
+      "published_at": "2025-08-27T13:02:42.000+00:00",
+      "event_categories": [
+        "signs_new_client"
+      ]
+    },
+    {
+      "id": "68ae44b11d327800151fc8e0",
+      "url": "https://finovate.com/chime-workplace-integrates-workday-wellness-tools",
+      "domain": "finovate.com",
+      "title": "Chime Workplace Integrates Workday Wellness Tools",
+      "snippet": "Chime is partnering with Workday to integrate Chime Workplace into Workday Wellness, expanding access to financial wellness tools through employers' existing HR systems.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414",
+        "5f4b5de8b8e8440001c3cb69"
+      ],
+      "published_at": "2025-08-26T12:27:56.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "684b0dc2b5bdec00199525ec",
+      "url": "https://www.industryleadersmagazine.com/chimes-blockbuster-ipo-with-864m-debuts-at-27",
+      "domain": "industryleadersmagazine.com",
+      "title": "Chime's Blockbuster IPO With $864M, Debuts at $27",
+      "snippet": "Chime, the financial technology company on Wednesday announced that it has raised $864 million in its initial public offering (IPO).",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2025-06-12T10:13:16.000+00:00",
+      "event_categories": [
+        "receives_financing"
+      ]
+    },
+    {
+      "id": "683f7636cbd9e900159e2994",
+      "url": "https://news.crunchbase.com/fintech-ecommerce/f-prime-companies-ipo-2025-stripe-klarna",
+      "domain": "crunchbase.com",
+      "title": "Here Are The Fintech Companies That Could Go Public In 2025",
+      "snippet": "Founded in 2012, San Francisco-based Chime has raised more than $2 billion in funding from firms such as Menlo Ventures, General Atlantic, Forerunner, Flourish Ventures and Iconiq Growth.",
+      "organization_ids": [
+        "54a1206e69702d77c2057a02",
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2025-06-03T11:00:41.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "683f7634165db5001d335362",
+      "url": "https://news.crunchbase.com/fintech-ecommerce/f-prime-companies-ipo-2025-stripe-klarna",
+      "domain": "crunchbase.com",
+      "title": "Here Are The Fintech Companies That Could Go Public In 2025",
+      "snippet": "Founded in 2012, San Francisco-based Chime has raised more than $2 billion in funding from firms such as Menlo Ventures, General Atlantic, Forerunner, Flourish Ventures and Iconiq Growth.",
+      "organization_ids": [
+        "5c8fbd379589660d5026c58a",
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2025-06-03T11:00:41.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "683f73077b27760015e423e1",
+      "url": "https://news.crunchbase.com/fintech-ecommerce/f-prime-companies-ipo-2025-stripe-klarna",
+      "domain": "crunchbase.com",
+      "title": "Here Are The Fintech Companies That Could Go Public In 2025",
+      "snippet": "Founded in 2012, San Francisco-based Chime has raised more than $2 billion in funding from firms such as Menlo Ventures, General Atlantic, Forerunner, Flourish Ventures and Iconiq Growth.",
+      "organization_ids": [
+        "556d27ae73696411b628a300",
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2025-06-03T11:00:41.000+00:00",
+      "event_categories": [
+        "invests_into"
+      ]
+    },
+    {
+      "id": "6838d1cccce50c0015469a47",
+      "url": "https://news.alphastreet.com/ipo-news-fintech-firm-chime-financial-files-for-initial-public-offering",
+      "domain": "alphastreet.com",
+      "title": "IPO News: Fintech firm Chime Financial files for initial public offering",
+      "snippet": "Ever since its founding in 2012, Chime Financial has consistently increased its active member base and introduced new products to the platform.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2025-05-27T19:39:05.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "68222eaed9131000197c6222",
+      "url": "https://therealdeal.com/new-york/2025/05/12/bromley-signs-chime-to-84k-sf-office-lease-in-flatiron",
+      "domain": "therealdeal.com",
+      "title": "Bromley clocks 84K sf lease in fintech firm's Manhattan expansion",
+      "snippet": "Chime will be relocating its primary Manhattan office space from 101 Greenwich Street.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2025-05-12T14:28:53.000+00:00",
+      "event_categories": [
+        "closes_offices_in"
+      ]
+    },
+    {
+      "id": "682189912be21c001d8898b6",
+      "url": "https://nypost.com/2025/05/11/business/fintech-giant-chime-moving-to-bigger-space-on-fifth-ave-nyc",
+      "domain": "nypost.com",
+      "title": "Fintech giant Chime moving to bigger space on Fifth Avenue",
+      "snippet": "San Francisco-based Chime's new lease at Bromley Companies' 122 Fifth Ave., which the fintech giant announced last week, marks the latest growth of its Big Apple footprint.",
+      "organization_ids": [
+        "5b13c810a6da98dce9394414"
+      ],
+      "published_at": "2025-05-11T18:08:53.000+00:00",
+      "event_categories": [
+        "attends_event"
+      ]
+    }
+  ]
+}

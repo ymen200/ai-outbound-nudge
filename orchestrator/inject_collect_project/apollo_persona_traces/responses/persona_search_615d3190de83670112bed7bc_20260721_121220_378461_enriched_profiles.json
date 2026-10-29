@@ -1,0 +1,67 @@
+[
+  {
+    "id": "63ea148cbc50b500014887bc",
+    "first_name": "Gregoire",
+    "last_name": "Nicolle",
+    "name": "Gregoire Nicolle",
+    "linkedin_url": "http://www.linkedin.com/in/gr%c3%a9goire-nicolle-430880151",
+    "title": "Business Development Manager",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Business Development Manager @Ubisoft",
+    "organization_id": "615d3190de83670112bed7bc",
+    "employment_history": [
+      {
+        "_id": "69f6fe71dcf29a00018f8b79",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": null,
+        "organization_id": "615d3190de83670112bed7bc",
+        "organization_name": "Ubisoft",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Business Development Manager",
+        "updated_at": null,
+        "id": "69f6fe71dcf29a00018f8b79",
+        "key": "69f6fe71dcf29a00018f8b79"
+      }
+    ],
+    "street_address": "",
+    "city": "Paris",
+    "state": "Ile-de-France",
+    "country": "France",
+    "postal_code": null,
+    "formatted_address": "Paris, France",
+    "time_zone": "Europe/Paris",
+    "email": "email_not_unlocked@domain.com",
+    "email_status": "verified",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development"
+    ],
+    "seniority": "manager",
+    "functions": [
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "has_email": true,
+    "has_phone": false,
+    "mail_pro": false,
+    "source": "Apollo"
+  }
+]

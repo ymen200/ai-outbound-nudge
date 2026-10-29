@@ -1,0 +1,74 @@
+{
+  "person": {
+    "id": "57e119c6a6da987ddc729305",
+    "first_name": "Caio",
+    "last_name": "Daniel",
+    "name": "Caio Daniel",
+    "linkedin_url": "http://www.linkedin.com/in/caio-daniel-a86379100",
+    "title": "Business Development Manager",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "--",
+    "organization_id": "54a122ed69702da10fdf2c03",
+    "employment_history": [
+      {
+        "_id": "6a5aada2ed98c600013b4631",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": true,
+        "organization_id": "54a122ed69702da10fdf2c03",
+        "organization_name": "PetroChina",
+        "raw_address": null,
+        "start_date": "2015-03-01",
+        "title": "Business Development Manager",
+        "updated_at": null,
+        "id": "6a5aada2ed98c600013b4631",
+        "key": "6a5aada2ed98c600013b4631"
+      }
+    ],
+    "street_address": "",
+    "city": null,
+    "state": null,
+    "country": "United States",
+    "postal_code": null,
+    "formatted_address": "United States",
+    "time_zone": null,
+    "email": null,
+    "email_status": "unavailable",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development"
+    ],
+    "seniority": "manager",
+    "functions": [
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": []
+  },
+  "waterfall": {
+    "status": "accepted",
+    "message": "Waterfall enrichment request accepted. Results will be sent to the provided webhook URL."
+  },
+  "request_id": -681014527355057946
+}

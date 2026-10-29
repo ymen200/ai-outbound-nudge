@@ -1,0 +1,51 @@
+{
+  "total_entries": 14,
+  "people": [
+    {
+      "id": "66f4347784a6c300010c8752",
+      "first_name": "Matt",
+      "last_name_obfuscated": "Ba***n",
+      "title": "Global Vice President of Sales",
+      "last_refreshed_at": "2026-07-22T11:35:08.672+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "ClickUp",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "63a3d851b2922d00014e44ff",
+      "first_name": "David",
+      "last_name_obfuscated": "Fr***g",
+      "title": "Regional Director of Sales",
+      "last_refreshed_at": "2026-07-08T06:47:58.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "ClickUp",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

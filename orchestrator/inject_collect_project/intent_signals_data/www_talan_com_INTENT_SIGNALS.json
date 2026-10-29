@@ -1,0 +1,244 @@
+{
+    "intent_summary": {
+        "hiring_dynamic": {
+            "value": "Medium",
+            "confidence": 0.6,
+            "source": "We believe in the diversity of our profiles, the richness of our experiences, our differences of opinion - this is what creates the strength and relevance of the Talan collective.",
+            "xai_metrics": {
+                "faithfulness_score": 1,
+                "calibration_error": 0.56,
+                "evidence_density": 0.03
+            }
+        },
+        "growth_signals_detected": {
+            "value": "Expansion internationale, diversification des solutions, certifications et récompenses",
+            "confidence": 0.8,
+            "source": "Ov e r t h e y e a r s , T a l a n h a s e x p a n d e d i t s a c t i v i t i e s i n t e r n a t i o n a l l y , o p e n i n g o f f i c e s a c r o s s E u r o p e , N o r t h A m e r i c a , A f r i c a , A s i a a n d O c e a n i a .",
+            "xai_metrics": {
+                "faithfulness_score": 0,
+                "calibration_error": 0.77,
+                "evidence_density": 0.36
+            }
+        }
+    },
+    "job_offers": [
+        {
+            "title": {
+                "value": "Junior Quant Developer",
+                "confidence": 0.9,
+                "source": "### Junior Quant Developer",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.02,
+                    "evidence_density": 0.85
+                }
+            },
+            "location": {
+                "value": null,
+                "confidence": 0.0,
+                "source": "",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.0,
+                    "evidence_density": 0.0
+                }
+            },
+            "department": {
+                "value": null,
+                "confidence": 0.0,
+                "source": "",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.0,
+                    "evidence_density": 0.0
+                }
+            }
+        }
+    ],
+    "news_articles": [
+        {
+            "title": {
+                "value": "Talan UK & Ireland Achieves Prestigious B Corp Certification",
+                "confidence": 0.9,
+                "source": "### Talan UK & Ireland Achieves Prestigious B Corp Certification",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.07,
+                    "evidence_density": 0.94
+                }
+            },
+            "date": {
+                "value": null,
+                "confidence": 0.0,
+                "source": "",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.0,
+                    "evidence_density": 0.0
+                }
+            },
+            "summary": {
+                "value": "Press release",
+                "confidence": 0.6,
+                "source": "Press release",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.4,
+                    "evidence_density": 1.0
+                }
+            }
+        },
+        {
+            "title": {
+                "value": "TenSquare, the new brand dedicated to strategy consulting from the Talan group",
+                "confidence": 0.9,
+                "source": "### TenSquare, the new brand dedicated to strategy consulting from the Talan group",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.07,
+                    "evidence_density": 0.95
+                }
+            },
+            "date": {
+                "value": null,
+                "confidence": 0.0,
+                "source": "",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.0,
+                    "evidence_density": 0.0
+                }
+            },
+            "summary": {
+                "value": "Press release",
+                "confidence": 0.6,
+                "source": "Press release",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.4,
+                    "evidence_density": 1.0
+                }
+            }
+        },
+        {
+            "title": {
+                "value": "Bright Innovation has joined Talan in the UK to strengthen marketing strategy co…",
+                "confidence": 0.9,
+                "source": "### Bright Innovation has joined Talan in the UK to strengthen marketing strategy co…",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.08,
+                    "evidence_density": 0.95
+                }
+            },
+            "date": {
+                "value": null,
+                "confidence": 0.0,
+                "source": "",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.0,
+                    "evidence_density": 0.0
+                }
+            },
+            "summary": {
+                "value": "Press release",
+                "confidence": 0.6,
+                "source": "Press release",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.4,
+                    "evidence_density": 1.0
+                }
+            }
+        },
+        {
+            "title": {
+                "value": "François Soubien appointed CEO of Talan, propelling the group into a new phase o…",
+                "confidence": 0.9,
+                "source": "### François Soubien appointed CEO of Talan, propelling the group into a new phase o…",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.08,
+                    "evidence_density": 0.95
+                }
+            },
+            "date": {
+                "value": null,
+                "confidence": 0.0,
+                "source": "",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.0,
+                    "evidence_density": 0.0
+                }
+            },
+            "summary": {
+                "value": "Press release",
+                "confidence": 0.6,
+                "source": "Press release",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.4,
+                    "evidence_density": 1.0
+                }
+            }
+        },
+        {
+            "title": {
+                "value": "Talan launches a SAP ERP offering in Belgium and Luxembourg: Proximity, Cloud, A…",
+                "confidence": 0.9,
+                "source": "### Talan launches a SAP ERP offering in Belgium and Luxembourg: Proximity, Cloud, A…",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.08,
+                    "evidence_density": 0.95
+                }
+            },
+            "date": {
+                "value": null,
+                "confidence": 0.0,
+                "source": "",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.0,
+                    "evidence_density": 0.0
+                }
+            },
+            "summary": {
+                "value": "Press release",
+                "confidence": 0.6,
+                "source": "Press release",
+                "xai_metrics": {
+                    "faithfulness_score": 1,
+                    "calibration_error": 0.4,
+                    "evidence_density": 1.0
+                }
+            }
+        }
+    ],
+    "strategic_events": [
+        {
+            "type": {
+                "value": "Expansion internationale",
+                "confidence": 0.8,
+                "source": "Ov e r t h e y e a r s , T a l a n h a s e x p a n d e d i t s a c t i v i t i e s i n t e r n a t i o n a l l y , o p e n i n g o f f i c e s a c r o s s E u r o p e , N o r t h A m e r i c a , A f r i c a , A s i a a n d O c e a n i a .",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.78,
+                    "evidence_density": 0.1
+                }
+            },
+            "description": {
+                "value": "Expansion internationale, diversification des solutions, certifications et récompenses",
+                "confidence": 0.8,
+                "source": "Ov e r t h e y e a r s , T a l a n h a s e x p a n d e d i t s a c t i v i t i e s i n t e r n a t i o n a l l y , o p e n i n g o f f i c e s a c r o s s E u r o p e , N o r t h A m e r i c a , A f r i c a , A s i a a n d O c e a n i a .",
+                "xai_metrics": {
+                    "faithfulness_score": 0,
+                    "calibration_error": 0.77,
+                    "evidence_density": 0.36
+                }
+            }
+        }
+    ]
+}

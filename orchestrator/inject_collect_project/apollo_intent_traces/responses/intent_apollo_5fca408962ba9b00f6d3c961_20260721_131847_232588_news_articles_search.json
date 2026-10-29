@@ -1,0 +1,294 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 1274,
+    "total_pages": 64
+  },
+  "news_articles": [
+    {
+      "id": "6a5ccc1bea40f90020c341f6",
+      "url": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
+      "domain": "venturebeat.com",
+      "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026.",
+      "snippet": "That was the shared conclusion of three infrastructure leaders - from LinkedIn, Walmart, and Zendesk - at VB Transform 2026.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-07-17T18:48:18.000+00:00",
+      "event_categories": [
+        "attends_event"
+      ]
+    },
+    {
+      "id": "6a5c8bc8c7f3c40018bcdadf",
+      "url": "https://ramblernewspapers.com/articles/2172/view/texas-investigates-linkedin-for-fake-misleading-job-opportunities",
+      "domain": "ramblernewspapers.com",
+      "title": "Texas investigates LinkedIn for fake, misleading job opportunities.",
+      "snippet": "Texas investigates LinkedIn for fake, misleading job opportunities.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-07-16T00:00:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a58ce4abc9fdd000c2bcef2",
+      "url": "https://www.woodlandsonline.com/npps/story.cfm?nppage=84322",
+      "domain": "woodlandsonline.com",
+      "title": "Attorney General Ken Paxton investigates LinkedIn for advertising fake and misleading job opportunities to users paying for a Premium subscription.",
+      "snippet": "Attorney General Ken Paxton investigates LinkedIn for advertising fake and misleading job opportunities to users paying for a Premium subscription.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-07-14T00:00:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a564cd931f85c00102e0820",
+      "url": "https://skilloutlook.com/education/linkedin-learning-and-mohan-babu-university-partner-to-offer-students-industry-certifications-and-expert-led-learning",
+      "domain": "skilloutlook.com",
+      "title": "LinkedIn Learning and Mohan Babu University partner to offer students industry certifications and expert-led learning.",
+      "snippet": "Tirupati: Mohan Babu University (MBU), one of India's leading universities, has entered into a strategic partnership with LinkedIn Learning, one of the world's largest professional learning platforms.",
+      "organization_ids": [
+        "5fca20c95f22ad0001dbbf45",
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-07-13T15:34:16.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a4f69075977f00010e9276c",
+      "url": "https://thelinkedblog.com/2026/linkedin-tests-suggested-feeds-moving-closer-to-an-interest-based-platform-4043",
+      "domain": "thelinkedblog.com",
+      "title": "LinkedIn tests Suggested Feeds, moving closer to an interest-based platform.",
+      "snippet": "LinkedIn tests Suggested Feeds, moving closer to an interest-based platform.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-07-02T12:09:19.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6a43494715f87a0010f1d142",
+      "url": "https://www.ibtimes.com.au/linkedin-users-face-disruptions-unconfirmed-outage-reports-1871482",
+      "domain": "ibtimes.com.au",
+      "title": "LinkedIn down now? LinkedIn experiences intermittent access issues for some users worldwide.",
+      "snippet": "LinkedIn experiences intermittent access issues for some users worldwide.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-29T10:00:42.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a3ffb0d55d7ab000ce02d78",
+      "url": "https://www.hrdive.com/news/sociable-linkedin-automates-job-application-process-for-premium-users/823876",
+      "domain": "hrdive.com",
+      "title": "Sociable: LinkedIn automates job application process for premium users.",
+      "snippet": "LinkedIn is gradually rolling out a new Premium Apply Assistant for job seekers, an artificial intelligence-powered system which is designed to make it easier for paid LinkedIn users to apply for the open roles that they're best suited for.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-26T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a4273b1afc4130014f458cf",
+      "url": "https://mediabrief.com/linkedin-begins-testing-collaborative-posts-feature",
+      "domain": "mediabrief.com",
+      "title": "LinkedIn begins testing collaborative posts feature with creators and brands.",
+      "snippet": "Professional networking platform LinkedIn has announced that it is testing a new Collaborative Posts feature that will allow multiple members and LinkedIn Pages to publish content together on the platform.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-25T12:36:54.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6a4575506b47520018c8d39c",
+      "url": "https://www.oktopost.com/blog/measure-deeper-linkedin-engagement-with-saves-sends-in-social-bi",
+      "domain": "oktopost.com",
+      "title": "Measure deeper LinkedIn engagement with Saves & Sends in Social BI.",
+      "snippet": "To give you complete visibility into these engagement signals, Oktopost Technologies Inc. has integrated LinkedIn Saves and Sends directly into Oktopost Social BI.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961",
+        "54a11c3e69702d86b6f48900"
+      ],
+      "published_at": "2026-06-25T09:02:22.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a3e6da9e5ca08000c61c92a",
+      "url": "https://influencing.com/au/story/in-pr-ong-joins-linkedin-apac-perera-s-new-stint-at-metricon",
+      "domain": "influencing.com",
+      "title": "IN PR: Ong joins LinkedIn APAC; Perera's new stint at Metricon.",
+      "snippet": "LinkedIn has appointed Judy Ong as senior communications manager, APAC, with Ong relocating into the platform's regional communications ranks after nearly four years at Disney.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-24T18:36:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6a3938ee1f73ea0014d18e68",
+      "url": "https://www.techjuice.pk/linkedin-brand-kit-ai-ads-colors-fonts-brand-voice",
+      "domain": "techjuice.pk",
+      "title": "LinkedIn expands Brand Kit to give marketers control over ai-generated content.",
+      "snippet": "LinkedIn has continued quietly developing its Brand Kit feature inside Campaign Manager, giving marketers a way to set their core brand colors, fonts, and brand voice guidelines that LinkedIn's AI system then uses when generating ads and content automatically.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-22T06:28:12.000+00:00",
+      "event_categories": [
+        "is_developing"
+      ]
+    },
+    {
+      "id": "6a3afd6950f87d00147f3b22",
+      "url": "https://www.socialmediatoday.com/news/linkedin-adds-collaborative-posts/823470",
+      "domain": "socialmediatoday.com",
+      "title": "LinkedIn adds collaborative posts.",
+      "snippet": "LinkedIn announced a collaborative posts feature, which will enable creators to invite other LinkedIn members to be co-creators of in-stream posts.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-22T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a3a4a14dd2b9d0010cfb7c9",
+      "url": "https://thelinkedblog.com/2026/linkedin-launches-connected-apps-shifting-profiles-beyond-job-titles-4026",
+      "domain": "thelinkedblog.com",
+      "title": "LinkedIn launches Connected Apps, shifting profiles beyond job titles.",
+      "snippet": "LinkedIn has introduced a new feature called Connected Apps, allowing members to connect workplace tools directly to their LinkedIn profiles.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-18T12:50:13.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a327cc93605270018dd698f",
+      "url": "https://www.mangaloremirror.com/linkedin-india-extends-partnership-with-mentor-together-through-inr-1-5-crore-grant-to-upskill-25000-students-across-karnataka",
+      "domain": "mangaloremirror.com",
+      "title": "LinkedIn India extends partnership with Mentor Together through INR 1.5 crore grant to upskill 25000 students across Karnataka.",
+      "snippet": "LinkedIn, the world's largest professional network, has extended its partnership with Mentor Together, a non-profit organisation",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961",
+        "54a127e369702d979c1cbf00"
+      ],
+      "published_at": "2026-06-15T08:56:14.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a2fc996e35f86001cbf1e6b",
+      "url": "https://apptopia.com/en/insights/linkedins-time-spent-per-user-is-up-25-year-to-date-the-fastest-in-social-as-its-360brew-ai-feed-takes-hold",
+      "domain": "apptopia.com",
+      "title": "Linkedin's time spent per user is up 25% year-to-date, the fastest in social, as its 360Brew AI feed takes hold.",
+      "snippet": "When LinkedIn's data science team pushed the 360Brew feed-ranking model live, Apptopia's user-level panel started picking up a clear acceleration in how much time people spend in the app.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-12T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a2a95558281f0002092cbd2",
+      "url": "https://www.marketing-interactive.com/linkedin-courts-b2b-advertisers-with-creator-led-ad-push",
+      "domain": "marketing-interactive.com",
+      "title": "LinkedIn courts B2B advertisers with creator-led ad push.",
+      "snippet": "Additionally, LinkedIn has introduced BrandWorks, a dedicated team focused on brand strategy, content, creative and events for selected advertisers on the platform.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-09T02:22:24.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a27ff781ebfa20010c3501b",
+      "url": "https://www.socialsamosa.com/news-2/linkedin-audience-breakdown-creator-analytics-12012925",
+      "domain": "socialsamosa.com",
+      "title": "LinkedIn adds audience reach breakdown to creator analytics.",
+      "snippet": "LinkedIn has introduced a new analytics metric that allows creators to see how much of their content reach comes from people within their network compared with those outside it, according to a post by Sam Carrao Clanon, Direcotr od Product, Creator, LinkedIn.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-08T15:46:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a2fcfdb543dbd002018c89f",
+      "url": "https://www.techjuice.pk/linkedin-post-performance-insights-out-of-network-reach-analytics",
+      "domain": "techjuice.pk",
+      "title": "LinkedIn adds new post analytics to help creators measure real business impact.",
+      "snippet": "LinkedIn has rolled out expanded post analytics that give creators a clearer picture of exactly who their content is reaching, splitting impressions into two distinct categories: in-network reach and out-of-network reach.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-08T08:14:04.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a2666ae662f760014ee4ebb",
+      "url": "https://blog.rankiteo.com/lin1780863827-linkedin-vulnerability-june-2026",
+      "domain": "rankiteo.com",
+      "title": "LinkedIn: cybersecurity vs cyberattack | cyber security news(r).",
+      "snippet": "LinkedIn recently disclosed a security incident involving the exploitation of a vulnerability tied to its cookie-based authentication system.",
+      "organization_ids": [
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-07T00:00:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a2c98d3fdc0b60018fb926f",
+      "url": "https://www.iploca.com/member-news/advancing-talent-development-by-capitalizing-on-e-learning",
+      "domain": "iploca.com",
+      "title": "Advancing talent development by capitalizing on e-learning.",
+      "snippet": "Consolidated Contractors Company (CCC) continues to strengthen its commitment to structured talent development through a new agreement with LinkedIn Learning, providing access to thousands of expert-led digital learning modules across engineering support skills, technology, and professional disciplines.",
+      "organization_ids": [
+        "54a129af69702d9548c9af01",
+        "5fca408962ba9b00f6d3c961"
+      ],
+      "published_at": "2026-06-05T00:00:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Clément LE BONNIEC",
+        "clean_name_used": "Clément LE BONNIEC",
+        "linkedin_url": "https://fr.linkedin.com/in/cl%C3%A9ment-le-bonniec-84150b60",
+        "company": "Kfc",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Raphaël Sainsous",
+        "clean_name_used": "Raphaël Sainsous",
+        "linkedin_url": "https://www.linkedin.com/in/raphaelsainsous/?locale=fr",
+        "company": "Kfc",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Nicolas Gabriel – Global Lead Food Venture Direct to Consumer",
+        "clean_name_used": "Nicolas Gabriel – Global Lead Food Venture Direct to Consumer",
+        "linkedin_url": "https://ch.linkedin.com/in/ngabriel",
+        "company": "Kfc",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Non trouvé",
+        "clean_name_used": "Non trouvé",
+        "linkedin_url": "Non trouvé",
+        "company": "Kfc",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

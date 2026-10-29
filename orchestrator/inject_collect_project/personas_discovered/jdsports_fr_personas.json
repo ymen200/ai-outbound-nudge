@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Tahmid Alif",
+        "clean_name_used": "Tahmid Alif",
+        "linkedin_url": "https://uk.linkedin.com/in/tahmid-alif-11533825a",
+        "company": "Jdsports",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Ewan hanson",
+        "clean_name_used": "Ewan hanson",
+        "linkedin_url": "https://uk.linkedin.com/in/ewan-hanson-599b19236",
+        "company": "Jdsports",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Natalia Mozharenko",
+        "clean_name_used": "Natalia Mozharenko",
+        "linkedin_url": "https://uk.linkedin.com/in/natalia-mozharenko-7bb44a413",
+        "company": "Jdsports",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

@@ -1,0 +1,74 @@
+{
+  "total_entries": 33,
+  "people": [
+    {
+      "id": "60ce5e277738f4000187e2d7",
+      "first_name": "Wolfgang",
+      "last_name_obfuscated": "Be***z",
+      "title": "Director Sales and Business Development",
+      "last_refreshed_at": "2026-06-13T21:18:45.784+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "ALTEN Germany",
+        "has_industry": true,
+        "has_phone": false,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5b686700324d4470d2acbe42",
+      "first_name": "Edipo",
+      "last_name_obfuscated": "Si***i",
+      "title": "Manager Sales & Development (Coaching Business Manager)",
+      "last_refreshed_at": "2026-06-14T13:23:29.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "ALTEN Germany",
+        "has_industry": true,
+        "has_phone": false,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "62ead4b28e6e1b00013ae1d9",
+      "first_name": "Joshua",
+      "last_name_obfuscated": "Ni***r",
+      "title": "Manager Sales & Development II / Coaching Business Manager",
+      "last_refreshed_at": "2026-06-15T00:29:42.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "ALTEN Germany",
+        "has_industry": true,
+        "has_phone": false,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

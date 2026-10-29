@@ -1,0 +1,143 @@
+{
+  "total_entries": 257,
+  "people": [
+    {
+      "id": "57ddbc48a6da987ae8cae7c6",
+      "first_name": "Nihal",
+      "last_name_obfuscated": "Ya***d",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-06-24T05:49:54.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "INTELCIA",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "61a1b976fa02c000014e302c",
+      "first_name": "Najat",
+      "last_name_obfuscated": "Ma***d",
+      "title": "Commercial",
+      "last_refreshed_at": "2026-05-23T20:46:13.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "INTELCIA",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5e74891495a1600001d16fbd",
+      "first_name": "Chaimaa",
+      "last_name_obfuscated": "Ch***i",
+      "title": "Commercial",
+      "last_refreshed_at": "2026-07-07T15:27:47.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "INTELCIA",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5f552b401dcb78000161997e",
+      "first_name": "Imane",
+      "last_name_obfuscated": "Ha***i",
+      "title": "Commercial",
+      "last_refreshed_at": "2026-02-27T04:45:57.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "INTELCIA",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "673a4441d7b1f2000156b23e",
+      "first_name": "Ngagne",
+      "last_name_obfuscated": "Se***k",
+      "title": "Commercial",
+      "last_refreshed_at": "2026-06-20T09:12:35.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "INTELCIA",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "6197475561fd8f000140f643",
+      "first_name": "Serigne",
+      "last_name_obfuscated": "Gu***e",
+      "title": "Commercial",
+      "last_refreshed_at": "2026-04-10T13:23:46.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "INTELCIA",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

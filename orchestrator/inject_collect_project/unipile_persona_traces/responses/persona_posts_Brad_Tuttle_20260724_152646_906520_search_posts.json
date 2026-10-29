@@ -1,0 +1,457 @@
+{
+  "member_id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7486095596588777472",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_the-next-era-of-the-agentic-enterprise-begins-activity-7486095597276524544-sjdY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "21h",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 2,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "What stood out to me is how quickly the conversation has evolved. A few years ago, organizations were asking whether AI would impact networking. Today the discussion is increasingly about whether their networks are ready to support AI at scale.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7486095596588777472",
+        "is_repost": true,
+        "repost_id": "7486095597276524544",
+        "parsed_datetime": "2026-07-23T16:31:15.157Z",
+        "repost_content": {
+          "id": "7485740854951727104",
+          "date": "1d",
+          "parsed_datetime": "2026-07-22T17:01:38.160Z",
+          "text": "The next era of the agentic enterprise begins with networking that can anticipate, adapt, and act. Here's some of what I saw and heard at Discover, and can't stop thinking about.",
+          "author": {
+            "public_identifier": "jeff-dolce",
+            "id": "ACoAAAE6dkEBgmWqHBdYaEuuvOQ9CLMfN693kkA",
+            "name": "Jeff Dolce",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7480598063120617472",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_competitive-comparison-what-makes-a-network-activity-7480598063628242944-dRkn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "2w",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 5,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "The future of networking isn't just AI-assisted—it's AI-native. We are committed to help customers simplify operations, reduce downtime, and deliver better experiences with HPE Networking.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7480598063120617472",
+        "is_repost": true,
+        "repost_id": "7480598063628242944",
+        "parsed_datetime": "2026-07-08T12:26:01.039Z",
+        "repost_content": {
+          "id": "7477719092968366080",
+          "date": "3w",
+          "parsed_datetime": "2026-06-30T13:46:01.066Z",
+          "text": "Not all AI in networking is created equal… 🤭\n\nSome vendors are adding AI on top of legacy architectures.\nHPE built the network for AI from the start.\n\nBacked by more than a decade of AI‑native innovation, HPE's self-driving network learns, optimizes, and acts on its own.",
+          "author": {
+            "public_identifier": "hpe-networking",
+            "id": null,
+            "name": "HPE Networking",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7458146883719475202",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_hpe-moves-self-driving-networks-from-vision-activity-7458146884176564225-bFny?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "2mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 13,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "This is an important milestone—turning the promise of self‑driving networks into real, operational value for customers. Excited for what this enables across modern enterprise and hybrid environments.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7458146883719475202",
+        "is_repost": true,
+        "repost_id": "7458146884176564225",
+        "parsed_datetime": "2026-05-07T13:33:02.747Z",
+        "repost_content": {
+          "id": "7457779958631809024",
+          "date": "2mo",
+          "parsed_datetime": "2026-05-06T13:15:00.989Z",
+          "text": "New self-driving network capabilities announced today establish HPE as the industry’s first and only provider of fully autonomous, agentic AIOps networking. \n\nFind the link to the release in the comments.",
+          "author": {
+            "public_identifier": "hewlett-packard-enterprise",
+            "id": null,
+            "name": "Hewlett Packard Enterprise",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7454517575201484801",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_join-hpe-networking-leaders-as-they-unveil-activity-7454517575201484801-6DMB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "2mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 4,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Delighted to see HPE Networking continue to raise the bar with AI‑native operations that simplify complexity and improve outcomes for customers at scale.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7454517575201484801",
+        "is_repost": true,
+        "repost_id": "7454517575201484801",
+        "parsed_datetime": "2026-04-27T13:11:28.167Z",
+        "repost_content": {
+          "id": "7452015978063810561",
+          "date": "3mo",
+          "parsed_datetime": "2026-04-20T15:31:00.932Z",
+          "text": "Join HPE Networking leaders as they unveil how AI-native, experience-driven operations transform network management — from reactive troubleshooting to intelligent, outcome-focused performance across campus, branch, and data center. https://hpe.to/6048B6hZvs",
+          "author": {
+            "public_identifier": "hpe-networking",
+            "id": null,
+            "name": "HPE Networking",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7440070100805767168",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_rsac2026-rsac2026-activity-7440070100805767168-JZuZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "4mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 2,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Come see us at RSAC 2026 next week!",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7440070100805767168",
+        "is_repost": true,
+        "repost_id": "7440070100805767168",
+        "parsed_datetime": "2026-03-18T16:22:21.850Z",
+        "repost_content": {
+          "id": "7436765246729416704",
+          "date": "4mo",
+          "parsed_datetime": "2026-03-09T13:30:03.237Z",
+          "text": "Security teams are being asked to move faster while protecting more, across environments that now span edge to cloud. If you’re heading to San Francisco for #RSAC2026 March 23-26, be sure to stop by and connect with our HPE Networking team at Booth 1255. We’ll be showing how Hewlett Packard Enterprise helps organizations strengthen resilience with unified SASE, universal ZTNA, hybrid mesh firewalls, and ransomware resilience powered by Zerto and HPE. Catch live demos and in-booth sessions with our security experts.\n\nIf you’d like to go deeper, several of our networking and security leaders will be onsite and available for conversations. That includes David Hughes, SVP of SASE & Security; Madani Adjali, VP of Product Management for SASE & Security; Damon Ennis and Adam Fuoss from our SD-WAN product leadership team; and Kedar Dhuru, VP of Product Management for HPE Security Products.\n\nYou can also connect with our security strategy and field leadership, including John Spiegel and Jaye Tillson; Gram Ludlow, Field CISO; Anthony Faustini, VP & GM of Worldwide SASE & Security Sales; and James Christopher, VP of Systems Engineering\n\nReach out to schedule time with our team or stop by the booth and start the conversation. #RSAC2026\n\nSecure your meeting here: https://lnkd.in/eBTiJ7YD",
+          "author": {
+            "public_identifier": "jeff-dolce",
+            "id": "ACoAAAE6dkEBgmWqHBdYaEuuvOQ9CLMfN693kkA",
+            "name": "Jeff Dolce",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7435320367079923712",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_hpe-ptx-routers-activity-7435320367579123713-HTWF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "4mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 7,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "The momentum behind PTX Routers keeps growing. Incredible performance, efficiency, and scalability for the modern network. Excited for what this unlocks for our customers and partners.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7435320367079923712",
+        "is_repost": true,
+        "repost_id": "7435320367579123713",
+        "parsed_datetime": "2026-03-05T13:48:37.084Z",
+        "repost_content": {
+          "id": "7432448545921753088",
+          "date": "4mo",
+          "parsed_datetime": "2026-02-25T15:37:01.564Z",
+          "text": "AI is pushing networks to their limits, and HPE is delivering a new standard for routing. Introducing the PTX12000 and expanded PTX10002 router families, engineered to form the foundation of large‑scale AI fabrics and DCI. Learn more about these networking for AI innovations ahead of MWC26. https://hpe.to/6049hqDWH",
+          "author": {
+            "public_identifier": "hpe-networking",
+            "id": null,
+            "name": "HPE Networking",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7432872861977128960",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_sase-in-2026-6-trends-shaping-the-next-phase-activity-7432872861977128960-jdF5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "4mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 14,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Secure Access Service Edge (SASE) is quickly becoming the backbone of modern secure networking. These 2026 trends highlight just how fast the landscape is shifting.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7432872861977128960",
+        "is_repost": true,
+        "repost_id": "7432872861977128960",
+        "parsed_datetime": "2026-02-26T19:43:06.395Z",
+        "repost_content": {
+          "id": "7429214026842210304",
+          "date": "5mo",
+          "parsed_datetime": "2026-02-16T17:24:12.121Z",
+          "text": "SASE is growing up.\nIn 2026, it’s becoming the control plane for risk, identity, and performance everywhere. Think AI‑powered security, universal ZTNA, IoT protection, and even coffee‑shop networking—unified into one simpler, smarter SASE platform.\nhttps://hpe.to/6041hZOGR",
+          "author": {
+            "public_identifier": "hpe-networking",
+            "id": null,
+            "name": "HPE Networking",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7401998733913006080",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_congratulations-to-our-2025-products-of-the-activity-7401998733913006080-c-Cp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "7mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 10,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Congrats to all the winners and for HPE Networking (HPE Aruba Networking + HPE Juniper Networking), a BIG shout out for the following: \n- Artificial Intelligence: Software Category,for HPE Juniper Networking Mist – and the\n- HPE Aruba Networking CX 10040 switch series winning in the Networking - Enterprise Category  \n- Also, the SASE Category, EdgeConnect won for “subcategory winner” for SASE technology.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7401998733913006080",
+        "is_repost": true,
+        "repost_id": "7401998733913006080",
+        "parsed_datetime": "2025-12-03T15:00:20.651Z",
+        "repost_content": {
+          "id": "7401286250940432384",
+          "date": "7mo",
+          "parsed_datetime": "2025-12-01T15:49:11.473Z",
+          "text": "Congratulations to our 2025 Products of the Year Awards winners! The annual awards honor the leading partner-friendly IT products as selected by the solution providers that develop solutions and services around them and bring them to their customers. You can learn about them all here: https://okt.to/hZkLPv.\n\nOur editors selected finalists in 32 technology categories from products that were newly launched or updated between September 2024 and September 2025. The categories range from mainstay channel products in enterprise networking, enterprise storage, and power protection and management, to products in newer technology areas such as application performance and observability, artificial intelligence infrastructure and AI PCs.\n\nWe then asked solution providers to rate the products based on three subcategories: technology, revenue and profit, and customer need.\n\nThis year’s winners are:\n\n- Splunk\n- Dell Technologies - Winner in four categories 🏆🏆🏆🏆\n- Juniper Networks\n- Snowflake\n- Oracle NetSuite\n- IBM - Winner in two categories 🏆🏆\n- Microsoft - Winner in two categories (Microsoft Azure and Hyper-V) 🏆🏆\n- Red Hat - Winner in two categories (Ansible by Red Hat and OpenShift) 🏆🏆\n- Rewst\n- HPE Aruba Networking\n- Schneider Electric\n- AMD\n- NVIDIA\n- Google Cloud\n- Cyera\n- CrowdStrike\n- Barracuda\n- Huntress\n- SailPoint\n- Arctic Wolf\n- WatchGuard Technologies\n- Fortinet\n- Palo Alto Networks (Cortex by Palo Alto Networks)\n- Pure Storage\n- Veeam Software\n- Five9",
+          "author": {
+            "public_identifier": "crn-media",
+            "id": null,
+            "name": "CRN",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7396625564150833152",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_were-proud-to-be-named-a-leader-in-the-idc-activity-7396625564150833152-e1Q6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "8mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 18,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Woohoo! First Gartner and now IDC.",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7396625564150833152",
+        "is_repost": true,
+        "repost_id": "7396625564150833152",
+        "parsed_datetime": "2025-11-18T19:09:17.151Z",
+        "repost_content": {
+          "id": "7396200448438878208",
+          "date": "8mo",
+          "parsed_datetime": "2025-11-17T15:00:01.667Z",
+          "text": "We’re proud to be named a Leader in the IDC MarketScape for WLAN 2025—twice! HPE Aruba + HPE Juniper deliver AI-native ops, Wi-Fi 7, and Zero Trust security. The future of networking is here. https://hpe.to/60437dWbH",
+          "author": {
+            "public_identifier": "hpe-networking",
+            "id": null,
+            "name": "HPE Networking",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7391519360453943296",
+        "share_url": "https://www.linkedin.com/posts/bradtuttle_building-the-railroad-of-the-future-norfolk-activity-7391519360453943296-r7Ct?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "8mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 14,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Love this Norfolk Southern case study and quote from Andrew - “ The platform we have from HPE Aruba Networking is the framework for future ways of working. It will allow us to build, innovate, and deploy cutting-edge technologies. It is the network backbone for the transport of critical data.”",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bradtuttle",
+          "id": "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY",
+          "name": "Brad Tuttle",
+          "is_company": false,
+          "headline": "Director of Sales & Operations | HPE Networking | Driving Growth Through Strategic Sales, Partner Engagement & Customer Retention",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQElwIg0YqG1sg/profile-displayphoto-scale_400_400/B4EZvOjubBHUAg-/0/1768697030967?e=1786579200&v=beta&t=9MV5fOaEERHlCOIPj4o-N9_PcbemgqKRSujseC8QPYM"
+        },
+        "id": "7391519360453943296",
+        "is_repost": true,
+        "repost_id": "7391519360453943296",
+        "parsed_datetime": "2025-11-04T16:59:03.321Z",
+        "repost_content": {
+          "id": "7391445766604566529",
+          "date": "8mo",
+          "parsed_datetime": "2025-11-04T12:06:37.180Z",
+          "text": "Norfolk Southern is pioneering the future of rail operations and security with a game-changing digital transformation. By deploying AI, sensors, and a unified network architecture, they’re streamlining operations, boosting efficiency, and maximizing safety across 19,200 route miles. Their advanced platform powered by HPE Aruba Networking sets new industry standards, supporting resilient service and sustainable growth. Discover how Norfolk Southern is building the railroad of the future—driving America’s economy with innovation and vision. Congratulations to the NS team for driving, enabling, and delivering innovation. Check out the case study with Network Architecture Manager Andrew Morris about pioneering change in the rail industry.\n\n#AI #NetworkingForAI #AIForNetworking #HPEArubaNetworking #NorfolkSouthern\n\nhttps://lnkd.in/dd24iXBM",
+          "author": {
+            "public_identifier": "farhadghoreishi",
+            "id": "ACoAAAU_suYBHVKiN7Yn-NF28zx0Ze_uYKW9S3s",
+            "name": "Farhad Ghoreishi",
+            "is_company": false
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAAAuMhUBqGv0I4FNaAvyoJ8QmvUd7c3esmY"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 10,
+      "total_count": 13
+    },
+    "cursor": "eyJhY2NvdW50X2lkIjoiTGFlQzNxZ0lRei1BQ1BvbkhPdUZGZyIsImxpbWl0IjoxMCwic3RhcnQiOjEwLCJwYXJhbXMiOnsiYXBpIjoiY2xhc3NpYyIsImNhdGVnb3J5IjoicG9zdHMiLCJwb3N0ZWRfYnkiOnsibWVtYmVyIjpbIkFDb0FBQUF1TWhVQnFHdjBJNEZOYUF2eW9KOFFtdlVkN2MzZXNtWSJdfSwic29ydF9ieSI6ImRhdGUifX0="
+  }
+}

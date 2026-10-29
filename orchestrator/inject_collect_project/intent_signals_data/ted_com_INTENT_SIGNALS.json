@@ -1,0 +1,55 @@
+[
+    {
+        "intent_type": "job_post",
+        "title": "Not specified",
+        "location": "New York, United States",
+        "department": "Not specified",
+        "date": "Not specified",
+        "confidence": 0.8,
+        "source": "TED is headquartered in New York",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.67,
+            "evidence_density": 0.41
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "TED’s newest ERG is a voluntary group for Young Professionals and allies of Young Professionals",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.7,
+        "source": "YoPro@TED :TED’s newest ERG is a voluntary group for Young Professionals and allies of Young Professionals",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.25,
+            "evidence_density": 0.9
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "TED has an incredible Culture Committee creating opportunities for engagement & connection",
+        "date": "Not specified",
+        "news_type": "General News",
+        "confidence": 0.7,
+        "source": "TED has an incredible Culture Committee creating opportunities for engagement & connection",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.3,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "TED partnered with Stanford SPARQ, a “do tank” housed at Stanford University",
+        "date": "Not specified",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "To ensure a dynamic employee experience for our global team, we partnered with Stanford SPARQ",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.42,
+            "evidence_density": 0.82
+        }
+    }
+]

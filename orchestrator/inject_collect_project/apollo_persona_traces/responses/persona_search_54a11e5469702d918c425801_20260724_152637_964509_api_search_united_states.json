@@ -1,0 +1,120 @@
+{
+  "total_entries": 39,
+  "people": [
+    {
+      "id": "6169154d33c2d10001933eec",
+      "first_name": "Gail",
+      "last_name_obfuscated": "Co***s",
+      "title": "Head of Sales",
+      "last_refreshed_at": "2026-06-05T06:46:07.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "HPE Aruba Networking",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "60f5f76154692200011ffe3d",
+      "first_name": "Helda",
+      "last_name_obfuscated": "Lo***s",
+      "title": "VP, Sales Acceleration",
+      "last_refreshed_at": "2026-07-13T21:40:22.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "HPE Aruba Networking",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "55d7121df3e5bb5d81006b20",
+      "first_name": "Melanie",
+      "last_name_obfuscated": "Ge***r",
+      "title": "Sales Operations Manager- National Government",
+      "last_refreshed_at": "2026-07-09T00:01:11.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "HPE Aruba Networking",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "69dcce0858d9a100011a99ef",
+      "first_name": "Alan",
+      "last_name_obfuscated": "Ka***r",
+      "title": "Director of Sales",
+      "last_refreshed_at": "2026-05-27T18:04:19.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "HPE Aruba Networking",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "54a63141746869320981a9c9",
+      "first_name": "Brad",
+      "last_name_obfuscated": "Tu***e",
+      "title": "Director of Sales & Operations",
+      "last_refreshed_at": "2026-07-21T12:39:04.497+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "HPE Aruba Networking",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

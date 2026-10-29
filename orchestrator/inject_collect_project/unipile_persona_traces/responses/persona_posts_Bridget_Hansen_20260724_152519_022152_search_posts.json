@@ -1,0 +1,260 @@
+{
+  "member_id": "ACoAABOhepABFAecKdWAp0gF-bs6HaXCqtECbos",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7425333437546319872",
+        "share_url": "https://www.linkedin.com/posts/bridget-hansen_managing-a-team-can-be-tricky-in-a-fast-paced-activity-7425333508660703233-lzYi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "5mo",
+        "comment_counter": 10,
+        "impressions_counter": 0,
+        "reaction_counter": 39,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Managing a team can be tricky in a fast-paced environment, but what happens when someone is out of office?\n\nMeet my ClickUp Super Agent.\n \nThis OOO Tag Monitor is sweeping across ClickUp while I go about my day, alerting me to mentions of a team member who is OOO, so I can jump in, reroute urgent items, and keep work moving while someone is enjoying well-earned PTO or taking time to rest, recharge, and get healthy.\n\nIt turns a potentially disruptive situation that creates added, surprise work to your plate into a seamless process that gives everyone peace of mind to actually focus on what's most important.\n\nWhat's something you'd love to hand off to a Super Agent to lighten the load? 🏝️\n\nP.S. thank you Camron Newby for letting me use you as an example!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAADXDZBYBtuFeJ4pqo8wJ6009Oaobq4BvyJs",
+            "length": 12,
+            "start": 712
+          }
+        ],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D5605AQGR3RwUBcmL6g",
+            "size": {
+              "height": 720,
+              "width": 920
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGR3RwUBcmL6g/mp4-720p-30fp-crf28/B56ZwwVbVJKACI-/0/1770337458282?e=1785510000&v=beta&t=JrRBvWVGSN2zQCCYb43hlcZuSw4XamGkG0tFpYq1mgs"
+          }
+        ],
+        "author": {
+          "public_identifier": "bridget-hansen",
+          "id": "ACoAABOhepABFAecKdWAp0gF-bs6HaXCqtECbos",
+          "name": "Bridget Hansen",
+          "is_company": false,
+          "headline": "Business Development Leader @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQElhZw2JPgBxA/profile-displayphoto-scale_400_400/B56Z4YmK7AKEAk-/0/1778529121403?e=1786579200&v=beta&t=ij30XDqKFNvfpeuQltiTtXegn6C9yvk8QJ71GfB7PPo"
+        },
+        "id": "7425333508660703233",
+        "is_repost": false,
+        "parsed_datetime": "2026-02-06T00:24:24.490Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7408949727339253761",
+        "share_url": "https://www.linkedin.com/posts/bridget-hansen_most-companies-are-failing-at-adopting-ai-activity-7408951024733843456-Ezp7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "7mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 32,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Most companies are failing at adopting AI.\n \nNot because they're not trying. But because AI isn't meant to be adopted. It's meant to be adapted to you.\n \nToday, ClickUp is launching Super Agents – AI agents that understand your work context, adapt to your workflows, and natively work in your tools to maximize your productivity.\n \nThey operate as real users in your workspace with permissions, tasks, and guardrails, so every action is transparent and grounded in your actual work.\n \n🎥 Check out the launch video below to see what Super Agents can do.\n\nP.S. If the wheels are turning about the Super Agents you want to create – send me a DM and we'll brainstorm with you!",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 161
+          }
+        ],
+        "attachments": [
+          {
+            "type": "video",
+            "gif": false,
+            "id": "D5605AQGaxx2nuZuV4Q",
+            "size": {
+              "height": 720,
+              "width": 1280
+            },
+            "unavailable": false,
+            "url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGaxx2nuZuV4Q/mp4-720p-30fp-crf28/B56ZtHhgS8IkCI-/0/1766431573778?e=1785510000&v=beta&t=Uu38Al_ywygN6vsB2jfW5noOgQG2lGnPGaZXCn7an1E"
+          }
+        ],
+        "author": {
+          "public_identifier": "bridget-hansen",
+          "id": "ACoAABOhepABFAecKdWAp0gF-bs6HaXCqtECbos",
+          "name": "Bridget Hansen",
+          "is_company": false,
+          "headline": "Business Development Leader @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQElhZw2JPgBxA/profile-displayphoto-scale_400_400/B56Z4YmK7AKEAk-/0/1778529121403?e=1786579200&v=beta&t=ij30XDqKFNvfpeuQltiTtXegn6C9yvk8QJ71GfB7PPo"
+        },
+        "id": "7408951024733843456",
+        "is_repost": false,
+        "parsed_datetime": "2025-12-22T19:26:15.950Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7371204225294311424",
+        "share_url": "https://www.linkedin.com/posts/bridget-hansen_clickup-just-blew-past-300m-arr-but-were-activity-7371204226158465027-t84m?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 3,
+        "impressions_counter": 0,
+        "reaction_counter": 16,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Work sprawl kills ❌ Converged AI Workspace solves 🤝 \n\nFeeling especially grateful today and beyond excited for what we have cooking! \n\nI'm continuously blown away by the innovation, fun, and hard work I get to experience every day and especially with those who make up the best team ever 💜\n\nAdam Hebert Camron Newby  Colleen Nelson Francesca Becker Cat Spurgeon Tommy Ferry Sarah James Sarah Ali Kathlyn Benthien Camron Newby",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAADjJuKUByBEukclE8JhJVJIjvvknWX50-Uk",
+            "length": 11,
+            "start": 291
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADXDZBYBtuFeJ4pqo8wJ6009Oaobq4BvyJs",
+            "length": 12,
+            "start": 303
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADCQTYMBC1C9VIfMmc92nNg_g1ABJ9-f0es",
+            "length": 14,
+            "start": 317
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADMowuMBX9qh-5oRoS0dpNZzcPnsD9D964U",
+            "length": 16,
+            "start": 332
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADMIcqgBTo1uwfAWzH77ceIihnbfG_bIXCs",
+            "length": 12,
+            "start": 349
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADVtjNkBeY-YvkoInT_MkUwBvxULCP4YqfI",
+            "length": 11,
+            "start": 362
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADKauAABR8GBUU_dyyufT9KagP1PK5iUgqY",
+            "length": 11,
+            "start": 374
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACOwbwABxaI9CTI1bl844_DgwmlqEmzEYAI",
+            "length": 9,
+            "start": 386
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAD82GU0BPmUE5qoGPPuHbUDg7VM-Tigeuak",
+            "length": 16,
+            "start": 396
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADXDZBYBtuFeJ4pqo8wJ6009Oaobq4BvyJs",
+            "length": 12,
+            "start": 413
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bridget-hansen",
+          "id": "ACoAABOhepABFAecKdWAp0gF-bs6HaXCqtECbos",
+          "name": "Bridget Hansen",
+          "is_company": false,
+          "headline": "Business Development Leader @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQElhZw2JPgBxA/profile-displayphoto-scale_400_400/B56Z4YmK7AKEAk-/0/1778529121403?e=1786579200&v=beta&t=ij30XDqKFNvfpeuQltiTtXegn6C9yvk8QJ71GfB7PPo"
+        },
+        "id": "7371204225294311424",
+        "is_repost": true,
+        "repost_id": "7371204226158465027",
+        "parsed_datetime": "2025-09-09T15:33:57.662Z",
+        "repost_content": {
+          "id": "7371180996961976320",
+          "date": "10mo",
+          "parsed_datetime": "2025-09-09T14:01:39.596Z",
+          "text": "ClickUp just blew past $300M ARR. But we're not just celebrating a number.\n\nWe're stopping to celebrate the entire journey - before we move the goal post again.\n\nAnd this journey has been nothing short of extraordinary. We’ve grown from a small team with a huge dream into a global company helping 20M+ people maximize their productivity.\n\n7 years ago, we set out with an ambitious vision.\n\nWe built ClickUp to end the chaos of work sprawl and converge many software categories together. We started when \"one app\" was seen as the wrong strategy, but today it's the only strategy to realize our mission of making people more productive.\n\nBecause 100% context is the single most important thing for enabling human productivity from AI.\n\nSo, this milestone? We stop. We breathe. We practice gratitude. We celebrate.\n\nTo our customers: Thank you so much for believing in us, and for sticking with us through growing pains.\n\nTo our teams: I'm infinitely grateful for how much you care, it energizes me to keep going every single day.\n\nWe’re just getting started. Thank you to everyone who’s been part of this story. 💜",
+          "author": {
+            "public_identifier": "zebevansclickup",
+            "id": "ACoAAAccGvwBQet_UtnjCJgTQxExDvFcoT02dKM",
+            "name": "Zeb Evans",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7369101826110996480",
+        "share_url": "https://www.linkedin.com/posts/bridget-hansen_huge-thanks-to-our-amazing-team-and-users-activity-7369101826110996480-pYJv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "10mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 18,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "The best is yet to come 👏",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "bridget-hansen",
+          "id": "ACoAABOhepABFAecKdWAp0gF-bs6HaXCqtECbos",
+          "name": "Bridget Hansen",
+          "is_company": false,
+          "headline": "Business Development Leader @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQElhZw2JPgBxA/profile-displayphoto-scale_400_400/B56Z4YmK7AKEAk-/0/1778529121403?e=1786579200&v=beta&t=ij30XDqKFNvfpeuQltiTtXegn6C9yvk8QJ71GfB7PPo"
+        },
+        "id": "7369101826110996480",
+        "is_repost": true,
+        "repost_id": "7369101826110996480",
+        "parsed_datetime": "2025-09-03T20:19:46.636Z",
+        "repost_content": {
+          "id": "7369084640403333121",
+          "date": "10mo",
+          "parsed_datetime": "2025-09-03T19:11:29.244Z",
+          "text": "Huge thanks to our amazing team and users for making this happen. 💜\n\nBeing recognized on the Cloud 100 is a testament to the team's relentless focus and execution, and it's exceptionally special in 2025 with AI reshaping our industry.\n\nWe first founded ClickUp to maximize human productivity, and now, as the first fully-converged AI Workspace, we're delivering on that vision.\n\nAnd the best is yet to come. I couldn't be more excited about what ClickUp will be delivering in the next few months 👀",
+          "author": {
+            "public_identifier": "zebevansclickup",
+            "id": "ACoAAAccGvwBQet_UtnjCJgTQxExDvFcoT02dKM",
+            "name": "Zeb Evans",
+            "is_company": false
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAABOhepABFAecKdWAp0gF-bs6HaXCqtECbos"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 4,
+      "total_count": 4
+    },
+    "cursor": null
+  }
+}

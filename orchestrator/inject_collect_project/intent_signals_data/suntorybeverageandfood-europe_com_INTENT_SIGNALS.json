@@ -1,0 +1,67 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Suntory Beverage & Food Europe publishes 2025 Sustainability Report, advancing progress across health, climate, packaging and people - Suntory Beverage & Food Europe (SBFE) has today published its 2025 Sustainability Report, outlining progress against its Growing for Good framework and how the company is strengthening long‑term resilience while growing responsibly across Europe.",
+        "date": "05/06/2026",
+        "news_type": "Sustainability Report",
+        "confidence": 0.9,
+        "source": "Suntory Beverage & Food Europe publishes 2025 Sustainability Report, advancing progress across health, climate, packaging and people",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.39,
+            "evidence_density": 2.89
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Protecting Water in a High Water Stress Context: Suntory’s Approach in Spain - Spain faces increasing water stress, making long‑term and integrated water management essential. In this interview, Javier Valle Goyanes discusses how Suntory approaches water stewardship in Spain, what the ambition to be Water Positive by 2030 means.",
+        "date": "02/04/2026",
+        "news_type": "Sustainability",
+        "confidence": 0.8,
+        "source": "Protecting Water in a High Water Stress Context: Suntory’s Approach in Spain",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.43,
+            "evidence_density": 4.34
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Suntory Beverage & Food Europe Appoints Pauline Varga as the new Chief Marketing Officer - Suntory Beverage & Food Europe (SBFE), a regional division of Suntory, one of the world’s leading beverage companies, today announces the appointment of Pauline Varga as Chief Marketing Officer, effective 1 April 2026.",
+        "date": "01/04/2026",
+        "news_type": "Appointment",
+        "confidence": 0.9,
+        "source": "Suntory Beverage & Food Europe Appoints Pauline Varga as the new Chief Marketing Officer",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.46,
+            "evidence_density": 3.51
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Keurig Dr Pepper and Suntory Beverage & Food Europe deepen strategic partnership to accelerate growth in Europe’s carbonated soft drinks market - Keurig Dr Pepper (KDP) and Suntory Beverage & Food Europe (SBFE) today announced the expansion of their longstanding strategic partnership in Europe, marking a new phase of growth for Dr Pepper and Canada Dry across 15 European countries.",
+        "date": "26/03/2026",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "Keurig Dr Pepper and Suntory Beverage & Food Europe deepen strategic partnership to accelerate growth in Europe’s carbonated soft drinks market",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.26,
+            "evidence_density": 2.69
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Schweppes partners with Roland-Garros in a new three-year collaboration - Suntory Beverage & Food Europe (SBFE) announces today a new partnership between its iconic brand Schweppes, across Suntory-owned territories, and world-class tennis tournament Roland-Garros.",
+        "date": "28/01/2026",
+        "news_type": "Partnership",
+        "confidence": 0.8,
+        "source": "Schweppes partners with Roland-Garros in a new three-year collaboration",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.38,
+            "evidence_density": 3.72
+        }
+    }
+]

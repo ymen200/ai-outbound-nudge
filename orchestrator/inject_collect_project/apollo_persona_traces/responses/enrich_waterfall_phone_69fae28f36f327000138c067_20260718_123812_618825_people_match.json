@@ -1,0 +1,77 @@
+{
+  "person": {
+    "id": "69fae28f36f327000138c067",
+    "first_name": "Jon",
+    "last_name": "Zake",
+    "name": "Jon Zake",
+    "linkedin_url": "http://www.linkedin.com/in/jon-zake-41a2b0295",
+    "title": "Account Executive",
+    "photo_url": "https://media.licdn.com/dms/image/v2/D4D03AQHKWJzcPAFpUQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727333179225?e=2147483647&v=beta&t=PpRBkwxYoA8NXlFPXcU6uB2HfDjEqFtcpYj3fozAoJ4",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": 0.69,
+    "headline": "--",
+    "organization_id": "54a134e169702d407f115900",
+    "employment_history": [
+      {
+        "_id": "6a185939175ea50001d86ba4",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "54a134e169702d407f115900",
+        "organization_name": "Telecom Egypt",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Account Executive",
+        "updated_at": null,
+        "id": "6a185939175ea50001d86ba4",
+        "key": "6a185939175ea50001d86ba4"
+      }
+    ],
+    "street_address": "",
+    "city": null,
+    "state": "Dakahlia Governorate",
+    "country": "Egypt",
+    "postal_code": null,
+    "formatted_address": "Dakahlia Governorate, Egypt",
+    "time_zone": "Africa/Cairo",
+    "email": "jon.zake@te.eg",
+    "email_status": "extrapolated",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "inside_sales",
+      "sales"
+    ],
+    "seniority": "entry",
+    "functions": [
+      "sales"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": [
+      "jon.zake@te.eg"
+    ]
+  },
+  "waterfall": {
+    "status": "accepted",
+    "message": "Waterfall enrichment request accepted. Results will be sent to the provided webhook URL."
+  },
+  "request_id": -1080778329299642967
+}

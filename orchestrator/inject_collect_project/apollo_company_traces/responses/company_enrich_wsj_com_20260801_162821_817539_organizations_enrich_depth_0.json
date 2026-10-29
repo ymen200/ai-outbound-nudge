@@ -1,0 +1,327 @@
+{
+  "organization": {
+    "id": "54a1202769702d9a8b734e02",
+    "name": "The Wall Street Journal",
+    "website_url": "http://www.wsj.com",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/the-wall-street-journal",
+    "twitter_url": "https://twitter.com/WSJ",
+    "facebook_url": "https://www.facebook.com/WSJ/",
+    "languages": [
+      "English",
+      "Chinese",
+      "Japanese"
+    ],
+    "alexa_ranking": 563,
+    "phone": "+1 212-416-2000",
+    "linkedin_uid": "2282",
+    "founded_year": 1889,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a4117fd79b060001015732/picture",
+    "crunchbase_url": null,
+    "primary_domain": "wsj.com",
+    "sic_codes": [
+      "2711"
+    ],
+    "naics_codes": [
+      "513110",
+      "519290"
+    ],
+    "primary_phone": {
+      "number": "+1 212-416-2000",
+      "sanitized_number": "+12124162000"
+    },
+    "sanitized_phone": "+12124162000",
+    "industry": "newspapers",
+    "estimated_num_employees": 4000,
+    "keywords": [
+      "news",
+      "journalism",
+      "business",
+      "careers",
+      "newspaper publishing",
+      "financial news",
+      "news circulation",
+      "digital news platform",
+      "media platform",
+      "news products",
+      "financial market insights",
+      "news analytics",
+      "news publisher",
+      "financial analysis",
+      "interactive multimedia journalism",
+      "premium content services",
+      "news platform",
+      "financial journalism",
+      "media company",
+      "business news analysis",
+      "news app",
+      "news industry",
+      "news services",
+      "business journalism",
+      "global economic reporting",
+      "interactive news tools",
+      "business intelligence news",
+      "news audience",
+      "media technology",
+      "news coverage",
+      "news media",
+      "data-driven journalism",
+      "b2b",
+      "digital media strategy",
+      "editorial independence",
+      "economic reporting",
+      "digital news",
+      "news analysis",
+      "information services",
+      "business news",
+      "regional editions",
+      "media innovation",
+      "news organization",
+      "digital transformation in media",
+      "global editions",
+      "financial data visualization",
+      "media & publishing",
+      "news subscription models",
+      "premium news content",
+      "market analysis reports",
+      "news & media",
+      "media content personalization",
+      "news website",
+      "web search portals, libraries, archives, and other information services",
+      "investigative journalism",
+      "luxury lifestyle coverage",
+      "digital subscriptions",
+      "specialized news services",
+      "economic trend coverage",
+      "news reporting",
+      "subscription-based news",
+      "custom research reports",
+      "media events and conferences",
+      "digital media engagement",
+      "multimedia content",
+      "news readership",
+      "global business news",
+      "b2c",
+      "finance",
+      "e-commerce",
+      "media",
+      "newspapers",
+      "print media",
+      "information technology & services",
+      "financial services",
+      "consumer internet",
+      "consumers",
+      "internet"
+    ],
+    "organization_revenue_printed": "2.3B",
+    "organization_revenue": 2331000000.0,
+    "industries": [
+      "newspapers",
+      "online media"
+    ],
+    "secondary_industries": [
+      "online media"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd4a73696439a9010000",
+    "industry_tag_hash": {
+      "newspapers": "5567cd4a73696439a9010000",
+      "online media": "5567cdb373696439dd540000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "1211 Avenue of the Americas, New York, New York, United States, 10036",
+    "street_address": "1211 6th Avenue",
+    "city": "New York",
+    "state": "New York",
+    "postal_code": "10036",
+    "country": "United States",
+    "owned_by_organization_id": "57c4dbf9a6da986a9893d080",
+    "owned_by_organization": {
+      "id": "57c4dbf9a6da986a9893d080",
+      "name": "Dow Jones",
+      "website_url": "http://www.dowjones.com"
+    },
+    "num_languages": 3,
+    "owned_by_chain": [
+      "57c4dbf9a6da986a9893d080",
+      "54a13a5a69702dac849ec300"
+    ],
+    "num_retail_locations": 0,
+    "ultimate_parent_organization": {
+      "id": "54a13a5a69702dac849ec300",
+      "name": "News Corp",
+      "website_url": "http://www.newscorp.com"
+    },
+    "short_description": "The Wall Street Journal (WSJ) is a prominent American daily business and financial newspaper based in Midtown Manhattan, New York City. Founded on July 8, 1889, by Charles Dow, Edward Jones, and Charles Bergstresser, it is published six days a week by Dow Jones & Company, a division of News Corp. The WSJ operates on a subscription model, providing access to a wide range of content, including business, finance, politics, arts, culture, and lifestyle.\n\nThe WSJ offers various products and services, including a daily print edition, digital subscriptions, mobile apps for real-time news, and international editions tailored for different regions. It also publishes WSJ Magazine, which focuses on lifestyle and design. With a reputation for unbiased reporting and a generally conservative editorial stance, the WSJ is recognized as a leading source for financial news, boasting over 4 million digital subscribers and winning 37 Pulitzer Prizes for outstanding journalism. Its target audience includes global professionals, investors, and business leaders seeking authoritative coverage of commerce and finance.",
+    "suborganizations": [
+      {
+        "id": "54a128ab69702db6480c2a01",
+        "name": "MarketWatch",
+        "website_url": "http://www.marketwatch.com",
+        "industries": [
+          "online media",
+          "publishing"
+        ],
+        "estimated_num_employees": 350,
+        "country": "United States"
+      },
+      {
+        "id": "5592307373696418d706bc00",
+        "name": "Barron's",
+        "website_url": "http://www.barrons.com",
+        "industries": [
+          "newspapers",
+          "publishing"
+        ],
+        "estimated_num_employees": 440,
+        "country": "United States"
+      }
+    ],
+    "num_suborganizations": 2,
+    "annual_revenue_printed": "2.3B",
+    "annual_revenue": 2331000000.0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      "AI",
+      "Adobe Experience Cloud",
+      "Amazon AWS",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Atlassian Cloud",
+      "Chartbeat",
+      "Eloqua",
+      "Emma",
+      "Facebook Pixel",
+      "MongoDB",
+      "Oracle BlueKai Data Management Platform",
+      "React Redux",
+      "Salesforce Marketing Cloud Account Engagement",
+      "The Trade Desk",
+      "UPS",
+      "Wordpress VIP"
+    ],
+    "current_technologies": [
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "adobe_experience_cloud",
+        "name": "Adobe Experience Cloud",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_cloudfront",
+        "name": "Amazon CloudFront",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_route_53",
+        "name": "Amazon Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "atlassian_cloud",
+        "name": "Atlassian Cloud",
+        "category": "CMS"
+      },
+      {
+        "uid": "chartbeat",
+        "name": "Chartbeat",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "eloqua",
+        "name": "Eloqua",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "emma",
+        "name": "Emma",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "mongodb",
+        "name": "MongoDB",
+        "category": "Database"
+      },
+      {
+        "uid": "oracle_bluekai_data_management_platform",
+        "name": "Oracle BlueKai Data Management Platform",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "react_redux",
+        "name": "React Redux",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "salesforce_marketing_cloud_account_engagement",
+        "name": "Salesforce Marketing Cloud Account Engagement",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "the_trade_desk",
+        "name": "The Trade Desk",
+        "category": "Demand Side Platforms"
+      },
+      {
+        "uid": "ups",
+        "name": "UPS",
+        "category": "Shipping"
+      },
+      {
+        "uid": "wordpress_vip",
+        "name": "Wordpress VIP",
+        "category": "CMS"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "69ec81422b335f0001ace34f"
+    ],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "sales": 161,
+      "marketing": 385,
+      "education": 35,
+      "media_and_commmunication": 349,
+      "consulting": 20,
+      "finance": 65,
+      "accounting": 9,
+      "human_resources": 53,
+      "arts_and_design": 179,
+      "operations": 89,
+      "legal": 21,
+      "information_technology": 32,
+      "data_science": 9,
+      "business_development": 65,
+      "engineering": 137,
+      "administrative": 30,
+      "support": 38,
+      "entrepreneurship": 5,
+      "product_management": 5
+    },
+    "organization_headcount_six_month_growth": 0.01491646778042959,
+    "organization_headcount_twelve_month_growth": 0.02039592081583683,
+    "organization_headcount_twenty_four_month_growth": 0.02285027059530968
+  }
+}

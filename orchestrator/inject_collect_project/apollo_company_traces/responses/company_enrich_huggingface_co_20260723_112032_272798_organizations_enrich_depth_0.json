@@ -1,0 +1,729 @@
+{
+  "organization": {
+    "id": "5f48095e1924bc0001d03995",
+    "name": "Hugging Face",
+    "website_url": "http://www.huggingface.co",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/huggingface",
+    "twitter_url": "https://twitter.com/huggingface",
+    "facebook_url": "https://facebook.com/huggingface/",
+    "languages": [],
+    "alexa_ranking": 562,
+    "phone": "+1 617-832-1731",
+    "linkedin_uid": "11193683",
+    "founded_year": 2016,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69aa6a195b82a30001295ec4/picture",
+    "crunchbase_url": null,
+    "primary_domain": "huggingface.co",
+    "sic_codes": [
+      "7372",
+      "7374"
+    ],
+    "naics_codes": [
+      "513210",
+      "518210"
+    ],
+    "primary_phone": {
+      "number": "+1 617-832-1731",
+      "sanitized_number": "+16178321731"
+    },
+    "sanitized_phone": "+16178321731",
+    "industry": "information technology & services",
+    "estimated_num_employees": 820,
+    "keywords": [
+      "machine learning",
+      "natural language processing",
+      "deep learning",
+      "artificial intelligence",
+      "consumer",
+      "teenagers",
+      "deep information technology",
+      "parenting",
+      "information technology",
+      "age groups",
+      "demographies",
+      "software development",
+      "information technology & services"
+    ],
+    "organization_revenue_printed": "130.1M",
+    "organization_revenue": 130100000.0,
+    "industries": [
+      "information technology & services",
+      "computer software",
+      "internet"
+    ],
+    "secondary_industries": [
+      "computer software",
+      "internet"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd4773696439b10b0000",
+    "industry_tag_hash": {
+      "information technology & services": "5567cd4773696439b10b0000",
+      "computer software": "5567cd4e7369643b70010000",
+      "internet": "5567cd4d736964397e020000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "81 Prospect Street, Brooklyn, New York, United States, 11201",
+    "street_address": "81 Prospect Street",
+    "city": null,
+    "state": "New York",
+    "postal_code": "11201",
+    "country": "United States",
+    "owned_by_organization_id": null,
+    "num_languages": 0,
+    "num_retail_locations": 0,
+    "short_description": "Hugging Face is a Paris-based collaboration platform for the machine learning community, focusing on open-source AI models, datasets, and applications. Originally founded as a chatbot company, it has evolved into a leading platform for natural language processing (NLP) technologies. Hugging Face is recognized for hosting the most used open-source machine learning libraries and tools, making it a central hub for sharing and experimenting with AI.\n\nThe platform offers a variety of services, including the Hugging Face Hub, which features over 2 million models and 1.5 million datasets. Its flagship Transformers Library provides access to pre-trained models for various tasks, while the Inference API allows users to utilize these models through simple API calls. Additionally, Hugging Face supports enterprise subscriptions for enhanced collaboration and security. The company aims to empower machine learning engineers, scientists, and users to build an open and ethical AI future, making advanced AI technology accessible to a broad audience.",
+    "suborganizations": [
+      {
+        "id": "61e4fd7a00218a00a48a22da",
+        "name": "XetHub",
+        "website_url": "http://www.xethub.com",
+        "industries": [
+          "information technology & services"
+        ],
+        "estimated_num_employees": 3,
+        "country": "United States"
+      },
+      {
+        "id": "5c27c6dc80f93e743a0ae470",
+        "name": "TechTOgether: Vancouver",
+        "website_url": null,
+        "industries": [
+          "think tanks"
+        ],
+        "estimated_num_employees": 2,
+        "country": "Canada"
+      },
+      {
+        "id": "61218651a4e95600a4b6adb5",
+        "name": "TechTO",
+        "website_url": "http://www.techto.org",
+        "industries": [
+          "think tanks",
+          "events services",
+          "online media"
+        ],
+        "estimated_num_employees": 32,
+        "country": "Canada"
+      },
+      {
+        "id": "5b842bc4f874f704bde695c2",
+        "name": "Argilla",
+        "website_url": "http://www.argilla.io",
+        "industries": [
+          "information technology & services",
+          "computer software"
+        ],
+        "estimated_num_employees": 5,
+        "country": "Spain"
+      },
+      {
+        "id": "5da3ff067e5db60001c9f9de",
+        "name": "Gradio",
+        "website_url": "http://www.gradio.app",
+        "industries": [
+          "information technology & services",
+          "computer software"
+        ],
+        "estimated_num_employees": 5,
+        "country": "United States"
+      },
+      {
+        "id": "5a9d5906a6da98d977f34568",
+        "name": "Pollen Robotics",
+        "website_url": "http://www.pollen-robotics.com",
+        "industries": [
+          "electrical/electronic manufacturing",
+          "industrial automation",
+          "research",
+          "mechanical or industrial engineering"
+        ],
+        "estimated_num_employees": 23,
+        "country": "France"
+      }
+    ],
+    "num_suborganizations": 6,
+    "annual_revenue_printed": "130.1M",
+    "annual_revenue": 130100000.0,
+    "total_funding": 395740000,
+    "total_funding_printed": "395.7M",
+    "latest_funding_round_date": "2023-08-01T00:00:00.000+00:00",
+    "latest_funding_stage": "Series D",
+    "funding_events": [
+      {
+        "id": "69352d4e108fb70001289876",
+        "date": "2023-08-01T00:00:00.000+00:00",
+        "news_url": "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/",
+        "type": "Series D",
+        "investors": "Amazon, Sound Ventures, Nvidia, Alphabet | Google, IBM, Salesforce, Qualcomm, AMD, Intel Corporation",
+        "amount": "235M",
+        "currency": "$"
+      },
+      {
+        "id": "62ce3c8c1eaa880001d418c7",
+        "date": "2022-05-01T00:00:00.000+00:00",
+        "news_url": "https://huggingface.co/blog/series-c",
+        "type": "Series C",
+        "investors": "Lux Capital, AIX Ventures, Kevin Durant, betaworks, Addition VC, Sequoia, Olivier Pomel, Coatue Management, Rich Kleiman, Thirty Five Ventures, SV Angel",
+        "amount": "100M",
+        "currency": "$"
+      },
+      {
+        "id": "604ad39e20429f00014a3b21",
+        "date": "2021-03-01T00:00:00.000+00:00",
+        "news_url": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/?utm_source=dlvr.it&utm_medium=twitter",
+        "type": "Series B",
+        "investors": "Lux Capital, Kevin Durant, Alex Wang, betaworks, Addition VC, Dev Ittycheria, A_Capital, Olivier Pomel, Paul St. John, Augusto \"Aghi\" Marietti, Rich Kleiman, Richard Socher, Florian Douetteau",
+        "amount": "40M",
+        "currency": "$"
+      },
+      {
+        "id": "5df47afff7b0910001403149",
+        "date": "2019-12-01T00:00:00.000+00:00",
+        "news_url": "https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/",
+        "type": "Series A",
+        "investors": "Lux Capital, Kevin Durant, betaworks, Greg Brockman, A_Capital, Richard Socher",
+        "amount": "15M",
+        "currency": "$"
+      },
+      {
+        "id": "5b05ac76a3ae619b774cc1ee",
+        "date": "2018-05-01T00:00:00.000+00:00",
+        "news_url": "https://techcrunch.com/2018/05/23/hugging-face-raises-4-million-for-its-artificial-bff/",
+        "type": "Seed",
+        "investors": "Kevin Durant, betaworks, SV Angel, Ronny Conway",
+        "amount": "4M",
+        "currency": "$"
+      },
+      {
+        "id": "59e6800fa6da986eceb9d22c",
+        "date": "2017-03-01T00:00:00.000+00:00",
+        "news_url": "https://www.technologyreview.com/s/603936/three-weeks-with-a-chatbot-and-ive-made-a-new-friend/",
+        "type": "Angel",
+        "investors": "betaworks, SV Angel",
+        "amount": "1.3M",
+        "currency": "$"
+      },
+      {
+        "id": "6965fcf6eb0fd80001ef4b77",
+        "date": "2016-10-01T00:00:00.000+00:00",
+        "news_url": "http://www.alloweb.org/la-startup-hugging-face-a-realise-une-levee-de-fonds-de-400000-euros/46888/",
+        "type": "Seed",
+        "investors": "The Chernin Group, betaworks",
+        "amount": "400K",
+        "currency": "€"
+      }
+    ],
+    "technology_names": [
+      "AI",
+      "AMD SEV",
+      "AWS Analytics",
+      "AWS Cloud",
+      "AWS Cloud",
+      "AWS Trusted Advisor",
+      "Amazon AWS",
+      "Amazon AWS",
+      "Amazon CloudFront",
+      "Amazon Inferentia",
+      "Amazon Route 53",
+      "Amazon Route 53",
+      "Amazon S3",
+      "Amazon SES",
+      "Amazon Simple Email Service (Amazon SES)",
+      "Apache Parquet",
+      "Apple Business Manager",
+      "Apple School Manager",
+      "Azure Analysis Services",
+      "Azure Event Hubs",
+      "CAPTCHA",
+      "Cisco VPN",
+      "CloudFlare",
+      "Cross Pixel Media",
+      "Dell Avamar",
+      "Dell PowerEdge Servers",
+      "Discord",
+      "GitHub",
+      "Gmail",
+      "Google Cloud",
+      "Google Colab",
+      "Google Font API",
+      "Google Meet",
+      "Google Search Central",
+      "Google Search Console",
+      "Google Workspace",
+      "Google Workspace",
+      "Grafana",
+      "HREF Lang",
+      "HTTP/3",
+      "Hugging Face",
+      "IBM ILOG CPLEX Optimization Studio",
+      "Intel Cloud Services",
+      "KaTeX",
+      "MailJet",
+      "Microsoft 365",
+      "Microsoft Azure Monitor",
+      "Microsoft Publisher",
+      "Microsoft Purview eDiscovery",
+      "Mixpanel",
+      "Mobile Friendly",
+      "Mode",
+      "MongoDB",
+      "Multilingual",
+      "NVIDIA",
+      "Nutanix",
+      "Open Graph",
+      "OpenAI",
+      "Opentable",
+      "PyTorch",
+      "Python",
+      "REACH",
+      "RSS",
+      "React Redux",
+      "Remote",
+      "Renaissance Accelerated Reader",
+      "Segment",
+      "SentenceTransformers",
+      "Slack",
+      "Stripe",
+      "Stripe Payments",
+      "Svelte",
+      "Viewport Meta",
+      "Webflow",
+      "Workable",
+      "Zendesk",
+      "Zendesk Support Suite",
+      "Zendesk for Service",
+      "cdnjs"
+    ],
+    "current_technologies": [
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "amd_sev",
+        "name": "AMD SEV",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_analytics",
+        "name": "AWS Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_cloud",
+        "name": "AWS Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloud",
+        "name": "AWS Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_trusted_advisor",
+        "name": "AWS Trusted Advisor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_cloudfront",
+        "name": "Amazon CloudFront",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_inferentia",
+        "name": "Amazon Inferentia",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_route_53",
+        "name": "Amazon Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "amazon_route_53",
+        "name": "Amazon Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "amazon_s3",
+        "name": "Amazon S3",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_ses",
+        "name": "Amazon SES",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "amazon_simple_email_service_amazon_ses",
+        "name": "Amazon Simple Email Service (Amazon SES)",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "apache_parquet",
+        "name": "Apache Parquet",
+        "category": "Database"
+      },
+      {
+        "uid": "apple_business_manager",
+        "name": "Apple Business Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apple_school_manager",
+        "name": "Apple School Manager",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "azure_analysis_services",
+        "name": "Azure Analysis Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "azure_event_hubs",
+        "name": "Azure Event Hubs",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "captcha",
+        "name": "CAPTCHA",
+        "category": "Captcha"
+      },
+      {
+        "uid": "cisco_vpn",
+        "name": "Cisco VPN",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cloudflare",
+        "name": "CloudFlare",
+        "category": "Web Accelerators"
+      },
+      {
+        "uid": "cross_pixel_media",
+        "name": "Cross Pixel Media",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "dell_avamar",
+        "name": "Dell Avamar",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "dell_poweredge_servers",
+        "name": "Dell PowerEdge Servers",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "discord",
+        "name": "Discord",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "github",
+        "name": "GitHub",
+        "category": "Hosting"
+      },
+      {
+        "uid": "gmail",
+        "name": "Gmail",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "google_cloud",
+        "name": "Google Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_colab",
+        "name": "Google Colab",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_font_api",
+        "name": "Google Font API",
+        "category": "Fonts"
+      },
+      {
+        "uid": "google_meet",
+        "name": "Google Meet",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "google_search_central",
+        "name": "Google Search Central",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "grafana",
+        "name": "Grafana",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "href_lang",
+        "name": "HREF Lang",
+        "category": "Other"
+      },
+      {
+        "uid": "http/3",
+        "name": "HTTP/3",
+        "category": "Other"
+      },
+      {
+        "uid": "hugging_face",
+        "name": "Hugging Face",
+        "category": "Other"
+      },
+      {
+        "uid": "ibm_ilog_cplex_optimization_studio",
+        "name": "IBM ILOG CPLEX Optimization Studio",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "intel",
+        "name": "Intel Cloud Services",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "katex",
+        "name": "KaTeX",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "mailjet",
+        "name": "MailJet",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_azure_monitor",
+        "name": "Microsoft Azure Monitor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_publisher",
+        "name": "Microsoft Publisher",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "microsoft_purview_ediscovery",
+        "name": "Microsoft Purview eDiscovery",
+        "category": "Case Management"
+      },
+      {
+        "uid": "mixpanel",
+        "name": "Mixpanel",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "mode",
+        "name": "Mode",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mongodb",
+        "name": "MongoDB",
+        "category": "Database"
+      },
+      {
+        "uid": "multilingual",
+        "name": "Multilingual",
+        "category": "Widgets"
+      },
+      {
+        "uid": "nvidia",
+        "name": "NVIDIA",
+        "category": "Other"
+      },
+      {
+        "uid": "nutanix",
+        "name": "Nutanix",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "open_graph",
+        "name": "Open Graph",
+        "category": "Other"
+      },
+      {
+        "uid": "openai",
+        "name": "OpenAI",
+        "category": "Other"
+      },
+      {
+        "uid": "opentable",
+        "name": "Opentable",
+        "category": "Reservation Software"
+      },
+      {
+        "uid": "pytorch",
+        "name": "PyTorch",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "python",
+        "name": "Python",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "reach",
+        "name": "REACH",
+        "category": "Other"
+      },
+      {
+        "uid": "rss",
+        "name": "RSS",
+        "category": "Other"
+      },
+      {
+        "uid": "react_redux",
+        "name": "React Redux",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "renaissance_accelerated_reader",
+        "name": "Renaissance Accelerated Reader",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "segment",
+        "name": "Segment",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "sentencetransformers",
+        "name": "SentenceTransformers",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "stripe",
+        "name": "Stripe",
+        "category": "Payments"
+      },
+      {
+        "uid": "stripe_payments",
+        "name": "Stripe Payments",
+        "category": "Payments"
+      },
+      {
+        "uid": "svelte",
+        "name": "Svelte",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "webflow",
+        "name": "Webflow",
+        "category": "CMS"
+      },
+      {
+        "uid": "workable",
+        "name": "Workable",
+        "category": "Recruitment"
+      },
+      {
+        "uid": "zendesk",
+        "name": "Zendesk",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "zendesk_support_suite",
+        "name": "Zendesk Support Suite",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "zendesk_for_service",
+        "name": "Zendesk for Service",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "cdnjs",
+        "name": "cdnjs",
+        "category": "Content Delivery Networks"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "68c96a0c98b1eb00016f1bc3"
+    ],
+    "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+    "org_chart_removed": true,
+    "org_chart_show_department_filter": true,
+    "departmental_head_count": {
+      "engineering": 204,
+      "marketing": 12,
+      "information_technology": 5,
+      "media_and_commmunication": 3,
+      "business_development": 5,
+      "legal": 6,
+      "finance": 12,
+      "arts_and_design": 5,
+      "operations": 13,
+      "product_management": 3,
+      "sales": 13,
+      "entrepreneurship": 4,
+      "data_science": 4,
+      "human_resources": 7,
+      "consulting": 1,
+      "education": 1,
+      "accounting": 2,
+      "support": 1,
+      "administrative": 0
+    },
+    "organization_headcount_six_month_growth": -0.03684210526315789,
+    "organization_headcount_twelve_month_growth": -0.085,
+    "organization_headcount_twenty_four_month_growth": 0.09580838323353294
+  }
+}

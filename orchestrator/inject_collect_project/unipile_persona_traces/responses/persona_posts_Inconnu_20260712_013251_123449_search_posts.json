@@ -1,0 +1,675 @@
+{
+  "member_id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7481375500318326784",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_business-development-manager-mwd-job-activity-7481375500318326784-myWc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1d",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 0,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Hier eine weitere tolle Möglichkeit!!! Meldet euch bei Thomas Herdt 🚀🚨🖊️\n\n#hiring #managerposition #recruiting #randstad",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAADm-3psBLP4GvuwpBm7pQ2UNZIZomb8yvi4",
+            "length": 12,
+            "start": 55
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7481375500318326784",
+        "is_repost": true,
+        "repost_id": "7481375500318326784",
+        "parsed_datetime": "2026-07-10T15:55:16.511Z",
+        "repost_content": {
+          "id": "7481332072532582400",
+          "date": "1d",
+          "parsed_datetime": "2026-07-10T13:02:42.520Z",
+          "text": "🚨 ASAP: Echte B2B-Versicherungsprofis gesucht! 🇨🇭\n\nFür das führende Schweizer Beratungshaus im Risiko- und Vorsorgemanagement suchen wir per sofort ein vertriebsstarkes Organisationstalent für den Wirtschaftsraum Zürich.\n\n📊 Reiner B2B-Fokus: Mehrjährige, fundierte Erfahrung im Corporate-/Unternehmenskundengeschäft (Profile aus dem reinen Privatkundengeschäft/B2C können leider nicht berücksichtigt werden).\n📜 Ausbildung: VBV-Weiterbildung (oder äquivalentes Fundament in der Assekuranz).\n🗣️ Sprachen: Stilsicheres Deutsch sowie verhandlungssicheres Englisch (Wort & Schrift).\n\nInteressiert oder ein passendes Match im Netzwerk? 📥 PN direkt an mich für alle Details!\n\n\nhttps://lnkd.in/e2epvkPX",
+          "author": {
+            "public_identifier": "thomas-herdt-023552230",
+            "id": "ACoAADm-3psBLP4GvuwpBm7pQ2UNZIZomb8yvi4",
+            "name": "Thomas Herdt",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7480228837780443138",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_head-of-markets-customers-job-in-z%C3%BCrich-activity-7480228837780443138-2TL5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "4d",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 8,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Leader gesucht! Meldet euch bei Thomas Herdt. 🤩 🚀",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAADm-3psBLP4GvuwpBm7pQ2UNZIZomb8yvi4",
+            "length": 12,
+            "start": 32
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7480228837780443138",
+        "is_repost": true,
+        "repost_id": "7480228837780443138",
+        "parsed_datetime": "2026-07-07T11:58:50.858Z",
+        "repost_content": {
+          "id": "7480228281460453377",
+          "date": "4d",
+          "parsed_datetime": "2026-07-07T11:56:38.221Z",
+          "text": "Führung im Blut, B2B-Erfahrung im Gepäck und Französisch sitzt? 😎 \n\nFür einen etablierten Schweizer Qualitätsanbieter im Bereich Sicherheits- & Servicedienstleistungen suchen wir eine visionäre Persönlichkeit als Head of Markets & Customers (80% - 100%) im Raum Zürich\n\nDas wartet auf dich:\n‣Lead: Strategische & operative Führung von ca. 20 Mitarbeitenden. \n‣Growth: Weiterentwicklung der Marktbearbeitung, Kundenstrategie & KPIs. \n‣Partner: Schnittstelle zu Grosskunden, Partnern und der Geschäftsleitung. \n\nDein Profil:\n‣Mind. 5 Jahre Führungserfahrung im Vertrieb / Kundenmanagement. \n‣Analytisches Mindset (datenbasierte Steuerung via KPIs). \n‣Deutsch auf Muttersprachen-Niveau + verhandlungssicheres Französisch (mind. B2).\n\n\nDas Angebot: Krisensichere Schlüsselrolle mit viel Gestaltungsspielraum, attraktivem Bonusmodell und top ÖV-Anbindung.\n\n👉 Melde dich direkt bei mir um weitere Informationen zu erhalten.\n\n\nhttps://lnkd.in/ewDjwvPi",
+          "author": {
+            "public_identifier": "thomas-herdt-023552230",
+            "id": "ACoAADm-3psBLP4GvuwpBm7pQ2UNZIZomb8yvi4",
+            "name": "Thomas Herdt",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7479916209623216128",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_account-manager-job-in-winterthur-z%C3%BCrich-activity-7479916209623216128-RHx4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "5d",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 4,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Meldet euch bei Thomas Herdt. Spannende Möglichkeit!!! 🚀",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAADm-3psBLP4GvuwpBm7pQ2UNZIZomb8yvi4",
+            "length": 12,
+            "start": 16
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7479916209623216128",
+        "is_repost": true,
+        "repost_id": "7479916209623216128",
+        "parsed_datetime": "2026-07-06T15:16:34.497Z",
+        "repost_content": {
+          "id": "7479904687291367424",
+          "date": "5d",
+          "parsed_datetime": "2026-07-06T14:30:47.359Z",
+          "text": "🤫 VERMISST: Account Manager (Trade Marketing) – Region Winterthur 🇨🇭\n\nFür ein expandierendes Schweizer Unternehmen im Premium-Segment suchen wir ein ambitioniertes Vertriebstalent, das den globalen Wachstumskurs aktiv mitgestaltet.\n\nDeine Aufgaben: \n🔹 Strategische Betreuung & Ausbau von Key Accounts, Distributoren und Retail-Partnern. \n🔹 Konzeption und Steuerung von Trade-Marketing-Aktionen zur POS-Aktivierung. \n🔹 Analyse von Markttrends, Sell-in/Sell-out-Daten und Mitbewerbern. \n🔹 Enge cross-funktionale Zusammenarbeit mit Marketing, Logistik und Finanzen.\n\nDein Profil: \n✔️ Studium im Bereich BWL / Marketing (oder vergleichbar). \n✔️ Erfahrung im Sales / Account Management – idealerweise im FMCG-, Beauty- oder Luxussektor. \n✔️ Starke Kommunikations- und Verhandlungskompetenz mit \"Hands-on\"-Mentalität. \n✔️ Fließendes Englisch (Deutsch, Französisch oder Italienisch von Vorteil).\n\nSpannend? Ich weiss... 😜 \nLass mir gerne deinen CV zukommen, damit wir weitere Eckdaten besprechen können.\n\nBis bald!\n\nhttps://lnkd.in/ebv_pCJp",
+          "author": {
+            "public_identifier": "thomas-herdt-023552230",
+            "id": "ACoAADm-3psBLP4GvuwpBm7pQ2UNZIZomb8yvi4",
+            "name": "Thomas Herdt",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7479855660810092546",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_leadershipdevelopment-corporateculture-emotionalintelligence-activity-7479855660810092546-Mznd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "5d",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 1,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Ein perfektes Match, das am Ego scheitert. 💔 Ein grossartiger Beitrag aus unserem Netzwerk über die versteckten Dynamiken im Recruiting. Unbedingt lesen! 👇\n#Mindset #MindsetMatters #Recruiting",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7479855660810092546",
+        "is_repost": true,
+        "repost_id": "7479855660810092546",
+        "parsed_datetime": "2026-07-06T11:15:58.535Z",
+        "repost_content": {
+          "id": "7479804583217815553",
+          "date": "5d",
+          "parsed_datetime": "2026-07-06T07:53:00.688Z",
+          "text": "The Fragile Architecture of the Corporate Ego:\n\nWe often speak of the recruitment process as a transaction, a matching of skills to a budget, a resume to a headcount. \n\nBut beneath the surface, it is a delicate dance of human relationships, desires, and ultimately, our deepest vulnerabilities.\n\nJust last week, I witnessed how quickly a beautiful professional connection can shatter, not from a lack of competence, but from the fragile architecture of the ego.\n\nThe morning began with pure alignment. A brilliant candidate (male, 50+) emailed my team at Randstad Switzerland, buzzing with excitement after interviewing with our client. He was deeply interested. The chemistry was there.\n\nBy the afternoon, the entire bridge was burned to the ground.\n\nWhat was the \"transgression\" that caused him to abruptly withdraw in a wave of anger and harsh words? \n\nThe Hiring Manager (female, 50+) had reached out to him directly. No middleman, no corporate shield, just a direct line of communication born out of genuine enthusiasm and a desire to connect.\n\nIn our world at Randstad, this directness is a symbol of trust. It is a green flag.\n\nBut to him, it was an intolerable breach of \"protocol.\" No matter how much we tried to explain it, he refused to see her outreach as an act of interest. He could only see it as an act of disrespect.\n\nAs a recruiter, it was heartbreaking to see a perfect match dissolve. But as an observer of human behavior, it made me wonder: What are we actually protecting when we hide behind \"protocol\"?\n\nWhen we demand rigid boundaries in communication, are we seeking professionalism, or are we seeking control?\n\nAnd I am left with a uncomfortable, yet necessary question that we must dare to ask: \n\nWould the reaction have been the same if the voice on the other end of that direct phone call had been a man? \n\nWhen a woman in leadership takes the initiative to bypass the traditional hierarchy and speak directly, she is often misread. \n\nWhere one sees agility and warmth, an ego conditioned by older, patriarchal structures can perceive a threat to authority. It is a fascinating paradox of the modern workplace: we claim we want authentic, human-centric leadership, yet when a leader steps out from behind the corporate curtain to connect with us, we recoil.\n\nWe look so hard for \"red flags\" in others that we become blind to how our own rigid expectations block our blessings. He didn’t reject the job. He rejected the vulnerability of being approached directly.\n\nIn the end, skills can get you the interview. But it is your relationship to your own ego that determines whether you stay in the room.\n\nTo my network: Have you ever seen an opportunity fall apart because someone chose \"protocol\" over human connection? \n\nLet’s talk about it below.\n\n#LeadershipDevelopment #CorporateCulture #EmotionalIntelligence #RecruitmentRealities #HumanResources #randstad #swissjobs #insuranceindustry",
+          "author": {
+            "public_identifier": "juliaojedaochoa",
+            "id": "ACoAAAsPzEkB0nF0F2lzyLDdclLjUw3ZJ5wW0mo",
+            "name": "Julia O.",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7477242067589574658",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_netzwerken-interessenverbinden-bildung-activity-7477242068222816256-D5cy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1w",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 7,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Starke Impulse und wertvoller Austausch!\n\n​Ein herzliches Dankeschön an alle, mit denen ich mich auf der Generalversammlung der VSAS - Verband Schaltanlagen und Automatik Schweiz austauschen durfte. Genau diese Begegnungen zeigen immer wieder, wie entscheidend ein starkes Netzwerk und der persönliche Dialog sind.\n\n​Vielen Dank auch an die Organisatoren für diesen rundum gelungenen Event.\n\n#Networking",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/vsas/",
+            "length": 50,
+            "start": 128
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7477242067589574658",
+        "is_repost": true,
+        "repost_id": "7477242068222816256",
+        "parsed_datetime": "2026-06-29T06:10:29.353Z",
+        "repost_content": {
+          "id": "7476406296993304576",
+          "date": "2w",
+          "parsed_datetime": "2026-06-26T22:49:26.115Z",
+          "text": "Die GV des VSAS fand dieses Jahr in Freiburg statt. Was für ein Erfolg!\nÜber 200 Personen und Freunde des VSAS haben den Weg in die Romandie gefunden, um den Verband zu leben und erleben. Aktives Netzwerken, Geschäftsbeziehungen aufbauen und gute Freunde treffen.\nEin gesunder Verband mit gutem Fundament und konkreten Zukunftsperspektiven.\n______________________________________\n \nL'assemblée générale de l'USAT s'est tenue cette année à Fribourg. Quel succès !\nPrès de 200 personnes et amis de l'USAT ont fait le déplacement en Romandie pour vivre et partager l'expérience de l'association. Réseautage actif, établissement de relations commerciales et rencontres entre amis.\nUne association saine, dotée de bases solides et de perspectives d'avenir concrètes.\n_____________________________________\n \nL'Assemblea generale dell'USAQ di quest'anno si è tenuta a Friborgo. E che successone!\nQuasi 200 persone e amici dell'USAQ si sono recati in Romandia per vivere e condividere il lavoro dell'associazione. Un networking attivo, per stabilire relazioni d'affari e incontrare amici.\nUn'associazione sana, con basi solide e prospettive concrete per il futuro.\n \nwww.vsas.ch\n#netzwerken #interessenverbinden #bildung",
+          "author": {
+            "public_identifier": "vsas",
+            "id": null,
+            "name": "VSAS - Verband Schaltanlagen und Automatik Schweiz",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7474821597976047616",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_newzurich-immosummit-flughafenregion-activity-7474821599150608385-cCru?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "2w",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 12,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Ein riesiges Danke an die FRZ Flughafenregion Zürich - Wirtschaftsnetzwerk & Standortentwicklung für die grossartige Organisation und die inspirierenden Impulse. Wir nehmen jede Menge frische Ideen und dieses Beweisfoto mit nach Hause! 😉👇\n#ImmoSummit2026 #FlughafenregionZürich #Networking #recruiting #togetherwegrow #THEHALL #hr\n\nBelina Karaj Jürg DOS SANTOS Randstad Switzerland",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/flughafenregion-z%C3%BCrich---wirtschaftsnetzwerk-&-standortentwicklung/",
+            "length": 70,
+            "start": 26
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAD6kBkMB9GErt6kEw_-LwXNlNiRzg6IrzSI",
+            "length": 12,
+            "start": 332
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAGFkGWwBXCC_v58SC-a-JI8Hu0jRVv3EoHk",
+            "length": 15,
+            "start": 345
+          },
+          {
+            "url": "https://www.linkedin.com/company/randstad-switzerland/",
+            "length": 20,
+            "start": 361
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7474821597976047616",
+        "is_repost": true,
+        "repost_id": "7474821599150608385",
+        "parsed_datetime": "2026-06-22T13:52:24.427Z",
+        "repost_content": {
+          "id": "7473695541902639105",
+          "date": "3w",
+          "parsed_datetime": "2026-06-19T11:17:51.738Z",
+          "text": "Hinter jeder starken Region stehen engagierte und innovative Menschen:\n\nUnternehmerinnen und Unternehmer, Investoren, Fachkräfte und Visionäre prägen gemeinsam das, was wir unter „New Zurich“ verstehen: einen Wirtschaftsraum voller Chancen, Innovation und Zusammenarbeit.\n\nGebäude, Infrastruktur und Zahlen bilden die Grundlage. Die eigentliche Stärke unserer Region entsteht jedoch durch die Menschen dahinter: durch diejenigen, die sich vernetzen, voneinander lernen und gemeinsam Neues schaffen.\n\nDie grosse Begeisterung für „New Zurich“ und die zahlreichen positiven Rückmeldungen der letzten Wochen freuen mich sehr. Sie zeigen, dass wir als Gemeinschaft viel bewegen können und dass unsere Flughafenregion zu den dynamischsten Wirtschaftsräumen der Schweiz gehört.\n\nMein herzlicher Dank gilt allen, die bereits Teil unseres starken Netzwerks der FRZ Flughafenregion Zürich - Wirtschaftsnetzwerk & Standortentwicklung sind und allen, die es noch werden möchten (siehe Link in den Kommentaren).\n\nHalime Memishi Fetishi Yvonne Szeimies Luzia Zimmermann Fernanda Frighetto Christian Fontana Janis Theiler Hanspeter Hunger Peter Arnold Katerina Sedy\n\n#NewZurich #ImmoSummit #Flughafenregion #Networking #Innovation #Leadership #Community #WirtschaftsstandortSchweiz",
+          "author": {
+            "public_identifier": "rahel-kindermann-leuthardtruenorthstarjourney",
+            "id": "ACoAABIEOvoBX-DuHaxLkhuZysSu57ADE0INPiY",
+            "name": "Rahel Kindermann Leuthard",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7470861166723112961",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_networking-financeandaccounting-randstad-activity-7470861166723112961-8Ftx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 10,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Der Beitrag von meiner lieben Kollegin Belina Karaj. Viele tolle Momente und Gespräche. Es war einfach toll. Freue mich auf unser nächstes Event. 🚀\n\nJürg DOS SANTOS Randstad Switzerland  #recruiting",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAD6kBkMB9GErt6kEw_-LwXNlNiRzg6IrzSI",
+            "length": 12,
+            "start": 39
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAGFkGWwBXCC_v58SC-a-JI8Hu0jRVv3EoHk",
+            "length": 15,
+            "start": 149
+          },
+          {
+            "url": "https://www.linkedin.com/company/randstad-switzerland/",
+            "length": 20,
+            "start": 165
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7470861166723112961",
+        "is_repost": true,
+        "repost_id": "7470861166723112961",
+        "parsed_datetime": "2026-06-11T15:35:04.035Z",
+        "repost_content": {
+          "id": "7470853732394569728",
+          "date": "1mo",
+          "parsed_datetime": "2026-06-11T15:05:31.553Z",
+          "text": "🚀 Connecting, learning, and expanding horizons!\nYesterday, the @Randstad Finance & Accounting team spent an incredible evening at the Immosummit 2026 (held at the THE HALL  in Dübendorf) It was the perfect opportunity to catch up with familiar faces, meet inspiring new professionals, and discuss the latest trends shaping our industry.\nOne major takeaway from our conversations? The demand for top-tier talent isn't slowing down, and businesses are looking for agile, strategic partners more than ever.\nThank you to everyone who took the time to chat with us. If we didn’t get a chance to connect yesterday, my inbox is always open—let’s grab a virtual coffee and talk about how we can support your team this year! ☕👇\n#Networking #FinanceAndAccounting #Randstad #ZurichBusiness #TalentAcquisition #Growth",
+          "author": {
+            "public_identifier": "belina-karaj-0abb59253",
+            "id": "ACoAAD6kBkMB9GErt6kEw_-LwXNlNiRzg6IrzSI",
+            "name": "Belina Karaj",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7470857166997000196",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_immosummit2026-randstad-hiring-activity-7470857168297246721-Ltc6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1mo",
+        "comment_counter": 1,
+        "impressions_counter": 0,
+        "reaction_counter": 44,
+        "repost_counter": 3,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "🚀 Inspiration, Markt-Insights und Leistungskultur: Mein Rückblick auf den ImmoSummit 2026! 🚀 \n\n📣 Was für ein intensiver und inspirierender Tag! Der gestrige ImmoSummit 2026 in THE HALL (Dübendorf) hat wieder einmal eindrücklich gezeigt, wie dynamisch sich die Schweizer Bau- und Immobilienwirtschaft entwickelt. Bestens moderiert von Monika Schärer, bot das Programm geballtes Wissen von der Marktanalyse bis zur Wirtschaftsphilosophie.\n\n📈 Nach der offiziellen Eröffnung durch André Ingold und Rahel Kindermann lieferten Michelle Müller und Michael Birrer (Migros Bank / Banque Migros / Banca Migros) eine ermutigende Keynote: „Positive Aussichten in unsicheren Zeiten“. Trotz globaler Dynamiken bleibt der Schweizer Immobilienmarkt robust. Ergänzt wurde dies durch spannende Praxis-Insights im Interview mit Béatrice Schaeppi (Schaeppi Grundstücke AG) sowie den visionären FRZ Strategiereader „New Zurich“ von @Thomas Sevcik und Remo Daguati – ein echter Wegweiser für die Standortentwicklung! 👏 Musikalisch wurde der Nachmittag von Jodok Cello begleitet.\n\n📍 Als Sales Consultant bei der Randstad Switzerland nehme ich extrem viel wertvollen Input für unsere tägliche Arbeit an der Schnittstelle von Projekten und Talenten mit.\n\nAn mein Netzwerk: Welcher Impuls vom ImmoSummit hat Sie dieses Jahr am meisten bewegt? Lassen Sie uns in den Kommentaren austauschen! 📝\n \nBelina Karaj Jürg DOS SANTOS\n#ImmoSummit2026 #Randstad #hiring #partnerfortalent #NewZurich",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/thehall/",
+            "length": 8,
+            "start": 176
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAA4qrWUBpDL0IgZN7YJoOqZMUEGZAOzVrg8",
+            "length": 14,
+            "start": 334
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADXxFycBNm08bizMDS7ppB5hYVsn1-bYMFI",
+            "length": 15,
+            "start": 521
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAb3fN4BjcT6LWYQ6jT5zHrzyNnd97erf8c",
+            "length": 14,
+            "start": 541
+          },
+          {
+            "url": "https://www.linkedin.com/company/migros-bank/",
+            "length": 42,
+            "start": 557
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAB5jXzUBThcAx6qIczdDC4m37Uon_t7iU4k",
+            "length": 17,
+            "start": 809
+          },
+          {
+            "url": "https://www.linkedin.com/company/schaeppi-grundst%C3%BCcke/",
+            "length": 20,
+            "start": 828
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAecNUkBs-IbEAh2aRCZ6V71DogaWBNMBKc",
+            "length": 12,
+            "start": 930
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAEaMYngBLTO6qJXvB5UOkpaGn2FPjTD5xgs",
+            "length": 11,
+            "start": 1034
+          },
+          {
+            "url": "https://www.linkedin.com/company/randstad-switzerland/",
+            "length": 20,
+            "start": 1089
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAD6kBkMB9GErt6kEw_-LwXNlNiRzg6IrzSI",
+            "length": 12,
+            "start": 1368
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAGFkGWwBXCC_v58SC-a-JI8Hu0jRVv3EoHk",
+            "length": 15,
+            "start": 1381
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4E22AQGA8lY7gFqcQg",
+            "sticker": false,
+            "size": {
+              "height": 600,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGA8lY7gFqcQg/feedshare-shrink_800/B4EZ63Q_4eKYAc-/0/1781191147639?e=1785369600&v=beta&t=w6J-2oxbvrXI7I2ipooOAL6iwdfeb18l6zFaqHLjez4"
+          },
+          {
+            "id": "D4E22AQEgZ3YloqS1DA",
+            "sticker": false,
+            "size": {
+              "height": 450,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEgZ3YloqS1DA/feedshare-shrink_800/B4EZ63RAPHJkAg-/0/1781191149253?e=1785369600&v=beta&t=P1GDwosvb-uHemeUDaUwWHj5a2v2eI23MISM72QFBI8"
+          },
+          {
+            "id": "D4E22AQHR7iJDuNf9nw",
+            "sticker": false,
+            "size": {
+              "height": 600,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQHR7iJDuNf9nw/feedshare-shrink_800/B4EZ63Q_nJKgAk-/0/1781191146244?e=1785369600&v=beta&t=1__z3V5b79lPVOiB9-DRMi8afmVekg7T4oHL878VNuY"
+          },
+          {
+            "id": "D4E22AQEEfqsfOIBsyA",
+            "sticker": false,
+            "size": {
+              "height": 480,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEEfqsfOIBsyA/feedshare-shrink_480/B4EZ63Q_9NJkAg-/0/1781191147675?e=1785369600&v=beta&t=t65AriatOHHPA2Wre0pJcfzqNajxQ3_Bd0tbDN0q9AM"
+          },
+          {
+            "id": "D4E22AQEd1jg3YUpVPA",
+            "sticker": false,
+            "size": {
+              "height": 800,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQEd1jg3YUpVPA/feedshare-shrink_800/B4EZ63Q_6dJUAc-/0/1781191147539?e=1785369600&v=beta&t=vjTd4IXPo5A2Dbl72MBjUipYJaq4667uSk5dA1VORnc"
+          },
+          {
+            "id": "D4E22AQGDgR6cboZTNg",
+            "sticker": false,
+            "size": {
+              "height": 450,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4E22AQGDgR6cboZTNg/feedshare-shrink_800/B4EZ63Q_5sHAAc-/0/1781191147497?e=1785369600&v=beta&t=Zwraadnzhyjq_6KcnqlEjahZOyz_P50rnI_BLk7VNmI"
+          }
+        ],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7470857168297246721",
+        "is_repost": false,
+        "parsed_datetime": "2026-06-11T15:19:10.736Z"
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7470838662658719744",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_bankingrecruitment-financialservices-executivesearch-activity-7470838662658719744-exeB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 2,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Check out the (other) new post of Riccardo A. De Marco and meet the team of banking! 🚀 👏 📣 🚀 📣\n\nReneta Krasteva Belina Karaj Feroz Kaufmann",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAABmnKA8B7of6km81IgGEMDdvRgKKHXyU13I",
+            "length": 20,
+            "start": 34
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAACiTHIoBwyLoPU7JmmrzO2v-4Y3eBhxZwnc",
+            "length": 15,
+            "start": 96
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAD6kBkMB9GErt6kEw_-LwXNlNiRzg6IrzSI",
+            "length": 12,
+            "start": 112
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAOAxnIBcdhUguq6IaZF4r2-HwQ4TGu-iTs",
+            "length": 14,
+            "start": 125
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7470838662658719744",
+        "is_repost": true,
+        "repost_id": "7470838662658719744",
+        "parsed_datetime": "2026-06-11T14:05:38.648Z",
+        "repost_content": {
+          "id": "7470834886283796481",
+          "date": "1mo",
+          "parsed_datetime": "2026-06-11T13:50:38.290Z",
+          "text": "Our aim is to find the right fit in a fast-paced financial world.\n\nThe banking sector doesn’t just move fast—it evolves daily. From navigating regulatory shifts to driving digital transformation, the right talent isn't just an asset; it’s your competitive edge.\n\nThat’s where we come in. 👋\n\nAt ​​​Randstad Switzerland, our specialized Banking Recruitment Team lives and breathes the financial sector. We don’t just match resumes to job descriptions; we connect visionary institutions with the precise talent they need to thrive.\nWhat sets our team apart?\n\n- Deep Industry Expertise: We understand the nuances of Front Office, Risk & Compliance, Wealth Management, and FinTech innovation. We speak your language.\n- An Elite Network: We have a curated, passive pipeline of top-tier financial professionals who aren't browsing active job boards.\n- Speed & Precision: Because we specialize, we skip the learning curve and deliver high-caliber shortlists faster.\n\nWhether you are looking to strengthen your leadership team, scale a department, or take the next big step in your own banking career—our team is ready to deliver.\n\n📈 Let’s build the future of banking together.\n\nTalents: feel free to reach out to Reneta Krasteva or Feroz Kaufmann \n\n​A client meeting with Belina Karaj can be scheduled directly via https://lnkd.in/e2MrDPEY \n\n#BankingRecruitment #FinancialServices #ExecutiveSearch #BankingTalent #Hiring #FinTech #RecruitmentPartners #partnerfortalent",
+          "author": {
+            "public_identifier": "riccardo-a-de-marco-5a7175100",
+            "id": "ACoAABmnKA8B7of6km81IgGEMDdvRgKKHXyU13I",
+            "name": "Riccardo A. De Marco",
+            "is_company": false
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7470011345275478017",
+        "share_url": "https://www.linkedin.com/posts/benjaeger1301_recruiting-insurance-humanresources-activity-7470011345275478017-MZEB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 2,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Check out this new post of Riccardo A. De Marco and meet the team of insurance! 👏 📣 🚀 \n\nJulia O. Jay Schmid Jürg DOS SANTOS",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAABmnKA8B7of6km81IgGEMDdvRgKKHXyU13I",
+            "length": 20,
+            "start": 27
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAsPzEkB0nF0F2lzyLDdclLjUw3ZJ5wW0mo",
+            "length": 8,
+            "start": 88
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAB9EfsMBVLGVSpIThItv_cJYgkzTxqSXvNg",
+            "length": 10,
+            "start": 97
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAGFkGWwBXCC_v58SC-a-JI8Hu0jRVv3EoHk",
+            "length": 15,
+            "start": 108
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "benjaeger1301",
+          "id": "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY",
+          "name": "Benjamin Jäger",
+          "is_company": false,
+          "headline": "Specialist, Client and Talent Partnership, PTS @ Randstad (Schweiz) AG",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQGNfNEYFvtkxA/profile-displayphoto-shrink_400_400/B4DZeSm1oJGYAg-/0/1750511344697?e=1785369600&v=beta&t=HLDrT9iEtPGcnLMXeIx0HTDmnDGupPZnjTEz9Wt5Cw4"
+        },
+        "id": "7470011345275478017",
+        "is_repost": true,
+        "repost_id": "7470011345275478017",
+        "parsed_datetime": "2026-06-09T07:18:10.813Z",
+        "repost_content": {
+          "id": "7469991817862680576",
+          "date": "1mo",
+          "parsed_datetime": "2026-06-09T06:00:35.115Z",
+          "text": "I am happy to share insights about our insurance specialized team: \n\nAs the insurance sector navigates a complex landscape of regulatory shifts and technological disruption, finding specialized talent has become a primary strategic bottleneck. To address this, we have established a Specialized Insurance Recruiting Team designed specifically for the insurance ecosystem.\n\nUnlike generalist agencies, our division operates strictly within the insurance sector. Driven by Jürg DOS SANTOS in sales and Julia O. and Jay Schmid in recruiting, our team leverages decades of industry knowledge to fill highly technical roles.\n\nWe focus on three core pillars:\n\n - Executive Search & Leadership: Securing C-suite and director-level professionals.\n - Technical Operations: Placing vetted Actuaries, Underwriters, and Claims Managers.\n - Risk assessment: Sourcing top-performing Risk Managers and risk specialists.\n\nOur data-driven approach utilizes a proprietary network of high-performing candidates, allowing us to reduce time-to-hire metrics and improve long-term retention.\n\nTo learn more about how we can accelerate your talent acquisition strategy, feel free to book a meeting with Jürg via https://lnkd.in/erjN4zNk\n\n​If you are a candidate that is looking for the next step in the career, feel free to get in contact with either Julia via https://lnkd.in/ePt-cZDc or Jay via https://lnkd.in/esFEZx3p\n\n#recruiting #insurance #humanresources",
+          "author": {
+            "public_identifier": "riccardo-a-de-marco-5a7175100",
+            "id": "ACoAABmnKA8B7of6km81IgGEMDdvRgKKHXyU13I",
+            "name": "Riccardo A. De Marco",
+            "is_company": false
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAFvMa0EBVEtE2tT1Ok69Aa9L3aDdTapSRBY"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 10,
+      "total_count": 43
+    },
+    "cursor": "eyJhY2NvdW50X2lkIjoicmppUXZ4R25SOEtpUFc5b2JPOUI2dyIsImxpbWl0IjoxMCwic3RhcnQiOjEwLCJwYXJhbXMiOnsiYXBpIjoiY2xhc3NpYyIsImNhdGVnb3J5IjoicG9zdHMiLCJwb3N0ZWRfYnkiOnsibWVtYmVyIjpbIkFDb0FBRnZNYTBFQlZFdEUydFQxT2s2OUFhOUwzYURkVGFwU1JCWSJdfSwic29ydF9ieSI6ImRhdGUifX0="
+  }
+}

@@ -1,0 +1,216 @@
+{
+    "domain": "i3t.com.tn",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "IT & Technologies Tunisia - I3T -",
+                "ai": "I3T"
+            },
+            "industry": {
+                "apollo": "telecommunications",
+                "ai": "Distribution de matériel IT et télécom, Visioconférence"
+            },
+            "founded_year": {
+                "apollo": "Non renseigné",
+                "ai": "2012"
+            },
+            "short_description": {
+                "apollo": "IT & Technologies Tunisia - I3T is a private company based in Tunisia that specializes in telecommunications and new technology services. With over 12 years of experience, I3T operates as a value-added distributor of hardware and solutions across the greater Maghreb region. The company has successfully completed over 5,000 projects and maintains partnerships with more than 20 entities.\n\nI3T offers a range of certified products from recognized brands in key IT and telecommunications areas. Their offerings include videoconferencing equipment, computer networks, fiber optics, and telephone headsets. The company provides tailored solutions for integrators, professionals, and resellers, along with services such as direct ordering, quick quotes, free on-site demos, reliable after-sales support, and personalized technical advice. I3T also supports its partners with dedicated technical assistance, free training, and preferential pricing.",
+                "ai": "I3T est le premier distributeur de produits IT et télécom en Tunisie, spécialisé dans la vente de matériel de visioconférence, de solutions de réseaux informatiques, de fibre optique et de casques téléphoniques."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "I3T, le premier distributeur des produits IT et télécom en Tunisie, spécialisé dans la visioconférence et les réseaux informatiques."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_employees": {
+                "apollo": 12,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/i3ttunisia",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "facebook_url": {
+                "apollo": "https://www.facebook.com/i3ttunisia/",
+                "ai": "https://www.facebook.com/i3ttunisia/"
+            },
+            "phone": {
+                "apollo": "+216 70 731 671",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "B13, Résidence Tunis-Carthage, Imm SAWAN 7 éme étage, Ariana, 2080, TN",
+                "ai": "شارع 14 جانفي 2011, Ariana, Tunisia"
+            },
+            "city": {
+                "apollo": "Ariana",
+                "ai": "Ariana"
+            },
+            "country": {
+                "apollo": "Tunisia",
+                "ai": "Tunisia"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": null
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "telecommunications",
+                    "solutions de câblage",
+                    "telephone apparatus manufacturing",
+                    "accessoires fibre optique",
+                    "solutions de sécurité",
+                    "solutions sur mesure",
+                    "solutions voip pour centres d'appel",
+                    "distribution de produits it",
+                    "solutions de télécommunication",
+                    "automates industriels",
+                    "accessoires fibre optique de haute fiabilité",
+                    "marques reconnues",
+                    "réseaux informatiques",
+                    "connecteurs fibre optique",
+                    "solutions de supervision",
+                    "consulting",
+                    "solutions de visioconférence",
+                    "équipements de réseau",
+                    "parafoudres fibre optique",
+                    "solutions de gestion de réseau pour pme",
+                    "accessoires réseau",
+                    "solutions de sécurité informatique",
+                    "support technique",
+                    "data security",
+                    "technologies de l'information et des communications",
+                    "b2b",
+                    "solutions de visioconférence hd",
+                    "testeurs réseau",
+                    "accessories",
+                    "solutions de gestion de réseau",
+                    "câbles réseau",
+                    "solutions de connectivité industrielle",
+                    "casques professionnels",
+                    "réseaux et télécommunications",
+                    "solutions fibre optique haute performance",
+                    "solutions d'automatisation réseau",
+                    "modules de brassage",
+                    "solutions de gestion de l'énergie et de la sécurité",
+                    "services",
+                    "solutions ip",
+                    "armoires réseau",
+                    "fibre optique",
+                    "téléphonie ip",
+                    "passerelles voip",
+                    "solutions de câblage structurée",
+                    "solutions de stockage et de distribution de l'énergie",
+                    "solutions de sécurité réseau avancées",
+                    "solutions voip",
+                    "e-commerce",
+                    "distribution",
+                    "transportation & logistics",
+                    "computer & network security",
+                    "information technology & services",
+                    "consumer internet",
+                    "consumers",
+                    "internet"
+                ],
+                "ai": "visioconférence, matériel IT, télécom, distributeur, Tunisie, réseaux informatiques, fibre optique, casques téléphoniques, Yealink, intégrateurs, revendeurs"
+            },
+            "technologies": {
+                "apollo": [
+                    "DoubleClick",
+                    "DoubleClick Conversion",
+                    "Facebook Custom Audiences",
+                    "Facebook Login (Connect)",
+                    "Facebook Widget",
+                    "Google Dynamic Remarketing",
+                    "Google Font API",
+                    "Google Tag Manager",
+                    "Mobile Friendly",
+                    "Woo Commerce",
+                    "WordPress.org"
+                ],
+                "ai": [
+                    "OVHcloud",
+                    "PHP",
+                    "WordPress",
+                    "WooCommerce",
+                    "Muffin Group (likely Betheme)",
+                    "Google Analytics",
+                    "Google Tag Manager"
+                ]
+            }
+        }
+    },
+    "apollo_only_attributes": {
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6705fb8b0c9d7200019a1fe6/picture",
+        "departments": {
+            "accounting": 1,
+            "information_technology": 1,
+            "sales": 0,
+            "operations": 0,
+            "finance": 0,
+            "marketing": 0,
+            "human_resources": 0,
+            "legal": 0,
+            "engineering": 0,
+            "business_development": 0,
+            "product_management": 0,
+            "consulting": 0,
+            "education": 0,
+            "administrative": 0,
+            "media_and_commmunication": 0,
+            "arts_and_design": 0,
+            "entrepreneurship": 0,
+            "support": 0,
+            "data_science": 0
+        }
+    },
+    "ai_only_attributes": {
+        "data_quality_score": {
+            "value": 0.68,
+            "confidence": 0.95,
+            "source": "L'identité, l'adresse et l'empreinte technique sont complètes, mais les données de performance (revenus, employés) et les réseaux sociaux professionnels sont manquants."
+        },
+        "market_intelligence": {
+            "competitors": [
+                "Disway Tunisia",
+                "Logicom Tunisia",
+                "Prologic Tunisia",
+                "Aetech",
+                "I-Tech Tunisia"
+            ]
+        },
+        "fiscal_year_end": null,
+        "annual_revenue_USD": null,
+        "is_subsidiary": false,
+        "parent_company": null,
+        "subsidiaries_list": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+  "lead_id": "test-inmail-001",
+  "campaign_id": "campaign_inmail_test",
+  "entreprise": "Stripe",
+  "contact_info": {
+    "full_name": "John Smith",
+    "nom": "John Smith",
+    "job_title": "CTO",
+    "titre": "CTO",
+    "email": "john.smith@stripe.com",
+    "country": "United States",
+    "city": "San Francisco",
+    "location": "San Francisco, United States",
+    "linkedin": "https://linkedin.com/in/johnsmith",
+    "phone": "",
+    "is_connected_on_linkedin": false,
+    "has_inmail_credits": true
+  },
+  "contexte_web": {
+    "profil_brut": "John is CTO at Stripe, a payments infrastructure company. Recently spoke about scaling engineering teams and infrastructure challenges.",
+    "offer_context": "AI-powered infrastructure monitoring and alerting platform",
+    "icp_description": "B2B SaaS companies with 100+ employees, engineering leaders dealing with infrastructure complexity"
+  },
+  "research_signals": [
+    {
+      "type": "recent_post",
+      "content": "Posted about infrastructure scaling challenges at Stripe",
+      "strength": "high",
+      "why_relevant": "Directly related to our infrastructure monitoring offer"
+    }
+  ],
+  "use_native_language": false,
+  "message_language": null,
+  "approval_mode": "per_sequence",
+  "sender_company": "InfraAI",
+  "sender_elevator_pitch": "We help engineering teams monitor infrastructure with AI-powered insights",
+  "offer_name": "InfraAI Pro",
+  "solution_summary": "AI infrastructure monitoring that predicts issues before they happen",
+  "cta": "Book a 15-min demo to see predictive monitoring in action",
+  "max_touches": 3,
+  "max_days": 10,
+  "preferred_first_channel": "linkedin_inmail",
+  "sequence_options": {
+    "vary_tone": true,
+    "include_breakup": false,
+    "reference_previous": true,
+    "escalate_urgency": false,
+    "cross_channel": true
+  },
+  "stage_instructions": {
+    "first_touch": "Be professional, reference infrastructure challenges, offer value immediately"
+  },
+  "personality_config": {
+    "base_template": "consultative",
+    "personality_traits": ["Technical", "Direct"],
+    "always_include_phrases": ["predictive monitoring", "infrastructure insights"],
+    "never_use_phrases": ["game-changer", "revolutionary"],
+    "urgency_level": 3,
+    "humor_sarcasm": 2,
+    "touchdowns_per_message": 2
+  },
+  "debug_mode": true
+}

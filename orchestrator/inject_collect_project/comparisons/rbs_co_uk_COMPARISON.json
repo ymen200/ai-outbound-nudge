@@ -1,0 +1,172 @@
+{
+    "domain": "rbs.co.uk",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "Royal Bank of Scotland Business",
+                "ai": "Royal Bank of Scotland (36 Saint Andrew Square Branch)"
+            },
+            "domain": {
+                "apollo": "rbs.co.uk",
+                "ai": "rbs.co.uk"
+            },
+            "industry": {
+                "apollo": "banking",
+                "ai": "Banking and Financial Services"
+            },
+            "founded_year": {
+                "apollo": 1727,
+                "ai": null
+            },
+            "short_description": {
+                "apollo": "Non renseigné",
+                "ai": "Retail and commercial bank providing accounts, mortgages, loans, and investment services."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Royal Bank of Scotland Online – Bank Accounts, Mortgages, Loans and Savings"
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_num_employees": {
+                "apollo": 56000,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/royal-bank-of-scotland-business",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "http://twitter.com/rbs_help",
+                "ai": null
+            },
+            "facebook_url": {
+                "apollo": "http://www.facebook.com/royalbankofscotland",
+                "ai": null
+            },
+            "phone": {
+                "apollo": "+44 34 5600 2230",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "36 st andrew square, edinburgh, scotland eh2 2, gb",
+                "ai": "36 Saint Andrew Square, Edinburgh, United Kingdom"
+            },
+            "city": {
+                "apollo": "Non renseigné",
+                "ai": "Edinburgh"
+            },
+            "country": {
+                "apollo": "United Kingdom",
+                "ai": "United Kingdom"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 0,
+                "ai": null
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": "Non renseigné",
+                "ai": "Banking, Mortgages, Savings, Loans, ISA, Credit Score, Financial Health, Fraud Prevention, APP Scams, Personal Accounts"
+            },
+            "technologies": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    {
+                        "name": "LivePerson",
+                        "category": "Customer Service / Chat",
+                        "confidence": 0.99,
+                        "source": "lpcdn.lpsnmedia.net, lptag.liveperson.net",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.6,
+                            "evidence_density": 0.24
+                        }
+                    },
+                    {
+                        "name": "OneTrust",
+                        "category": "Compliance / Cookie Management",
+                        "confidence": 0.99,
+                        "source": "cdn.cookielaw.org",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.75,
+                            "evidence_density": 0.47
+                        }
+                    },
+                    {
+                        "name": "Adobe Launch / DTM",
+                        "category": "Tag Management",
+                        "confidence": 0.95,
+                        "source": "assets.adobedtm.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.52,
+                            "evidence_density": 0.95
+                        }
+                    },
+                    {
+                        "name": "Adobe Experience Manager / Helix",
+                        "category": "CMS",
+                        "confidence": 0.9,
+                        "source": "rum.hlx.page",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.67,
+                            "evidence_density": 2.67
+                        }
+                    },
+                    {
+                        "name": "Cora AI",
+                        "category": "Conversational AI",
+                        "confidence": 0.98,
+                        "source": "webserver.chatcora.natwest.com",
+                        "xai_metrics": {
+                            "faithfulness_score": 1,
+                            "calibration_error": 0.71,
+                            "evidence_density": 0.23
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": "Non renseigné",
+                "ai": []
+            },
+            "funding_events": {
+                "apollo": "Non renseigné",
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Barclays",
+                    "HSBC UK",
+                    "Lloyds Bank",
+                    "Santander UK",
+                    "Bank of Scotland"
+                ]
+            }
+        }
+    }
+}

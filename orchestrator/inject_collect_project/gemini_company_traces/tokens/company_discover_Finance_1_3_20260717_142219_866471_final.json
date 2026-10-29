@@ -1,0 +1,129 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 4,
+    "successful_calls": 3,
+    "failed_calls": 1,
+    "prompt_tokens": 6941,
+    "candidates_tokens": 1824,
+    "thoughts_tokens": 3150,
+    "cached_content_tokens": 0,
+    "total_tokens": 11915,
+    "by_model": {
+      "gemini-3.1-flash-lite-preview": {
+        "calls": 1,
+        "total_tokens": 149,
+        "prompt_tokens": 124,
+        "candidates_tokens": 25
+      },
+      "gemini-3-flash-preview": {
+        "calls": 1,
+        "total_tokens": 6576,
+        "prompt_tokens": 3306,
+        "candidates_tokens": 1624
+      },
+      "gemini-2.5-flash": {
+        "calls": 1,
+        "total_tokens": 5190,
+        "prompt_tokens": 3511,
+        "candidates_tokens": 175
+      }
+    },
+    "by_operation": {
+      "browser_config": {
+        "calls": 1,
+        "total_tokens": 149,
+        "prompt_tokens": 124,
+        "candidates_tokens": 25
+      },
+      "extract_apollo": {
+        "calls": 1,
+        "total_tokens": 6576,
+        "prompt_tokens": 3306,
+        "candidates_tokens": 1624
+      },
+      "post_process": {
+        "calls": 1,
+        "total_tokens": 5190,
+        "prompt_tokens": 3511,
+        "candidates_tokens": 175
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T14:21:12.021523",
+        "prompt_token_count": 124,
+        "candidates_token_count": 25,
+        "total_token_count": 149,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T14:21:39.597191",
+        "prompt_token_count": 3306,
+        "candidates_token_count": 1624,
+        "total_token_count": 6576,
+        "thoughts_token_count": 1646,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-17T14:22:02.697538"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-17T14:22:13.274335",
+        "prompt_token_count": 3511,
+        "candidates_token_count": 175,
+        "total_token_count": 5190,
+        "thoughts_token_count": 1504,
+        "cached_content_token_count": 0
+      }
+    ],
+    "companies_scraped_attempted": 1,
+    "companies_scraped_succeeded": 1,
+    "industries": [
+      "Finance"
+    ],
+    "locations": [
+      "Canada",
+      "United States",
+      "Mexico"
+    ]
+  }
+}

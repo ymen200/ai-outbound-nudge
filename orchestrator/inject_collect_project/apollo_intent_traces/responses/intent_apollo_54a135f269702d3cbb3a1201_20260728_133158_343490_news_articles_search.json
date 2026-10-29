@@ -1,0 +1,80 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 5,
+    "total_pages": 1
+  },
+  "news_articles": [
+    {
+      "id": "64fa77693893560251757dc5",
+      "url": "https://www.businessinsurance.com/article/20230902/NEWS06/912359619/Former-editor,-publisher-of-Business-Insurance-Kathryn-McIntyre-dies",
+      "domain": "businessinsurance.com",
+      "title": "Former editor, publisher of Business Insurance Kathryn McIntyre dies",
+      "snippet": "Spending 25 years at the publication, Ms. McIntyre, 71, joined Business Insurance when it was a fortnightly publication and helped lead it through its transformation to a weekly news magazine and later a digital and print publishing platform.",
+      "organization_ids": [
+        "54a135f269702d3cbb3a1201"
+      ],
+      "published_at": "2023-09-02T00:00:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "64cd0c97d9839000a35461b5",
+      "url": "https://www.businessinsurance.com/article/20230803/NEWS06/912359034/Next-adds-excess-liability-coverage-",
+      "domain": "businessinsurance.com",
+      "title": "Next adds excess liability coverage",
+      "snippet": "Insurtech Next Insurance Inc. has added umbrella and excess liability to its range of coverages for small businesses.",
+      "organization_ids": [
+        "54a135f269702d3cbb3a1201"
+      ],
+      "published_at": "2023-08-03T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "62e6fb9eb5862400e1308faa",
+      "url": "https://blog.henshalls.com/sarah-joins-the-henshalls-team",
+      "domain": "henshalls.com",
+      "title": "Sarah Joins The Henshalls Team",
+      "snippet": "At Henshalls, Sarah will join the Business Insurance team and work with commercial clients across a whole range of industry sectors.",
+      "organization_ids": [
+        "54a135f269702d3cbb3a1201"
+      ],
+      "published_at": "2022-07-21T00:00:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "62058b77cd10af008df8b7ef",
+      "url": "https://www.businessinsurance.com/article/20220126/NEWS06/912347485/Business-Insurance-seeks-input-on-risk-technology",
+      "domain": "businessinsurance.com",
+      "title": "<em>Business Insurance</em> seeks input on risk technology | Business Insurance",
+      "snippet": "Business Insurance has launched its annual risk management technology survey.",
+      "organization_ids": [
+        "54a135f269702d3cbb3a1201"
+      ],
+      "published_at": "2022-01-26T08:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "61fbd087a4c74601133d2751",
+      "url": "https://americanpublicentity.com/business-insurance-names-acrisure-partner-a-women-to-watch-winner/",
+      "domain": "americanpublicentity.com",
+      "title": "‘Business Insurance’ Names Acrisure Partner a “Women to Watch” Winner",
+      "snippet": "Business Insurance started the Women to Watch program in 2006 to recognize women leaders doing outstanding work in risk management and commercial insurance.",
+      "organization_ids": [
+        "54a135f269702d3cbb3a1201"
+      ],
+      "published_at": "2021-10-27T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    }
+  ]
+}

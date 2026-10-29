@@ -1,0 +1,162 @@
+{
+  "member_id": "ACoAAA7CCsABtjdWHZGr5IqN22BEpWmiaAtA8g4",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7483914586816016384",
+        "share_url": "https://www.linkedin.com/posts/garrettyacovone_youre-30000-feet-up-the-biggest-meeting-activity-7483917196226752512-v8m8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "6d",
+        "comment_counter": 3,
+        "impressions_counter": 0,
+        "reaction_counter": 22,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "This week marks 6 years at ClickUp. 🚀 Time flies when you're building something meaningful.\n\nI've had the privilege of working alongside some of the sharpest, most driven people I've ever met. I'm deeply thankful for that.\n\nOn the customer side, I get to partner with enterprise organizations navigating real AI transformation, fundamentally rethinking how their teams operate. It's the most rewarding part of this role.\n\nAND it's incredible to be at a company where the product keeps pace with those conversations. Brain 2.0 🧠 + what's ahead have me energized in a way that feels like year 1 again.\n\nHere's to the next chapter! 🎉",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/company/clickup-app/",
+            "length": 7,
+            "start": 27
+          }
+        ],
+        "attachments": [],
+        "author": {
+          "public_identifier": "garrettyacovone",
+          "id": "ACoAAA7CCsABtjdWHZGr5IqN22BEpWmiaAtA8g4",
+          "name": "Garrett Yacovone",
+          "is_company": false,
+          "headline": "Enterprise Sales Leadership @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQE4m4xZsQHqXQ/profile-displayphoto-scale_400_400/B56Z11TFL1HEAg-/0/1775789436058?e=1786579200&v=beta&t=u8o9zpyEqXY48n3zisIEvDFWc75m7I9rbj48OTbo5YQ"
+        },
+        "id": "7483914586816016384",
+        "is_repost": true,
+        "repost_id": "7483917196226752512",
+        "parsed_datetime": "2026-07-17T16:04:41.906Z",
+        "repost_content": {
+          "id": "7483182593715134464",
+          "date": "1w",
+          "parsed_datetime": "2026-07-15T15:36:01.151Z",
+          "text": "You're 30,000 feet up. The biggest meeting of your career is tomorrow. Most would be nervous. You smile and get rest, thanks to ClickUp Brain.\n\nYour companies AI already knows your projects, your context, your next steps. It builds your deck, preps your talking points, and handles the follow-ups. If any changes pop up, it knows exactly what to do.\n\nThis is what AI looks like when it actually knows your work. \n\nTry ClickUp Brain today 🧠.",
+          "author": {
+            "public_identifier": "clickup-app",
+            "id": null,
+            "name": "ClickUp",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7475311312642666496",
+        "share_url": "https://www.linkedin.com/posts/garrettyacovone_we-flew-our-ai-team-to-one-house-whiteboards-activity-7475311313166970881-k8Ax?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 3,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "We just launched Brain² at ClickUp, and I'm blown away by what it can do.\n\nIt's not another chatbot that gives you \"tips.\" It actually does the work--> Slides, dashboards,  project plans. Built from your company's context, not generic training data, + Brain gets smarter the more your team uses it.\n\nStop using 5+ AI tools with zero shared memory. Brain replaces all of them.\n\nclickup.com/brain",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "garrettyacovone",
+          "id": "ACoAAA7CCsABtjdWHZGr5IqN22BEpWmiaAtA8g4",
+          "name": "Garrett Yacovone",
+          "is_company": false,
+          "headline": "Enterprise Sales Leadership @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQE4m4xZsQHqXQ/profile-displayphoto-scale_400_400/B56Z11TFL1HEAg-/0/1775789436058?e=1786579200&v=beta&t=u8o9zpyEqXY48n3zisIEvDFWc75m7I9rbj48OTbo5YQ"
+        },
+        "id": "7475311312642666496",
+        "is_repost": true,
+        "repost_id": "7475311313166970881",
+        "parsed_datetime": "2026-06-23T22:18:21.502Z",
+        "repost_content": {
+          "id": "7475241944730714112",
+          "date": "1mo",
+          "parsed_datetime": "2026-06-23T17:42:42.903Z",
+          "text": "We flew our AI team to one house. Whiteboards on every wall. Monitors on every surface. One mission: make AI actually work for the 98% who've never written a prompt.\n \nThe result is Brain².\n \nEveryone's shipping AI. Everyone's using the same frontier models. Claude, GPT, Gemini. So do we.\n \nBut the model was never the moat.\n \nContext is.\n \nAt runtime, Brain² dynamically assembles the perfect context for every query. Your activity. Your decisions. Your projects. Your team's collective memory. All structured. All compressed. All real-time. Assembled in milliseconds before the model generates a single token.\n \nWhen AI has full context, you don't need prompts. You need intent.\n \nSay \"@brain slides.\" One word. Done. It already knows what you're working on, what your team decided yesterday, and what matters right now.\n \nAnd it compounds. Every interaction teaches it. Every correction sharpens it. One Brain for your entire team. Every person makes it smarter for everyone else.\n \nWe call it Multiplayer AI. Memory that scales exponentially across your entire organization.\n \nOver time, Brain² responds the way your best teammate would. On their best day. Every day.\n \nRun it against whatever you're using now. Same models. Radically different results.\n \nBrain² is live today. Comment \"Brain\" and we'll send you a link.",
+          "author": {
+            "public_identifier": "clickup-app",
+            "id": null,
+            "name": "ClickUp",
+            "is_company": true
+          }
+        }
+      },
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:activity:7468727609044987904",
+        "share_url": "https://www.linkedin.com/posts/garrettyacovone_clickup-is-now-a-leader-in-six-ai-categories-activity-7468727609044987904-9o2k?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAb5xloBAjquIMcq59NNupJ6dxbXVTCmLWk",
+        "date": "1mo",
+        "comment_counter": 0,
+        "impressions_counter": 0,
+        "reaction_counter": 11,
+        "repost_counter": 0,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Fragmented AI tools cant produce 10x productivity for your team. \n\nMake it easy for your team to leverage AI by having it built in to your daily workflows + some friendly Super Agents working with you. 🚀 \n\n﻿﻿https://lnkd.in/gCQMXzEp",
+        "mentions": [],
+        "attachments": [],
+        "author": {
+          "public_identifier": "garrettyacovone",
+          "id": "ACoAAA7CCsABtjdWHZGr5IqN22BEpWmiaAtA8g4",
+          "name": "Garrett Yacovone",
+          "is_company": false,
+          "headline": "Enterprise Sales Leadership @ ClickUp",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQE4m4xZsQHqXQ/profile-displayphoto-scale_400_400/B56Z11TFL1HEAg-/0/1775789436058?e=1786579200&v=beta&t=u8o9zpyEqXY48n3zisIEvDFWc75m7I9rbj48OTbo5YQ"
+        },
+        "id": "7468727609044987904",
+        "is_repost": true,
+        "repost_id": "7468727609044987904",
+        "parsed_datetime": "2026-06-05T18:17:04.245Z",
+        "repost_content": {
+          "id": "7468700794494611456",
+          "date": "1mo",
+          "parsed_datetime": "2026-06-05T16:30:31.158Z",
+          "text": "ClickUp is now a Leader in six AI categories on G2.\n\nThat’s not a side win. It’s a signal.\n\nBuyers aren’t looking for one more isolated AI tool.\nThey’re looking for AI that actually works in the flow of work.\n\nThis season, ClickUp earned Leader status in:\n• Agentic AI\n• AI Agents\n• AI Chatbots\n• AI Meeting Assistants\n• AI Agents for Business Operations\n• AI Writing Assistants\n\nAnd this momentum is backed by real customer trust:\n• 12,000+ reviews on G2\n• Leadership across fast-growing AI categories\n• Stronger traction in the categories shaping where work is going next\n\nThis is what convergence looks like.\n\nOne platform.\nYour projects, docs, chat, and AI connected.\nNot disconnected tools pretending to be a strategy.",
+          "author": {
+            "public_identifier": "clickup-app",
+            "id": null,
+            "name": "ClickUp",
+            "is_company": true
+          }
+        }
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAAA7CCsABtjdWHZGr5IqN22BEpWmiaAtA8g4"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 3,
+      "total_count": 3
+    },
+    "cursor": null
+  }
+}

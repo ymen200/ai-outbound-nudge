@@ -1,0 +1,36 @@
+{
+  "lead_id": "test-per-step-001",
+  "campaign_id": "campaign_per_step",
+  "entreprise": "Notion",
+  "contact_info": {
+    "full_name": "Alex Rivera",
+    "nom": "Alex Rivera",
+    "job_title": "Head of Growth",
+    "titre": "Head of Growth",
+    "email": "alex@notion.so",
+    "country": "United States",
+    "city": "San Francisco",
+    "location": "San Francisco, United States",
+    "linkedin": "https://linkedin.com/in/alexrivera",
+    "phone": "",
+    "is_connected_on_linkedin": false,
+    "has_inmail_credits": false
+  },
+  "contexte_web": {
+    "profil_brut": "Alex leads growth at Notion. Recently launched a new AI features suite.",
+    "offer_context": "AI outreach automation for B2B SaaS growth teams",
+    "icp_description": "B2B SaaS growth leaders at companies with 100+ employees"
+  },
+  "use_native_language": false,
+  "message_language": null,
+  "approval_mode": "per_step",
+  "sender_company": "OutreachAI",
+  "sender_elevator_pitch": "Automated personalized multi-channel outreach",
+  "offer_name": "Growth Accelerator",
+  "solution_summary": "AI sequences that write like your best SDR",
+  "cta": "Grab 15 minutes to see the magic",
+  "max_touches": 3,
+  "max_days": 10,
+  "preferred_first_channel": "email",
+  "debug_mode": true
+}

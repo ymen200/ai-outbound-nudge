@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Mike Wurth",
+        "clean_name_used": "Mike Wurth",
+        "linkedin_url": "https://www.linkedin.com/in/mike-wurth-24880711",
+        "company": "Wurth",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "John Schmidt",
+        "clean_name_used": "John Schmidt",
+        "linkedin_url": "https://www.linkedin.com/in/john-schmidt-b1060020",
+        "company": "Wurth",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Peter Wurth",
+        "clean_name_used": "Peter Wurth",
+        "linkedin_url": "https://www.linkedin.com/in/peter-wurth-7b7a6b45",
+        "company": "Wurth",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

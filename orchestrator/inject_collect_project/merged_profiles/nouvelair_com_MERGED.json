@@ -1,0 +1,277 @@
+{
+    "alexa_ranking": 752761,
+    "annual_revenue": 350000000.0,
+    "apollo_id": "637908e2e0a02000a36d5a9d",
+    "city": "Monastir",
+    "country": "Tunisia",
+    "departments": {
+        "operations": 37,
+        "sales": 9,
+        "marketing": 4,
+        "finance": 7,
+        "support": 35,
+        "business_development": 3,
+        "legal": 1,
+        "information_technology": 4,
+        "engineering": 16,
+        "accounting": 4,
+        "human_resources": 2,
+        "administrative": 5,
+        "data_science": 3,
+        "product_management": 0,
+        "consulting": 0,
+        "education": 0,
+        "media_and_commmunication": 0,
+        "arts_and_design": 0,
+        "entrepreneurship": 0
+    },
+    "domain": "nouvelair.com",
+    "estimated_num_employees": 940,
+    "facebook_url": "https://www.facebook.com/Nouvelair.PageOfficielle?fref=ts",
+    "founded_year": 1989,
+    "funding_events": [],
+    "industry": "Compagnie aérienne / Voyages",
+    "keywords": [
+        "airlines & aviation",
+        "cheap flights",
+        "réservation en ligne",
+        "compagnie aérienne tunisienne",
+        "billets d'avion",
+        "destinations tunisie",
+        "programme de fidélité",
+        "customer support",
+        "offres personnalisées",
+        "b2c",
+        "online booking",
+        "airlines",
+        "e-commerce",
+        "flight booking",
+        "tunisia destinations",
+        "airline",
+        "promotions",
+        "transportation & logistics",
+        "vols pas chers tunisie",
+        "scheduled air transportation",
+        "fidelity program",
+        "service client",
+        "mobile app",
+        "travel services",
+        "destinations estivales",
+        "d2c",
+        "services",
+        "réseau de points de vente",
+        "airlines/aviation",
+        "aviation & aerospace",
+        "consumer internet",
+        "consumers",
+        "internet",
+        "information technology & services",
+        "vols pas chers",
+        "Tunisie",
+        "nouvelair",
+        "voyage",
+        "aérien",
+        "destinations",
+        "réservation",
+        "Tunis",
+        "Monastir",
+        "Djerba",
+        "application mobile",
+        "Jasmin"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/nouvelair-tunisia",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66ef9d8c344f490001d82ed6/picture",
+    "name": "Nouvelair",
+    "num_suborganizations": 0,
+    "phone": "+216 70 020 920",
+    "raw_address": "Zone Touristique DKHILA, Monastir, Monastir, Monastir 5056, TN",
+    "seo_description": "Vols pas chers Tunisie | vente billets d'avion nouvelair",
+    "short_description": "Nouvelair est une compagnie aérienne tunisienne proposant des vols pas chers vers la Tunisie (Tunis, Monastir, Djerba) depuis plus de 130 aéroports dans plus de 30 pays.",
+    "state": "Monastir",
+    "suborganizations": [],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "android",
+            "name": "Android",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "azure_blob_storage",
+            "name": "Azure Blob Storage",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "drupal",
+            "name": "Drupal",
+            "category": "CMS"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+        },
+        {
+            "uid": "mui",
+            "name": "MUI",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "mapbox",
+            "name": "Mapbox",
+            "category": "Other"
+        },
+        {
+            "uid": "material_ui",
+            "name": "Material UI",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft",
+            "name": "Microsoft Azure Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nextjs",
+            "name": "Next.js",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "ovhcloud",
+            "name": "OVHcloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "office365",
+            "name": "Office365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "ubuntu",
+            "name": "Ubuntu",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "google",
+            "name": "Google",
+            "category": "Publicité / Analytics / Services Web"
+        },
+        {
+            "uid": "zowie",
+            "name": "Zowie",
+            "category": "Chatbot / Service Client"
+        },
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "Bibliothèque JavaScript"
+        },
+        {
+            "uid": "google_ads",
+            "name": "Google Ads",
+            "category": "Publicité"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analyse Web"
+        },
+        {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "Tracking Publicitaire"
+        },
+        {
+            "uid": "material-ui_(mui)",
+            "name": "Material-UI (MUI)",
+            "category": "Bibliothèque UI"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/NouvelairTN",
+    "website_url": "http://www.nouvelair.com",
+    "is_subsidiary": false,
+    "competitors": [
+        "Tunisair",
+        "Tunisair Express",
+        "Transavia",
+        "Air France",
+        "TUI fly"
+    ],
+    "data_quality_score": 0.92
+}

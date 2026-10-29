@@ -1,0 +1,77 @@
+{
+  "person": {
+    "id": "57ddbc48a6da987ae8cae7c6",
+    "first_name": "Nihal",
+    "last_name": "Yazid",
+    "name": "Nihal Yazid",
+    "linkedin_url": "http://www.linkedin.com/in/nihal-yazid-04a6a5125",
+    "title": "Business Development Manager",
+    "photo_url": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "twitter_url": null,
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": 0.67,
+    "headline": "Responsable développement commercial chez INTELCIA",
+    "organization_id": "5a9d2bf7a6da98d94d8ab10e",
+    "employment_history": [
+      {
+        "_id": "6a43548ffe8b3a0001f727eb",
+        "created_at": null,
+        "current": true,
+        "degree": null,
+        "description": null,
+        "emails": null,
+        "end_date": null,
+        "grade_level": null,
+        "kind": null,
+        "major": null,
+        "org_matched_by_name": false,
+        "organization_id": "5a9d2bf7a6da98d94d8ab10e",
+        "organization_name": "INTELCIA",
+        "raw_address": null,
+        "start_date": null,
+        "title": "Business Development Manager",
+        "updated_at": null,
+        "id": "6a43548ffe8b3a0001f727eb",
+        "key": "6a43548ffe8b3a0001f727eb"
+      }
+    ],
+    "street_address": "",
+    "city": null,
+    "state": "Casablanca-Settat",
+    "country": "Morocco",
+    "postal_code": null,
+    "formatted_address": "Casablanca-Settat, Morocco",
+    "time_zone": "Africa/Casablanca",
+    "email": "nihal.yazid@intelcia.com",
+    "email_status": "extrapolated",
+    "departments": [
+      "master_sales"
+    ],
+    "subdepartments": [
+      "business_development"
+    ],
+    "seniority": "manager",
+    "functions": [
+      "business_development"
+    ],
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": true,
+    "email_domain_catchall_verdict": "allow",
+    "revealed_for_current_team": true,
+    "phone_numbers": [],
+    "emails": [],
+    "sanitized_numbers": [],
+    "raw_numbers": [],
+    "sanitized_emails": [
+      "nihal.yazid@intelcia.com"
+    ]
+  },
+  "phone_enrichment": {
+    "request_id": "6a5b6f94bce1a30020d55a0e",
+    "status": "pending",
+    "message": "Phone enrichment is processing asynchronously. Retrieve the result by polling GET /api/v1/webhook_result/{request_id} with the top-level `request_id` field from this response. Retry after ~10 seconds."
+  },
+  "request_id": -6531966719926810395
+}

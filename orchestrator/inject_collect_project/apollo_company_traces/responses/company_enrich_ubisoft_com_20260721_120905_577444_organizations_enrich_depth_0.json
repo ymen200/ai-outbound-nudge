@@ -1,0 +1,1042 @@
+{
+  "organization": {
+    "id": "615d3190de83670112bed7bc",
+    "name": "Ubisoft",
+    "website_url": "http://www.ubisoft.com",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/ubisoft",
+    "twitter_url": "https://twitter.com/Ubisoft",
+    "facebook_url": "https://facebook.com/ubisoft",
+    "primary_phone": {},
+    "languages": [],
+    "alexa_ranking": 6022,
+    "phone": null,
+    "linkedin_uid": "2528",
+    "founded_year": 1986,
+    "publicly_traded_symbol": "UBI.PA",
+    "publicly_traded_exchange": "par",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69abbca914f1020001d65b8a/picture",
+    "crunchbase_url": null,
+    "primary_domain": "ubisoft.com",
+    "sic_codes": [
+      "3944",
+      "7900"
+    ],
+    "naics_codes": [
+      "51321"
+    ],
+    "industry": "computer games",
+    "estimated_num_employees": 18000,
+    "keywords": [
+      "video games",
+      "video game development",
+      "video game production",
+      "video game marketing",
+      "video game design",
+      "level design",
+      "programming",
+      "online programming",
+      "transmedia",
+      "art",
+      "audio",
+      "it",
+      "marketing",
+      "community management",
+      "production",
+      "creativity",
+      "computer games",
+      "consumers",
+      "computer software",
+      "information technology & services"
+    ],
+    "organization_revenue_printed": "1.6B",
+    "organization_revenue": 1600479000.0,
+    "industries": [
+      "computer games"
+    ],
+    "secondary_industries": [],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd8b736964540d0f0000",
+    "industry_tag_hash": {
+      "computer games": "5567cd8b736964540d0f0000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "2, Avenue Pasteur, Saint-Mandé, Île-de-France 94160, FR",
+    "street_address": "2 Avenue Pasteur",
+    "city": "Saint-Mande",
+    "state": "Ile-de-France",
+    "postal_code": "94160",
+    "country": "France",
+    "owned_by_organization_id": "6876b38f57c81500218e68b8",
+    "owned_by_organization": {
+      "id": "6876b38f57c81500218e68b8",
+      "name": "Ubisoft Solution",
+      "website_url": "http://www.ubi.com"
+    },
+    "num_languages": 0,
+    "owned_by_chain": [
+      "6876b38f57c81500218e68b8"
+    ],
+    "num_retail_locations": 0,
+    "ultimate_parent_organization": {
+      "id": "6876b38f57c81500218e68b8",
+      "name": "Ubisoft Solution",
+      "website_url": "http://www.ubi.com"
+    },
+    "short_description": "Ubisoft Entertainment SA is a leading French video game publisher and developer based in Saint-Mandé, near Paris. Founded in 1986 by the Guillemot brothers, the company has grown from a local distributor to a global player in the interactive entertainment industry. Ubisoft operates game development studios in 20 countries, employing around 18,000 to 20,000 people.\n\nThe company is known for its iconic franchises, including *Assassin’s Creed*, *Far Cry*, *Just Dance*, and *Tom Clancy’s* series. Ubisoft develops games for various platforms, including PC, PlayStation, Xbox, and mobile devices, offering both digital downloads and physical copies. The company also holds licensing rights for games based on the *Star Wars* and *Avatar* franchises. Ubisoft's mission focuses on creativity, innovation, and inclusivity, aiming to enhance the gaming experience for a diverse global audience.",
+    "suborganizations": [
+      {
+        "id": "54a25e977468692e717cf01d",
+        "name": "growto",
+        "website_url": "http://www.growto.es",
+        "industries": [
+          "human resources"
+        ],
+        "estimated_num_employees": 0,
+        "country": "United States"
+      },
+      {
+        "id": "57c50426a6da986a6f8e41c4",
+        "name": "Green Panda Games",
+        "website_url": "http://www.greenpandagames.com",
+        "industries": [
+          "entertainment",
+          "computer games",
+          "information technology & services"
+        ],
+        "estimated_num_employees": 8,
+        "country": "France"
+      },
+      {
+        "id": "54a11cd569702da425c1cb00",
+        "name": "UBISOFT IVORY TOWER",
+        "website_url": "http://www.ivory-tower.fr",
+        "industries": [
+          "computer games"
+        ],
+        "estimated_num_employees": 290,
+        "country": "France"
+      },
+      {
+        "id": "55f760dcf3e5bb16320019ea",
+        "name": "1492 Studio",
+        "website_url": null,
+        "industries": [],
+        "estimated_num_employees": 1,
+        "country": "France"
+      },
+      {
+        "id": "54a1172a69702d49264b0000",
+        "name": "Massive Entertainment - A Ubisoft Studio",
+        "website_url": "http://www.massive.se",
+        "industries": [
+          "computer games"
+        ],
+        "estimated_num_employees": 800,
+        "country": "Sweden"
+      },
+      {
+        "id": "55f60de3f3e5bb193f000fce",
+        "name": "Ketchapp",
+        "website_url": "http://www.ketchappgames.com",
+        "industries": [
+          "computer games"
+        ],
+        "estimated_num_employees": 58,
+        "country": "France"
+      },
+      {
+        "id": "54a1abfe7468695c82f17006",
+        "name": "Blue Mammoth Games, a Ubisoft Studio",
+        "website_url": "http://www.bluemammoth.com",
+        "industries": [
+          "computer games"
+        ],
+        "estimated_num_employees": 48,
+        "country": "Netherlands"
+      },
+      {
+        "id": "54a135ab69702d4b2e46b200",
+        "name": "Red Storm Entertainment",
+        "website_url": "http://www.redstorm.com",
+        "industries": [
+          "computer games"
+        ],
+        "estimated_num_employees": 90,
+        "country": "United States"
+      },
+      {
+        "id": "5a9cbf81a6da98d9a154d976",
+        "name": "Ubisoft Singapore",
+        "website_url": "http://www.ubisoftsingapore.com",
+        "industries": [
+          "computer games"
+        ],
+        "estimated_num_employees": 420,
+        "country": "Singapore"
+      },
+      {
+        "id": "5cd58ca51c81490c1b82f698",
+        "name": "Kolibri Games",
+        "website_url": "http://www.kolibrigames.com",
+        "industries": [
+          "computer games",
+          "information technology & services",
+          "entertainment"
+        ],
+        "estimated_num_employees": 140,
+        "country": "Germany"
+      },
+      {
+        "id": "54a127f369702db878659f00",
+        "name": "Ubisoft London",
+        "website_url": "http://www.futuregamesoflondon.com",
+        "industries": [
+          "computer games",
+          "computer software",
+          "information technology & services"
+        ],
+        "estimated_num_employees": 12,
+        "country": "United Kingdom"
+      },
+      {
+        "id": "54a1398969702de5b34d4800",
+        "name": "Hybride VFX",
+        "website_url": "http://www.hybride.com",
+        "industries": [
+          "media production",
+          "motion pictures & film"
+        ],
+        "estimated_num_employees": 160,
+        "country": "Canada"
+      },
+      {
+        "id": "54a1b20674686940127bf708",
+        "name": "i3D.net",
+        "website_url": "http://www.i3d.net",
+        "industries": [
+          "information technology & services"
+        ],
+        "estimated_num_employees": 160,
+        "country": "Netherlands"
+      }
+    ],
+    "num_suborganizations": 13,
+    "annual_revenue_printed": "1.6B",
+    "annual_revenue": 1600479000.0,
+    "technology_names": [
+      "AB Tasty",
+      "AI",
+      "AWS Cloud",
+      "AWS Cloud",
+      "Ada",
+      "Adobe Experience Cloud",
+      "Ahrefs",
+      "Akamai",
+      "Akamai Edge DNS",
+      "Akamai Edge DNS",
+      "Algolia",
+      "Amazon AWS",
+      "Amazon CloudFront",
+      "Amazon Elastic Load Balancer",
+      "Amazon Elastic Load Balancer",
+      "Amazon Linux 2",
+      "Amazon Route 53",
+      "American Express",
+      "Apple Business Manager",
+      "Apple Pay",
+      "Apple School Manager",
+      "Apple iOS",
+      "Atlassian Cloud",
+      "Azure Analysis Services",
+      "Azure Linux Virtual Machines",
+      "Bootstrap",
+      "Bootstrap",
+      "C#",
+      "Cart Functionality",
+      "CloudFlare",
+      "Cloudflare Browser Insights",
+      "Cloudflare Insights",
+      "Contentful",
+      "Datadog",
+      "Datadog APM",
+      "Datadog Infrastructure Monitoring",
+      "Datadog Real User Monitoring",
+      "Demandware",
+      "Demandware Analytics",
+      "Digital Ocean DNS",
+      "Discord",
+      "Docker",
+      "Docker Compose",
+      "Element UI",
+      "Express",
+      "Facebook",
+      "Facebook Groups",
+      "Font Awesome",
+      "Git",
+      "GitLab",
+      "GoDaddy Domains",
+      "GoDaddy Hosting",
+      "Google AdSense",
+      "Google App Engine",
+      "Google Font API",
+      "Google Maps",
+      "Google Maps (Non Paid Users)",
+      "Google Pay",
+      "Google Search Central",
+      "Google Search Console",
+      "GraphQL",
+      "HREF Lang",
+      "HSTS",
+      "HTTP/3",
+      "Instagram",
+      "Jira",
+      "Klaviyo",
+      "Kubernetes",
+      "Laravel",
+      "Mastercard",
+      "Max Mega Menu",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Email Providers",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Microsoft PowerShell",
+      "Microsoft-IIS",
+      "Mobile Friendly",
+      "Mode",
+      "MongoDB",
+      "Multilingual",
+      "MySQL",
+      "Next.js",
+      "Nginx",
+      "Open Graph",
+      "Oracle Fusion Middleware",
+      "Outlook",
+      "PHP",
+      "PWA",
+      "Paypal",
+      "Printful",
+      "Priority Hints",
+      "RSS",
+      "React",
+      "React Redux",
+      "Remote",
+      "Salesforce",
+      "Salesforce Commerce Cloud",
+      "Salesforce Commerce Cloud",
+      "Salesforce Commerce Cloud SFRA",
+      "Salesforce Email Studio",
+      "Salesforce Email Studio",
+      "Salesforce Journey Builder",
+      "Salesforce Marketing Cloud",
+      "Shop Pay",
+      "Shopify",
+      "Shopify Custom",
+      "Shopify Developer Platform",
+      "Shopify Plus",
+      "Slack",
+      "TikTok",
+      "Trident AB",
+      "Venmo",
+      "Vercel",
+      "Viewport Meta",
+      "Visa",
+      "VueJS",
+      "WordPress.org",
+      "Wordpress VIP",
+      "X (Twitter)",
+      "YouTube",
+      "gandi.net",
+      "iGoDigital",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA",
+      "styled-components"
+    ],
+    "current_technologies": [
+      {
+        "uid": "ab_tasty",
+        "name": "AB Tasty",
+        "category": "Online Testing Platforms"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "aws_cloud",
+        "name": "AWS Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloud",
+        "name": "AWS Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "ada",
+        "name": "Ada",
+        "category": "Chats"
+      },
+      {
+        "uid": "adobe_experience_cloud",
+        "name": "Adobe Experience Cloud",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "ahrefs",
+        "name": "Ahrefs",
+        "category": "Other"
+      },
+      {
+        "uid": "akamai",
+        "name": "Akamai",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "akamai_edge_dns",
+        "name": "Akamai Edge DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "akamai_edge_dns",
+        "name": "Akamai Edge DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "algolia",
+        "name": "Algolia",
+        "category": "Search Marketing"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_cloudfront",
+        "name": "Amazon CloudFront",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_elastic_load_balancer",
+        "name": "Amazon Elastic Load Balancer",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "amazon_elastic_load_balancer",
+        "name": "Amazon Elastic Load Balancer",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "amazon_linux_2",
+        "name": "Amazon Linux 2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_route_53",
+        "name": "Amazon Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "american_express",
+        "name": "American Express",
+        "category": "Payments"
+      },
+      {
+        "uid": "apple_business_manager",
+        "name": "Apple Business Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apple_pay",
+        "name": "Apple Pay",
+        "category": "Payments"
+      },
+      {
+        "uid": "apple_school_manager",
+        "name": "Apple School Manager",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "apple_ios",
+        "name": "Apple iOS",
+        "category": "Other"
+      },
+      {
+        "uid": "atlassian_cloud",
+        "name": "Atlassian Cloud",
+        "category": "CMS"
+      },
+      {
+        "uid": "azure_analysis_services",
+        "name": "Azure Analysis Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "azure_linux_virtual_machines",
+        "name": "Azure Linux Virtual Machines",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "bootstrap",
+        "name": "Bootstrap",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "bootstrap",
+        "name": "Bootstrap",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "c#",
+        "name": "C#",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "cart_functionality",
+        "name": "Cart Functionality",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "cloudflare",
+        "name": "CloudFlare",
+        "category": "Web Accelerators"
+      },
+      {
+        "uid": "cloudflare_browser_insights",
+        "name": "Cloudflare Browser Insights",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cloudflare_insights",
+        "name": "Cloudflare Insights",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "contentful",
+        "name": "Contentful",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "datadog",
+        "name": "Datadog",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "datadog_apm",
+        "name": "Datadog APM",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "datadog_infrastructure_monitoring",
+        "name": "Datadog Infrastructure Monitoring",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "datadog_real_user_monitoring",
+        "name": "Datadog Real User Monitoring",
+        "category": "Event Management"
+      },
+      {
+        "uid": "demandware",
+        "name": "Demandware",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "demandware_analytics",
+        "name": "Demandware Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "digital_ocean_dns",
+        "name": "Digital Ocean DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "discord",
+        "name": "Discord",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "docker",
+        "name": "Docker",
+        "category": "Other"
+      },
+      {
+        "uid": "docker_compose",
+        "name": "Docker Compose",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "element_ui",
+        "name": "Element UI",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "express",
+        "name": "Express",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "facebook",
+        "name": "Facebook",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "facebook_groups",
+        "name": "Facebook Groups",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "font_awesome",
+        "name": "Font Awesome",
+        "category": "Fonts"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "gitlab",
+        "name": "GitLab",
+        "category": "CMS"
+      },
+      {
+        "uid": "godaddy_domains",
+        "name": "GoDaddy Domains",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "godaddy_hosting",
+        "name": "GoDaddy Hosting",
+        "category": "Hosting"
+      },
+      {
+        "uid": "google_adsense",
+        "name": "Google AdSense",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_app_engine",
+        "name": "Google App Engine",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_font_api",
+        "name": "Google Font API",
+        "category": "Fonts"
+      },
+      {
+        "uid": "google_maps",
+        "name": "Google Maps",
+        "category": "Other"
+      },
+      {
+        "uid": "google_maps_non_paid_users",
+        "name": "Google Maps (Non Paid Users)",
+        "category": "Other"
+      },
+      {
+        "uid": "google_pay",
+        "name": "Google Pay",
+        "category": "Payments"
+      },
+      {
+        "uid": "google_search_central",
+        "name": "Google Search Central",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "graphql",
+        "name": "GraphQL",
+        "category": "Database"
+      },
+      {
+        "uid": "href_lang",
+        "name": "HREF Lang",
+        "category": "Other"
+      },
+      {
+        "uid": "hsts",
+        "name": "HSTS",
+        "category": "Security"
+      },
+      {
+        "uid": "http/3",
+        "name": "HTTP/3",
+        "category": "Other"
+      },
+      {
+        "uid": "instagram",
+        "name": "Instagram",
+        "category": "Social Sharing"
+      },
+      {
+        "uid": "jira",
+        "name": "Jira",
+        "category": "CMS"
+      },
+      {
+        "uid": "klaviyo",
+        "name": "Klaviyo",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "kubernetes",
+        "name": "Kubernetes",
+        "category": "Other"
+      },
+      {
+        "uid": "laravel",
+        "name": "Laravel",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "mastercard",
+        "name": "Mastercard",
+        "category": "Payments"
+      },
+      {
+        "uid": "max_mega_menu",
+        "name": "Max Mega Menu",
+        "category": "Widgets"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_email_providers",
+        "name": "Microsoft Email Providers",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_powershell",
+        "name": "Microsoft PowerShell",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "microsoft-iis",
+        "name": "Microsoft-IIS",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "mode",
+        "name": "Mode",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "mongodb",
+        "name": "MongoDB",
+        "category": "Database"
+      },
+      {
+        "uid": "multilingual",
+        "name": "Multilingual",
+        "category": "Widgets"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "nextjs",
+        "name": "Next.js",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "nginx",
+        "name": "Nginx",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "open_graph",
+        "name": "Open Graph",
+        "category": "Other"
+      },
+      {
+        "uid": "oracle_fusion_middleware",
+        "name": "Oracle Fusion Middleware",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "php",
+        "name": "PHP",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "pwa",
+        "name": "PWA",
+        "category": "Other"
+      },
+      {
+        "uid": "paypal",
+        "name": "Paypal",
+        "category": "Payments"
+      },
+      {
+        "uid": "printful",
+        "name": "Printful",
+        "category": "Personalization"
+      },
+      {
+        "uid": "priority_hints",
+        "name": "Priority Hints",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "rss",
+        "name": "RSS",
+        "category": "Other"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "react_redux",
+        "name": "React Redux",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_commerce_cloud",
+        "name": "Salesforce Commerce Cloud",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "salesforce_commerce_cloud",
+        "name": "Salesforce Commerce Cloud",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "salesforce_commerce_cloud_sfra",
+        "name": "Salesforce Commerce Cloud SFRA",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "salesforce_email_studio",
+        "name": "Salesforce Email Studio",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "salesforce_email_studio",
+        "name": "Salesforce Email Studio",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "salesforce_journey_builder",
+        "name": "Salesforce Journey Builder",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "salesforce_marketing_cloud",
+        "name": "Salesforce Marketing Cloud",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "shop_pay",
+        "name": "Shop Pay",
+        "category": "Payments"
+      },
+      {
+        "uid": "shopify",
+        "name": "Shopify",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "shopify_custom",
+        "name": "Shopify Custom",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "shopify_developer_platform",
+        "name": "Shopify Developer Platform",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "shopify_plus",
+        "name": "Shopify Plus",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "slack",
+        "name": "Slack",
+        "category": "Chats"
+      },
+      {
+        "uid": "tiktok",
+        "name": "TikTok",
+        "category": "Other"
+      },
+      {
+        "uid": "trident_ab",
+        "name": "Trident AB",
+        "category": "Online Testing Platforms"
+      },
+      {
+        "uid": "venmo",
+        "name": "Venmo",
+        "category": "Payments"
+      },
+      {
+        "uid": "vercel",
+        "name": "Vercel",
+        "category": "Hosting"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "visa",
+        "name": "Visa",
+        "category": "Payments"
+      },
+      {
+        "uid": "vue_js_library",
+        "name": "VueJS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "wordpress_org",
+        "name": "WordPress.org",
+        "category": "CMS"
+      },
+      {
+        "uid": "wordpress_vip",
+        "name": "Wordpress VIP",
+        "category": "CMS"
+      },
+      {
+        "uid": "x_twitter",
+        "name": "X (Twitter)",
+        "category": "Social Media Marketing"
+      },
+      {
+        "uid": "youtube",
+        "name": "YouTube",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "gandinet",
+        "name": "gandi.net",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "igodigital",
+        "name": "iGoDigital",
+        "category": "Personalization"
+      },
+      {
+        "uid": "jquery",
+        "name": "jQuery",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "jsdelivr",
+        "name": "jsDelivr",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "recaptcha",
+        "name": "reCAPTCHA",
+        "category": "Captcha"
+      },
+      {
+        "uid": "styled-components",
+        "name": "styled-components",
+        "category": "Frameworks and Programming Languages"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "66f4425cbf75f80001fa3fb6"
+    ],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "arts_and_design": 925,
+      "engineering": 1629,
+      "sales": 73,
+      "human_resources": 234,
+      "operations": 351,
+      "information_technology": 327,
+      "marketing": 487,
+      "product_management": 99,
+      "media_and_commmunication": 217,
+      "support": 119,
+      "business_development": 167,
+      "finance": 213,
+      "accounting": 62,
+      "administrative": 21,
+      "legal": 58,
+      "consulting": 29,
+      "data_science": 113,
+      "education": 8,
+      "entrepreneurship": 4
+    },
+    "organization_headcount_six_month_growth": -0.01285288042230893,
+    "organization_headcount_twelve_month_growth": -0.0180365296803653,
+    "organization_headcount_twenty_four_month_growth": -0.09794463087248322
+  }
+}

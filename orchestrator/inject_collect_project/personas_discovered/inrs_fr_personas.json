@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Chris Wright",
+        "clean_name_used": "Chris Wright",
+        "linkedin_url": "https://www.linkedin.com/in/chris-wright-614117a",
+        "company": "Inrs",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Michael Carpenter",
+        "clean_name_used": "Michael Carpenter",
+        "linkedin_url": "https://www.linkedin.com/in/michael-carpenter-b791695",
+        "company": "Inrs",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "James Courtney",
+        "clean_name_used": "James Courtney",
+        "linkedin_url": "https://www.linkedin.com/in/james-courtney-aa20041b",
+        "company": "Inrs",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

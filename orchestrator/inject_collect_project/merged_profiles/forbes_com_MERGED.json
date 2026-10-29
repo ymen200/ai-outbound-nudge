@@ -1,0 +1,944 @@
+{
+    "alexa_ranking": 324,
+    "annual_revenue": 3000000000.0,
+    "apollo_id": "54a1173069702d4926150100",
+    "city": "Jersey City",
+    "country": "United States",
+    "departments": {
+        "sales": 221,
+        "operations": 143,
+        "support": 27,
+        "arts_and_design": 131,
+        "data_science": 16,
+        "administrative": 34,
+        "marketing": 605,
+        "human_resources": 65,
+        "finance": 120,
+        "accounting": 24,
+        "consulting": 39,
+        "engineering": 212,
+        "business_development": 121,
+        "media_and_commmunication": 157,
+        "information_technology": 39,
+        "education": 75,
+        "legal": 21,
+        "product_management": 14,
+        "entrepreneurship": 145
+    },
+    "domain": "forbes.com",
+    "estimated_num_employees": 9300,
+    "facebook_url": "https://www.facebook.com/forbes/",
+    "founded_year": 1917,
+    "funding_events": [
+        {
+            "id": "696603c41bb259000186d281",
+            "date": "2023-05-01T00:00:00.000+00:00",
+            "type": "Merger / Acquisition",
+            "amount": "Non renseigné",
+            "currency": "$",
+            "investors": "Austin Russell"
+        },
+        {
+            "id": "68badc7115288400016b4f79",
+            "date": "2022-02-01T00:00:00.000+00:00",
+            "type": "Other",
+            "amount": "200M",
+            "currency": "$",
+            "investors": "Binance"
+        },
+        {
+            "id": "59e656c4a6da98ba15ec14ce",
+            "date": "2016-03-16T00:00:00.000+00:00",
+            "type": "Equity Crowdfunding",
+            "amount": "168.5K",
+            "currency": "£",
+            "investors": "Seedrs"
+        }
+    ],
+    "industry": "Media, Publishing, Business News",
+    "keywords": [
+        "business",
+        "finance",
+        "investing",
+        "technology",
+        "politics",
+        "leadership",
+        "entrepreneurship",
+        "small business",
+        "cloud computing",
+        "security",
+        "management",
+        "curated web",
+        "book & periodical publishing",
+        "innovation",
+        "media publishing",
+        "marketing",
+        "economic analysis",
+        "risk management",
+        "digital publishing",
+        "business journalism",
+        "financial planning",
+        "startups",
+        "sustainability",
+        "customer engagement",
+        "venture capital",
+        "law",
+        "global reach",
+        "global editions",
+        "b2b",
+        "e-commerce",
+        "forbes 400",
+        "information",
+        "corporate finance",
+        "market research",
+        "publishing",
+        "news",
+        "rankings",
+        "telehealth",
+        "business analysis",
+        "financial data",
+        "online publishing",
+        "media and publishing",
+        "industry analysis",
+        "financial analysis",
+        "media",
+        "digital transformation",
+        "financial news",
+        "30 under 30",
+        "billionaire lists",
+        "business information services",
+        "advertising",
+        "events",
+        "economic insights",
+        "data-driven rankings",
+        "digital media",
+        "investment",
+        "customer service",
+        "industry reports",
+        "business trends",
+        "rankings and lists",
+        "market analysis",
+        "crypto",
+        "digital content",
+        "business media",
+        "company rankings",
+        "wealth rankings",
+        "investor insights",
+        "forbes magazine",
+        "social media",
+        "retail",
+        "compliance",
+        "real estate",
+        "investor information",
+        "media company",
+        "multimedia content",
+        "business news",
+        "services",
+        "lifestyle",
+        "wealth management",
+        "research analytics",
+        "trending",
+        "economy",
+        "stock market",
+        "business insights",
+        "taxation",
+        "financial advice",
+        "personal finance",
+        "investment strategies",
+        "ai integration",
+        "business strategy",
+        "economic trends",
+        "business growth",
+        "corporate transparency",
+        "healthcare innovation",
+        "remote work",
+        "career development",
+        "executive decision-making",
+        "workplace productivity",
+        "disruption",
+        "fundraising",
+        "online marketing",
+        "networking",
+        "b2c",
+        "financial services",
+        "enterprise software",
+        "enterprises",
+        "computer software",
+        "information technology & services",
+        "environmental services",
+        "renewables & environment",
+        "consumer internet",
+        "consumers",
+        "internet",
+        "investment management",
+        "fund-raising",
+        "Money",
+        "Billionaires",
+        "AI",
+        "Markets",
+        "Work",
+        "Careers",
+        "Education",
+        "Forbes Vetted",
+        "Forbes Advisor",
+        "Lists"
+    ],
+    "latest_funding_stage": "Merger / Acquisition",
+    "linkedin_url": "http://www.linkedin.com/company/forbes-magazine",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a6a4479d147f000154e6ec/picture",
+    "name": "Forbes",
+    "num_suborganizations": 14,
+    "phone": "+1 800-295-0893",
+    "postal_code": "07310",
+    "raw_address": "499 Washington Blvd, Jersey City, United States",
+    "seo_description": "Forbes 2026 Global 2000 List - The World’s Largest Companies Ranked",
+    "short_description": "Forbes is a global media company focused on business, finance, innovation, and lifestyle content, known for its authoritative lists like the Global 2000 and Real-Time Billionaires.",
+    "state": "New Jersey",
+    "street_address": "499 Washington Blvd",
+    "suborganizations": [
+        {
+            "id": "54a11f7f69702d9d7e0de101",
+            "name": "True Slant Inc.",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5fd19bd8275ffa0001bb7180",
+            "name": "Realclearhistory",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "60495a1ed87ce40001c13ad6",
+            "name": "Forbes México",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "6412e97ae73053000134949d",
+            "name": "Forbes República Dominicana",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5a9e38cca6da98d97e7b2e6d",
+            "name": "Forbes Italia",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "55f6511ff3e5bb18f800b5b4",
+            "name": "The Memo",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5b85fe75f874f73ae189c54b",
+            "name": "Forbes JAPAN",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "54a11ebe69702d7fe6789801",
+            "name": "RealClearPolitics",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "61ec91dace12430001a127a2",
+            "name": "福布斯中國新興科技T30&30評選",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5fcb2924bddd2b000196c70d",
+            "name": "Forbes Israel",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "6133700a344a650001b661c5",
+            "name": "Forbes Global Talent",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "608929517d098a00a4b1d9d1",
+            "name": "Forbes Portugal",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5ed02ba95a2a6100017e77b5",
+            "name": "Forbes Colombia",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "6178407203fbab00da8dad50",
+            "name": "Forbes Chile",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Forbes Vetted",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Forbes Advisor",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "ForbesLife",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Forbes Global Properties",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Forbes Digital Assets",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Forbes Shorts",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "ForbesWomen",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Forbes Staff",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "Forbes International",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "aws_cloud",
+            "name": "AWS Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "active_prospect",
+            "name": "ActiveProspect",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "adobe_fonts",
+            "name": "Adobe Fonts",
+            "category": "Fonts"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_associates",
+            "name": "Amazon Associates",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "amazon_route_53",
+            "name": "Amazon Route 53",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "android",
+            "name": "Android",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "angularjs",
+            "name": "AngularJS",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "atlassian_cloud",
+            "name": "Atlassian Cloud",
+            "category": "CMS"
+        },
+        {
+            "uid": "backbonejs",
+            "name": "Backbone.js",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "bootstrap",
+            "name": "Bootstrap",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "chartbeat",
+            "name": "Chartbeat",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+        },
+        {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "cloudflare_bot_management",
+            "name": "Cloudflare Bot Management",
+            "category": "Security"
+        },
+        {
+            "uid": "cloudflare_waf",
+            "name": "Cloudflare WAF",
+            "category": "Security"
+        },
+        {
+            "uid": "criteo_for_advertisers",
+            "name": "Criteo for Advertisers",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "datadome",
+            "name": "DataDome",
+            "category": "Security"
+        },
+        {
+            "uid": "doubleclick",
+            "name": "DoubleClick",
+            "category": "Ad Servers"
+        },
+        {
+            "uid": "doubleverify",
+            "name": "DoubleVerify",
+            "category": "Other"
+        },
+        {
+            "uid": "envoy",
+            "name": "Envoy",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "facebook",
+            "name": "Facebook",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+        },
+        {
+            "uid": "facebook_sdk",
+            "name": "Facebook SDK",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "facebook_share_button",
+            "name": "Facebook Social Plugins",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "fastly_cdn",
+            "name": "Fastly CDN",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "fastly_hosting",
+            "name": "Fastly Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "freshdesk",
+            "name": "Freshdesk",
+            "category": "Support and Feedback"
+        },
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "godaddy_domains",
+            "name": "GoDaddy Domains",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "godaddy_hosting",
+            "name": "GoDaddy Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "google_ads",
+            "name": "Google Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_ads_conversion",
+            "name": "Google Ads Conversion",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4 (GA4)",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_maps",
+            "name": "Google Maps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_maps_non_paid_users",
+            "name": "Google Maps (Non Paid Users)",
+            "category": "Other"
+        },
+        {
+            "uid": "google_meet",
+            "name": "Google Meet",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_search_central",
+            "name": "Google Search Central",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "gravatar",
+            "name": "Gravatar",
+            "category": "Comments"
+        },
+        {
+            "uid": "gravity_forms",
+            "name": "Gravity Forms",
+            "category": "Hosted Forms"
+        },
+        {
+            "uid": "greenhouse",
+            "name": "Greenhouse",
+            "category": "Other"
+        },
+        {
+            "uid": "hsts",
+            "name": "HSTS",
+            "category": "Security"
+        },
+        {
+            "uid": "http/3",
+            "name": "HTTP/3",
+            "category": "Other"
+        },
+        {
+            "uid": "hotjar",
+            "name": "Hotjar",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "hubspot_content_hub",
+            "name": "HubSpot Content Hub",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "hubspot_marketing_hub",
+            "name": "HubSpot Marketing Hub",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "integral_ad_science",
+            "name": "Integral Ad Science",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "istio",
+            "name": "Istio",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "istio_on_gke",
+            "name": "Istio on GKE",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "jquery_1_11_1",
+            "name": "JQuery 1.11.1",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "jw_player",
+            "name": "JW Player",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "leads_pedia",
+            "name": "LeadsPedia",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "linkedin_widget",
+            "name": "Linkedin Widget",
+            "category": "Other"
+        },
+        {
+            "uid": "media_net",
+            "name": "Media.net",
+            "category": "Publisher Advertising Tools"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_advertising",
+            "name": "Microsoft Advertising",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "mimecast",
+            "name": "Mimecast",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nextjs",
+            "name": "Next.js",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "open_graph",
+            "name": "Open Graph",
+            "category": "Other"
+        },
+        {
+            "uid": "openai",
+            "name": "OpenAI",
+            "category": "Other"
+        },
+        {
+            "uid": "oracle_bluekai_data_management_platform",
+            "name": "Oracle BlueKai Data Management Platform",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "php",
+            "name": "PHP",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "paypal_credit",
+            "name": "PayPal Credit",
+            "category": "Payments"
+        },
+        {
+            "uid": "priority_hints",
+            "name": "Priority Hints",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "rss",
+            "name": "RSS",
+            "category": "Other"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce_marketing_cloud_account_engagement",
+            "name": "Salesforce Marketing Cloud Account Engagement",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "salesforce_sales_cloud",
+            "name": "Salesforce Sales Cloud",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "sharethrough",
+            "name": "Sharethrough",
+            "category": "Publisher Advertising Tools"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "speedcurve",
+            "name": "SpeedCurve",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "swiper",
+            "name": "Swiper",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "trustarc",
+            "name": "TrustArc",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "truste",
+            "name": "Truste",
+            "category": "Security"
+        },
+        {
+            "uid": "twitter_sharing",
+            "name": "Twitter Sharing",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "twitter_login_widget",
+            "name": "Twitter Widgets",
+            "category": "Social Login"
+        },
+        {
+            "uid": "typeform",
+            "name": "Typeform",
+            "category": "Widgets"
+        },
+        {
+            "uid": "upcloud",
+            "name": "UpCloud",
+            "category": "Hosting"
+        },
+        {
+            "uid": "varnish",
+            "name": "Varnish",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "visual_website_optimizer",
+            "name": "Visual Website Optimizer",
+            "category": "Online Testing Platforms"
+        },
+        {
+            "uid": "vue_js_library",
+            "name": "VueJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wp_engine",
+            "name": "WP Engine",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+        },
+        {
+            "uid": "x_twitter",
+            "name": "X (Twitter)",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "youtube_advertising",
+            "name": "YouTube Advertising",
+            "category": "Video Advertising Networks"
+        },
+        {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "recaptcha",
+            "name": "reCAPTCHA",
+            "category": "Captcha"
+        },
+        {
+            "uid": "istio_envoy",
+            "name": "Istio Envoy",
+            "category": "API Gateway / Proxy"
+        },
+        {
+            "uid": "ketch",
+            "name": "Ketch",
+            "category": "Consent Management Platform (CMP)"
+        },
+        {
+            "uid": "facebook_connect",
+            "name": "Facebook Connect",
+            "category": "Social Media Integration"
+        },
+        {
+            "uid": "google_ads_/_doubleclick",
+            "name": "Google Ads / DoubleClick",
+            "category": "Advertising"
+        },
+        {
+            "uid": "lotame_/_crowdcontrol",
+            "name": "Lotame / CrowdControl",
+            "category": "Data Management Platform (DMP)"
+        },
+        {
+            "uid": "id5",
+            "name": "ID5",
+            "category": "Identity Solution"
+        },
+        {
+            "uid": "twitter_ads",
+            "name": "Twitter Ads",
+            "category": "Advertising"
+        },
+        {
+            "uid": "integral_ad_science_(ias)",
+            "name": "Integral Ad Science (IAS)",
+            "category": "Ad Verification"
+        },
+        {
+            "uid": "yahoo_analytics",
+            "name": "Yahoo Analytics",
+            "category": "Analytics"
+        },
+        {
+            "uid": "blueconic",
+            "name": "BlueConic",
+            "category": "Customer Data Platform (CDP)"
+        },
+        {
+            "uid": "qualtrics",
+            "name": "Qualtrics",
+            "category": "Experience Management / Survey Platform"
+        },
+        {
+            "uid": "quantcast",
+            "name": "Quantcast",
+            "category": "Audience Measurement / Advertising"
+        },
+        {
+            "uid": "criteo",
+            "name": "Criteo",
+            "category": "Retargeting / Advertising"
+        },
+        {
+            "uid": "marketo",
+            "name": "Marketo",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "comscore",
+            "name": "Comscore",
+            "category": "Audience Measurement"
+        },
+        {
+            "uid": "amazon_publisher_services_(aps)",
+            "name": "Amazon Publisher Services (APS)",
+            "category": "Ad Server"
+        },
+        {
+            "uid": "openx",
+            "name": "OpenX",
+            "category": "Ad Exchange"
+        },
+        {
+            "uid": "quantserve",
+            "name": "Quantserve",
+            "category": "Audience Measurement"
+        },
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "JavaScript Library"
+        }
+    ],
+    "total_funding": "200.2M",
+    "twitter_url": "https://x.com/Forbes",
+    "website_url": "http://www.forbes.com",
+    "is_subsidiary": false,
+    "competitors": [
+        "Bloomberg",
+        "Wall Street Journal",
+        "The Economist",
+        "Financial Times",
+        "Business Insider"
+    ],
+    "data_quality_score": 0.93
+}

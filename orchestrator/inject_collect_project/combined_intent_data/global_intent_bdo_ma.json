@@ -1,0 +1,58 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "BDO announces global financial results for 2025",
+        "date": "29 janvier 2026",
+        "news_type": "Financial Results",
+        "confidence": 0.9,
+        "source": "BDO annonce une croissance de son chiffre d'affaires annuel mondial",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.58,
+            "evidence_density": 0.7
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "BDO predicts growth in global revenue for 2025",
+        "date": "16 décembre 2025",
+        "news_type": "Growth Prediction",
+        "confidence": 0.8,
+        "source": "BDO prévoit une croissance de son chiffre d'affaires annuel mondial en 2025",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.49,
+            "evidence_density": 0.61
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "BDO releases Baromètre BDO des DAF et des leaders financiers à l'ère du digital",
+        "date": "Not specified",
+        "news_type": "Report Release",
+        "confidence": 0.7,
+        "source": "BAROMÈTRE BDO DES DAF ET DES LEADERS FINANCIERS À L'ÈRE DU DIGITAL",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.21,
+            "evidence_density": 1.2
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "BDO solid growth in 2025 and reinforces its global ambitions",
+        "date": "10 déce",
+        "news_type": "Growth Announcement",
+        "confidence": 0.8,
+        "source": "BDO affiche une croissance solide en 2025 et renforce ses ambitions mondiales",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.25,
+            "evidence_density": 0.78
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

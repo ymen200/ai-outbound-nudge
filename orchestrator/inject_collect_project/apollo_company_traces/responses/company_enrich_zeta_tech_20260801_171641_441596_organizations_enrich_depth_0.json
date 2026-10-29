@@ -1,0 +1,1026 @@
+{
+  "organization": {
+    "id": "5e56062ee58fab0001a00caa",
+    "name": "Zeta",
+    "website_url": "http://www.zeta.tech",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/zetasuite",
+    "twitter_url": "https://twitter.com/zetasuite",
+    "facebook_url": "https://facebook.com/Zetasuite1",
+    "languages": [
+      "English"
+    ],
+    "alexa_ranking": null,
+    "phone": "+91 80669 05995",
+    "linkedin_uid": "10355561",
+    "founded_year": 2015,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ad6209ce92d80001028d0e/picture",
+    "crunchbase_url": null,
+    "primary_domain": "zeta.tech",
+    "sic_codes": [
+      "7372",
+      "7373"
+    ],
+    "naics_codes": [
+      "51321",
+      "541512"
+    ],
+    "primary_phone": {
+      "number": "+91 80669 05995",
+      "sanitized_number": "+918066905995"
+    },
+    "sanitized_phone": "+918066905995",
+    "industry": "information technology & services",
+    "estimated_num_employees": 2100,
+    "keywords": [
+      "banking technology solutions",
+      "credit card processing",
+      "payment processing",
+      "financial technology solutions",
+      "banking as a service",
+      "embedded banking",
+      "credit card management",
+      "core banking solutions",
+      "digital banking solutions",
+      "next gen banking technology",
+      "card issuing",
+      "issuer processing",
+      "baas",
+      "digital banking experience",
+      "open banking",
+      "transaction processing",
+      "conversational ai",
+      "software development",
+      "payments",
+      "financial services",
+      "information technology & services"
+    ],
+    "organization_revenue_printed": "294.3M",
+    "organization_revenue": 294300000.0,
+    "industries": [
+      "information technology & services",
+      "computer software"
+    ],
+    "secondary_industries": [
+      "computer software"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567cd4773696439b10b0000",
+    "industry_tag_hash": {
+      "information technology & services": "5567cd4773696439b10b0000",
+      "computer software": "5567cd4e7369643b70010000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "san francisco, california, united states",
+    "street_address": "",
+    "city": "San Francisco",
+    "state": "California",
+    "postal_code": null,
+    "country": "United States",
+    "owned_by_organization_id": null,
+    "num_languages": 1,
+    "num_retail_locations": 0,
+    "short_description": "Zeta is a banking technology company founded in 2015 and based in Bangalore, India. It offers a cloud-native, API-first neo-banking platform that includes a digital core and payment engine for credit, debit, and prepaid products. Zeta's services cover a range of functionalities such as credit and debit card processing, Buy Now Pay Later (BNPL), core banking, mobile experiences, fraud detection, loyalty programs, lending, and digital banking app capabilities.\n\nThe company provides specialized product suites, including the Tachyon Suite for launching neo-banks and the Cipher Suite for payment solutions. Zeta's products are designed for banks and fintech institutions, helping them to modernize their retail and corporate offerings. With over 35 global clients, Zeta has facilitated the issuance of more than 15 million cards across various regions, including India, Asia, LATAM, the US, UK, and the Middle East.",
+    "suborganizations": [],
+    "num_suborganizations": 0,
+    "annual_revenue_printed": "294.3M",
+    "annual_revenue": 294300000.0,
+    "total_funding": 430000000,
+    "total_funding_printed": "430M",
+    "latest_funding_round_date": "2025-02-01T00:00:00.000+00:00",
+    "latest_funding_stage": "Venture (Round not Specified)",
+    "funding_events": [
+      {
+        "id": "682259238a8f110001defa01",
+        "date": "2025-02-01T00:00:00.000+00:00",
+        "news_url": "https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/",
+        "type": "Venture (Round not Specified)",
+        "investors": "Optum",
+        "amount": "50M",
+        "currency": "$"
+      },
+      {
+        "id": "672b2819bf95260001260cde",
+        "date": "2022-03-01T00:00:00.000+00:00",
+        "news_url": "https://www.businesstimes.com.sg/garage/fintech-startup-zeta-raises-us30m-teams-with-mastercard",
+        "type": "Venture (Round not Specified)",
+        "investors": "MasterCard",
+        "amount": "30M",
+        "currency": "$"
+      },
+      {
+        "id": "60acb70a99c46300015c9d79",
+        "date": "2021-05-01T00:00:00.000+00:00",
+        "news_url": null,
+        "type": "Series C",
+        "investors": "Sodexo, SoftBank",
+        "amount": "250M",
+        "currency": "$"
+      },
+      {
+        "id": "5d37f48f80f93e7465b90624",
+        "date": "2019-07-01T00:00:00.000+00:00",
+        "news_url": "https://www.thehindubusinessline.com/money-and-banking/zeta-secures-series-c-investment-of-nearly-60-million-from-sodexo-at-300-million-valuation-gives-equity-stake/article28691523.ece/amp/",
+        "type": "Series C",
+        "investors": "Sodexo",
+        "amount": "60M",
+        "currency": "$"
+      },
+      {
+        "id": "672b2819bf95260001260ce2",
+        "date": "2015-07-01T00:00:00.000+00:00",
+        "news_url": null,
+        "type": "Venture (Round not Specified)",
+        "investors": "Sodexo",
+        "amount": "40M",
+        "currency": "$"
+      }
+    ],
+    "technology_names": [
+      "AI",
+      "ALEX",
+      "AWS Analytics",
+      "AWS Cloud",
+      "AWS Cloud",
+      "AWS CloudFormation",
+      "AWS SDK for JavaScript",
+      "AWS Trusted Advisor",
+      "AdBay",
+      "AdButler",
+      "Adobe Creative Suite",
+      "Airflow",
+      "Airflow",
+      "Amazon AWS",
+      "Amazon AWS",
+      "Amazon CloudWatch",
+      "Amazon Linux 2",
+      "Amazon Route 53",
+      "Amazon S3",
+      "Amex GBT Egencia",
+      "Amplitude",
+      "Ansible",
+      "Apache NiFi",
+      "Apache Pig",
+      "Apache Spark",
+      "Apache Spark",
+      "Apache Superset",
+      "Apache Superset",
+      "Apple Business Manager",
+      "Apple School Manager",
+      "Apple macOS",
+      "AppsFlyer",
+      "Arc",
+      "Aruba",
+      "Azure Analysis Services",
+      "Bash",
+      "Bootstrap",
+      "BuddyPress",
+      "CSS",
+      "CheckPoint",
+      "Cisco BroadWorks",
+      "Cross Pixel Media",
+      "Crossplane",
+      "Cursor",
+      "Docker",
+      "Dv360",
+      "Elasticsearch",
+      "Excel4Apps",
+      "Figma",
+      "Fortinet",
+      "Freshdesk",
+      "Fusion ERP Analytics",
+      "Gem",
+      "Git",
+      "GitHub Copilot",
+      "Gmail",
+      "Google",
+      "Google Ads Conversion",
+      "Google Ads Conversion",
+      "Google Cloud",
+      "Google Cloud",
+      "Google Meet",
+      "Google Search Console",
+      "Google Search Console",
+      "Google Tag Manager",
+      "Google Workspace",
+      "Google Workspace",
+      "Grafana",
+      "HTML5 Maker",
+      "Hostgator",
+      "Hubspot",
+      "IBM ILOG CPLEX Optimization Studio",
+      "ICE",
+      "ISO+™",
+      "Informatica Axon Data Governance",
+      "Javascript",
+      "Jenkins",
+      "Jira",
+      "Kubernetes",
+      "Leadfeeder",
+      "Macaron",
+      "Mastercard Offers",
+      "McAfee Total Protection for Data Loss (DLP)",
+      "Metabase",
+      "Micro",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Azure",
+      "Microsoft Defender for Endpoint",
+      "Microsoft Email Providers",
+      "Microsoft Entra ID",
+      "Microsoft Excel",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Microsoft Office",
+      "Microsoft PowerPoint",
+      "Mixpanel",
+      "MoEngage",
+      "Mobile Friendly",
+      "MySQL",
+      "MySQL",
+      "NEC",
+      "OneTrust",
+      "Onit",
+      "Oracle Business Intelligence Discoverer",
+      "Oracle Fusion Cloud Financials",
+      "Oracle Fusion Cloud Financials",
+      "Oracle SPF",
+      "Outlook",
+      "PHP",
+      "Pay.",
+      "Posit",
+      "PostgreSQL",
+      "Prometheus",
+      "Python",
+      "React",
+      "Redshift",
+      "Retool",
+      "Scupio",
+      "Secured MVC Forum on Windows 2012 R2",
+      "SonicWall",
+      "Spring Boot",
+      "TUNE",
+      "Tableau",
+      "Tachyons",
+      "Terraform",
+      "Trend Micro Smart Protection",
+      "TypeScript",
+      "Viewport Meta",
+      "Visa",
+      "Vitally",
+      "VueJS",
+      "WideOrbit",
+      "Wider Planet",
+      "WordPress.org",
+      "Wordpress",
+      "Yoast",
+      "Zelle",
+      "go+",
+      "jQuery"
+    ],
+    "current_technologies": [
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "alex",
+        "name": "ALEX",
+        "category": "Other"
+      },
+      {
+        "uid": "aws_analytics",
+        "name": "AWS Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "aws_cloud",
+        "name": "AWS Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloud",
+        "name": "AWS Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_cloudformation",
+        "name": "AWS CloudFormation",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "aws_sdk_for_javascript",
+        "name": "AWS SDK for JavaScript",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "aws_trusted_advisor",
+        "name": "AWS Trusted Advisor",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "adbay",
+        "name": "AdBay",
+        "category": "Affiliate Advertising Network"
+      },
+      {
+        "uid": "adbutler",
+        "name": "AdButler",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "adobe_creative_suite",
+        "name": "Adobe Creative Suite",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "airflow",
+        "name": "Airflow",
+        "category": "Other"
+      },
+      {
+        "uid": "airflow",
+        "name": "Airflow",
+        "category": "Other"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_cloudwatch",
+        "name": "Amazon CloudWatch",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "amazon_linux_2",
+        "name": "Amazon Linux 2",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "amazon_route_53",
+        "name": "Amazon Route 53",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "amazon_s3",
+        "name": "Amazon S3",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amex_gbt_egencia",
+        "name": "Amex GBT Egencia",
+        "category": "Other"
+      },
+      {
+        "uid": "amplitude",
+        "name": "Amplitude",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ansible",
+        "name": "Ansible",
+        "category": "Other"
+      },
+      {
+        "uid": "apache_nifi",
+        "name": "Apache NiFi",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "apache_pig",
+        "name": "Apache Pig",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "apache_spark",
+        "name": "Apache Spark",
+        "category": "Database"
+      },
+      {
+        "uid": "apache_spark",
+        "name": "Apache Spark",
+        "category": "Database"
+      },
+      {
+        "uid": "apache_superset",
+        "name": "Apache Superset",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "apache_superset",
+        "name": "Apache Superset",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "apple_business_manager",
+        "name": "Apple Business Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apple_school_manager",
+        "name": "Apple School Manager",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "apple_macos",
+        "name": "Apple macOS",
+        "category": "Other"
+      },
+      {
+        "uid": "appsflyer",
+        "name": "AppsFlyer",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "arc",
+        "name": "Arc",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "aruba",
+        "name": "Aruba",
+        "category": "Hosting"
+      },
+      {
+        "uid": "azure_analysis_services",
+        "name": "Azure Analysis Services",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "bash",
+        "name": "Bash",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "bootstrap",
+        "name": "Bootstrap",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "buddypress",
+        "name": "BuddyPress",
+        "category": "CMS"
+      },
+      {
+        "uid": "css",
+        "name": "CSS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "checkpoint",
+        "name": "CheckPoint",
+        "category": "Security"
+      },
+      {
+        "uid": "cisco_broadworks",
+        "name": "Cisco BroadWorks",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "cross_pixel_media",
+        "name": "Cross Pixel Media",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "crossplane",
+        "name": "Crossplane",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "cursor",
+        "name": "Cursor",
+        "category": "Other"
+      },
+      {
+        "uid": "docker",
+        "name": "Docker",
+        "category": "Other"
+      },
+      {
+        "uid": "dv360",
+        "name": "Dv360",
+        "category": "Demand Side Platforms"
+      },
+      {
+        "uid": "elasticsearch",
+        "name": "Elasticsearch",
+        "category": "Search Appliances"
+      },
+      {
+        "uid": "excel4apps",
+        "name": "Excel4Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "figma",
+        "name": "Figma",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "fortinet",
+        "name": "Fortinet",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "freshdesk",
+        "name": "Freshdesk",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "fusion_erp_analytics",
+        "name": "Fusion ERP Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "gem",
+        "name": "Gem",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "github_copilot",
+        "name": "GitHub Copilot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "gmail",
+        "name": "Gmail",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "google",
+        "name": "Google",
+        "category": "Other"
+      },
+      {
+        "uid": "google_ads_conversion",
+        "name": "Google Ads Conversion",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_ads_conversion",
+        "name": "Google Ads Conversion",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_cloud",
+        "name": "Google Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_cloud",
+        "name": "Google Cloud",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google_meet",
+        "name": "Google Meet",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "grafana",
+        "name": "Grafana",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "html5_maker",
+        "name": "HTML5 Maker",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "hostgator",
+        "name": "Hostgator",
+        "category": "Hosting"
+      },
+      {
+        "uid": "hubspot",
+        "name": "Hubspot",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "ibm_ilog_cplex_optimization_studio",
+        "name": "IBM ILOG CPLEX Optimization Studio",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "ice",
+        "name": "ICE",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "iso",
+        "name": "ISO+™",
+        "category": "Other"
+      },
+      {
+        "uid": "informatica_axon_data_governance",
+        "name": "Informatica Axon Data Governance",
+        "category": "Data Management Platform"
+      },
+      {
+        "uid": "javascript",
+        "name": "Javascript",
+        "category": "Other"
+      },
+      {
+        "uid": "jenkins",
+        "name": "Jenkins",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "jira",
+        "name": "Jira",
+        "category": "CMS"
+      },
+      {
+        "uid": "kubernetes",
+        "name": "Kubernetes",
+        "category": "Other"
+      },
+      {
+        "uid": "leadfeeder",
+        "name": "Leadfeeder",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "macaron",
+        "name": "Macaron",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "mastercard_offers",
+        "name": "Mastercard Offers",
+        "category": "Loyalty and Gamification"
+      },
+      {
+        "uid": "mcafee_total_protection_for_data_loss_dlp",
+        "name": "McAfee Total Protection for Data Loss (DLP)",
+        "category": "Event Management"
+      },
+      {
+        "uid": "metabase",
+        "name": "Metabase",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "micro",
+        "name": "Micro",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_azure",
+        "name": "Microsoft Azure",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "microsoft_defender_for_endpoint",
+        "name": "Microsoft Defender for Endpoint",
+        "category": "Security"
+      },
+      {
+        "uid": "microsoft_email_providers",
+        "name": "Microsoft Email Providers",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_entra_id",
+        "name": "Microsoft Entra ID",
+        "category": "Enterprise Mobility Management"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_office",
+        "name": "Microsoft Office",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_powerpoint",
+        "name": "Microsoft PowerPoint",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "mixpanel",
+        "name": "Mixpanel",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "moengage",
+        "name": "MoEngage",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "nec",
+        "name": "NEC",
+        "category": "Other"
+      },
+      {
+        "uid": "onetrust",
+        "name": "OneTrust",
+        "category": "Widgets"
+      },
+      {
+        "uid": "onit",
+        "name": "Onit",
+        "category": "Case Management"
+      },
+      {
+        "uid": "oracle_business_intelligence_discoverer",
+        "name": "Oracle Business Intelligence Discoverer",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "oracle_fusion_cloud_financials",
+        "name": "Oracle Fusion Cloud Financials",
+        "category": "ERP"
+      },
+      {
+        "uid": "oracle_fusion_cloud_financials",
+        "name": "Oracle Fusion Cloud Financials",
+        "category": "ERP"
+      },
+      {
+        "uid": "oracle_spf",
+        "name": "Oracle SPF",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "php",
+        "name": "PHP",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "pay.",
+        "name": "Pay.",
+        "category": "Payments"
+      },
+      {
+        "uid": "posit",
+        "name": "Posit",
+        "category": "Other"
+      },
+      {
+        "uid": "postgresql",
+        "name": "PostgreSQL",
+        "category": "Database"
+      },
+      {
+        "uid": "prometheus",
+        "name": "Prometheus",
+        "category": "Database"
+      },
+      {
+        "uid": "python",
+        "name": "Python",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "redshift",
+        "name": "Redshift",
+        "category": "Database"
+      },
+      {
+        "uid": "retool",
+        "name": "Retool",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "scupio",
+        "name": "Scupio",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "secured_mvc_forum_on_windows_2012_r2",
+        "name": "Secured MVC Forum on Windows 2012 R2",
+        "category": "CMS"
+      },
+      {
+        "uid": "sonicwall",
+        "name": "SonicWall",
+        "category": "Security"
+      },
+      {
+        "uid": "spring_boot",
+        "name": "Spring Boot",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "tune",
+        "name": "TUNE",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "tableau",
+        "name": "Tableau",
+        "category": "Widgets"
+      },
+      {
+        "uid": "tachyons",
+        "name": "Tachyons",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "terraform",
+        "name": "Terraform",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "trend_micro_smart_protection",
+        "name": "Trend Micro Smart Protection",
+        "category": "Security"
+      },
+      {
+        "uid": "typescript",
+        "name": "TypeScript",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "visa",
+        "name": "Visa",
+        "category": "Payments"
+      },
+      {
+        "uid": "vitally",
+        "name": "Vitally",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "vue_js_library",
+        "name": "VueJS",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "wideorbit",
+        "name": "WideOrbit",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "wider_planet",
+        "name": "Wider Planet",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "wordpress_org",
+        "name": "WordPress.org",
+        "category": "CMS"
+      },
+      {
+        "uid": "wordpress",
+        "name": "Wordpress",
+        "category": "CMS"
+      },
+      {
+        "uid": "yoast",
+        "name": "Yoast",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "zelle",
+        "name": "Zelle",
+        "category": "Payments"
+      },
+      {
+        "uid": "go",
+        "name": "go+",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "jquery",
+        "name": "jQuery",
+        "category": "CSS and JavaScript Libraries"
+      }
+    ],
+    "org_chart_root_people_ids": [],
+    "org_chart_sector": "OrgChart::SectorHierarchy::Rules::IT",
+    "org_chart_removed": false,
+    "org_chart_show_department_filter": true,
+    "departmental_head_count": {
+      "engineering": 891,
+      "support": 58,
+      "sales": 19,
+      "operations": 93,
+      "arts_and_design": 55,
+      "product_management": 90,
+      "business_development": 23,
+      "media_and_commmunication": 4,
+      "marketing": 23,
+      "human_resources": 70,
+      "data_science": 26,
+      "legal": 8,
+      "finance": 45,
+      "information_technology": 27,
+      "entrepreneurship": 6,
+      "administrative": 3,
+      "education": 3,
+      "consulting": 5,
+      "accounting": 4
+    },
+    "organization_headcount_six_month_growth": -0.02291565090199902,
+    "organization_headcount_twelve_month_growth": 0.03619441571871768,
+    "organization_headcount_twenty_four_month_growth": 0.2431761786600496
+  }
+}

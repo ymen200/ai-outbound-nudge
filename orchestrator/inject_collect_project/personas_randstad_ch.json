@@ -1,0 +1,370 @@
+{
+    "status_code": 200,
+    "metadata": {
+        "page": 1,
+        "page_size": 1,
+        "total_results": 5
+    },
+    "profiles": {
+        "https://www.linkedin.com/in/bjoernmilz": {
+            "li_vanity": "bjoernmilz",
+            "full_name": "Bjorn Milz",
+            "title": "Head of Sales - Switzerland",
+            "headline": "Specialised in New Business Development as a senior manager in recruitment to subsidize my hobbies of motorbiking, sailing and skiing.",
+            "location": "Zürich Metropolitan Area",
+            "country": "Switzerland",
+            "industry": "Staffing and Recruiting",
+            "summary": "I’ve spent three decades watching technology transform recruitment, opening doors to global talent pools and instant connectivity. Yet I remain a firm believer that the basics still matter. Mixing the benefits of social platforms and AI with \"old school\" personal contact and client/candidate feedback, I help companies secure the best solutions to help drive their talent planning.\n\nMy knowledge covers the full talent lifecycle:\n- Strategic Growth: Scaling new market entries.\n- Tech Integration: Leveraging AI and ATS optimization to drive speed-to-hire and precision.\n- Service Evolution: Permanent/Contract recruitment, Outsourcing, Managed (MSP/RPO), and Outplacement Services.\n- Global Ops: Navigating the process and legal hurdles of international talent.\n- Employer Branding: Understanding the drivers for businesses, ensuring they become the employer of choice.\n\nFeel free to get in touch to exchange ideas and thoughts with me on this - I look forward to interesting new contacts and conversations!",
+            "experience": [
+                {
+                    "start_date": "20242",
+                    "end_date": "00",
+                    "title": "Head of Sales - Switzerland",
+                    "summary": "As a Senior Manager at Randstad, the biggest global player in staffing and recruitment services, I specialize in delivering bespoke talent solutions for businesses across Switzerland. \n\nOur Core Services:\n\n- Managed Services: Seamlessly managing your recruitment needs.\n- Outsourcing Solutions: Enabling focus on core business functions.\n- In-House Recruitment: Tailored, on-site recruitment support.\n- Employer Branding: Enhancing your appeal as an employer of choice.\n- Outplacement: helping your employees plan the next step in their career.\n- SOW: helping you move beyond \"filling roles\" to \"completing projects\".\n- Recruitment Technologies.\n\nWhether it’s temporary, permanent, or interim management placements—blue or white collar, professional, or consulting—my team and I are dedicated to understanding your strategic goals and identifying the most effective solutions to help achieve them.\n\nIf you're looking for a partner with a deep understanding of the Swiss market and a commitment to measurable outcomes, let’s connect!",
+                    "locality": "Zurich, Switzerland",
+                    "company_name": "Randstad Switzerland",
+                    "start_date_year": 2024,
+                    "start_date_month": 2,
+                    "end_date_year": 0,
+                    "end_date_month": 0,
+                    "is_current": true,
+                    "linkedin_url": "https://www.linkedin.com/company/randstad-switzerland",
+                    "logo_url": "https://images.contactout.com/companies/2c7b874a408331ab861b96855abb2811",
+                    "domain": "randstad.ch"
+                },
+                {
+                    "start_date": "20216",
+                    "end_date": "20241",
+                    "title": "Business Development Manager - Engineering & Sciences - Europe",
+                    "summary": "Actalent Services\n\nTasked to help establish a services business in Europe for the Life Sciences industry sector (including Pharma, Biopharma, and Medical Devices).\n\nSales focus areas: Engineering, Clinical, and Laboratory.  My offering covered Managed Talent, Consulting, Project Outsourcing, and Off-shoring.\n\n- Build new client relationships with business and product owners\n- Develop a client strategy on three distinct business areas across Europe\n- Find innovative solutions with our practice teams to support our clients\n- Involved in managing the contractual process of on-boarding new clients and consultants\n- Accountable for new business development across Europe with a main focus on the DACH region, UK& Ireland\n- Front-line sales focus including presentations to client board members, cold calling, account management of existing customers and management of on-site consultant teams.",
+                    "locality": "Zurich, Switzerland",
+                    "company_name": "Allegis Group",
+                    "start_date_year": 2021,
+                    "start_date_month": 6,
+                    "end_date_year": 2024,
+                    "end_date_month": 1,
+                    "is_current": false,
+                    "linkedin_url": "https://www.linkedin.com/company/allegis-group",
+                    "logo_url": "https://images.contactout.com/companies/65428b83666d0f9c6a669890b4d312b2",
+                    "domain": "allegisgroup.com"
+                },
+                {
+                    "start_date": "201812",
+                    "end_date": "20216",
+                    "title": "Business Development Manager - DACH Region",
+                    "summary": "EASi Engineering\n\nThis role was to help build a new engineering services offering, covering outsourcing and off-shoring of product development tasks to help companies through the engineering process including capacity management and best-price solutions.\n\n- Focus on the business sectors of Industrial and consumer goods as well as transport clients\n- Responsible for developing a client strategy to approach these market sectors\n- New business development\n- Account Management of existing clients\n- Involved in contractual negotiations, Consultant Management, Project Planning\n- Regular travel for client presentations, congress visits and fact-finding missions\n- Fully accountable for Swiss and Austrian markets including covering Southern Germany",
+                    "locality": "Switzerland / DACH",
+                    "company_name": "Allegis Group",
+                    "start_date_year": 2018,
+                    "start_date_month": 12,
+                    "end_date_year": 2021,
+                    "end_date_month": 6,
+                    "is_current": false,
+                    "linkedin_url": "https://www.linkedin.com/company/allegis-group",
+                    "logo_url": "https://images.contactout.com/companies/65428b83666d0f9c6a669890b4d312b2",
+                    "domain": "allegisgroup.com"
+                },
+                {
+                    "start_date": "201511",
+                    "end_date": "201812",
+                    "title": "Sales Director - IT & Engineering",
+                    "summary": "Stamford Consultants (now TEKsystems)\n\nMy role encompassed Managing the IT and engineering teams for both contract and permanent recruitment services across Switzerland, based out of the Zürich office.\n\n- Managing a sales and recruitment team based in Zürich\n- IT focus on the banking and insurance industry, offering consultants for a wide range of IT skills\n- Engineering focus on Swiss Engineering clients in the construction and industrial products sector\n- Leading from the front by maintaining a new business development focus\n- Supporting key account teams during negotiations and relationship management\n- Full ownership and accountability for sales and profit results (forecasting and budgeting)\n- Responsible for client and market strategy\n- Involved in all areas of hiring, coaching, reviews, and development of internal team.",
+                    "locality": "Zürich Area, Switzerland",
+                    "company_name": "Allegis Group",
+                    "start_date_year": 2015,
+                    "start_date_month": 11,
+                    "end_date_year": 2018,
+                    "end_date_month": 12,
+                    "is_current": false,
+                    "linkedin_url": "https://www.linkedin.com/company/allegis-group",
+                    "logo_url": "https://images.contactout.com/companies/65428b83666d0f9c6a669890b4d312b2",
+                    "domain": "allegisgroup.com"
+                },
+                {
+                    "start_date": "20113",
+                    "end_date": "201510",
+                    "title": "Business Director - Switzerland and Germany",
+                    "summary": "Global Resource Management company, providing MSP / RPO / Contract / Permanent and Payroll solutions.\n\nSet up Volt Europe Switzerland and helped in rebuilding the Volt Germany office.\nKey successes: \n- Set up new offices in Switzerland, including all compliance related issues from scratch \n- Built up a market-leading Recruitment Telecoms division in Switzerland\n- Responsible for running the German team (Frankfurt)\n- New Engineering & Sciences division set up in Switzerland\n- Contract, Permanent and Payroll solutions successfully covered in both countries",
+                    "locality": "Zürich / Switzerland",
+                    "company_name": "Volt",
+                    "start_date_year": 2011,
+                    "start_date_month": 3,
+                    "end_date_year": 2015,
+                    "end_date_month": 10,
+                    "is_current": false,
+                    "linkedin_url": "https://www.linkedin.com/company/innova-solutions",
+                    "logo_url": "https://images.contactout.com/companies/364605bc456570ba4011415fa5b3802b",
+                    "domain": "innovasolutions.com"
+                },
+                {
+                    "start_date": "20079",
+                    "end_date": "20113",
+                    "title": "Sales Director",
+                    "summary": "Specialists in Communication Network Management.  I helped build the consultant/contracting team selling our services globally to telecom vendors, operators, and construction companies.  Full P&L responsibility.",
+                    "locality": "Chur - Switzerland",
+                    "company_name": "TalkPool AG",
+                    "start_date_year": 2007,
+                    "start_date_month": 9,
+                    "end_date_year": 2011,
+                    "end_date_month": 3,
+                    "is_current": false,
+                    "linkedin_url": "https://www.linkedin.com/company/talkpool",
+                    "logo_url": "https://images.contactout.com/companies/8088ddb8336618ea02b70fad3def1375",
+                    "domain": "talkpool.com"
+                },
+                {
+                    "start_date": "20054",
+                    "end_date": "20078",
+                    "title": "Sales Manager - Contract Department",
+                    "summary": "Successfully built and managed the Contract recruitment division of Hays in Switzerland, specifically focused on selling consultants within IT, Engineering, and Science disciplines.",
+                    "locality": "Zurich, Switzerland",
+                    "company_name": "Hays",
+                    "start_date_year": 2005,
+                    "start_date_month": 4,
+                    "end_date_year": 2007,
+                    "end_date_month": 8,
+                    "is_current": false,
+                    "linkedin_url": "https://www.linkedin.com/company/hays",
+                    "logo_url": "https://images.contactout.com/companies/080056d7c0b32da54f59eb4ce20602f4",
+                    "domain": "haysplc.com"
+                },
+                {
+                    "start_date": "20000",
+                    "end_date": "20050",
+                    "title": "Sales Manager - Germany & Switzerland",
+                    "summary": "Team Management covering the Telecoms and IT consulting market. Client base global. Industry focus: Pharma, Telecoms, Banking, Manufacturing.",
+                    "locality": "Frankfurt & Zürich",
+                    "company_name": "Elan IT",
+                    "start_date_year": 2000,
+                    "start_date_month": 0,
+                    "end_date_year": 2005,
+                    "end_date_month": 0,
+                    "is_current": false,
+                    "linkedin_url": "https://www.linkedin.com/company/elan-it",
+                    "logo_url": "https://images.contactout.com/companies/a4ddd8ce8ce1956a0da00929a66ec236",
+                    "domain": "experis.co.uk"
+                },
+                {
+                    "start_date": "19960",
+                    "end_date": "20000",
+                    "title": "Account & Sales Manager - Munich and Berlin",
+                    "summary": "IT Consulting / Recruitment, covering Munich, Berlin and Hamburg.",
+                    "locality": "Munich & Berlin",
+                    "company_name": "PARITY EUROSOFT LIMITED",
+                    "start_date_year": 1996,
+                    "start_date_month": 0,
+                    "end_date_year": 2000,
+                    "end_date_month": 0,
+                    "is_current": false,
+                    "linkedin_url": "https://www.linkedin.com/company/parity-eurosoft-limited",
+                    "logo_url": null,
+                    "domain": null
+                },
+                {
+                    "start_date": "19930",
+                    "end_date": "19960",
+                    "title": "Operations Executive",
+                    "summary": "Operations Executive researching, organising, brochure writing and operational management of holidays across Europe.",
+                    "locality": "Market Harborough",
+                    "company_name": "Travelsphere",
+                    "start_date_year": 1993,
+                    "start_date_month": 0,
+                    "end_date_year": 1996,
+                    "end_date_month": 0,
+                    "is_current": false,
+                    "linkedin_url": "https://www.linkedin.com/company/travelsphere",
+                    "logo_url": null,
+                    "domain": null
+                }
+            ],
+            "education": [
+                {
+                    "field_of_study": "Economics / German",
+                    "description": null,
+                    "start_date_year": "1988",
+                    "end_date_year": "1992",
+                    "degree": "BA Hons.",
+                    "school_name": "University of Reading",
+                    "url": "https://www.linkedin.com/school/university-of-reading",
+                    "location": "Reading, GB"
+                },
+                {
+                    "field_of_study": "Various",
+                    "description": null,
+                    "start_date_year": "1984",
+                    "end_date_year": "1987",
+                    "degree": "A + O Levels",
+                    "school_name": "Leicester Grammar School",
+                    "url": "https://www.linkedin.com/school/leicester-grammar-school",
+                    "location": "Great Glen, GB"
+                }
+            ],
+            "skills": [
+                "Recruitment Technology",
+                "Employer Branding",
+                "Outplacement",
+                "RPO",
+                "Management",
+                "Sales Management",
+                "Sales",
+                "Technical Recruiting",
+                "IT Recruitment",
+                "Contract Recruitment",
+                "Permanent Placement",
+                "Permanent Staffing",
+                "Staffing Services",
+                "Telecommunications",
+                "Board of Directors Reporting",
+                "Project Management",
+                "Recruiting",
+                "Leadership",
+                "Team Leadership",
+                "Selling",
+                "Start-ups",
+                "CRM",
+                "Managed Services",
+                "Negotiation",
+                "Performance Management",
+                "UMTS",
+                "Team Management",
+                "New Business Development",
+                "Engineering",
+                "Training",
+                "GSM",
+                "Wireless",
+                "Consulting",
+                "Resource Management",
+                "Professional Services",
+                "3G",
+                "Change Management",
+                "Program Management",
+                "LTE",
+                "Contract Negotiation",
+                "Outsourcing",
+                "Account Management",
+                "Executive Search",
+                "Business Development",
+                "Talent Acquisition",
+                "Finance",
+                "Strategy",
+                "Energy",
+                "Operations Management",
+                "Key Account Management",
+                "Business Intelligence",
+                "Business Strategy",
+                "Customer Relationship Management (CRM)",
+                "Universal Mobile Telecommunications System (UMTS)"
+            ],
+            "certifications": [
+                {
+                    "name": "Randstad Gemini AI Skills Accelerator ",
+                    "authority": "Randstad",
+                    "license": "",
+                    "start_date_year": 2025,
+                    "start_date_month": 11,
+                    "end_date_year": null,
+                    "end_date_month": null
+                },
+                {
+                    "name": "Football Coaching Certificate - D-Diplom",
+                    "authority": "Schweizerischer Fussballverband (SFV)",
+                    "license": "",
+                    "start_date_year": 2024,
+                    "start_date_month": 8,
+                    "end_date_year": null,
+                    "end_date_month": 8
+                },
+                {
+                    "name": "Selling into Companies",
+                    "authority": "LinkedIn",
+                    "license": "",
+                    "start_date_year": 2019,
+                    "start_date_month": 7,
+                    "end_date_year": null,
+                    "end_date_month": null
+                },
+                {
+                    "name": "Selling into Industries: Manufacturing",
+                    "authority": "LinkedIn",
+                    "license": "",
+                    "start_date_year": 2019,
+                    "start_date_month": 3,
+                    "end_date_year": null,
+                    "end_date_month": null
+                },
+                {
+                    "name": "Business-to-Business Sales",
+                    "authority": "LinkedIn",
+                    "license": "",
+                    "start_date_year": 2019,
+                    "start_date_month": 2,
+                    "end_date_year": null,
+                    "end_date_month": null
+                }
+            ],
+            "publications": [],
+            "projects": [],
+            "volunteering_experiences": [
+                {
+                    "role": "Youth Football Coach U8-9 - Swiss Category \"F Juniors\"",
+                    "company_name": "FC Stäfa 1895",
+                    "company_url": "https://www.linkedin.com/company/89006851/",
+                    "cause": "children",
+                    "company_id": 89006851,
+                    "start_date_year": 2012,
+                    "start_date_month": 8,
+                    "end_date_year": null,
+                    "end_date_month": null
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Danish",
+                    "proficiency": "Limited working proficiency"
+                },
+                {
+                    "name": "English",
+                    "proficiency": "Native or bilingual proficiency"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "Limited working proficiency"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "Native or bilingual proficiency"
+                },
+                {
+                    "name": "Italian",
+                    "proficiency": "Elementary proficiency"
+                }
+            ],
+            "followers": 2706,
+            "updated_at": "2026-06-14 00:00:00",
+            "profile_picture_url": "https://images.contactout.com/profiles/9b42e6df29186f23d1d6fb827b5fa685",
+            "job_function": "Sales",
+            "seniority": "Head",
+            "work_status": null,
+            "contact_availability": {
+                "work_email": true,
+                "personal_email": false,
+                "phone": true
+            },
+            "contact_info": {
+                "emails": [
+                    "bjoern.milz@randstad.ch"
+                ],
+                "work_emails": [
+                    "bjoern.milz@randstad.ch"
+                ],
+                "work_email_status": {
+                    "bjoern.milz@randstad.ch": "Verified"
+                },
+                "personal_emails": [],
+                "phones": [
+                    "+41791028886"
+                ]
+            }
+        }
+    }
+}

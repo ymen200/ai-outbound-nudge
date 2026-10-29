@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "solomon chachou",
+        "clean_name_used": "solomon chachou",
+        "linkedin_url": "https://www.linkedin.com/in/solomon-chachou-67784bab/",
+        "company": "Emdgroup",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Sam Fan",
+        "clean_name_used": "Sam Fan",
+        "linkedin_url": "https://www.linkedin.com/in/sam-fan-243a08b5/",
+        "company": "Emdgroup",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Joey Bawabeh",
+        "clean_name_used": "Joey Bawabeh",
+        "linkedin_url": "https://www.linkedin.com/in/joey-bawabeh-a34a7147/",
+        "company": "Emdgroup",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

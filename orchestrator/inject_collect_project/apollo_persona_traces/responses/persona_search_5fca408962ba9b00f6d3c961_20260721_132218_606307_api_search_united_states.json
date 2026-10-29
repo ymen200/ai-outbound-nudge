@@ -1,0 +1,51 @@
+{
+  "total_entries": 1053,
+  "people": [
+    {
+      "id": "646236df7250f5000192443f",
+      "first_name": "Jose",
+      "last_name_obfuscated": "Pe***a",
+      "title": "Sales Business Development",
+      "last_refreshed_at": "2026-07-10T21:57:51.937+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": {
+        "name": "LinkedIn",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "6a24d1442280760001d66a9e",
+      "first_name": "Shannon",
+      "last_name_obfuscated": "Cl***k",
+      "title": "Sales Business Development",
+      "last_refreshed_at": "2026-06-30T23:09:48.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "LinkedIn",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

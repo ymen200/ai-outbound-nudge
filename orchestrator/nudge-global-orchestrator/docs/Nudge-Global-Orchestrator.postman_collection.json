@@ -1,0 +1,162 @@
+{
+  "info": {
+    "name": "Nudge Global Orchestrator",
+    "description": "Phase A + B API on port 8100. Import into Postman and set `baseUrl` to http://localhost:8100",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:8100" },
+    { "key": "campaign_id", "value": "1242ee6f-0450-44db-8d20-20e8874b5d35" },
+    { "key": "thread_id", "value": "" }
+  ],
+  "item": [
+    {
+      "name": "Health",
+      "item": [
+        {
+          "name": "GET /health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "{{baseUrl}}/health"
+          }
+        },
+        {
+          "name": "GET /",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "{{baseUrl}}/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Campaigns (Phase A)",
+      "item": [
+        {
+          "name": "POST /campaigns (async, mock-friendly)",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "if (pm.response.code === 200) {",
+                  "  const json = pm.response.json();",
+                  "  if (json.campaign_id) pm.collectionVariables.set('campaign_id', json.campaign_id);",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"user_id\": \"postman-test\",\n  \"run_async\": true,\n  \"auto_start_outreach\": false\n}"
+            },
+            "url": "{{baseUrl}}/campaigns",
+            "description": "Starts Phase A in background. Poll GET /campaigns/{id} until status=completed. Set ORCHESTRATOR_MOCK=true in .env for offline testing."
+          }
+        },
+        {
+          "name": "POST /campaigns (sync)",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "if (pm.response.code === 200) {",
+                  "  const json = pm.response.json();",
+                  "  if (json.campaign_id) pm.collectionVariables.set('campaign_id', json.campaign_id);",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"user_id\": \"postman-test\",\n  \"run_async\": false,\n  \"auto_start_outreach\": false,\n  \"company_limit\": 3\n}"
+            },
+            "url": "{{baseUrl}}/campaigns",
+            "description": "Blocks until Phase A finishes. Can take several minutes with live MCP."
+          }
+        },
+        {
+          "name": "GET /campaigns/{id}",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "{{baseUrl}}/campaigns/{{campaign_id}}",
+            "description": "Full campaign state: campaign row, artifacts, packages, outreach_threads."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Outreach (Phase B)",
+      "item": [
+        {
+          "name": "POST /campaigns/{id}/outreach",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": "{{baseUrl}}/campaigns/{{campaign_id}}/outreach",
+            "description": "Start outreach in background. Requires lead packages and OUTREACH_MCP_PATH configured."
+          }
+        },
+        {
+          "name": "GET /campaigns/{id}/outreach",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "if (pm.response.code === 200) {",
+                  "  const json = pm.response.json();",
+                  "  const threads = json.threads || [];",
+                  "  if (threads.length && threads[0].thread_id) {",
+                  "    pm.collectionVariables.set('thread_id', threads[0].thread_id);",
+                  "  }",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "{{baseUrl}}/campaigns/{{campaign_id}}/outreach"
+          }
+        },
+        {
+          "name": "POST /campaigns/{id}/outreach/{thread_id}/approve",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"approved\": true,\n  \"feedback\": null\n}"
+            },
+            "url": "{{baseUrl}}/campaigns/{{campaign_id}}/outreach/{{thread_id}}/approve"
+          }
+        },
+        {
+          "name": "GET /campaigns/{id}/outreach/observability",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "{{baseUrl}}/campaigns/{{campaign_id}}/outreach/observability"
+          }
+        }
+      ]
+    }
+  ]
+}

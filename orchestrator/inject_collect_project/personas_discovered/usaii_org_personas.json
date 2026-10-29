@@ -1,0 +1,52 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Kaushal G.",
+        "clean_name_used": "Kaushal G.",
+        "linkedin_url": "https://in.linkedin.com/in/kaushalgoswami",
+        "company": "Usaii",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "MD Ahmar Khan",
+        "clean_name_used": "MD Ahmar Khan",
+        "linkedin_url": "https://in.linkedin.com/in/md-ahmar-khan-197619289",
+        "company": "Usaii",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Priyanshu Ranjan",
+        "clean_name_used": "Priyanshu Ranjan",
+        "linkedin_url": "https://in.linkedin.com/in/priyanshu-ranjan-923051271",
+        "company": "Usaii",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Non trouvé",
+        "clean_name_used": "Non trouvé",
+        "linkedin_url": "Non trouvé",
+        "company": "Usaii",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

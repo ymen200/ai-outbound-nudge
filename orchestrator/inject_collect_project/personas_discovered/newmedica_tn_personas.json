@@ -1,0 +1,52 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Dakhlaoui Wassim‏",
+        "clean_name_used": "Dakhlaoui Wassim",
+        "linkedin_url": "https://tn.linkedin.com/in/dakhlaoui-wassim-32144915b",
+        "company": "Newmedica",
+        "email": "wassim.dakhlaoui@newmedica.tn",
+        "mail_pro": true,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Snov.io + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Lina Jebali‏",
+        "clean_name_used": "Lina Jebali",
+        "linkedin_url": "https://tn.linkedin.com/in/linajebali",
+        "company": "Newmedica",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "‏Dorsaf Aamira‏",
+        "clean_name_used": "Dorsaf Aamira",
+        "linkedin_url": "https://tn.linkedin.com/in/dorsaf-aamira-69618b1b3",
+        "company": "Newmedica",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "raw_name_from_google": "Non trouvé",
+        "clean_name_used": "Non trouvé",
+        "linkedin_url": "Non trouvé",
+        "company": "Newmedica",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Apify / Pipeline Labs"
+    }
+]

@@ -1,0 +1,51 @@
+{
+  "total_entries": 122,
+  "people": [
+    {
+      "id": "54a5e9c174686938ac1b09b3",
+      "first_name": "Bertrand",
+      "last_name_obfuscated": "Si***s",
+      "title": "Commercial Sales",
+      "last_refreshed_at": "2026-06-10T00:04:09.000+00:00",
+      "has_email": false,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Emil Frey France",
+        "has_industry": true,
+        "has_phone": false,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "66feaf732004d10001721283",
+      "first_name": "Jean-Michel",
+      "last_name_obfuscated": "Je***u",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-06-12T23:20:05.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Emil Frey France",
+        "has_industry": true,
+        "has_phone": false,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": true,
+        "has_revenue": false,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

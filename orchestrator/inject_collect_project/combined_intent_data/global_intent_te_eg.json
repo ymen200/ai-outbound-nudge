@@ -1,0 +1,32 @@
+[
+    {
+        "id": "6a15f9de3a822f00181ad07c",
+        "url": "https://www.techwithafrica.com/2026/05/26/telecom-egypt-and-huawei-launch-new-fttr-broadband-service-for-faster-home-internet",
+        "domain": "techwithafrica.com",
+        "title": "Telecom Egypt and Huawei launch new FTTR broadband service for faster home internet.",
+        "snippet": "Telecom Egypt, operating under the WE brand, has partnered with Huawei to launch a new Fiber-to-the-Room (FTTR) broadband service in Egypt, introducing a next-generation home internet solution designed to improve speed, stability, and wireless coverage across homes.",
+        "organization_ids": [
+            "54a134e169702d407f115900"
+        ],
+        "published_at": "2026-05-26T06:52:31.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Telecom Egypt wins Top Employer award for 2026",
+        "date": "2026",
+        "news_type": "Award",
+        "confidence": 0.9,
+        "source": "للعام الثاني على التوالي ... المصرية للاتصالات تحصد جائزة أفضل بيئة عمل Top Employer لعام 2026",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.6,
+            "evidence_density": 0.49
+        },
+        "source_origin": "Web Scraping (LLM Enrichment)"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Lindsay PAYET",
+        "clean_name_used": "Lindsay PAYET",
+        "linkedin_url": "https://www.linkedin.com/in/lindsay-payet/",
+        "company": "France-terre-textile",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Gaëlle Inglebert – Illustratrice et graphiste stratégique J ...",
+        "clean_name_used": "Gaëlle Inglebert – Illustratrice et graphiste stratégique J ...",
+        "linkedin_url": "https://www.linkedin.com/in/gaelleinglebert/",
+        "company": "France-terre-textile",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

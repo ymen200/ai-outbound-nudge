@@ -1,0 +1,577 @@
+{
+    "alexa_ranking": 700038,
+    "annual_revenue": 63600000.0,
+    "apollo_id": "5fc880436f347f000194f6f8",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "departments": {
+        "operations": 17,
+        "marketing": 12,
+        "finance": 9,
+        "engineering": 16,
+        "support": 9,
+        "human_resources": 5,
+        "sales": 11,
+        "education": 1,
+        "accounting": 4,
+        "media_and_commmunication": 2,
+        "arts_and_design": 3,
+        "business_development": 3,
+        "entrepreneurship": 1,
+        "data_science": 2,
+        "information_technology": 4,
+        "legal": 0,
+        "product_management": 0,
+        "consulting": 0,
+        "administrative": 0
+    },
+    "domain": "felfel.ch",
+    "estimated_num_employees": 150,
+    "facebook_url": "https://www.facebook.com/felfelgoodfoodatwork",
+    "founded_year": 2014,
+    "funding_events": [
+        {
+            "id": "69660053eb0fd80001f018e6",
+            "date": "2022-12-01T00:00:00.000+00:00",
+            "type": "Merger / Acquisition",
+            "amount": "Non renseigné",
+            "currency": "$",
+            "investors": "FELFEL"
+        },
+        {
+            "id": "6965ffe1eb0fd80001effd72",
+            "date": "2020-12-01T00:00:00.000+00:00",
+            "type": "Venture (Round not Specified)",
+            "amount": "Non renseigné",
+            "currency": "$",
+            "investors": "Toni Hilti"
+        },
+        {
+            "id": "69660053eb0fd80001f018e2",
+            "date": "2019-01-01T00:00:00.000+00:00",
+            "type": "Series A",
+            "amount": "Non renseigné",
+            "currency": "$",
+            "investors": "Sparrow Ventures"
+        }
+    ],
+    "industry": "Corporate Catering & Food Technology",
+    "keywords": [
+        "smart fridge",
+        "restauration dentreprise",
+        "healthy food at work",
+        "mitarbeiterverpflegung",
+        "office food",
+        "essen am arbeitsplatz",
+        "cantine",
+        "fresh food",
+        "farm to office",
+        "great ingredients",
+        "frigo connecte",
+        "food scouts",
+        "food & beverages",
+        "food & beverage services",
+        "smart fridge technology",
+        "swiss food tech",
+        "services",
+        "diverse meal options",
+        "local food sourcing",
+        "food diversity",
+        "corporate catering solutions",
+        "food safety standards compliance",
+        "food traceability systems",
+        "office coffee solutions",
+        "ai-optimized inventory",
+        "digital food delivery",
+        "b2b",
+        "personalized catering solutions",
+        "healthy workplace meals",
+        "food safety and hygiene",
+        "food waste analytics",
+        "cost savings in catering",
+        "food waste reduction algorithms",
+        "regional chef collaborations",
+        "fresh daily meals",
+        "cost-effective catering",
+        "food waste reduction",
+        "sustainable catering practices",
+        "chef-curated weekly menus",
+        "local chef network",
+        "diverse dietary options",
+        "food service",
+        "personalized employee menus",
+        "local swiss food artisans",
+        "smart fridge catering",
+        "affordable office food",
+        "digital catering management",
+        "regional ingredients",
+        "office catering",
+        "food safety compliance",
+        "gavetti coffee brand",
+        "corporate food services",
+        "food quality assurance",
+        "ai food logistics",
+        "digital food management",
+        "food safety certification",
+        "chef-curated menus",
+        "employee food preferences",
+        "employee engagement",
+        "premium office coffee",
+        "corporate food service",
+        "sustainability",
+        "food traceability",
+        "food distribution",
+        "ai-driven food logistics",
+        "sustainable catering",
+        "digital food logistics",
+        "local ingredient sourcing",
+        "sustainable food sourcing",
+        "ai-driven menu planning",
+        "regional culinary partnerships",
+        "hospitality",
+        "employee satisfaction",
+        "employee food solutions",
+        "sustainable packaging solutions",
+        "sustainable food practices",
+        "workplace food technology",
+        "food technology",
+        "mobile food services",
+        "high-quality coffee",
+        "food delivery automation",
+        "corporate wellness food",
+        "food waste analytics tools",
+        "customer experience",
+        "affordable workplace catering",
+        "corporate food solutions",
+        "chef-driven recipes",
+        "food waste minimization",
+        "sustainable food solutions",
+        "food safety standards",
+        "ai food logistics platform",
+        "corporate wellness programs",
+        "food scout network",
+        "company culture enhancement",
+        "menu personalization",
+        "smart fridge system",
+        "daily fresh meals",
+        "workplace wellness",
+        "gavetti coffee",
+        "company culture improvement",
+        "flexible meal access",
+        "food innovation switzerland",
+        "food delivery",
+        "ai inventory management",
+        "sustainable packaging",
+        "employee benefits",
+        "chef-curated recipes",
+        "local swiss producers",
+        "regional food sourcing",
+        "employee retention",
+        "local chef partnerships",
+        "ai logistics",
+        "coffee service",
+        "local chefs",
+        "fresh meals",
+        "daily deliveries",
+        "tea and coffee",
+        "employee wellness",
+        "office environment",
+        "affordable meals",
+        "meal variety",
+        "weekly menu rotation",
+        "gourmet snacks",
+        "client engagement",
+        "customer support",
+        "community partnerships",
+        "local sourcing",
+        "food safety",
+        "culinary experiences",
+        "event catering",
+        "corporate events",
+        "food innovation",
+        "breakfast and lunch",
+        "team-building",
+        "employee motivation",
+        "meal customization",
+        "coffee machine",
+        "biodegradable packaging",
+        "employee branding",
+        "sustainable practices",
+        "seasonal menus",
+        "fair trade coffee",
+        "digital ordering",
+        "smart service",
+        "healthy meals",
+        "vegetarian options",
+        "dietary needs",
+        "affordable catering",
+        "custom meal plans",
+        "swiss cuisine",
+        "recycling initiatives",
+        "e-commerce",
+        "healthcare",
+        "education",
+        "distribution",
+        "consumer goods",
+        "consumers",
+        "environmental services",
+        "renewables & environment",
+        "leisure, travel & tourism",
+        "events services",
+        "consumer internet",
+        "internet",
+        "information technology & services",
+        "health care",
+        "health, wellness & fitness",
+        "hospital & health care",
+        "Kaffee für KMU",
+        "Schweizer Familienunternehmen",
+        "Gavetti",
+        "Usego",
+        "Zurich Gastronomy"
+    ],
+    "latest_funding_stage": "Merger / Acquisition",
+    "linkedin_url": "http://www.linkedin.com/company/felfel",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/671751b509597300010569df/picture",
+    "name": "FELFEL",
+    "num_suborganizations": "2",
+    "phone": "+41 43 544 28 69",
+    "postal_code": "8045",
+    "raw_address": "24 Raeffelstrasse, Zurich, Switzerland",
+    "seo_description": "FELFEL: #1 Mitarbeiterverpflegung & Kaffee für KMU",
+    "short_description": "Innovative food and coffee solutions for small and medium-sized enterprises in Switzerland.",
+    "state": "Zurich",
+    "street_address": "24 Raeffelstrasse",
+    "suborganizations": [
+        {
+            "id": "Non renseigné",
+            "name": "GAVETTI",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "Non renseigné",
+            "name": "USEGO",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "adobe_fonts",
+            "name": "Adobe Fonts",
+            "category": "Fonts"
+        },
+        {
+            "uid": "aircall",
+            "name": "Aircall",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "amazon_route_53",
+            "name": "Amazon Route 53",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "android",
+            "name": "Android",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "apple_macos",
+            "name": "Apple macOS",
+            "category": "Other"
+        },
+        {
+            "uid": "bing_webmaster_tools",
+            "name": "Bing Webmaster Tools",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "canal",
+            "name": "Canal",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "chatgpt",
+            "name": "ChatGPT",
+            "category": "Chats"
+        },
+        {
+            "uid": "cloudflare_hosting",
+            "name": "CloudFlare Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "digitalocean",
+            "name": "DigitalOcean",
+            "category": "Hosting"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "gsap",
+            "name": "GSAP",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "google",
+            "name": "Google",
+            "category": "Other"
+        },
+        {
+            "uid": "google_ads",
+            "name": "Google Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics_4_ga4",
+            "name": "Google Analytics 4 (GA4)",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_apps",
+            "name": "Google Apps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "greensock_animation_platform",
+            "name": "GreenSock Animation Platform",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+        },
+        {
+            "uid": "hotjar",
+            "name": "Hotjar",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "hubspot_marketing_hub",
+            "name": "HubSpot Marketing Hub",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "magento_2",
+            "name": "Magento 2",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "mailchimp",
+            "name": "MailChimp",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "mailchimp_spf",
+            "name": "MailChimp SPF",
+            "category": "Other"
+        },
+        {
+            "uid": "mailgun",
+            "name": "Mailgun",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "mapbox",
+            "name": "Mapbox",
+            "category": "Other"
+        },
+        {
+            "uid": "meta_ads",
+            "name": "Meta Ads",
+            "category": "Database"
+        },
+        {
+            "uid": "metabase",
+            "name": "Metabase",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "microsoft_application_insights",
+            "name": "Microsoft Application Insights",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "microsoft_dynamics_365",
+            "name": "Microsoft Dynamics 365",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "phoenix",
+            "name": "Phoenix",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "postpresso",
+            "name": "Postpresso",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "rackspace_mailgun",
+            "name": "Rackspace MailGun",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "snowflake",
+            "name": "Snowflake",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "squarespace",
+            "name": "Squarespace",
+            "category": "CMS"
+        },
+        {
+            "uid": "squarespace_ecommerce",
+            "name": "Squarespace ECommerce",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "typekit",
+            "name": "Typekit",
+            "category": "Fonts"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "vimeo",
+            "name": "Vimeo",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "vue_js_library",
+            "name": "VueJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "zendesk",
+            "name": "Zendesk",
+            "category": "Support and Feedback"
+        },
+        {
+            "uid": "zoominfo",
+            "name": "ZoomInfo",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "jquery",
+            "name": "jQuery",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "Cloudflare",
+            "category": "CDN/Security"
+        },
+        {
+            "uid": "weglot",
+            "name": "Weglot",
+            "category": "Translation"
+        },
+        {
+            "uid": "datadog",
+            "name": "Datadog",
+            "category": "Monitoring"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "adobe_typekit",
+            "name": "Adobe Typekit",
+            "category": "Fonts"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/felfel_goodfood",
+    "website_url": "http://www.felfel.ch",
+    "is_subsidiary": false,
+    "parent_company": "FELFEL AG",
+    "competitors": [
+        "Selecta",
+        "Avy",
+        "HelloFreshGO",
+        "Sodexo",
+        "Eurest"
+    ],
+    "data_quality_score": 0.94
+}

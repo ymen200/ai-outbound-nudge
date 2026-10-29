@@ -1,0 +1,41 @@
+[
+    {
+        "intent_type": "news",
+        "title_and_summary": "Nouvel accord interprofessionnel - Un nouvel accord interprofessionnel relatif au financement des actions de promotion, recherche et expérimentation en faveur du secteur de l'huile d'olive et des olives de table sera en vigueur pour les campagnes 2026/2027, 2027/2028 et 2028/2029.",
+        "date": "2026-06-26",
+        "news_type": "General News",
+        "confidence": 0.9,
+        "source": "Nouvel accord interprofessionnel relatif au financement des actions de promotion, recherche et expérimentation en faveur du secteur de l'huile d'olive et des olives de table sera en vigueur pour les campagnes 2026/2027, 2027/2028 et 2028/2029.",
+        "xai_metrics": {
+            "faithfulness_score": 1,
+            "calibration_error": 0.03,
+            "evidence_density": 1.16
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Assemblée Générale 2026 - bilan, perspectives et nouveaux enjeux pour l’Interprofession et la filière oléicole",
+        "date": "2026-06-24",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Assemblée Générale 2026 - bilan, perspectives et nouveaux enjeux pour l’Interprofession et la filière oléicole",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    },
+    {
+        "intent_type": "news",
+        "title_and_summary": "Étiquetage des huiles d’olive : les règles à ne pas négliger cet été - En cette période estivale, alors que la consommation d’huiles d’olive s’intensifie et que les étals se remplissent de produits aux appellations variées, il est essentiel de veiller à la conformité des étiquetages.",
+        "date": "2026-06-18",
+        "news_type": "General News",
+        "confidence": 0.8,
+        "source": "Étiquetage des huiles d’olive : les règles à ne pas négliger cet été - En cette période estivale, alors que la consommation d’huiles d’olive s’intensifie et que les étals se remplissent de produits aux appellations variées, il est essentiel de veiller à la conformité des étiquetages.",
+        "xai_metrics": {
+            "faithfulness_score": 0,
+            "calibration_error": 0.2,
+            "evidence_density": 1.0
+        }
+    }
+]

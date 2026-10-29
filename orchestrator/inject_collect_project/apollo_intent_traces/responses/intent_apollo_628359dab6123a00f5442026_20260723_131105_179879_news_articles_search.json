@@ -1,0 +1,299 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 22,
+    "total_pages": 2
+  },
+  "news_articles": [
+    {
+      "id": "6a4e71c317f0d50010a7e855",
+      "url": "https://toggl-widget.com/blog/clickup-and-toggl-integration-track-time-without-leaving-clickup",
+      "domain": "toggl-widget.com",
+      "title": "ClickUp and Toggl integration: track time without leaving ClickUp.",
+      "snippet": "Why integrate Toggl with ClickUp?",
+      "organization_ids": [
+        "604956664b2d810001608b8f",
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-07-02T00:00:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a3b3219101816001c420177",
+      "url": "https://www.dubaiweek.ae/brain2-won-100-of-blind-tests-clickup-says-context-beats-model-power",
+      "domain": "dubaiweek.ae",
+      "title": "Brain2 won 100% of blind tests. ClickUp says context beats model power.",
+      "snippet": "In blind head-to-head evaluations, ClickUp's newly launched Brain2 defeated standalone ChatGPT and Claude every single time.",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-06-23T13:01:24.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a46bd911ff52d001c578c24",
+      "url": "https://thetimesofuae.com/clickup-launches-brain2-your-companys-ai",
+      "domain": "thetimesofuae.com",
+      "title": "ClickUp launches brain2: your company's AI.",
+      "snippet": "ClickUp today announced the launch of Brain[2], a fundamental reimagining of its core AI platform.",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-06-23T12:38:32.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a5295644c8ac1000c26a3f1",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/clickup-launches-brain2-your-companys-ai",
+      "domain": "financialpost.com",
+      "title": "ClickUp launches brain2: your company's AI.",
+      "snippet": "ClickUp launches brain2: your company's AI.",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-06-23T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a2f019389f39d0014e9623b",
+      "url": "https://multisyncmadeasy.com/blog/how-to-integrate-clickup-with-salesforce",
+      "domain": "multisyncmadeasy.com",
+      "title": "How to integrate ClickUp with Salesforce: step-by-step guide.",
+      "snippet": "A simple guide to integrating ClickUp with Salesforce.",
+      "organization_ids": [
+        "628359dab6123a00f5442026",
+        "5a9f506ea6da98d99781eff8"
+      ],
+      "published_at": "2026-06-09T00:00:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a1f1b5aed3369001c32d8ae",
+      "url": "https://www.uctoday.com/productivity-automation/clickup-cuts-22-of-its-workforce-and-dangles-1-million-salaries-for-top-ai-performers",
+      "domain": "uctoday.com",
+      "title": "ClickUp cuts 22% of its workforce and dangles $1 million salaries for top AI performers.",
+      "snippet": "ClickUp has laid off roughly 286 employees - 22 percent of its 1,300-person workforce - and CEO Zeb Evans isn't framing it as bad news, but rather as a deliberate and strategic blueprint for what he believes the modern technology company should look like.",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-05-29T11:26:39.000+00:00",
+      "event_categories": [
+        "decreases_headcount_by"
+      ]
+    },
+    {
+      "id": "6a171febc1b63d0010568ca2",
+      "url": "https://mlq.ai/news/clickup-lays-off-22-of-staff-deploys-3000-ai-agents-in-radical-restructuring",
+      "domain": "mlq.ai",
+      "title": "ClickUp lays off 22% of staff, deploys 3,000 AI agents in radical restructuring.",
+      "snippet": "ClickUp, which generates roughly $300 million in annual recurring revenue and has been eyeing an IPO, acquired AI coding platform Codegen in late 2025 as part of its push toward an AI-native operating model 4",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-05-26T15:45:00.000+00:00",
+      "event_categories": [
+        "has_revenue"
+      ]
+    },
+    {
+      "id": "6a171fd8742e860010e276b4",
+      "url": "https://mlq.ai/news/clickup-lays-off-22-of-staff-deploys-3000-ai-agents-in-radical-restructuring",
+      "domain": "mlq.ai",
+      "title": "ClickUp lays off 22% of staff, deploys 3,000 AI agents in radical restructuring.",
+      "snippet": "* ClickUp cut 22% of its workforce - roughly 290 people - from its 1,300-employee base on May 22, 2026 1",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-05-26T15:45:00.000+00:00",
+      "event_categories": [
+        "decreases_headcount_by"
+      ]
+    },
+    {
+      "id": "6a1d515af6f7e90014353eca",
+      "url": "https://aiagentstudio.org/blog/clickup-autonomous-ai-agent-weekly-schedule",
+      "domain": "aiagentstudio.org",
+      "title": "ClickUp autonomous AI Agent: the blueprint for automating weekly schedules and employee reports.",
+      "snippet": "AI Agent Studio built an autonomous operational agent integrated directly with ClickUp and Calendly.",
+      "organization_ids": [
+        "69e300475f685d00010beb85",
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-05-16T00:00:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "6a4ef45a3c80ba00103631e8",
+      "url": "https://minorco.com/blog/asana-vs-clickup",
+      "domain": "minorco.com",
+      "title": "Why Asana wins over ClickUp? [VIDEO].",
+      "snippet": "Why Asana wins over ClickUp? [VIDEO].",
+      "organization_ids": [
+        "54a121bb69702d8ed411cb02",
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-03-31T10:26:49.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "69b7e0edab6ce5001d33094e",
+      "url": "https://fleeceai.app/blog/automate-clickup-with-ai-agents-2026",
+      "domain": "fleeceai.app",
+      "title": "Automate ClickUp with AI Agents (2026)",
+      "snippet": "At a Glance: Fleece AI connects to ClickUp via managed OAuth and lets autonomous agents automate task management, cross-tool syncing, and project reporting across 3,000+ apps.",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2026-02-16T00:00:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "694e5907505c420019d95cc0",
+      "url": "https://www.indianweb2.com/2025/12/enterprise-giant-clickup-acquires.html",
+      "domain": "indianweb2.com",
+      "title": "Enterprise Giant ClickUp Acquires Codegen to Automate the Future of Work",
+      "snippet": "* Leadership Change: Codegen's CEO, Jay Hack, will join ClickUp as Head of AI.",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2025-12-26T00:00:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "694c11e8bd2814001520b88c",
+      "url": "https://clickup.com/blog/clickup-codegen-acquisition",
+      "domain": "clickup.com",
+      "title": "ClickUp + Codegen: Putting Software Creation in Every Knowledge Worker's Hands",
+      "snippet": "Today, ClickUp is excited to announce its acquisition of Codegen.Inc.",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2025-12-23T17:13:42.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "6960b09fa3e8ad000d5266d1",
+      "url": "https://finance.yahoo.com/news/clickup-acquires-cursor-competitor-codegen-171100535.html",
+      "domain": "yahoo.com",
+      "title": "ClickUp Acquires Cursor Competitor Codegen to Supercharge AI Super Agents",
+      "snippet": "SAN DIEGO, December 23, 2025-(BUSINESS WIRE)-ClickUp, the platform that converges all software, humans, and agents, today announced the acquisition of Codegen, a leading platform for AI-powered code generation and agentic AI.",
+      "organization_ids": [
+        "628359dab6123a00f5442026",
+        "65564a400f5bc901570f4fc6"
+      ],
+      "published_at": "2025-12-23T17:11:00.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "694c0afef28e050019161480",
+      "url": "https://finance.yahoo.com/news/clickup-acquires-cursor-competitor-codegen-171100535.html",
+      "domain": "yahoo.com",
+      "title": "ClickUp Acquires Cursor Competitor Codegen to Supercharge AI Super Agents",
+      "snippet": "By combining Codegen's agentic technology with ClickUp's unified workspace, we're not just building a smarter coding tool; we're building a Super Agent workforce that scales infinitely across software engineering, product management, sales, enterprise workflows, and beyond.",
+      "organization_ids": [
+        "65564a400f5bc901570f4fc6",
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2025-12-23T17:11:00.000+00:00",
+      "event_categories": [
+        "integrates_with"
+      ]
+    },
+    {
+      "id": "690c4a2ee7cb4f00216c47bf",
+      "url": "https://savemyleads.com/blog/news/clickup-introduced-new-ai-assistants",
+      "domain": "savemyleads.com",
+      "title": "ClickUp Introduced New AI Assistants",
+      "snippet": "ClickUp has launched version 4.0 of its productivity platform.",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2025-11-05T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "690c4a5139eb7b001d9e9efd",
+      "url": "https://savemyleads.com/blog/news/clickup-introduced-new-ai-assistants",
+      "domain": "savemyleads.com",
+      "title": "ClickUp Introduced New AI Assistants",
+      "snippet": "It builds on technology gained from ClickUp's acquisition of Qatalog.",
+      "organization_ids": [
+        "628359dab6123a00f5442026",
+        "68b98f1c914a9a0001acb885"
+      ],
+      "published_at": "2025-11-05T00:00:00.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "6914f53a4ae156001d432449",
+      "url": "https://www.startupecosystem.ca/news/clickups-strategic-ai-advancements-to-challenge-slack-and-notion",
+      "domain": "startupecosystem.ca",
+      "title": "ClickUp's Strategic AI Advancements to Challenge Slack and Notion",
+      "snippet": "ClickUp has unveiled its 4.0 release, introducing new AI assistant features designed to enhance its productivity platform and compete with industry leaders like Slack and Notion.",
+      "organization_ids": [
+        "628359dab6123a00f5442026",
+        "6368c7db60489a000171d7c2"
+      ],
+      "published_at": "2025-11-04T18:17:01.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "690a9fd59ecadd0021ac814b",
+      "url": "https://techcrunch.com/2025/11/04/clickup-adds-new-ai-assistant-to-better-compete-with-slack-and-notion",
+      "domain": "techcrunch.com",
+      "title": "ClickUp adds new AI assistant to better compete with Slack and Notion",
+      "snippet": "ClickUp is launching two types of AI agents with its 4.0 release.",
+      "organization_ids": [
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2025-11-04T14:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "690376dc481e810021f03baf",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/grammarly-rebrands-as-superhuman-after-acquisition-expands-ai-ambitions-10336170",
+      "domain": "indianexpress.com",
+      "title": "Grammarly rebrands as 'Superhuman' after acquisition, expands AI ambitions",
+      "snippet": "With the acquisitions of Coda and Superhuman, Grammarly is positioning itself as a comprehensive AI productivity suite, aiming to compete with platforms like Notion, ClickUp, and Google Workspace, which have all introduced similar AI-driven tools in recent years.",
+      "organization_ids": [
+        "54a11fd869702da4256a0102",
+        "628359dab6123a00f5442026"
+      ],
+      "published_at": "2025-10-30T12:11:37.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    }
+  ]
+}

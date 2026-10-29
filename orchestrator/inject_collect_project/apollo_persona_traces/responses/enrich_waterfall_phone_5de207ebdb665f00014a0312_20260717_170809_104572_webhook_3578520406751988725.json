@@ -1,0 +1,91 @@
+{
+  "request_id": 3578520406751988725,
+  "webhook_status": "success",
+  "request_type": "waterfall",
+  "last_dispatched_at": "2026-07-17T16:08:02Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "target_fields": [
+      "phone_numbers"
+    ],
+    "records_enriched": 0,
+    "email_records_enriched": 0,
+    "mobile_records_enriched": 0,
+    "enrichment_not_found": 1,
+    "email_records_not_found": 0,
+    "mobile_records_not_found": 1,
+    "credits_consumed": 0,
+    "request_id": "3578520406751988725",
+    "request_initiated": "2026-07-17T16:07:58Z",
+    "request_completed": "2026-07-17T16:08:00Z",
+    "people": [
+      {
+        "id": "5de207ebdb665f00014a0312",
+        "waterfall": {
+          "phone_numbers": [
+            {
+              "vendors": [
+                {
+                  "id": "upcell_mobile_finder-1",
+                  "name": "Upcell",
+                  "status": "NOT_FOUND",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "no_vendor_data",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "leadmagic_mobile_finder-1",
+                  "name": "LeadMagic",
+                  "status": "NOT_FOUND",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "no_vendor_data",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "apollo-1",
+                  "name": "Apollo",
+                  "status": "NOT_FOUND",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "no_apollo_data",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            },
+            {
+              "vendors": [
+                {
+                  "id": "findy_mail_phone_finder-1",
+                  "name": "FindyMail",
+                  "status": "NOT_FOUND",
+                  "phone_numbers": [],
+                  "usedForVerification": false,
+                  "statusCode": "no_vendor_data",
+                  "statusMessage": null,
+                  "authMechanism": "native"
+                }
+              ]
+            }
+          ]
+        },
+        "phone_numbers": [],
+        "emails": []
+      }
+    ]
+  }
+}

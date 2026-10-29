@@ -1,0 +1,35 @@
+{
+  "request_id": 8211712663734314975,
+  "webhook_status": "success",
+  "request_type": "phone",
+  "last_dispatched_at": "2026-07-20T23:16:57Z",
+  "failure_reason": null,
+  "webhook_result": {
+    "status": "success",
+    "total_requested_enrichments": 1,
+    "unique_enriched_records": 1,
+    "missing_records": 0,
+    "credits_consumed": 8,
+    "people": [
+      {
+        "id": "54a229d57468693825a78412",
+        "status": "success",
+        "phone_numbers": [
+          {
+            "_id": "6a5eac68c7b6770001bd0173",
+            "confidence_cd": "high",
+            "dnc_other_info": null,
+            "dnc_status_cd": null,
+            "dnc_status_updated_at": null,
+            "raw_number": "+33 6 35 18 73 07",
+            "sanitized_number": "+33635187307",
+            "status_cd": "valid_number",
+            "type_cd": "mobile",
+            "id": "6a5eac68c7b6770001bd0173",
+            "key": "6a5eac68c7b6770001bd0173"
+          }
+        ]
+      }
+    ]
+  }
+}

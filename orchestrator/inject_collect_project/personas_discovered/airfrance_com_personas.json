@@ -1,0 +1,41 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Vinay B N",
+        "clean_name_used": "Vinay B N",
+        "linkedin_url": "https://in.linkedin.com/in/vinay-b-n-49008456",
+        "company": "Airfrance",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Hanan Mohamed",
+        "clean_name_used": "Hanan Mohamed",
+        "linkedin_url": "https://www.linkedin.com/in/hanan-mohamed-3011b01b9",
+        "company": "Airfrance",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Deborah Hoertel Masgrau",
+        "clean_name_used": "Deborah Hoertel Masgrau",
+        "linkedin_url": "https://www.linkedin.com/in/deborah-hoertel-masgrau-7b97a126",
+        "company": "Airfrance",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

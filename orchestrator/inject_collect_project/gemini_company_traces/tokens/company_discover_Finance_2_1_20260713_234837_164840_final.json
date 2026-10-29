@@ -1,0 +1,169 @@
+{
+  "provider": "google_gemini",
+  "models_config": {
+    "pro_models": [
+      "gemini-3-flash-preview",
+      "gemini-2.5-flash",
+      "gemini-2.0-flash",
+      "gemma-4-31b-it",
+      "gemma-4-26b-a4b-it",
+      "gemini-flash-latest"
+    ],
+    "fast_models": [
+      "gemini-3.1-flash-lite-preview",
+      "gemini-2.0-flash-lite",
+      "gemini-2.5-flash-lite",
+      "gemini-flash-lite-latest",
+      "gemini-robotics-er-1.5-preview"
+    ]
+  },
+  "session_consumption": {
+    "api_calls_consumed": 8,
+    "successful_calls": 5,
+    "failed_calls": 3,
+    "prompt_tokens": 20604,
+    "candidates_tokens": 4358,
+    "thoughts_tokens": 7669,
+    "cached_content_tokens": 0,
+    "total_tokens": 32631,
+    "by_model": {
+      "gemini-3.1-flash-lite-preview": {
+        "calls": 2,
+        "total_tokens": 3833,
+        "prompt_tokens": 3698,
+        "candidates_tokens": 135
+      },
+      "gemini-2.5-flash": {
+        "calls": 3,
+        "total_tokens": 28798,
+        "prompt_tokens": 16906,
+        "candidates_tokens": 4223
+      }
+    },
+    "by_operation": {
+      "browser_config": {
+        "calls": 1,
+        "total_tokens": 152,
+        "prompt_tokens": 126,
+        "candidates_tokens": 26
+      },
+      "extract_apollo": {
+        "calls": 2,
+        "total_tokens": 20459,
+        "prompt_tokens": 10538,
+        "candidates_tokens": 4013
+      },
+      "navigation": {
+        "calls": 1,
+        "total_tokens": 3681,
+        "prompt_tokens": 3572,
+        "candidates_tokens": 109
+      },
+      "post_process": {
+        "calls": 1,
+        "total_tokens": 8339,
+        "prompt_tokens": 6368,
+        "candidates_tokens": 210
+      }
+    },
+    "calls_detail": [
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "browser_config",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-13T23:45:43.366825",
+        "prompt_token_count": 126,
+        "candidates_token_count": 26,
+        "total_token_count": 152,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-13T23:46:36.334593"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-13T23:46:58.988791",
+        "prompt_token_count": 4378,
+        "candidates_token_count": 1759,
+        "total_token_count": 8804,
+        "thoughts_token_count": 2667,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3.1-flash-lite-preview",
+        "level": "fast",
+        "operation": "navigation",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-13T23:46:59.871667",
+        "prompt_token_count": 3572,
+        "candidates_token_count": 109,
+        "total_token_count": 3681,
+        "thoughts_token_count": 0,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-13T23:47:08.422051"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "extract_apollo",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-13T23:47:34.609852",
+        "prompt_token_count": 6160,
+        "candidates_token_count": 2254,
+        "total_token_count": 11655,
+        "thoughts_token_count": 3241,
+        "cached_content_token_count": 0
+      },
+      {
+        "model": "gemini-3-flash-preview",
+        "level": "pro",
+        "operation": "post_process",
+        "success": false,
+        "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-07-13T23:48:19.046525"
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "level": "pro",
+        "operation": "post_process",
+        "success": true,
+        "error": null,
+        "timestamp": "2026-07-13T23:48:31.300685",
+        "prompt_token_count": 6368,
+        "candidates_token_count": 210,
+        "total_token_count": 8339,
+        "thoughts_token_count": 1761,
+        "cached_content_token_count": 0
+      }
+    ],
+    "companies_scraped_attempted": 1,
+    "companies_scraped_succeeded": 1,
+    "industries": [
+      "Finance"
+    ],
+    "locations": [
+      "Morocco"
+    ]
+  }
+}

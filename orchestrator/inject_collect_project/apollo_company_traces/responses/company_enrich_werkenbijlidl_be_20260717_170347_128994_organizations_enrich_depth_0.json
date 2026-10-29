@@ -1,0 +1,637 @@
+{
+  "organization": {
+    "id": "54a122f669702d8aa1602e03",
+    "name": "Lidl Belgium & Luxemburg",
+    "website_url": "http://www.werkenbijlidl.be",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/lidl-belgium-luxemburg-gmbh",
+    "twitter_url": null,
+    "facebook_url": "https://facebook.com/lidlluxembourg",
+    "primary_phone": {},
+    "languages": [],
+    "alexa_ranking": null,
+    "phone": null,
+    "linkedin_uid": "1405729",
+    "founded_year": 1995,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69abd2cb624b5400010e8c93/picture",
+    "crunchbase_url": null,
+    "primary_domain": "werkenbijlidl.be",
+    "sic_codes": [
+      "5411"
+    ],
+    "naics_codes": [
+      "445110"
+    ],
+    "industry": "retail",
+    "estimated_num_employees": 11000,
+    "keywords": [
+      "retail & distribution",
+      "seasonal items",
+      "product assortment",
+      "talent acquisition",
+      "supermarkets and other grocery retailers (except convenience retailers)",
+      "employee benefits",
+      "finance",
+      "inventory management",
+      "food retail",
+      "store operations",
+      "product sourcing",
+      "weekly promotions",
+      "no-frills shopping",
+      "consumer goods",
+      "retail technology",
+      "logistics",
+      "customer service",
+      "electronics",
+      "affordable prices",
+      "retail automation",
+      "growth",
+      "retail chain expansion",
+      "household goods",
+      "distribution centers",
+      "non-food retail",
+      "employee training",
+      "retail sustainability",
+      "eu sourcing",
+      "cost efficiency",
+      "fresh produce",
+      "retail",
+      "market expansion",
+      "retail sustainability practices",
+      "retail inventory optimization",
+      "retail logistics",
+      "retail growth",
+      "retail operations",
+      "customer satisfaction",
+      "warehouse",
+      "customer loyalty",
+      "retail strategy",
+      "retail marketing",
+      "employee engagement",
+      "human resources",
+      "warehouse management",
+      "clothing",
+      "retail supply chain",
+      "retail store layout",
+      "grocery",
+      "eu products",
+      "sustainability",
+      "distribution",
+      "b2c",
+      "product range",
+      "hr",
+      "retail chain",
+      "supermarket",
+      "local sourcing",
+      "customer engagement",
+      "marketing",
+      "store management",
+      "retail innovation",
+      "fresh food logistics",
+      "customer base",
+      "supply chain",
+      "logistics network",
+      "inventory control",
+      "value retail",
+      "retail customer experience",
+      "retail employee culture",
+      "lidl",
+      "careers",
+      "job opportunities",
+      "store manager",
+      "assistant store manager",
+      "district manager",
+      "communication",
+      "vacancies",
+      "food distribution",
+      "teamwork",
+      "promotional opportunities",
+      "flexible hours",
+      "job satisfaction",
+      "employee development",
+      "work-life balance",
+      "job training",
+      "competitive salary",
+      "food quality",
+      "retail jobs",
+      "employment opportunities",
+      "local employment",
+      "work culture",
+      "job openings",
+      "employee feedback",
+      "employee recognition",
+      "community engagement",
+      "market analysis",
+      "strategic planning",
+      "business development",
+      "store layout",
+      "grocery supply",
+      "retail management",
+      "product promotion",
+      "consumer products & retail",
+      "transportation & logistics",
+      "financial services",
+      "consumers",
+      "enterprise software",
+      "enterprises",
+      "computer software",
+      "information technology & services",
+      "b2b",
+      "computer hardware",
+      "hardware",
+      "environmental services",
+      "renewables & environment"
+    ],
+    "organization_revenue_printed": "3.7B",
+    "organization_revenue": 3702000000.0,
+    "industries": [
+      "retail",
+      "supermarkets"
+    ],
+    "secondary_industries": [
+      "supermarkets"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567ced173696450cb580000",
+    "industry_tag_hash": {
+      "retail": "5567ced173696450cb580000",
+      "supermarkets": "5567e2a97369642a553d0000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "Guldensporenpark 90 J, Merelbeke, OV 9820, BE",
+    "street_address": "90J Guldensporenpark",
+    "city": "Merelbeke",
+    "state": "Flanders",
+    "postal_code": "9820",
+    "country": "Belgium",
+    "owned_by_organization_id": null,
+    "num_languages": 0,
+    "num_retail_locations": 0,
+    "short_description": "What makes the Lidl DNA? Those are our values of result-oriented, respect, trust, down-to-earth attitude and connectedness. At #teamlidl, we dream big, but always keep both feet on the ground. We treat each other as equals, believe in each other and value everyone's contribution. Together, we make up #TeamLidl. Our diversity is our strength! We know that we can only be successful together.",
+    "suborganizations": [],
+    "num_suborganizations": 0,
+    "annual_revenue_printed": "3.7B",
+    "annual_revenue": 3702000000.0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      "24-7 Media",
+      "AI",
+      "Adjust",
+      "Adyen",
+      "Akamai",
+      "Akamai App & API Protector",
+      "Akamai CDN Solutions",
+      "Akamai Edge DNS",
+      "Akamai Edge DNS",
+      "Akamai Web Application & API Protector",
+      "Amazon AWS",
+      "Amazon S3",
+      "Apple Business Manager",
+      "Apple School Manager",
+      "Apple iOS",
+      "Bootstrap",
+      "C3.js",
+      "CAPTCHA",
+      "Cart Functionality",
+      "Excel4Apps",
+      "Gmail",
+      "Google Analytics Ecommerce Tracking",
+      "Google Font API",
+      "Google Meet",
+      "Google Search Central",
+      "Google Search Console",
+      "Google Sheets",
+      "Google Tag Manager",
+      "Google Workspace",
+      "Google Workspace",
+      "HREF Lang",
+      "HSTS",
+      "HTTP/3",
+      "ICP",
+      "Jabra Headsets And Speakerphones",
+      "Kameleoon",
+      "Leaflet",
+      "LinkedIn Ads",
+      "Linkedin Insight Tag",
+      "Microsoft Excel",
+      "Mobile Friendly",
+      "Multilingual",
+      "Nginx",
+      "Nuxtjs",
+      "OneTrust",
+      "Open Graph",
+      "PWA",
+      "React",
+      "Remote",
+      "SAP SuccessFactors",
+      "SLI Systems",
+      "Salesforce",
+      "Salesforce Community Cloud",
+      "Salesforce Desk",
+      "Salesforce Experience Cloud Suite",
+      "Salesforce Lightning",
+      "Salesforce Lightning Web Components",
+      "Salesforce Live Agent",
+      "Salesforce Platform",
+      "Salesforce Service Cloud",
+      "Salesforce Services",
+      "Salesforce.com Force.com",
+      "Stripe",
+      "Varnish",
+      "Viewport Meta",
+      "Vimeo",
+      "Vite",
+      "Wistia",
+      "Zendesk",
+      "reCAPTCHA"
+    ],
+    "current_technologies": [
+      {
+        "uid": "24-7_media",
+        "name": "24-7 Media",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "ai",
+        "name": "AI",
+        "category": "Other"
+      },
+      {
+        "uid": "adjust",
+        "name": "Adjust",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "adyen",
+        "name": "Adyen",
+        "category": "Payments"
+      },
+      {
+        "uid": "akamai",
+        "name": "Akamai",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "akamai_app_api_protector",
+        "name": "Akamai App & API Protector",
+        "category": "Security"
+      },
+      {
+        "uid": "akamai_cdn_solutions",
+        "name": "Akamai CDN Solutions",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "akamai_edge_dns",
+        "name": "Akamai Edge DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "akamai_edge_dns",
+        "name": "Akamai Edge DNS",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "akamai_web_application_api_protector",
+        "name": "Akamai Web Application & API Protector",
+        "category": "Event Management"
+      },
+      {
+        "uid": "amazon_aws",
+        "name": "Amazon AWS",
+        "category": "Hosting"
+      },
+      {
+        "uid": "amazon_s3",
+        "name": "Amazon S3",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "apple_business_manager",
+        "name": "Apple Business Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apple_school_manager",
+        "name": "Apple School Manager",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "apple_ios",
+        "name": "Apple iOS",
+        "category": "Other"
+      },
+      {
+        "uid": "bootstrap",
+        "name": "Bootstrap",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "c3.js",
+        "name": "C3.js",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "captcha",
+        "name": "CAPTCHA",
+        "category": "Captcha"
+      },
+      {
+        "uid": "cart_functionality",
+        "name": "Cart Functionality",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "excel4apps",
+        "name": "Excel4Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "gmail",
+        "name": "Gmail",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "google_analytics_ecommerce_tracking",
+        "name": "Google Analytics Ecommerce Tracking",
+        "category": "E-commerce Tools"
+      },
+      {
+        "uid": "google_font_api",
+        "name": "Google Font API",
+        "category": "Fonts"
+      },
+      {
+        "uid": "google_meet",
+        "name": "Google Meet",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "google_search_central",
+        "name": "Google Search Central",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_sheets",
+        "name": "Google Sheets",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "google workspace",
+        "name": "Google Workspace",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "href_lang",
+        "name": "HREF Lang",
+        "category": "Other"
+      },
+      {
+        "uid": "hsts",
+        "name": "HSTS",
+        "category": "Security"
+      },
+      {
+        "uid": "http/3",
+        "name": "HTTP/3",
+        "category": "Other"
+      },
+      {
+        "uid": "icp",
+        "name": "ICP",
+        "category": "Other"
+      },
+      {
+        "uid": "jabra_headsets_and_speakerphones",
+        "name": "Jabra Headsets And Speakerphones",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "kameleoon",
+        "name": "Kameleoon",
+        "category": "Personalization"
+      },
+      {
+        "uid": "leaflet",
+        "name": "Leaflet",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "linkedin_ads",
+        "name": "LinkedIn Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "linkedin_insight_tag",
+        "name": "Linkedin Insight Tag",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "multilingual",
+        "name": "Multilingual",
+        "category": "Widgets"
+      },
+      {
+        "uid": "nginx",
+        "name": "Nginx",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "nuxtjs",
+        "name": "Nuxtjs",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "onetrust",
+        "name": "OneTrust",
+        "category": "Widgets"
+      },
+      {
+        "uid": "open_graph",
+        "name": "Open Graph",
+        "category": "Other"
+      },
+      {
+        "uid": "pwa",
+        "name": "PWA",
+        "category": "Other"
+      },
+      {
+        "uid": "react",
+        "name": "React",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "remote",
+        "name": "Remote",
+        "category": "Other"
+      },
+      {
+        "uid": "sap_successfactors",
+        "name": "SAP SuccessFactors",
+        "category": "Human Capital Management"
+      },
+      {
+        "uid": "sli_systems",
+        "name": "SLI Systems",
+        "category": "Search Appliances"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_community_cloud",
+        "name": "Salesforce Community Cloud",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_desk",
+        "name": "Salesforce Desk",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_experience_cloud_suite",
+        "name": "Salesforce Experience Cloud Suite",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_lightning",
+        "name": "Salesforce Lightning",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "salesforce_lightning_web_components",
+        "name": "Salesforce Lightning Web Components",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "salesforce_live_agent",
+        "name": "Salesforce Live Agent",
+        "category": "Chats"
+      },
+      {
+        "uid": "salesforce_platform",
+        "name": "Salesforce Platform",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "salesforce_service_cloud",
+        "name": "Salesforce Service Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "salesforce_services",
+        "name": "Salesforce Services",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforcecom_forcecom",
+        "name": "Salesforce.com Force.com",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "stripe",
+        "name": "Stripe",
+        "category": "Payments"
+      },
+      {
+        "uid": "varnish",
+        "name": "Varnish",
+        "category": "Load Balancers"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "vimeo",
+        "name": "Vimeo",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "vite",
+        "name": "Vite",
+        "category": "Other"
+      },
+      {
+        "uid": "wistia",
+        "name": "Wistia",
+        "category": "Online Video Platforms"
+      },
+      {
+        "uid": "zendesk",
+        "name": "Zendesk",
+        "category": "Support and Feedback"
+      },
+      {
+        "uid": "recaptcha",
+        "name": "reCAPTCHA",
+        "category": "Captcha"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "54aab8d474686923664ec615"
+    ],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "engineering": 11,
+      "marketing": 22,
+      "sales": 136,
+      "operations": 330,
+      "consulting": 77,
+      "accounting": 6,
+      "finance": 62,
+      "media_and_commmunication": 19,
+      "arts_and_design": 6,
+      "legal": 7,
+      "administrative": 26,
+      "human_resources": 59,
+      "support": 11,
+      "product_management": 11,
+      "information_technology": 14,
+      "business_development": 16,
+      "data_science": 2,
+      "education": 0,
+      "entrepreneurship": 0
+    },
+    "organization_headcount_six_month_growth": 0.0,
+    "organization_headcount_twelve_month_growth": 0.0,
+    "organization_headcount_twenty_four_month_growth": 0.25
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "pagination": {
+    "page": 1,
+    "per_page": 20,
+    "total_entries": 494,
+    "total_pages": 25
+  },
+  "news_articles": [
+    {
+      "id": "6a5abad8eae32000201d56a5",
+      "url": "https://www.gate.com/news/detail/gate-openai-pre-ipo-hits-260m-world-cup-market-launches-sofi-partnership-22670135",
+      "domain": "gate.com",
+      "title": "Gate OpenAI Pre-IPO hits $260M, World Cup market launches, SoFi partnership.",
+      "snippet": "Gate US partners with SoFi bank for U.S. Financial operations.",
+      "organization_ids": [
+        "5cb722dbd198800b37f91354",
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-07-17T14:34:01.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a5abad7905cef000c51abec",
+      "url": "https://www.gate.com/news/detail/gate-openai-pre-ipo-hits-260m-world-cup-market-launches-sofi-partnership-22670135",
+      "domain": "gate.com",
+      "title": "Gate OpenAI Pre-IPO hits $260M, World Cup market launches, SoFi partnership.",
+      "snippet": "Gate US partners with SoFi bank for U.S. Financial operations.",
+      "organization_ids": [
+        "5cb722dbd198800b37f91354",
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-07-17T14:34:01.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a5ac1f895bed2000c2aa83d",
+      "url": "https://mpost.io/gate-update-openai-pre-ipos-cross-260m-world-cup-finals-hit-polymarket-and-a-week-of-platform-milestones",
+      "domain": "mpost.io",
+      "title": "Gate update: OpenAI Pre-IPOs cross $260M, World Cup finals hit Polymarket, and A week of platform milestones.",
+      "snippet": "On the infrastructure side, Gate US announced a partnership with SoFi, a nationally chartered bank, to underpin its U.S. financial operations.",
+      "organization_ids": [
+        "5cb722dbd198800b37f91354",
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-07-17T14:30:00.000+00:00",
+      "event_categories": [
+        "partners_with"
+      ]
+    },
+    {
+      "id": "6a51146ce31a730014b6f05c",
+      "url": "https://www.marketbeat.com/instant-alerts/sofi-technologies-nasdaqsofi-trading-up-5-still-a-buy-2026-07-09",
+      "domain": "marketbeat.com",
+      "title": "SoFi Technologies (NASDAQ:SOFI) trading up 5% - still a Buy?",
+      "snippet": "* Positive Sentiment: SoFi launched the SoFi Social 50 Income ETF (SFYI), adding a new monthly income product that combines popular U.S.-listed stocks with an actively managed options strategy.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-07-09T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a452f1d951c4e002015065e",
+      "url": "https://www.marketbeat.com/instant-alerts/sofi-technologies-nasdaqsofi-trading-down-14-whats-next-2026-06-30",
+      "domain": "marketbeat.com",
+      "title": "SoFi Technologies (NASDAQ:SOFI) trading down 1.4% - What's next?",
+      "snippet": "* Positive Sentiment: SoFi launched a new small business lending program, giving the company another growth avenue beyond consumer banking and personal loans.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-06-30T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a452f790a8a360018b8be88",
+      "url": "https://www.marketbeat.com/instant-alerts/sofi-technologies-nasdaqsofi-trading-down-14-whats-next-2026-06-30",
+      "domain": "marketbeat.com",
+      "title": "SoFi Technologies (NASDAQ:SOFI) trading down 1.4% - What's next?",
+      "snippet": "* Neutral Sentiment: Several comparison pieces versus competitors like American Express and Dave are keeping SoFi in the spotlight, but these articles are more about relative positioning than a direct near-term catalyst.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d",
+        "5fca57e8e4ca5900be8a3857"
+      ],
+      "published_at": "2026-06-30T00:00:00.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "6a3b5d3560c96d001c7c1797",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/sofi-ventures-into-ai-investing-with-composer-acquisition",
+      "domain": "pymnts.com",
+      "title": "SoFi ventures into AI investing with Composer acquisition.",
+      "snippet": "SoFi ventures into AI investing with Composer acquisition.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d",
+        "5f281ea9a31cf8014c72eaca"
+      ],
+      "published_at": "2026-06-23T12:31:51.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "6a3b5d3827b0b000202a8671",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/sofi-ventures-into-ai-investing-with-composer-acquisition",
+      "domain": "pymnts.com",
+      "title": "SoFi ventures into AI investing with Composer acquisition.",
+      "snippet": "Digital financial services app SoFi has introduced an AI-powered investing platform.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-06-23T12:31:51.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a514749ebb00d001045c584",
+      "url": "https://www.marketbeat.com/instant-alerts/sofi-technologies-nasdaqsofi-trading-up-11-still-a-buy-2026-06-23",
+      "domain": "marketbeat.com",
+      "title": "SoFi Technologies (NASDAQ:SOFI) trading up 1.1% - still a Buy?",
+      "snippet": "* Positive Sentiment: SoFi unveiled Composer by SoFi, an AI-powered investing platform that lets users build, test, and automate trading strategies using natural language, reinforcing the company's push toward becoming an \"everything app\" for financial services.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-06-23T00:00:00.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a29ca29a7da6a0018d74af6",
+      "url": "https://superpayrewards.com/blog/sofi-bank-s-game-changer-new-charge-card-and-membership-revamp",
+      "domain": "superpayrewards.com",
+      "title": "SoFi Bank's game-changer: new charge card and membership revamp.",
+      "snippet": "In an unexpected shift, SoFi Bank has announced a complete overhaul of its Plus membership, now requiring a $10 monthly fee.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-06-10T13:21:04.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a2994d7ba93530020d1233c",
+      "url": "https://screenfiremedia.com/influencers-are-the-new-financial-advisors",
+      "domain": "screenfiremedia.com",
+      "title": "Influencers are the New financial advisors.",
+      "snippet": "SoFi, a leading digital financial services company, recently hired Vivian Tu to be their first Chief of Financial Empowerment.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-06-10T01:44:55.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6a295cd4e7001c001cb1153b",
+      "url": "https://www.nelprofessional.com/blog/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary",
+      "domain": "nelprofessional.com",
+      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary.",
+      "snippet": "SoFi confirms third-party data breach at Hong Kong subsidiary.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-06-08T00:00:00.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a269b18fc689000188c416a",
+      "url": "https://techgaged.com/ripples-rlusd-scores-major-win-in-mastercard-rollout",
+      "domain": "techgaged.com",
+      "title": "Ripple's RLUSD scores major win in Mastercard rollout.",
+      "snippet": "The move places Ripple's stablecoin alongside major competitors such as USDC, PYUSD, USDG, USDP, and SoFiUSD as Mastercard pushes deeper into blockchain-powered payments.",
+      "organization_ids": [
+        "54a11e4669702d8cccde5f01",
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-06-04T09:32:00.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "6a20bf10c83c900014f0fc89",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/sofi-launches-ai-coach-personalize-financial-planning",
+      "domain": "pymnts.com",
+      "title": "SoFi launches AI Coach to personalize financial planning.",
+      "snippet": "SoFi launches AI Coach to personalize financial planning.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-06-02T16:57:02.000+00:00",
+      "event_categories": [
+        "launches"
+      ]
+    },
+    {
+      "id": "6a20f3f479491e001892c879",
+      "url": "https://www.marketbeat.com/instant-alerts/sofi-technologies-nasdaqsofi-stock-price-down-44-time-to-sell-2026-06-02",
+      "domain": "marketbeat.com",
+      "title": "SoFi Technologies (NASDAQ:SOFI) stock price down 4.4% - time to sell?",
+      "snippet": "* Positive Sentiment: SoFi also named former Visa executive Kathleen Pierce-Gilmore president of technology solutions, a move that may reassure investors about execution and expansion in payments and financial technology.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-06-02T00:00:00.000+00:00",
+      "event_categories": [
+        "hires"
+      ]
+    },
+    {
+      "id": "6a1ea3a24f28ad001cd2e525",
+      "url": "https://www.nothingbutloans.com/lightstream-vs-sofi-vs-lendingclub-which-is-better-for-your-next-high-dollar-project",
+      "domain": "nothingbutloans.com",
+      "title": "LightStream vs SoFi vs LendingClub: which is better for your next high-dollar project?",
+      "snippet": "LightStream vs SoFi vs LendingClub: which is better for your next high-dollar project?",
+      "organization_ids": [
+        "63a1d6a466289200f93eee97",
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-05-29T00:00:00.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    },
+    {
+      "id": "6a15f4b7ad2cd7000c5ade29",
+      "url": "https://coverager.com/sofi-acquires-lending-infrastructure-startup-peach-finance",
+      "domain": "coverager.com",
+      "title": "SoFi acquires lending infrastructure startup Peach Finance.",
+      "snippet": "SoFi acquired Peach Finance, a lending infrastructure startup that provides loan servicing software for lenders.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d",
+        "5d324aa4740e830c1a6bb6d0"
+      ],
+      "published_at": "2026-05-21T10:47:55.000+00:00",
+      "event_categories": [
+        "acquires"
+      ]
+    },
+    {
+      "id": "6a1540ee930731001097f154",
+      "url": "https://stockstotrade.com/news/sofi-technologies-inc-sofi-news-2026_05_19",
+      "domain": "stockstotrade.com",
+      "title": "SOFI stock slumps as legal, analyst pressure mounts.",
+      "snippet": "* Shares slid more than 13% after Q1 2026 results and a Muddy Waters report accusing SoFi Technologies of aggressive or improper financial reporting, triggering a securities fraud probe by Block & Leviton.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-05-19T20:03:50.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a1541040718d5002052c392",
+      "url": "https://stockstotrade.com/news/sofi-technologies-inc-sofi-news-2026_05_19",
+      "domain": "stockstotrade.com",
+      "title": "SOFI stock slumps as legal, analyst pressure mounts.",
+      "snippet": "* Shares slid more than 13% after Q1 2026 results and a Muddy Waters report accusing SoFi Technologies of aggressive or improper financial reporting, triggering a securities fraud probe by Block & Leviton.",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d"
+      ],
+      "published_at": "2026-05-19T20:03:50.000+00:00",
+      "event_categories": [
+        "has_issues_with"
+      ]
+    },
+    {
+      "id": "6a1365116b175b0016e6926f",
+      "url": "https://www.nothingbutloans.com/sofi-review-sofi-vs-lendingclub-vs-prosper-which-is-better-for-your-big-money-moves",
+      "domain": "nothingbutloans.com",
+      "title": "SoFi Review: SoFi vs. LendingClub vs. Prosper: which is better for your big money moves?",
+      "snippet": "SoFi Review: SoFi vs. LendingClub vs. Prosper: which is better for your big money moves?",
+      "organization_ids": [
+        "54a25eaa7468692e7189f71d",
+        "54a19f057468695c820f8702"
+      ],
+      "published_at": "2026-05-18T00:00:00.000+00:00",
+      "event_categories": [
+        "identified_as_competitor_of"
+      ]
+    }
+  ]
+}

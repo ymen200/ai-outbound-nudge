@@ -1,0 +1,143 @@
+{
+  "member_id": "ACoAABMy1S4B1vKsKefyaXo2lBDm2fH0PprmtFw",
+  "status_code": 200,
+  "data": {
+    "object": "LinkedinSearch",
+    "items": [
+      {
+        "type": "POST",
+        "provider": "LINKEDIN",
+        "social_id": "urn:li:ugcPost:7383574834741424129",
+        "share_url": "https://www.linkedin.com/posts/sim%C3%A3o-ambrosio-6baa538b_santander-summitselect-gestaetodesegmentos-activity-7383574835995590657-R9LC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD0L5_ABojwX1DGaB4P6TLLJ7y_trHH9GXc",
+        "date": "8mo",
+        "comment_counter": 3,
+        "impressions_counter": 0,
+        "reaction_counter": 155,
+        "repost_counter": 1,
+        "permissions": {
+          "can_post_comments": true,
+          "can_react": true,
+          "can_share": true
+        },
+        "text": "Na semana passada realizámos o 2.º Summit Select em Torres Vedras, numa reunião que juntou cerca de 600 pessoas — um verdadeiro momento de partilha, reflexão e alinhamento sobre o nosso caminho comum.\n\nFalámos sobre estratégia, execução e impacto, mas acima de tudo sobre como os nossos pilares estratégicos, sempre focados na experiência dos nossos Clientes, se traduzem em ação real no dia a dia.\n\nFoi inspirador ver tanta energia e compromisso em torno dos mesmos objetivos. Porque no fim, estratégia é importante, mas são as pessoas que fazem a diferença.\n\nUm agradecimento muito especial a toda a equipa de Gestão de Segmentos. É reconfortante perceber que o trabalho em equipa que realizamos se pode traduzir em momentos fantásticos como este. Em particular a ti, Inês Oliveira, pela confiança e pelo desafio que me propuseste.\n\nObrigado Joana Silva, Paulo Alves, Teresa Franca, Diana Carrapatoso, Vanda Silva, Álvaro Daniel e Luana Coutinho por terem aceitado sair da zona de conforto e provar que conseguimos superar quaisquer desafios que nos sejam apresentados. \n\nA toda a equipa que tornou possível este evento acontecer Lourenço Vieira da Cruz Anisabel Maia Pires Patrícia Brilhante e Sousa, Suzete Almeida Susana Santos. Agradeço toda a motivação e direção me deram.\n\nPor último, mas não menos importante, uma menção à fantástica equipa comercial do Santander que dia após dia, põe em prática estes princípios que queremos alcançar. Como tive oportunidade de referir, sabemos que podemos contar convosco, saibam também que podem contar connosco a 100%.\n \n#Santander #SummitSelect #GestãoDeSegmentos",
+        "mentions": [
+          {
+            "url": "https://www.linkedin.com/in/ACoAAACqx3EBFMAFxfe8MsYvD3TQEmn9R0pT1Pg",
+            "length": 13,
+            "start": 770
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAA6js40By4r_s5LsNfbQN7MBYqM6cBIkBMs",
+            "length": 11,
+            "start": 844
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAADTjTdQB0GqhiJYaldJ-4giTKXrsWUYG8eY",
+            "length": 11,
+            "start": 857
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAABmO5lcBvNXKGi3DZqPcvt47DqaqJhU1BZw",
+            "length": 23,
+            "start": 1132
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAASN5sBCvW2z9HmZbDfcbr8Rl-mehBSevY",
+            "length": 19,
+            "start": 1156
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAjAwU8BlYLoTmChboAYwGZ-bLuKFCHWC4c",
+            "length": 26,
+            "start": 1176
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAN7eVEB_PAlGOy8W17M83FpsXNNcNCwnRs",
+            "length": 14,
+            "start": 1204
+          },
+          {
+            "url": "https://www.linkedin.com/in/ACoAAAGOYkoB6mPtxMq_tFw4JBg1lfs7gMcoVCs",
+            "length": 13,
+            "start": 1219
+          }
+        ],
+        "attachments": [
+          {
+            "id": "D4D22AQGsrjs-3CdQaw",
+            "sticker": false,
+            "size": {
+              "height": 853,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQGsrjs-3CdQaw/feedshare-shrink_480/B4DZne6LwDGkAY-/0/1760381419803?e=1785369600&v=beta&t=AdDbOpPZEjp8E7kPNLcPLMteut8CcWlVyKe8gejhn54"
+          },
+          {
+            "id": "D4D22AQHjO6AMAJ6plw",
+            "sticker": false,
+            "size": {
+              "height": 853,
+              "width": 480
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQHjO6AMAJ6plw/feedshare-shrink_480/B4DZne6LvZH0AY-/0/1760381419565?e=1785369600&v=beta&t=CrHycgRJgUWcdIvSzcTfpIr700KNFpSW9Y0fYXddEoQ"
+          },
+          {
+            "id": "D4D22AQGfLZBmwPSAfA",
+            "sticker": false,
+            "size": {
+              "height": 533,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQGfLZBmwPSAfA/feedshare-shrink_800/B4DZne6LvyIAAg-/0/1760381419650?e=1785369600&v=beta&t=L8FDGqEgtcb7jrRSiah9SRHIF5CAFxdVsLHvgC__Mms"
+          },
+          {
+            "id": "D4D22AQH58PRs9jzJYA",
+            "sticker": false,
+            "size": {
+              "height": 600,
+              "width": 800
+            },
+            "unavailable": false,
+            "type": "img",
+            "url": "https://media.licdn.com/dms/image/v2/D4D22AQH58PRs9jzJYA/feedshare-shrink_800/B4DZne6LwNHwAk-/0/1760381419758?e=1785369600&v=beta&t=1ZD3t5Ma7na9CHkzl428f0PdBgs3YI3lEGHRCBz8UTM"
+          }
+        ],
+        "author": {
+          "public_identifier": "sim%C3%A3o-ambrosio-6baa538b",
+          "id": "ACoAABMy1S4B1vKsKefyaXo2lBDm2fH0PprmtFw",
+          "name": "Simão Ambrosio",
+          "is_company": false,
+          "headline": "Business Development Manager at Santander Portugal",
+          "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4D03AQEukPWYIYzrKA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1666649303742?e=1785369600&v=beta&t=Ce-JQa6VtV-nwF8ixhgPfyNRPOomKtNMxUMT2EIi_lk"
+        },
+        "id": "7383574835995590657",
+        "is_repost": false,
+        "parsed_datetime": "2025-10-13T18:50:21.088Z"
+      }
+    ],
+    "config": {
+      "params": {
+        "api": "classic",
+        "category": "posts",
+        "posted_by": {
+          "member": [
+            "ACoAABMy1S4B1vKsKefyaXo2lBDm2fH0PprmtFw"
+          ]
+        },
+        "sort_by": "date"
+      }
+    },
+    "paging": {
+      "start": 0,
+      "page_count": 1,
+      "total_count": 1
+    },
+    "cursor": null
+  }
+}

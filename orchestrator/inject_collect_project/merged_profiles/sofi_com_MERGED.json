@@ -1,0 +1,1602 @@
+{
+    "alexa_ranking": 5679,
+    "annual_revenue": 4769597000.0,
+    "apollo_id": "54a25eaa7468692e7189f71d",
+    "city": "San Francisco",
+    "country": "United States",
+    "departments": {
+        "engineering": 1129,
+        "finance": 297,
+        "product_management": 79,
+        "operations": 335,
+        "human_resources": 122,
+        "media_and_commmunication": 49,
+        "marketing": 197,
+        "accounting": 74,
+        "information_technology": 73,
+        "arts_and_design": 125,
+        "sales": 29,
+        "data_science": 185,
+        "legal": 61,
+        "business_development": 138,
+        "support": 83,
+        "consulting": 37,
+        "education": 5,
+        "entrepreneurship": 5,
+        "administrative": 5
+    },
+    "domain": "sofi.com",
+    "estimated_num_employees": 5000,
+    "facebook_url": "https://facebook.com/SoFi",
+    "founded_year": 2011,
+    "funding_events": [],
+    "industry": "financial services",
+    "keywords": [
+        "refinancing student loans",
+        "student loan consolidation",
+        "mortgages",
+        "mortgage refinancing",
+        "personal loans",
+        "mba loans",
+        "wealth management",
+        "life insurance",
+        "career strategy",
+        "personal finance",
+        "financial services",
+        "social commerce",
+        "communities",
+        "consumer lending",
+        "social media",
+        "e-commerce",
+        "finance",
+        "consumer internet",
+        "internet",
+        "information technology",
+        "finance: consumer services",
+        "b2c",
+        "financial infrastructure",
+        "lending",
+        "online banking",
+        "financial ecosystem",
+        "financial technology innovation",
+        "services",
+        "technology platform",
+        "fintech and banking integration",
+        "digital financial growth",
+        "digital financial ecosystem",
+        "bank charter",
+        "personal finance tools",
+        "community-oriented finance",
+        "investment platform",
+        "consumer finance",
+        "lending and investing platform",
+        "student loan refinancing",
+        "financial services platform",
+        "fintech acquisition galileo",
+        "digital financial independence",
+        "financial community",
+        "investing tools",
+        "financial technology platform support",
+        "online banking infrastructure",
+        "community network",
+        "d2c",
+        "community finance platform",
+        "fintech infrastructure support",
+        "digital financial services",
+        "financial products",
+        "fintech",
+        "insurance",
+        "financial platform",
+        "fintech banking solutions",
+        "banking and financial services",
+        "fdic deposits",
+        "digital platform",
+        "digital banking services",
+        "community finance",
+        "full-service digital bank",
+        "fintech infrastructure provider",
+        "fintech platform",
+        "digital banking for young professionals",
+        "investing platform",
+        "automated investing",
+        "payment processing technology",
+        "regulatory banking services",
+        "investments",
+        "banking technology",
+        "fintech acquisition",
+        "payment processing",
+        "fintech innovation hub",
+        "bank infrastructure",
+        "digital financial platform",
+        "fintech growth",
+        "commercial banking",
+        "fintech innovation",
+        "fdic-insured deposits",
+        "financial technology",
+        "nasdaq",
+        "financial data analytics",
+        "digital banking",
+        "community-driven financial services",
+        "online financial services",
+        "payment solutions",
+        "lending platform",
+        "consumer banking",
+        "community-driven finance",
+        "fintech infrastructure",
+        "financial technology ecosystem",
+        "regulatory banking",
+        "automated financial tools",
+        "community-based lending",
+        "financial independence",
+        "lifestyle benefits",
+        "finance and insurance",
+        "cryptocurrency investing",
+        "customer service",
+        "regulatory bank",
+        "bank charter fintech",
+        "digital banking and investing",
+        "investing",
+        "financial community network",
+        "cryptocurrency trading",
+        "cryptocurrency",
+        "banking",
+        "mobile app",
+        "financial planning",
+        "software and technology",
+        "fintech for millennials",
+        "banking infrastructure",
+        "banking services",
+        "payments",
+        "digital banking for students and young adults",
+        "loans",
+        "peer-to-peer lending",
+        "online financial management",
+        "digital finance",
+        "mobile banking",
+        "b2b",
+        "investment management",
+        "consumers",
+        "information technology & services",
+        "finance technology",
+        "San Francisco"
+    ],
+    "latest_funding_stage": null,
+    "linkedin_url": "http://www.linkedin.com/company/sofi",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a3dfaf0b89ef00014f29aa/picture",
+    "name": "SoFi (Social Finance, Inc.)",
+    "num_suborganizations": 10,
+    "phone": "+1 855-456-7634",
+    "postal_code": "94105",
+    "raw_address": "234 1st St, San Francisco, United States",
+    "seo_description": null,
+    "short_description": "SoFi Technologies, Inc. is a financial technology company and online bank based in San Francisco, California. Founded in 2011, SoFi started by providing student loan refinancing for Stanford graduates and has since grown to become the largest U.S.-based online lender, serving nearly 15 million customers. The company operates as a member-centric, digital-first provider, combining a nationally chartered bank with proprietary technology to create a comprehensive financial services ecosystem.\n\nSoFi offers a wide range of financial products across several categories, including lending, banking, investing, insurance, and technology infrastructure. Its services include student and personal loans, mortgages, checking and savings accounts, investment options, and various insurance products. SoFi also provides technology solutions to other financial institutions through its Galileo and Technisys platforms. The company focuses on serving high-earning individuals and professionals, operating exclusively through its mobile app and website without physical branches.",
+    "state": "California",
+    "street_address": "234 1st St",
+    "suborganizations": [
+        {
+            "id": "54a134fc69702d407f636600",
+            "name": "PrimaryBid",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "54a11f9d69702d9a8b71fe01",
+            "name": "8 Securities (acquired by SoFi)",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "54a134c869702d352fa38000",
+            "name": "Wyndham Capital Mortgage",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "674818248291510001067163",
+            "name": "Technisys Engg Private Limited",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "54a1211369702d86b6d46c02",
+            "name": "Galileo Financial Technologies",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5567e0a67369641d11340200",
+            "name": "Technisys",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5f3e306c3465200001615e38",
+            "name": "Galileo Financial Technologies - Latin America",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "55f18fcff3e5bb4a52002808",
+            "name": "Zenbanx",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5f498ef954288f0001b80265",
+            "name": "Golden Pacific Bank",
+            "domain": "Non renseigné"
+        },
+        {
+            "id": "5d324aa4740e830c1a6bb6d0",
+            "name": "Peach",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "net",
+            "name": ".NET",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "a_small_orange",
+            "name": "A Small Orange",
+            "category": "Hosting"
+        },
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "amd_xilinx",
+            "name": "AMD Xilinx",
+            "category": "Other"
+        },
+        {
+            "uid": "amp",
+            "name": "AMP",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "angel_lms",
+            "name": "ANGEL LMS",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "aws_analytics",
+            "name": "AWS Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "aws_bedrock",
+            "name": "AWS Bedrock",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_cloudformation",
+            "name": "AWS CloudFormation",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_sdk_for_javascript",
+            "name": "AWS SDK for JavaScript",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "aws_secrets_manager",
+            "name": "AWS Secrets Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "aws_trusted_advisor",
+            "name": "AWS Trusted Advisor",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "acronis_cyber_backup",
+            "name": "Acronis Cyber Backup",
+            "category": "Security"
+        },
+        {
+            "uid": "act",
+            "name": "Act!",
+            "category": "Other"
+        },
+        {
+            "uid": "ad_dynamo",
+            "name": "Ad Dynamo",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "adobe",
+            "name": "Adobe",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "adobe_after_effects",
+            "name": "Adobe After Effects",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "adobe_creative_suite",
+            "name": "Adobe Creative Suite",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "agilent_technologies",
+            "name": "Agilent Technologies",
+            "category": "Other"
+        },
+        {
+            "uid": "airflow",
+            "name": "Airflow",
+            "category": "Other"
+        },
+        {
+            "uid": "airtable",
+            "name": "Airtable",
+            "category": "Other"
+        },
+        {
+            "uid": "alibaba_cloud",
+            "name": "Alibaba Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "alteryx",
+            "name": "Alteryx",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "amazon_api_gateway",
+            "name": "Amazon API Gateway",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_dynamodb",
+            "name": "Amazon DynamoDB",
+            "category": "Database"
+        },
+        {
+            "uid": "amazon_eks_anywhere",
+            "name": "Amazon EKS Anywhere",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_kinesis",
+            "name": "Amazon Kinesis",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "amazon_linux_2",
+            "name": "Amazon Linux 2",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_managed_streaming_for_apache_kafka_amazon_msk",
+            "name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_ses",
+            "name": "Amazon SES",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "amazon_sagemaker",
+            "name": "Amazon SageMaker",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_simple_email_service_amazon_ses",
+            "name": "Amazon Simple Email Service (Amazon SES)",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "anchor",
+            "name": "Anchor",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "android",
+            "name": "Android",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "ansible",
+            "name": "Ansible",
+            "category": "Other"
+        },
+        {
+            "uid": "anthropic_claude",
+            "name": "Anthropic Claude",
+            "category": "Other"
+        },
+        {
+            "uid": "apache_druid",
+            "name": "Apache Druid",
+            "category": "Database"
+        },
+        {
+            "uid": "apache_hadoop_hdfs",
+            "name": "Apache Hadoop HDFS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apache_kafka",
+            "name": "Apache Kafka",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "apache_pig",
+            "name": "Apache Pig",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "apache_spark",
+            "name": "Apache Spark",
+            "category": "Database"
+        },
+        {
+            "uid": "apple_business_manager",
+            "name": "Apple Business Manager",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "apple_school_manager",
+            "name": "Apple School Manager",
+            "category": "Education Management Software"
+        },
+        {
+            "uid": "argocd",
+            "name": "Argocd",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "argon_cicd_security",
+            "name": "Argon CI/CD Security",
+            "category": "Security"
+        },
+        {
+            "uid": "atlassian",
+            "name": "Atlassian",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "atlassian_cloud",
+            "name": "Atlassian Cloud",
+            "category": "CMS"
+        },
+        {
+            "uid": "audioeye",
+            "name": "AudioEye",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "aurora",
+            "name": "Aurora",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "autodesk_3ds_max",
+            "name": "Autodesk 3ds Max",
+            "category": "Other"
+        },
+        {
+            "uid": "axis",
+            "name": "Axis",
+            "category": "Property Management Software"
+        },
+        {
+            "uid": "axis_communications",
+            "name": "Axis Communications",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_blockchain_service",
+            "name": "Azure Blockchain Service",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "azure_playfab",
+            "name": "Azure PlayFab",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "bert",
+            "name": "BERT",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "backblaze_computer_backup",
+            "name": "Backblaze Computer Backup",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "barracuda_email_security_service",
+            "name": "Barracuda Email Security Service",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "bash",
+            "name": "Bash",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "batch",
+            "name": "Batch",
+            "category": "Other"
+        },
+        {
+            "uid": "braze",
+            "name": "Braze",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "brocade_sannav_management",
+            "name": "Brocade SANnav Management",
+            "category": "ERP"
+        },
+        {
+            "uid": "c#",
+            "name": "C#",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "costar",
+            "name": "COSTAR",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "css",
+            "name": "CSS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "callminer_eureka",
+            "name": "CallMiner Eureka",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "camunda",
+            "name": "Camunda",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "chatgpt",
+            "name": "ChatGPT",
+            "category": "Chats"
+        },
+        {
+            "uid": "chrome",
+            "name": "Chrome",
+            "category": "Other"
+        },
+        {
+            "uid": "chronicle",
+            "name": "Chronicle",
+            "category": "Other"
+        },
+        {
+            "uid": "cinema_4d",
+            "name": "Cinema 4D",
+            "category": "Web Presentation Tools"
+        },
+        {
+            "uid": "cloudflare",
+            "name": "CloudFlare",
+            "category": "Web Accelerators"
+        },
+        {
+            "uid": "cloudflare_cdn",
+            "name": "CloudFlare CDN",
+            "category": "Content Delivery Networks"
+        },
+        {
+            "uid": "cloudpay",
+            "name": "CloudPay",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "cloudflare_dns",
+            "name": "Cloudflare DNS",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "contently",
+            "name": "Contently",
+            "category": "Publisher Advertising Tools"
+        },
+        {
+            "uid": "cursor",
+            "name": "Cursor",
+            "category": "Other"
+        },
+        {
+            "uid": "data analytics",
+            "name": "Data Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "databricks",
+            "name": "Databricks",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "datadog",
+            "name": "Datadog",
+            "category": "Web Performance Monitoring"
+        },
+        {
+            "uid": "digital_fulcrum_ghostwriter",
+            "name": "Digital Fulcrum GhostWriter",
+            "category": "Web Accelerators"
+        },
+        {
+            "uid": "docker",
+            "name": "Docker",
+            "category": "Other"
+        },
+        {
+            "uid": "ecs",
+            "name": "ECS",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "elixir",
+            "name": "Elixir",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "encompass",
+            "name": "Encompass",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "envoy",
+            "name": "Envoy",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "equifax_prequalification_of_one",
+            "name": "Equifax Prequalification of One",
+            "category": "Financial Software"
+        },
+        {
+            "uid": "excel4apps",
+            "name": "Excel4Apps",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "experian",
+            "name": "Experian",
+            "category": "Other"
+        },
+        {
+            "uid": "fico_blaze_advisor",
+            "name": "FICO Blaze Advisor",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "facebook",
+            "name": "Facebook",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "facebook_pixel",
+            "name": "Facebook Pixel",
+            "category": "ERP"
+        },
+        {
+            "uid": "figma",
+            "name": "Figma",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "fing",
+            "name": "Fing",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "fireblocks",
+            "name": "Fireblocks",
+            "category": "Security"
+        },
+        {
+            "uid": "fliphtml5",
+            "name": "FlipHTML5",
+            "category": "Content Management Platform"
+        },
+        {
+            "uid": "flow",
+            "name": "Flow",
+            "category": "Other"
+        },
+        {
+            "uid": "flutter",
+            "name": "Flutter",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "fusion_erp_analytics",
+            "name": "Fusion ERP Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "gemini",
+            "name": "Gemini",
+            "category": "Other"
+        },
+        {
+            "uid": "genetec_security_center",
+            "name": "Genetec Security Center",
+            "category": "Security"
+        },
+        {
+            "uid": "git",
+            "name": "Git",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "github",
+            "name": "GitHub",
+            "category": "Hosting"
+        },
+        {
+            "uid": "github_actions",
+            "name": "GitHub Actions",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "gitlab",
+            "name": "GitLab",
+            "category": "CMS"
+        },
+        {
+            "uid": "gitlab_ci/cd",
+            "name": "GitLab CI/CD",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "glide",
+            "name": "Glide",
+            "category": "Other"
+        },
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "google",
+            "name": "Google",
+            "category": "Other"
+        },
+        {
+            "uid": "google_adsense",
+            "name": "Google AdSense",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_ads_conversion",
+            "name": "Google Ads Conversion",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_analytics",
+            "name": "Google Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_calendar",
+            "name": "Google Calendar",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "google_cloud",
+            "name": "Google Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_docs",
+            "name": "Google Docs",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "google_groups",
+            "name": "Google Groups",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "google_search_central",
+            "name": "Google Search Central",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_search_console",
+            "name": "Google Search Console",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "google_sheets",
+            "name": "Google Sheets",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "google_vault",
+            "name": "Google Vault",
+            "category": "ERP"
+        },
+        {
+            "uid": "google workspace",
+            "name": "Google Workspace",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "graphql",
+            "name": "GraphQL",
+            "category": "Database"
+        },
+        {
+            "uid": "greenhouse",
+            "name": "Greenhouse",
+            "category": "Other"
+        },
+        {
+            "uid": "gremlin",
+            "name": "Gremlin",
+            "category": "Other"
+        },
+        {
+            "uid": "hive",
+            "name": "Hive",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "ibm_cognos_analytics",
+            "name": "IBM Cognos Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "ibm_ilog_cplex_optimization_studio",
+            "name": "IBM ILOG CPLEX Optimization Studio",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "ibm_planning_analytics",
+            "name": "IBM Planning Analytics",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "ibm_resilient",
+            "name": "IBM Resilient",
+            "category": "Event Management"
+        },
+        {
+            "uid": "ice",
+            "name": "ICE",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "idc",
+            "name": "IDC",
+            "category": "Other"
+        },
+        {
+            "uid": "iso",
+            "name": "ISO+™",
+            "category": "Other"
+        },
+        {
+            "uid": "instagram",
+            "name": "Instagram",
+            "category": "Social Sharing"
+        },
+        {
+            "uid": "intel",
+            "name": "Intel Cloud Services",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "ironclad",
+            "name": "Ironclad",
+            "category": "Case Management"
+        },
+        {
+            "uid": "istio",
+            "name": "Istio",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "junit",
+            "name": "JUnit",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "jwt",
+            "name": "JWT",
+            "category": "Security"
+        },
+        {
+            "uid": "java",
+            "name": "Java",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "javascript",
+            "name": "Javascript",
+            "category": "Other"
+        },
+        {
+            "uid": "jest",
+            "name": "Jest",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "jira",
+            "name": "Jira",
+            "category": "CMS"
+        },
+        {
+            "uid": "kiosked",
+            "name": "Kiosked",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "kona_web_application_firewall",
+            "name": "Kona Web Application Firewall",
+            "category": "Event Management"
+        },
+        {
+            "uid": "kotlin",
+            "name": "Kotlin",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "kubernetes",
+            "name": "Kubernetes",
+            "category": "Other"
+        },
+        {
+            "uid": "lambda_cloud",
+            "name": "Lambda Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "langgraph",
+            "name": "LangGraph",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "leaflink",
+            "name": "LeafLink",
+            "category": "E-commerce Platforms"
+        },
+        {
+            "uid": "lenel",
+            "name": "Lenel",
+            "category": "Event Management"
+        },
+        {
+            "uid": "lexisnexis",
+            "name": "LexisNexis",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "linkedin_ads",
+            "name": "LinkedIn Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "mitre_attck",
+            "name": "MITRE ATT&CK",
+            "category": "Event Management"
+        },
+        {
+            "uid": "macstadium",
+            "name": "MacStadium",
+            "category": "Hosting"
+        },
+        {
+            "uid": "mailgun",
+            "name": "Mailgun",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "make.com",
+            "name": "Make",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "mapmarker",
+            "name": "MapMarker",
+            "category": "ERP"
+        },
+        {
+            "uid": "micro",
+            "name": "Micro",
+            "category": "Other"
+        },
+        {
+            "uid": "micro_focus_universal_cmdb",
+            "name": "Micro Focus Universal CMDB",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "microsoft_365",
+            "name": "Microsoft 365",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_365_apps_services",
+            "name": "Microsoft 365 Apps & Services",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_advertising",
+            "name": "Microsoft Advertising",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "microsoft_azure",
+            "name": "Microsoft Azure",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "microsoft_azure_monitor",
+            "name": "Microsoft Azure Monitor",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "microsoft_email_providers",
+            "name": "Microsoft Email Providers",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_excel",
+            "name": "Microsoft Excel",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "microsoft_exchange",
+            "name": "Microsoft Exchange",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_exchange_online",
+            "name": "Microsoft Exchange Online",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "microsoft_office",
+            "name": "Microsoft Office",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_operator_connect",
+            "name": "Microsoft Operator Connect",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "microsoft_powershell",
+            "name": "Microsoft PowerShell",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "mode",
+            "name": "Mode",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "mongodb",
+            "name": "MongoDB",
+            "category": "Database"
+        },
+        {
+            "uid": "moveworks",
+            "name": "Moveworks",
+            "category": "Support and Feedback"
+        },
+        {
+            "uid": "mysql",
+            "name": "MySQL",
+            "category": "Database"
+        },
+        {
+            "uid": "nec",
+            "name": "NEC",
+            "category": "Other"
+        },
+        {
+            "uid": "nlp",
+            "name": "NLP",
+            "category": "Other"
+        },
+        {
+            "uid": "ning",
+            "name": "Ning",
+            "category": "CMS"
+        },
+        {
+            "uid": "nintex",
+            "name": "Nintex",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "nintex_process_manager_formerly_promapp",
+            "name": "Nintex Process Manager (formerly Promapp)",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "node.js",
+            "name": "Node.js",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "okta",
+            "name": "Okta",
+            "category": "Security"
+        },
+        {
+            "uid": "olo",
+            "name": "Olo",
+            "category": "Food Ordering Services"
+        },
+        {
+            "uid": "ometrics",
+            "name": "Ometrics",
+            "category": "Chats"
+        },
+        {
+            "uid": "onit",
+            "name": "Onit",
+            "category": "Case Management"
+        },
+        {
+            "uid": "openid",
+            "name": "OpenID",
+            "category": "Other"
+        },
+        {
+            "uid": "opentelemetry",
+            "name": "OpenTelemetry",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "optimal_blue",
+            "name": "Optimal Blue",
+            "category": "Other"
+        },
+        {
+            "uid": "oracle_analytics_cloud",
+            "name": "Oracle Analytics Cloud",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "oracle_grc",
+            "name": "Oracle GRC",
+            "category": "ERP"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "pcf_international",
+            "name": "PCF International",
+            "category": "Other"
+        },
+        {
+            "uid": "pros",
+            "name": "PROS",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "pega_crm_suite",
+            "name": "Pega CRM Suite",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "peoplesoft_absence_management",
+            "name": "PeopleSoft Absence Management",
+            "category": "HR Solutions"
+        },
+        {
+            "uid": "pipedrive",
+            "name": "Pipedrive",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "postgresql",
+            "name": "PostgreSQL",
+            "category": "Database"
+        },
+        {
+            "uid": "postman",
+            "name": "Postman",
+            "category": "Other"
+        },
+        {
+            "uid": "power_bi_documenter",
+            "name": "Power BI Documenter",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "proofpoint",
+            "name": "Proofpoint",
+            "category": "Security"
+        },
+        {
+            "uid": "pyspark",
+            "name": "PySpark",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "pytorch",
+            "name": "PyTorch",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "rest",
+            "name": "REST",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "rapid7_insightvm",
+            "name": "Rapid7 InsightVM",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "react",
+            "name": "React",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "red_hat_jboss_enterprise_soa_platform",
+            "name": "Red Hat JBoss Enterprise SOA Platform",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "reddit_for_business",
+            "name": "Reddit for business",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "redshift",
+            "name": "Redshift",
+            "category": "Database"
+        },
+        {
+            "uid": "remedy_single_sign_on",
+            "name": "Remedy Single Sign On",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "replit",
+            "name": "Repl.it",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "resi",
+            "name": "Resi",
+            "category": "Other"
+        },
+        {
+            "uid": "roller",
+            "name": "Roller",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "sam",
+            "name": "SAM",
+            "category": "Other"
+        },
+        {
+            "uid": "sap",
+            "name": "SAP",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "sap_data_quality_management_microservices_for_location_data",
+            "name": "SAP Data Quality Management, microservices for location data",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "salesforce",
+            "name": "Salesforce",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "salesforce_marketing_cloud_account_engagement",
+            "name": "Salesforce Marketing Cloud Account Engagement",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "security",
+            "name": "Security",
+            "category": "Security"
+        },
+        {
+            "uid": "sentinel",
+            "name": "Sentinel",
+            "category": "Security"
+        },
+        {
+            "uid": "service_now",
+            "name": "ServiceNow",
+            "category": "Case Management"
+        },
+        {
+            "uid": "servicenow_flow_designer",
+            "name": "ServiceNow Flow Designer",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "servicenow_it_service_management_itsm",
+            "name": "ServiceNow IT Service Management (ITSM)",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "servicenow_integration_hub",
+            "name": "ServiceNow Integration Hub",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "siemens_simatic_s7",
+            "name": "Siemens SIMATIC S7",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "sigma",
+            "name": "Sigma",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "signal",
+            "name": "Signal",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "snap",
+            "name": "Snap",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "snow",
+            "name": "Snow",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "snowflake",
+            "name": "Snowflake",
+            "category": "Data Management Platform"
+        },
+        {
+            "uid": "specific_media",
+            "name": "Specific Media",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "splunk",
+            "name": "Splunk",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "spring",
+            "name": "Spring",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "spring_boot",
+            "name": "Spring Boot",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "streamlit",
+            "name": "Streamlit",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "tune",
+            "name": "TUNE",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "tableau",
+            "name": "Tableau",
+            "category": "Widgets"
+        },
+        {
+            "uid": "telepacific",
+            "name": "Telepacific",
+            "category": "Hosting"
+        },
+        {
+            "uid": "temporal_cloud",
+            "name": "Temporal Cloud",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "terraform",
+            "name": "Terraform",
+            "category": "Deployment Tools"
+        },
+        {
+            "uid": "tiktok",
+            "name": "TikTok",
+            "category": "Other"
+        },
+        {
+            "uid": "tor",
+            "name": "Tor",
+            "category": "Security"
+        },
+        {
+            "uid": "trend_micro_smart_protection",
+            "name": "Trend Micro Smart Protection",
+            "category": "Security"
+        },
+        {
+            "uid": "typescript",
+            "name": "TypeScript",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "venminder",
+            "name": "Venminder",
+            "category": "Other"
+        },
+        {
+            "uid": "visa",
+            "name": "Visa",
+            "category": "Payments"
+        },
+        {
+            "uid": "visio",
+            "name": "Visio",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "weibo",
+            "name": "Weibo",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "wireshark",
+            "name": "Wireshark",
+            "category": "Security"
+        },
+        {
+            "uid": "wordpress",
+            "name": "Wordpress",
+            "category": "CMS"
+        },
+        {
+            "uid": "workato",
+            "name": "Workato",
+            "category": "Robotic Process Automation"
+        },
+        {
+            "uid": "workday",
+            "name": "Workday",
+            "category": "CMS"
+        },
+        {
+            "uid": "workday_payroll",
+            "name": "Workday Payroll",
+            "category": "HR Solutions"
+        },
+        {
+            "uid": "workday_prism_analytics",
+            "name": "Workday Prism Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "workday_time_tracking",
+            "name": "Workday Time Tracking",
+            "category": "HR Solutions"
+        },
+        {
+            "uid": "x_twitter",
+            "name": "X (Twitter)",
+            "category": "Social Media Marketing"
+        },
+        {
+            "uid": "youtube",
+            "name": "YouTube",
+            "category": "Online Video Platforms"
+        },
+        {
+            "uid": "zapier",
+            "name": "Zapier",
+            "category": "Widgets"
+        },
+        {
+            "uid": "zendesk",
+            "name": "Zendesk",
+            "category": "Support and Feedback"
+        },
+        {
+            "uid": "zendesk_support_suite",
+            "name": "Zendesk Support Suite",
+            "category": "Support and Feedback"
+        },
+        {
+            "uid": "zendesk_for_service",
+            "name": "Zendesk for Service",
+            "category": "Customer Relationship Management"
+        },
+        {
+            "uid": "zoomdata",
+            "name": "Zoomdata",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "dbt",
+            "name": "dbt",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "ecentral",
+            "name": "eCentral",
+            "category": "Appointment Scheduling"
+        },
+        {
+            "uid": "exacqvision",
+            "name": "exacqVision",
+            "category": "Security"
+        },
+        {
+            "uid": "go",
+            "name": "go+",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "scikitlearn",
+            "name": "scikit-learn",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "cloudflare_bot_management",
+            "name": "Cloudflare Bot Management",
+            "category": "Security"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/SoFi",
+    "website_url": "http://www.sofi.com",
+    "is_subsidiary": true,
+    "parent_company": "SoFi Technologies, Inc.",
+    "competitors": [
+        "Chime",
+        "Robinhood",
+        "Ally Financial",
+        "LendingClub",
+        "Betterment"
+    ],
+    "data_quality_score": 0.88
+}

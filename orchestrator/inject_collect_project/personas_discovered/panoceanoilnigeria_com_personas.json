@@ -1,0 +1,15 @@
+[
+    {
+        "message": "You dont have enough credits",
+        "status": 400,
+        "raw_name_from_google": "Bolaji Babatunde MSc, COREN, NSE",
+        "clean_name_used": "Bolaji Babatunde MSc",
+        "linkedin_url": "https://ng.linkedin.com/in/bolaji-babatunde",
+        "company": "Panoceanoilnigeria",
+        "email": "Non trouvé",
+        "mail_pro": false,
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    }
+]

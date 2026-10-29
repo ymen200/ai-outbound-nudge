@@ -1,0 +1,51 @@
+{
+  "total_entries": 78,
+  "people": [
+    {
+      "id": "689d6065e58f500001474360",
+      "first_name": "Fei",
+      "last_name_obfuscated": "Xu",
+      "title": "Business Development",
+      "last_refreshed_at": "2026-06-10T07:23:39.000+00:00",
+      "has_email": false,
+      "has_city": false,
+      "has_state": false,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Bosch China",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    },
+    {
+      "id": "5d5c9d9680f93e9110ca8f2a",
+      "first_name": "Peng",
+      "last_name_obfuscated": "Liu",
+      "title": "Business Development Manager",
+      "last_refreshed_at": "2026-03-07T04:41:24.000+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Maybe: please request direct dial via people/bulk_match",
+      "organization": {
+        "name": "Bosch China",
+        "has_industry": true,
+        "has_phone": true,
+        "has_city": true,
+        "has_state": true,
+        "has_country": true,
+        "has_zip_code": false,
+        "has_revenue": true,
+        "has_employee_count": true
+      }
+    }
+  ]
+}

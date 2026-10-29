@@ -1,0 +1,974 @@
+{
+  "organization": {
+    "id": "61b9c0131df45a00f687801a",
+    "name": "Delhaize Belgium",
+    "website_url": "http://www.delhaize.be",
+    "angellist_url": null,
+    "linkedin_url": "http://www.linkedin.com/company/delhaize-belgium",
+    "twitter_url": null,
+    "facebook_url": "https://facebook.com/Delhaize",
+    "primary_phone": {
+      "number": "+32 2 412 75 82",
+      "source": "Owler",
+      "sanitized_number": "+3224127582"
+    },
+    "languages": [],
+    "alexa_ranking": 53954,
+    "phone": "+32 2 412 75 82",
+    "linkedin_uid": "3580412",
+    "founded_year": 1867,
+    "publicly_traded_symbol": null,
+    "publicly_traded_exchange": null,
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b38e89cb02f20001ca12d4/picture",
+    "crunchbase_url": null,
+    "primary_domain": "delhaize.be",
+    "sic_codes": [
+      "5411"
+    ],
+    "naics_codes": [
+      "445110"
+    ],
+    "sanitized_phone": "+3224127582",
+    "industry": "retail",
+    "estimated_num_employees": 32000,
+    "keywords": [
+      "retail & food distribution",
+      "retail",
+      "healthy food",
+      "food distribution",
+      "sustainability",
+      "community engagement",
+      "self-service supermarket",
+      "food products",
+      "fresh food",
+      "cold storage",
+      "delhaize",
+      "energy efficiency",
+      "digital shopping",
+      "in-store butchering",
+      "bakery products",
+      "product range",
+      "grocery",
+      "private label",
+      "loyalty program",
+      "sustainable practices",
+      "distribution",
+      "food safety",
+      "supermarkets and other grocery retailers (except convenience retailers)",
+      "market expansion",
+      "customer experience",
+      "private label brands",
+      "local stores",
+      "pre-packaged meat",
+      "services",
+      "customer service",
+      "healthier eating",
+      "supermarket",
+      "product assortment",
+      "retail innovation",
+      "frozen foods",
+      "food innovation",
+      "food retail",
+      "omnichannel retail",
+      "e-commerce",
+      "grocery retail",
+      "private label development",
+      "local sourcing",
+      "customer loyalty",
+      "fresh vegetables",
+      "supply chain management",
+      "retail technology",
+      "b2c",
+      "sustainable packaging",
+      "retail formats",
+      "online grocery",
+      "online shopping",
+      "market leader",
+      "innovative retail",
+      "fresh produce",
+      "meat and fish",
+      "ahold delhaize",
+      "food quality",
+      "retail heritage",
+      "online grocery shopping",
+      "fresh fruits and vegetables",
+      "meat and fish products",
+      "vegetarian options",
+      "dairy alternatives",
+      "wine and bubbles",
+      "home delivery",
+      "promotion deals",
+      "superplus rewards",
+      "meal boxes",
+      "recipe inspiration",
+      "fairtrade products",
+      "biological wines",
+      "promotional newsletters",
+      "nutritional information",
+      "lactose-free options",
+      "vegan products",
+      "cooking tips",
+      "discount vouchers",
+      "food waste reduction",
+      "plant-based diet",
+      "special offers",
+      "interactive catalog",
+      "product search",
+      "holiday discounts",
+      "seasonal promotions",
+      "weekly specials",
+      "customer feedback",
+      "franchise opportunities",
+      "advertising partnerships",
+      "supplier information",
+      "corporate responsibility",
+      "trustpilot reviews",
+      "weekly food blog",
+      "nutrient-rich snacks",
+      "fruit juices",
+      "gourmet salads",
+      "packed meals",
+      "cooked dishes",
+      "grocery categories",
+      "meal prep",
+      "free shipping offers",
+      "healthy lifestyle",
+      "price comparison",
+      "shopping assistance",
+      "consumer products & retail",
+      "transportation & logistics",
+      "environmental services",
+      "renewables & environment",
+      "consumer internet",
+      "consumers",
+      "internet",
+      "information technology & services",
+      "logistics & supply chain",
+      "enterprise software",
+      "enterprises",
+      "computer software",
+      "b2b"
+    ],
+    "organization_revenue_printed": "6.4B",
+    "organization_revenue": 6448000000.0,
+    "industries": [
+      "retail",
+      "supermarkets"
+    ],
+    "secondary_industries": [
+      "supermarkets"
+    ],
+    "snippets_loaded": true,
+    "industry_tag_id": "5567ced173696450cb580000",
+    "industry_tag_hash": {
+      "retail": "5567ced173696450cb580000",
+      "supermarkets": "5567e2a97369642a553d0000"
+    },
+    "retail_location_count": 0,
+    "raw_address": "Brusselsesteenweg 347, Kobbegem, 1730, BE",
+    "street_address": "347 Brusselsesteenweg",
+    "city": "Asse",
+    "state": "Flanders",
+    "postal_code": "1730",
+    "country": "Belgium",
+    "owned_by_organization_id": "5e6b6e6853f85c00ec0d8234",
+    "owned_by_organization": {
+      "id": "5e6b6e6853f85c00ec0d8234",
+      "name": "Ahold Delhaize",
+      "website_url": "http://www.aholddelhaize.com"
+    },
+    "num_languages": 0,
+    "num_retail_locations": 0,
+    "short_description": "Delhaize Belgium is a prominent food retail company based in Belgium, established in 1867. It began as a wholesale grocery business and became known for opening the country's first fully self-service supermarket in 1957. As a subsidiary of Ahold Delhaize, Delhaize operates over 800 stores across Belgium, employing around 15,000 people and serving millions of customers.\n\nThe company offers a wide range of products, including fresh produce, groceries, dairy, meat, and bakery items, with a strong focus on quality and sustainability. Delhaize also provides various shopping options, including physical supermarkets, convenience stores, and online grocery shopping through its website and mobile app. Customers can enjoy flexible delivery services and meal kits, enhancing their shopping experience. Delhaize Belgium is committed to local sourcing and sustainable practices, ensuring a positive impact on the community and the environment.",
+    "suborganizations": [
+      {
+        "id": "67381d7d208f930001b5382a",
+        "name": "AD Delhaize Borgerhout",
+        "website_url": "http://www.addelhaizeborgerhout.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 2,
+        "country": "Belgium"
+      },
+      {
+        "id": "678c69ab7920340001d95588",
+        "name": "AD Delhaize Aalter",
+        "website_url": "http://www.addelhaizeaalter.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 2,
+        "country": "Belgium"
+      },
+      {
+        "id": "670b54afae42a700014b5053",
+        "name": "AD Delhaize Temse",
+        "website_url": "http://www.addelhaize-temse.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 6,
+        "country": "Belgium"
+      },
+      {
+        "id": "6727f7040b702b000159c35a",
+        "name": "AD Delhaize Gembloux",
+        "website_url": "http://www.addelhaizegembloux.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 6,
+        "country": "Belgium"
+      },
+      {
+        "id": "672f4a1fcb4dd60001a0bff1",
+        "name": "AD Delhaize Merchtem",
+        "website_url": "http://www.addelhaize-merchtem.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 3,
+        "country": "Belgium"
+      },
+      {
+        "id": "674267d92c163600012bddb0",
+        "name": "AD Delhaize Leuven",
+        "website_url": "http://www.denondelhaize-leuven.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 0,
+        "country": "Belgium"
+      },
+      {
+        "id": "614da1776211f40001d8dd0b",
+        "name": "AD Delhaize Tienen",
+        "website_url": "http://www.addelhaizetienen.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 5,
+        "country": "Belgium"
+      },
+      {
+        "id": "66d822816c3b9e0001b771f9",
+        "name": "AD Delhaize Vlijtingen",
+        "website_url": "http://www.addelhaizevlijtingen.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 0,
+        "country": "Belgium"
+      },
+      {
+        "id": "6708dbd8c9aedb00016043cb",
+        "name": "AD Delhaize Heist",
+        "website_url": "http://www.addelhaizeheist.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 9,
+        "country": "Belgium"
+      },
+      {
+        "id": "67146965e1abc900012a1e89",
+        "name": "AD Delhaize Fosses-la-Ville",
+        "website_url": "http://www.addelhaizefosseslaville.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 4,
+        "country": "Belgium"
+      },
+      {
+        "id": "674261ba55a0f000017e9bbf",
+        "name": "AD Delhaize Ternat",
+        "website_url": "http://www.addelhaize-ternat.be",
+        "industries": [
+          "food & beverages"
+        ],
+        "estimated_num_employees": 7,
+        "country": "Belgium"
+      },
+      {
+        "id": "6727dd433ca5f70001a6018f",
+        "name": "AD Delhaize Ophasselt",
+        "website_url": "http://www.delhaize-ophasselt.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Belgium"
+      },
+      {
+        "id": "672d959532ca8d0001b469e6",
+        "name": "AD Delhaize Zoutleeuw",
+        "website_url": "http://www.addelhaizezoutleeuw.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Belgium"
+      },
+      {
+        "id": "673193178c7edd0001c8fce0",
+        "name": "Delfood S.A.",
+        "website_url": "http://www.delfood.be",
+        "industries": [
+          "information technology & services"
+        ],
+        "estimated_num_employees": 34,
+        "country": "Belgium"
+      },
+      {
+        "id": "66d57e5f0b4a9c00013145bd",
+        "name": "AD Delhaize Adinkerke",
+        "website_url": "http://www.addelhaizeadinkerke.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 1,
+        "country": "Belgium"
+      },
+      {
+        "id": "66f53ee51c962100017d2646",
+        "name": "AD Delhaize Sint-Job",
+        "website_url": "http://www.addelhaizesint-job.be",
+        "industries": [],
+        "estimated_num_employees": 0,
+        "country": "Belgium"
+      },
+      {
+        "id": "6730ec159c24470001e26716",
+        "name": "AD Delhaize Geraardsbergen",
+        "website_url": "http://www.delhaizegeraardsbergen.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 9,
+        "country": "Belgium"
+      },
+      {
+        "id": "5b159010a6da9870e9a10e53",
+        "name": "Media Marketing Delhaize",
+        "website_url": "http://www.mediamarketingdelhaize.be",
+        "industries": [
+          "marketing & advertising"
+        ],
+        "estimated_num_employees": 14,
+        "country": "Belgium"
+      },
+      {
+        "id": "5e56d3f415f95c000198f7bd",
+        "name": "Delhaize Assebroek Brugge",
+        "website_url": "http://www.addelhaizeassebroek.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 3,
+        "country": null
+      },
+      {
+        "id": "670f7803ceb16800018bafe1",
+        "name": "AD Delhaize Lebbeke",
+        "website_url": "http://www.addelhaizelebbeke.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 2,
+        "country": "Belgium"
+      },
+      {
+        "id": "671475a5b2d8a60001c2d08b",
+        "name": "AD Delhaize Geetbets",
+        "website_url": "http://www.addelhaizegeetbets.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 3,
+        "country": "Belgium"
+      },
+      {
+        "id": "672d9a601a87030001bfe047",
+        "name": "AD Delhaize Anzegem",
+        "website_url": "http://www.addelhaize-anzegem.be",
+        "industries": [
+          "retail"
+        ],
+        "estimated_num_employees": 4,
+        "country": "Belgium"
+      }
+    ],
+    "num_suborganizations": 22,
+    "annual_revenue_printed": "6.4B",
+    "annual_revenue": 6448000000.0,
+    "total_funding": null,
+    "total_funding_printed": null,
+    "latest_funding_round_date": null,
+    "latest_funding_stage": null,
+    "funding_events": [],
+    "technology_names": [
+      "Adobe",
+      "Adobe Experience Cloud",
+      "Adobe Experience Cloud",
+      "Adobe Tag Management",
+      "Agile GCP Labs",
+      "Akamai",
+      "Akamai CDN Solutions",
+      "Akamai Web Application & API Protector",
+      "Amazon CloudFront",
+      "Amazon SES",
+      "Amazon Simple Email Service (Amazon SES)",
+      "Android",
+      "Apple",
+      "Apple Business Manager",
+      "Apple School Manager",
+      "Apple iOS",
+      "Atlassian Cloud",
+      "Bootstrap",
+      "CSC",
+      "CSC Corporate Domains",
+      "Compressor",
+      "Content.ad",
+      "DoorDash",
+      "DoubleClick",
+      "Drupal",
+      "Dynatrace Application Monitoring",
+      "Dynatrace Application Monitoring",
+      "Excel4Apps",
+      "Facebook Pixel",
+      "Gem",
+      "Git",
+      "Google Ads",
+      "Google Analytics",
+      "Google Play",
+      "Google Search Central",
+      "Google Search Console",
+      "Google Tag Manager",
+      "Hybris (SAP)",
+      "Indeed",
+      "Ipswitch WhatsUp Gold",
+      "JDA",
+      "Linkedin Marketing Solutions",
+      "Mailchimp Mandrill",
+      "Mailchimp Mandrill",
+      "Micro",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365",
+      "Microsoft 365 Apps & Services",
+      "Microsoft Email Providers",
+      "Microsoft Excel",
+      "Microsoft Exchange",
+      "Microsoft Exchange Online",
+      "Microsoft Office",
+      "Microsoft PowerPoint",
+      "Mobile Friendly",
+      "MySQL",
+      "NTENT",
+      "NUnit",
+      "Next.js",
+      "Outlook",
+      "PowerBI Tiles",
+      "Publitas",
+      "Quip",
+      "SAM",
+      "SAP",
+      "Salesforce",
+      "Salesforce Customer Data Platform (CDP)",
+      "Salesforce Experience Cloud Suite",
+      "Salesforce Live Agent",
+      "Salesforce Marketing Cloud",
+      "Salesforce Marketing Cloud Intelligence (formerly Datorama)",
+      "Salesforce Sales Cloud",
+      "Salesforce Service Cloud",
+      "Salesforce Services",
+      "Sendgrid",
+      "Sensor Tower",
+      "ServiceNow",
+      "Snow",
+      "Tor",
+      "TrackWise",
+      "Twilio SendGrid Email API",
+      "Twilio SendGrid Email Marketing Campaigns",
+      "Viewport Meta",
+      "dynaTrace",
+      "dynaTrace",
+      "dynaTrace",
+      "iGoDigital"
+    ],
+    "current_technologies": [
+      {
+        "uid": "adobe",
+        "name": "Adobe",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "adobe_experience_cloud",
+        "name": "Adobe Experience Cloud",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "adobe_experience_cloud",
+        "name": "Adobe Experience Cloud",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "adobe_tag_management",
+        "name": "Adobe Tag Management",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "agile_gcp_labs",
+        "name": "Agile GCP Labs",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "akamai",
+        "name": "Akamai",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "akamai_cdn_solutions",
+        "name": "Akamai CDN Solutions",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "akamai_web_application_api_protector",
+        "name": "Akamai Web Application & API Protector",
+        "category": "Event Management"
+      },
+      {
+        "uid": "amazon_cloudfront",
+        "name": "Amazon CloudFront",
+        "category": "Content Delivery Networks"
+      },
+      {
+        "uid": "amazon_ses",
+        "name": "Amazon SES",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "amazon_simple_email_service_amazon_ses",
+        "name": "Amazon Simple Email Service (Amazon SES)",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "android",
+        "name": "Android",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "apple",
+        "name": "Apple",
+        "category": "Other"
+      },
+      {
+        "uid": "apple_business_manager",
+        "name": "Apple Business Manager",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "apple_school_manager",
+        "name": "Apple School Manager",
+        "category": "Education Management Software"
+      },
+      {
+        "uid": "apple_ios",
+        "name": "Apple iOS",
+        "category": "Other"
+      },
+      {
+        "uid": "atlassian_cloud",
+        "name": "Atlassian Cloud",
+        "category": "CMS"
+      },
+      {
+        "uid": "bootstrap",
+        "name": "Bootstrap",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "csc",
+        "name": "CSC",
+        "category": "Other"
+      },
+      {
+        "uid": "csc_corporate_domains",
+        "name": "CSC Corporate Domains",
+        "category": "Domain Name Services"
+      },
+      {
+        "uid": "compressor",
+        "name": "Compressor",
+        "category": "Other"
+      },
+      {
+        "uid": "content_ad",
+        "name": "Content.ad",
+        "category": "Content Syndication Networks"
+      },
+      {
+        "uid": "doordash",
+        "name": "DoorDash",
+        "category": "Food Ordering Services"
+      },
+      {
+        "uid": "doubleclick",
+        "name": "DoubleClick",
+        "category": "Ad Servers"
+      },
+      {
+        "uid": "drupal",
+        "name": "Drupal",
+        "category": "CMS"
+      },
+      {
+        "uid": "dynatrace_application_monitoring",
+        "name": "Dynatrace Application Monitoring",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "dynatrace_application_monitoring",
+        "name": "Dynatrace Application Monitoring",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "excel4apps",
+        "name": "Excel4Apps",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "facebook_pixel",
+        "name": "Facebook Pixel",
+        "category": "ERP"
+      },
+      {
+        "uid": "gem",
+        "name": "Gem",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "git",
+        "name": "Git",
+        "category": "Deployment Tools"
+      },
+      {
+        "uid": "google_ads",
+        "name": "Google Ads",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "google_analytics",
+        "name": "Google Analytics",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_play",
+        "name": "Google Play",
+        "category": "Widgets"
+      },
+      {
+        "uid": "google_search_central",
+        "name": "Google Search Central",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_search_console",
+        "name": "Google Search Console",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "google_tag_manager",
+        "name": "Google Tag Manager",
+        "category": "Tag Management"
+      },
+      {
+        "uid": "hybris_sap",
+        "name": "Hybris (SAP)",
+        "category": "E-commerce Platforms"
+      },
+      {
+        "uid": "indeed",
+        "name": "Indeed",
+        "category": "Other"
+      },
+      {
+        "uid": "ipswitch_whatsup_gold",
+        "name": "Ipswitch WhatsUp Gold",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "jda",
+        "name": "JDA",
+        "category": "Other"
+      },
+      {
+        "uid": "linkedin_display_ads__formerly_bizo",
+        "name": "Linkedin Marketing Solutions",
+        "category": "Advertising Networks"
+      },
+      {
+        "uid": "mailchimp_mandrill",
+        "name": "Mailchimp Mandrill",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "mailchimp_mandrill",
+        "name": "Mailchimp Mandrill",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "micro",
+        "name": "Micro",
+        "category": "Other"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365",
+        "name": "Microsoft 365",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_365_apps_services",
+        "name": "Microsoft 365 Apps & Services",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_email_providers",
+        "name": "Microsoft Email Providers",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_excel",
+        "name": "Microsoft Excel",
+        "category": "Business Intelligence"
+      },
+      {
+        "uid": "microsoft_exchange",
+        "name": "Microsoft Exchange",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_exchange_online",
+        "name": "Microsoft Exchange Online",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "microsoft_office",
+        "name": "Microsoft Office",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "microsoft_powerpoint",
+        "name": "Microsoft PowerPoint",
+        "category": "Web Presentation Tools"
+      },
+      {
+        "uid": "mobile_friendly",
+        "name": "Mobile Friendly",
+        "category": "Other"
+      },
+      {
+        "uid": "mysql",
+        "name": "MySQL",
+        "category": "Database"
+      },
+      {
+        "uid": "ntent",
+        "name": "NTENT",
+        "category": "Content Syndication Networks"
+      },
+      {
+        "uid": "nunit",
+        "name": "NUnit",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "nextjs",
+        "name": "Next.js",
+        "category": "Frameworks and Programming Languages"
+      },
+      {
+        "uid": "outlook",
+        "name": "Outlook",
+        "category": "Email Providers"
+      },
+      {
+        "uid": "powerbi_tiles",
+        "name": "PowerBI Tiles",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "publitas",
+        "name": "Publitas",
+        "category": "Content Management Platform"
+      },
+      {
+        "uid": "quip",
+        "name": "Quip",
+        "category": "Communication and Collaboration"
+      },
+      {
+        "uid": "sam",
+        "name": "SAM",
+        "category": "Other"
+      },
+      {
+        "uid": "sap",
+        "name": "SAP",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce",
+        "name": "Salesforce",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_customer_data_platform_cdp",
+        "name": "Salesforce Customer Data Platform (CDP)",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_experience_cloud_suite",
+        "name": "Salesforce Experience Cloud Suite",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_live_agent",
+        "name": "Salesforce Live Agent",
+        "category": "Chats"
+      },
+      {
+        "uid": "salesforce_marketing_cloud",
+        "name": "Salesforce Marketing Cloud",
+        "category": "Marketing Automation"
+      },
+      {
+        "uid": "salesforce_marketing_cloud_intelligence_formerly_datorama",
+        "name": "Salesforce Marketing Cloud Intelligence (formerly Datorama)",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "salesforce_sales_cloud",
+        "name": "Salesforce Sales Cloud",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "salesforce_service_cloud",
+        "name": "Salesforce Service Cloud",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "salesforce_services",
+        "name": "Salesforce Services",
+        "category": "Customer Relationship Management"
+      },
+      {
+        "uid": "sendgrid",
+        "name": "Sendgrid",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "sensor_tower",
+        "name": "Sensor Tower",
+        "category": "Analytics and Tracking"
+      },
+      {
+        "uid": "service_now",
+        "name": "ServiceNow",
+        "category": "Case Management"
+      },
+      {
+        "uid": "snow",
+        "name": "Snow",
+        "category": "Cloud Services"
+      },
+      {
+        "uid": "tor",
+        "name": "Tor",
+        "category": "Security"
+      },
+      {
+        "uid": "trackwise",
+        "name": "TrackWise",
+        "category": "Case Management"
+      },
+      {
+        "uid": "twilio_sendgrid_email_api",
+        "name": "Twilio SendGrid Email API",
+        "category": "Email Delivery"
+      },
+      {
+        "uid": "twilio_sendgrid_email_marketing_campaigns",
+        "name": "Twilio SendGrid Email Marketing Campaigns",
+        "category": "Email Marketing"
+      },
+      {
+        "uid": "viewport_meta",
+        "name": "Viewport Meta",
+        "category": "CSS and JavaScript Libraries"
+      },
+      {
+        "uid": "dynatrace",
+        "name": "dynaTrace",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "dynatrace",
+        "name": "dynaTrace",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "dynatrace",
+        "name": "dynaTrace",
+        "category": "Web Performance Monitoring"
+      },
+      {
+        "uid": "igodigital",
+        "name": "iGoDigital",
+        "category": "Personalization"
+      }
+    ],
+    "org_chart_root_people_ids": [
+      "66f4110193a7530001981633"
+    ],
+    "org_chart_sector": null,
+    "org_chart_removed": null,
+    "org_chart_show_department_filter": null,
+    "departmental_head_count": {
+      "media_and_commmunication": 33,
+      "support": 77,
+      "information_technology": 71,
+      "operations": 599,
+      "sales": 219,
+      "finance": 147,
+      "legal": 29,
+      "engineering": 78,
+      "product_management": 6,
+      "business_development": 72,
+      "marketing": 67,
+      "human_resources": 79,
+      "administrative": 35,
+      "consulting": 30,
+      "arts_and_design": 8,
+      "accounting": 17,
+      "data_science": 10,
+      "entrepreneurship": 1,
+      "education": 1
+    },
+    "organization_headcount_six_month_growth": 0.0,
+    "organization_headcount_twelve_month_growth": -0.00946372239747634,
+    "organization_headcount_twenty_four_month_growth": -0.00946372239747634
+  }
+}

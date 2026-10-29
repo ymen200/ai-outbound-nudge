@@ -1,0 +1,60 @@
+{
+    "alexa_ranking": 149516,
+    "annual_revenue": null,
+    "apollo_id": "5f4a1b04f27ccb0001e3d68f",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "domain": "digital.nhs.uk",
+    "estimated_num_employees": 1300,
+    "facebook_url": null,
+    "founded_year": 2024,
+    "funding_events": [],
+    "industry": "Healthcare Information Technology / Public Sector",
+    "keywords": [
+        "Healthcare IT",
+        "Data Services",
+        "NHS",
+        "Public Health",
+        "Security Verification",
+        "Leeds Office"
+    ],
+    "latest_funding_stage": "Public Sector / Government Body",
+    "linkedin_url": "http://www.linkedin.com/company/nhs-digital",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69598b47cc924d000177b7b8/picture",
+    "name": "NHS Digital (Leeds Office)",
+    "num_suborganizations": 0,
+    "phone": null,
+    "postal_code": "LS1 6HP",
+    "raw_address": "3 Trevelyan Square, Leeds, United Kingdom",
+    "seo_description": "NHS Digital - Performing security verification",
+    "short_description": "National provider of information, data and IT systems for health and social care in England.",
+    "state": "England",
+    "street_address": "3 Trevelyan Square",
+    "suborganizations": "Non renseigné",
+    "technologies": [
+        {
+            "uid": "cloudflare",
+            "name": "Cloudflare",
+            "category": "CDN / Security"
+        },
+        {
+            "uid": "cloudflare_bot_management",
+            "name": "Cloudflare Bot Management",
+            "category": "Security"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/nhsdigital",
+    "website_url": "http://www.digital.nhs.uk",
+    "fiscal_year_end": "March",
+    "is_subsidiary": true,
+    "parent_company": "NHS England",
+    "competitors": [
+        "EMIS Health",
+        "TPP (The Phoenix Partnership)",
+        "Kainos",
+        "Accenture Health",
+        "DXC Technology"
+    ],
+    "data_quality_score": 0.94
+}

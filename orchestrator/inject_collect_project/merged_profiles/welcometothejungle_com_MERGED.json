@@ -1,0 +1,465 @@
+{
+    "alexa_ranking": 12517,
+    "annual_revenue": 75100000.0,
+    "apollo_id": "5da62a7546f42a000137d0a5",
+    "city": "Paris",
+    "country": "France",
+    "departments": {
+        "operations": 19,
+        "media_and_commmunication": 11,
+        "data_science": 6,
+        "engineering": 39,
+        "arts_and_design": 17,
+        "marketing": 29,
+        "legal": 7,
+        "accounting": 6,
+        "product_management": 6,
+        "sales": 29,
+        "human_resources": 8,
+        "finance": 4,
+        "support": 24,
+        "business_development": 3,
+        "education": 3,
+        "consulting": 2,
+        "information_technology": 3,
+        "entrepreneurship": 2,
+        "administrative": 0
+    },
+    "domain": "welcometothejungle.com",
+    "estimated_num_employees": 350,
+    "facebook_url": "https://www.facebook.com/wttj.fr",
+    "founded_year": 2014,
+    "funding_events": [
+        {
+            "id": "640b43c9c87eb700012ca3e9",
+            "date": "2023-01-01T00:00:00.000+00:00",
+            "type": "Series C",
+            "amount": "54M",
+            "currency": "$",
+            "investors": "Revaia, XAnge, Bpifrance, blisce, Cipio Partners, Groupe ADP, RAISE Sherpas"
+        },
+        {
+            "id": "6052f073c7ebee0001496510",
+            "date": "2019-10-28T00:00:00.000+00:00",
+            "type": "Series B",
+            "amount": "22.3M",
+            "currency": "$",
+            "investors": "Gaia Capital Partners, XAnge, Bpifrance"
+        },
+        {
+            "id": "5afa77a7a3ae61cfe87b9ce8",
+            "date": "2018-05-14T00:00:00.000+00:00",
+            "type": "Series A",
+            "amount": "8.4M",
+            "currency": "$",
+            "investors": "XAnge, Bpifrance, Kima Ventures"
+        },
+        {
+            "id": "588c87dfa6da980429320eae",
+            "date": "2017-01-31T00:00:00.000+00:00",
+            "type": "Seed",
+            "amount": "2M",
+            "currency": "€",
+            "investors": "Non renseigné"
+        }
+    ],
+    "industry": "HR Tech / Recruitment Platform",
+    "keywords": [
+        "marque employeur",
+        "rh",
+        "recrutement",
+        "social media",
+        "production video",
+        "sales & marketing",
+        "digital marketing",
+        "technology, information & internet",
+        "modern hr",
+        "b2c",
+        "recruitment platform",
+        "candidate engagement strategies",
+        "e-commerce",
+        "services",
+        "talent management",
+        "applicant tracking system",
+        "employer branding measurement",
+        "candidate sourcing automation",
+        "remote work",
+        "company culture promotion",
+        "company culture",
+        "candidate engagement analytics",
+        "employer branding platform",
+        "b2b",
+        "company culture videos",
+        "employer branding strategy",
+        "talent attraction",
+        "recruitment campaign management",
+        "recruitment marketing",
+        "candidate profiles",
+        "media & content",
+        "job advertisements",
+        "media campaigns",
+        "candidate outreach automation",
+        "workplace culture storytelling",
+        "candidate sourcing",
+        "employer branding services",
+        "talent engagement",
+        "employer branding agency",
+        "recruitment analytics",
+        "branding campaigns",
+        "employer branding analytics",
+        "employee testimonials",
+        "workplace culture",
+        "employer branding",
+        "candidate sourcing platform",
+        "employer branding content",
+        "candidate experience",
+        "employer branding platform integration",
+        "employer branding campaign management",
+        "talent acquisition",
+        "employer reputation",
+        "candidate communication",
+        "social media recruitment",
+        "candidate experience optimization",
+        "recruitment tools",
+        "employer branding software",
+        "sustainability",
+        "management consulting services",
+        "employer branding content strategy",
+        "employee branding",
+        "hr solutions",
+        "employer branding content creation",
+        "content marketing",
+        "candidate engagement platform analytics",
+        "candidate journey analytics",
+        "marketplace",
+        "employer branding campaigns",
+        "digital branding",
+        "candidate experience platform",
+        "recruitment analytics tools",
+        "employer value proposition",
+        "company videos",
+        "immersive job offers",
+        "employer branding strategy consulting",
+        "job posting management",
+        "job profiles",
+        "employer branding digital tools",
+        "candidate sourcing strategies",
+        "candidate engagement platform",
+        "employer branding content platform",
+        "recruitment marketing automation",
+        "candidate experience tools",
+        "employer branding content marketing",
+        "candidate outreach",
+        "digital recruitment",
+        "candidate experience analytics",
+        "modern hr practices",
+        "recruitment",
+        "work culture",
+        "job search platform",
+        "candidate journey mapping",
+        "recruitment automation",
+        "company storytelling",
+        "company profiles",
+        "employer marketing",
+        "candidate communication tools",
+        "talent attraction tools",
+        "candidate sourcing tools",
+        "human resources",
+        "candidate relationship management",
+        "candidate engagement",
+        "diverse teams",
+        "employer branding campaign analytics",
+        "customer engagement",
+        "employer visibility",
+        "employer branding metrics",
+        "candidate journey",
+        "job search",
+        "workplace transparency",
+        "employee experience",
+        "management strategies",
+        "career development",
+        "job applications",
+        "leadership skills",
+        "recruitment solutions",
+        "team collaboration",
+        "professional growth",
+        "work-life balance",
+        "job postings",
+        "internships",
+        "apprenticeships",
+        "corporate benefits",
+        "diverse work environment",
+        "knowledge sharing",
+        "employee empowerment",
+        "performance management",
+        "employee engagement",
+        "recruiter insights",
+        "4-day workweek",
+        "hr technology",
+        "cultivating talent",
+        "organizational culture",
+        "job market trends",
+        "workplace initiatives",
+        "employee retention",
+        "business communication",
+        "job readiness",
+        "application tracking",
+        "skills development",
+        "remote management",
+        "workplace strategies",
+        "market expansion",
+        "data-driven insights",
+        "personalized experience",
+        "job matching",
+        "staff training",
+        "human resources management",
+        "analytics in recruitment",
+        "career transitions",
+        "soft skills training",
+        "team dynamics",
+        "consumer internet",
+        "consumers",
+        "internet",
+        "information technology & services",
+        "marketing & advertising",
+        "environmental services",
+        "renewables & environment",
+        "matching",
+        "marketing",
+        "ventes",
+        "digital"
+    ],
+    "latest_funding_stage": "Series C",
+    "linkedin_url": "http://www.linkedin.com/company/wttj-fr",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b0e8c26d76330001cefcad/picture",
+    "name": "Welcome to the Jungle (CORUSCANT SAS)",
+    "num_suborganizations": 1,
+    "phone": "+33 (0) 9 67 17 53 86",
+    "postal_code": "75002",
+    "raw_address": "8-10 rue Saint Fiacre – 75002 Paris, France",
+    "seo_description": "Ne cherchez plus n’importe quel job, trouvez votre place. Matchez avec le job fait pour vous.",
+    "short_description": "Plateforme de matching pour l'emploi et média sur le monde du travail.",
+    "state": "Ile-de-France",
+    "street_address": "8-10 Rue Saint-Fiacre",
+    "suborganizations": [
+        {
+            "id": "672f9a11e20915000114ec91",
+            "name": "Otta Technology Ltd.",
+            "domain": "Non renseigné"
+        }
+    ],
+    "technologies": [
+        {
+            "uid": "ai",
+            "name": "AI",
+            "category": "Other"
+        },
+        {
+            "uid": "amazon_aws",
+            "name": "Amazon AWS",
+            "category": "Hosting"
+        },
+        {
+            "uid": "amazon_route_53",
+            "name": "Amazon Route 53",
+            "category": "Domain Name Services"
+        },
+        {
+            "uid": "amplitude",
+            "name": "Amplitude",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "bing_ads",
+            "name": "Bing Ads",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "bootstrap_framework",
+            "name": "Bootstrap Framework",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "facebook_web_custom_audiences",
+            "name": "Facebook Custom Audiences",
+            "category": "Retargeting"
+        },
+        {
+            "uid": "facebook_login",
+            "name": "Facebook Login (Connect)",
+            "category": "Social Login"
+        },
+        {
+            "uid": "facebook_widget",
+            "name": "Facebook Widget",
+            "category": "Widgets"
+        },
+        {
+            "uid": "figma",
+            "name": "Figma",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "fullstory",
+            "name": "FullStory",
+            "category": "Other"
+        },
+        {
+            "uid": "gmail",
+            "name": "Gmail",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "google_adwords_conversion",
+            "name": "Google AdWords Conversion",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "google_apps",
+            "name": "Google Apps",
+            "category": "Other"
+        },
+        {
+            "uid": "google_font_api",
+            "name": "Google Font API",
+            "category": "Fonts"
+        },
+        {
+            "uid": "google_identity_services_apis",
+            "name": "Google Identity Services APIs",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "google_signin",
+            "name": "Google Sign-In",
+            "category": "Event Management"
+        },
+        {
+            "uid": "google_tag_manager",
+            "name": "Google Tag Manager",
+            "category": "Tag Management"
+        },
+        {
+            "uid": "greenhouse_io",
+            "name": "Greenhouse.io",
+            "category": "Recruitment"
+        },
+        {
+            "uid": "href_lang",
+            "name": "HREF Lang",
+            "category": "Other"
+        },
+        {
+            "uid": "hubspot",
+            "name": "Hubspot",
+            "category": "Marketing Automation"
+        },
+        {
+            "uid": "linkedin_display_ads__formerly_bizo",
+            "name": "Linkedin Marketing Solutions",
+            "category": "Advertising Networks"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "netlify",
+            "name": "Netlify",
+            "category": "CMS"
+        },
+        {
+            "uid": "nextjs",
+            "name": "Next.js",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "react_redux",
+            "name": "React Redux",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "remote",
+            "name": "Remote",
+            "category": "Other"
+        },
+        {
+            "uid": "sendinblue",
+            "name": "SendInBlue",
+            "category": "Email Marketing"
+        },
+        {
+            "uid": "slack",
+            "name": "Slack",
+            "category": "Chats"
+        },
+        {
+            "uid": "viewport_meta",
+            "name": "Viewport Meta",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "vue_js_library",
+            "name": "VueJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "zendesk",
+            "name": "Zendesk",
+            "category": "Support and Feedback"
+        },
+        {
+            "uid": "express",
+            "name": "Express",
+            "category": "Backend Framework"
+        },
+        {
+            "uid": "amazon_cloudfront",
+            "name": "Amazon CloudFront",
+            "category": "CDN"
+        },
+        {
+            "uid": "axeptio",
+            "name": "Axeptio",
+            "category": "Consent Management Platform"
+        },
+        {
+            "uid": "amazon_web_services",
+            "name": "Amazon Web Services",
+            "category": "Hosting"
+        },
+        {
+            "uid": "tailwind_css",
+            "name": "Tailwind CSS",
+            "category": "CSS Framework"
+        }
+    ],
+    "total_funding": "86.8M",
+    "twitter_url": "https://twitter.com/wttj",
+    "website_url": "http://www.welcometothejungle.com",
+    "is_subsidiary": false,
+    "competitors": [
+        "LinkedIn",
+        "Indeed",
+        "JobTeaser",
+        "Glassdoor",
+        "ChooseYourBoss"
+    ],
+    "data_quality_score": 0.93
+}

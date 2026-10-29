@@ -1,0 +1,792 @@
+{
+    "domain": "lidl.fr",
+    "comparison_status": "Apollo API vs SmartScraper AI",
+    "common_attributes_comparison": {
+        "identity": {
+            "name": {
+                "apollo": "Lidl France",
+                "ai": "SNC Lidl (Lidl France)"
+            },
+            "domain": {
+                "apollo": "lidl.fr",
+                "ai": "lidl.fr"
+            },
+            "industry": {
+                "apollo": "retail",
+                "ai": "Grande Distribution / Commerce de détail"
+            },
+            "founded_year": {
+                "apollo": 1989,
+                "ai": null
+            },
+            "short_description": {
+                "apollo": "Lidl France is a discount supermarket chain that has been operating since 1989, offering a variety of affordable groceries and household essentials. It is part of the international Lidl group, which originated in Germany. The first Lidl store in France opened in Sarreguemines, marking the company's expansion beyond Germany. Over the years, Lidl France has grown significantly, reaching 1,000 supermarkets by 2002 and introducing various product innovations.\n\nThe store features a wide range of products, including private-label items, national brands, bakery sections, and fair-trade products under the Fairglobe brand. Lidl France is committed to sustainability, focusing on waste reduction and responsible sourcing. The company has implemented initiatives to cut food losses and organic waste by 50% by 2030 and supports sustainable practices in its supply chain. With logistics platforms established in Illkirch and Noisseville, Lidl France continues to serve individual retail consumers with everyday low prices.",
+                "ai": "Lidl, ça vaut le coup. En supermarché et en ligne."
+            },
+            "seo_description": {
+                "apollo": "Non renseigné",
+                "ai": "Promotions, Maison, Cuisine, Bricolage, Jardinage, Sports, Mode, Bébé et Alimentation."
+            }
+        },
+        "performance": {
+            "annual_revenue": {
+                "apollo": 20515000000.0,
+                "ai": null
+            },
+            "total_funding": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "latest_funding_stage": {
+                "apollo": "Non renseigné",
+                "ai": null
+            },
+            "estimated_num_employees": {
+                "apollo": 46000,
+                "ai": null
+            }
+        },
+        "contact_social": {
+            "linkedin_url": {
+                "apollo": "http://www.linkedin.com/company/lidl-france",
+                "ai": null
+            },
+            "twitter_url": {
+                "apollo": "Non renseigné",
+                "ai": "https://twitter.com/lidlfrance"
+            },
+            "facebook_url": {
+                "apollo": "Non renseigné",
+                "ai": "https://fr-fr.facebook.com/lidlfrance"
+            },
+            "phone": {
+                "apollo": "Non renseigné",
+                "ai": null
+            }
+        },
+        "location": {
+            "raw_address": {
+                "apollo": "1, Rue de Hanovre, Châtenay-Malabry, Île-de-France 92290, FR",
+                "ai": "2 Rue de Hanovre, Chatenay-Malabry, France"
+            },
+            "city": {
+                "apollo": "Chatenay-Malabry",
+                "ai": "Chatenay-Malabry"
+            },
+            "country": {
+                "apollo": "France",
+                "ai": "France"
+            }
+        },
+        "hierarchy": {
+            "num_suborganizations": {
+                "apollo": 1,
+                "ai": "1600"
+            }
+        },
+        "complex_data": {
+            "keywords": {
+                "apollo": [
+                    "retail",
+                    "retail logistics software",
+                    "online shopping",
+                    "private label products",
+                    "merchandising",
+                    "private label",
+                    "operational efficiency",
+                    "product quality",
+                    "packaged goods",
+                    "sustainability",
+                    "e-commerce",
+                    "retail market",
+                    "customer satisfaction",
+                    "price competitiveness",
+                    "product assortment",
+                    "retail store expansion",
+                    "furniture",
+                    "retail customer experience",
+                    "retail analytics",
+                    "store layout",
+                    "retail branding",
+                    "customer service",
+                    "distribution",
+                    "retail store modernization",
+                    "store renovation",
+                    "retail sustainability",
+                    "supply chain logistics",
+                    "supermarkets and other grocery retailers (except convenience retailers)",
+                    "retail digital tools",
+                    "retail store management",
+                    "retail expansion",
+                    "retail store operations",
+                    "retail growth",
+                    "store compliance",
+                    "supply chain management",
+                    "retail customer service",
+                    "dairy products",
+                    "retail automation",
+                    "retail modernization",
+                    "retail store renovation",
+                    "home improvement",
+                    "retail store design",
+                    "customer retention",
+                    "retail supply chain software",
+                    "food and beverages",
+                    "bakery",
+                    "seasonal offers",
+                    "market share",
+                    "discount grocery",
+                    "household products",
+                    "fresh produce",
+                    "discount",
+                    "non-food items",
+                    "clothing",
+                    "retail services",
+                    "low prices",
+                    "meat and seafood",
+                    "supply chain",
+                    "retail management",
+                    "employee management",
+                    "supermarket",
+                    "logistics",
+                    "inventory management",
+                    "retail compliance",
+                    "customer loyalty",
+                    "grocery",
+                    "retail store technology",
+                    "retail innovation",
+                    "logistics optimization",
+                    "retail operations",
+                    "store operations",
+                    "retail technology",
+                    "product range",
+                    "retail marketing",
+                    "retail logistics",
+                    "retail strategy",
+                    "b2c",
+                    "retail chain",
+                    "digital transformation",
+                    "store modernization",
+                    "retail training",
+                    "discount retail",
+                    "food",
+                    "retail customer loyalty",
+                    "retail excellence",
+                    "household",
+                    "store network",
+                    "retail data analysis",
+                    "grocery store",
+                    "discounts",
+                    "meat products",
+                    "dairy items",
+                    "biological products",
+                    "frozen foods",
+                    "household goods",
+                    "cooking utensils",
+                    "home decoration",
+                    "kitchen appliances",
+                    "gardening tools",
+                    "sport equipment",
+                    "toys for children",
+                    "pet products",
+                    "environmental quality",
+                    "returns policy",
+                    "loyalty program",
+                    "limited time offers",
+                    "daily deals",
+                    "mobile application",
+                    "voucher codes",
+                    "food recipes",
+                    "supermarket locator",
+                    "sale promotions",
+                    "seasonal discounts",
+                    "nutritional advice",
+                    "cooking tips",
+                    "kitchenware",
+                    "fashion apparel",
+                    "home supplies",
+                    "outdoor furniture",
+                    "health and beauty products",
+                    "sustainable sourcing",
+                    "specialty wines",
+                    "meat suppliers",
+                    "local producers",
+                    "fruits and vegetables",
+                    "promotional catalogues",
+                    "delivery options",
+                    "store hours",
+                    "store accessibility",
+                    "shopping assistance",
+                    "mobile coupons",
+                    "consumer products & retail",
+                    "transportation & logistics",
+                    "consumer internet",
+                    "consumers",
+                    "internet",
+                    "information technology & services",
+                    "environmental services",
+                    "renewables & environment",
+                    "home decor",
+                    "logistics & supply chain",
+                    "food & beverages",
+                    "consumer goods",
+                    "enterprise software",
+                    "enterprises",
+                    "computer software",
+                    "b2b"
+                ],
+                "ai": "Supermarché, Lidl Plus, Bricolage, Parkside, Silvercrest, Alimentation, Promotions, Catalogue, Hard-discount"
+            },
+            "technologies": {
+                "apollo": [
+                    {
+                        "uid": "ai",
+                        "name": "AI",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "adjust",
+                        "name": "Adjust",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "adobe",
+                        "name": "Adobe",
+                        "category": "Content Management Platform"
+                    },
+                    {
+                        "uid": "adobe_experience_cloud",
+                        "name": "Adobe Experience Cloud",
+                        "category": "Marketing Automation"
+                    },
+                    {
+                        "uid": "adyen",
+                        "name": "Adyen",
+                        "category": "Payments"
+                    },
+                    {
+                        "uid": "akamai_edge_dns",
+                        "name": "Akamai Edge DNS",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "akamai_edge_dns",
+                        "name": "Akamai Edge DNS",
+                        "category": "Domain Name Services"
+                    },
+                    {
+                        "uid": "android",
+                        "name": "Android",
+                        "category": "Frameworks and Programming Languages"
+                    },
+                    {
+                        "uid": "apple_business_manager",
+                        "name": "Apple Business Manager",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "apple_school_manager",
+                        "name": "Apple School Manager",
+                        "category": "Education Management Software"
+                    },
+                    {
+                        "uid": "apple_ios",
+                        "name": "Apple iOS",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "bootstrap",
+                        "name": "Bootstrap",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "c3.js",
+                        "name": "C3.js",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "captcha",
+                        "name": "CAPTCHA",
+                        "category": "Captcha"
+                    },
+                    {
+                        "uid": "cart_functionality",
+                        "name": "Cart Functionality",
+                        "category": "E-commerce Platforms"
+                    },
+                    {
+                        "uid": "criteo_for_advertisers",
+                        "name": "Criteo for Advertisers",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "excel4apps",
+                        "name": "Excel4Apps",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "eyefinity_officemate",
+                        "name": "Eyefinity OfficeMate",
+                        "category": "Appointment Scheduling"
+                    },
+                    {
+                        "uid": "gmail",
+                        "name": "Gmail",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "google",
+                        "name": "Google",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "google_analytics_ecommerce_tracking",
+                        "name": "Google Analytics Ecommerce Tracking",
+                        "category": "E-commerce Tools"
+                    },
+                    {
+                        "uid": "google_docs",
+                        "name": "Google Docs",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "google_font_api",
+                        "name": "Google Font API",
+                        "category": "Fonts"
+                    },
+                    {
+                        "uid": "google_meet",
+                        "name": "Google Meet",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "google_play",
+                        "name": "Google Play",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "google_search_central",
+                        "name": "Google Search Central",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_search_console",
+                        "name": "Google Search Console",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "google_sheets",
+                        "name": "Google Sheets",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "google_tag_manager",
+                        "name": "Google Tag Manager",
+                        "category": "Tag Management"
+                    },
+                    {
+                        "uid": "google workspace",
+                        "name": "Google Workspace",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "google workspace",
+                        "name": "Google Workspace",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "href_lang",
+                        "name": "HREF Lang",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "hsts",
+                        "name": "HSTS",
+                        "category": "Security"
+                    },
+                    {
+                        "uid": "http/3",
+                        "name": "HTTP/3",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "ice",
+                        "name": "ICE",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "instagram",
+                        "name": "Instagram",
+                        "category": "Social Sharing"
+                    },
+                    {
+                        "uid": "kameleoon",
+                        "name": "Kameleoon",
+                        "category": "Personalization"
+                    },
+                    {
+                        "uid": "kantar_marketplace",
+                        "name": "Kantar Marketplace",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "leaflet",
+                        "name": "Leaflet",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "linkedin_ads",
+                        "name": "LinkedIn Ads",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "linkedin_insight_tag",
+                        "name": "Linkedin Insight Tag",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "linkedin_display_ads__formerly_bizo",
+                        "name": "Linkedin Marketing Solutions",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "magento",
+                        "name": "Magento",
+                        "category": "E-commerce Platforms"
+                    },
+                    {
+                        "uid": "mailjet",
+                        "name": "MailJet",
+                        "category": "Email Delivery"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365",
+                        "name": "Microsoft 365",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_365_apps_services",
+                        "name": "Microsoft 365 Apps & Services",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_email_providers",
+                        "name": "Microsoft Email Providers",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "microsoft_exchange",
+                        "name": "Microsoft Exchange",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "microsoft_exchange_online",
+                        "name": "Microsoft Exchange Online",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "microsoft_powerpoint",
+                        "name": "Microsoft PowerPoint",
+                        "category": "Web Presentation Tools"
+                    },
+                    {
+                        "uid": "mobile_friendly",
+                        "name": "Mobile Friendly",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "multilingual",
+                        "name": "Multilingual",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "nginx",
+                        "name": "Nginx",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "nielsen_ad_intel",
+                        "name": "Nielsen Ad Intel",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "onetrust",
+                        "name": "OneTrust",
+                        "category": "Widgets"
+                    },
+                    {
+                        "uid": "open_graph",
+                        "name": "Open Graph",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "outlook",
+                        "name": "Outlook",
+                        "category": "Email Providers"
+                    },
+                    {
+                        "uid": "pwa",
+                        "name": "PWA",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "react",
+                        "name": "React",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "react_redux",
+                        "name": "React Redux",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "sap",
+                        "name": "SAP",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "sap_s4hana",
+                        "name": "SAP S/4HANA",
+                        "category": "ERP"
+                    },
+                    {
+                        "uid": "sap_successfactors",
+                        "name": "SAP SuccessFactors",
+                        "category": "Human Capital Management"
+                    },
+                    {
+                        "uid": "salesforce",
+                        "name": "Salesforce",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforce_community_cloud",
+                        "name": "Salesforce Community Cloud",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforce_desk",
+                        "name": "Salesforce Desk",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforce_experience_cloud_suite",
+                        "name": "Salesforce Experience Cloud Suite",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforce_lightning",
+                        "name": "Salesforce Lightning",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "salesforce_lightning_web_components",
+                        "name": "Salesforce Lightning Web Components",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "salesforce_live_agent",
+                        "name": "Salesforce Live Agent",
+                        "category": "Chats"
+                    },
+                    {
+                        "uid": "salesforce_platform",
+                        "name": "Salesforce Platform",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "salesforce_service_cloud",
+                        "name": "Salesforce Service Cloud",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "salesforce_services",
+                        "name": "Salesforce Services",
+                        "category": "Customer Relationship Management"
+                    },
+                    {
+                        "uid": "salesforcecom_forcecom",
+                        "name": "Salesforce.com Force.com",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "solarwinds_npm",
+                        "name": "SolarWinds NPM",
+                        "category": "Cloud Services"
+                    },
+                    {
+                        "uid": "spreadsheet_server_by_insightsoftware",
+                        "name": "Spreadsheet Server by insightsoftware",
+                        "category": "Business Intelligence"
+                    },
+                    {
+                        "uid": "stripe",
+                        "name": "Stripe",
+                        "category": "Payments"
+                    },
+                    {
+                        "uid": "tiktok",
+                        "name": "TikTok",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "toggl_track",
+                        "name": "Toggl Track",
+                        "category": "Analytics and Tracking"
+                    },
+                    {
+                        "uid": "varnish",
+                        "name": "Varnish",
+                        "category": "Load Balancers"
+                    },
+                    {
+                        "uid": "viewport_meta",
+                        "name": "Viewport Meta",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "vimeo",
+                        "name": "Vimeo",
+                        "category": "Online Video Platforms"
+                    },
+                    {
+                        "uid": "vite",
+                        "name": "Vite",
+                        "category": "Other"
+                    },
+                    {
+                        "uid": "vue_js_library",
+                        "name": "VueJS",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "vue_js_library",
+                        "name": "VueJS",
+                        "category": "CSS and JavaScript Libraries"
+                    },
+                    {
+                        "uid": "whatsapp",
+                        "name": "WhatsApp",
+                        "category": "Communication and Collaboration"
+                    },
+                    {
+                        "uid": "wistia",
+                        "name": "Wistia",
+                        "category": "Online Video Platforms"
+                    },
+                    {
+                        "uid": "youtube",
+                        "name": "YouTube",
+                        "category": "Online Video Platforms"
+                    },
+                    {
+                        "uid": "zendesk",
+                        "name": "Zendesk",
+                        "category": "Support and Feedback"
+                    },
+                    {
+                        "uid": "erate",
+                        "name": "eRate",
+                        "category": "Advertising Networks"
+                    },
+                    {
+                        "uid": "recaptcha",
+                        "name": "reCAPTCHA",
+                        "category": "Captcha"
+                    }
+                ],
+                "ai": [
+                    {
+                        "name": "MyraCloud",
+                        "category": "CDN / Security",
+                        "confidence": 1.0,
+                        "source": "HTTP Header 'server: myracloud'",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.55,
+                            "evidence_density": 0.29
+                        }
+                    },
+                    {
+                        "name": "Nuxt.js",
+                        "category": "Frontend Framework",
+                        "confidence": 0.99,
+                        "source": "Préfixes CSS 'nuxt-*'",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.7,
+                            "evidence_density": 0.33
+                        }
+                    },
+                    {
+                        "name": "OneTrust",
+                        "category": "Consent Management",
+                        "confidence": 0.99,
+                        "source": "Script 'cdn.cookielaw.org' et préfixes 'optanon-*'",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.92,
+                            "evidence_density": 0.16
+                        }
+                    },
+                    {
+                        "name": "Criteo",
+                        "category": "AdTech",
+                        "confidence": 1.0,
+                        "source": "Texte: 'notre partenaire Criteo S.A. pourrons générer un identifiant'",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.84,
+                            "evidence_density": 0.09
+                        }
+                    },
+                    {
+                        "name": "Google Analytics",
+                        "category": "Analytics",
+                        "confidence": 0.95,
+                        "source": "Match regex 'Google Analytics' détecté",
+                        "xai_metrics": {
+                            "faithfulness_score": 0,
+                            "calibration_error": 0.36,
+                            "evidence_density": 0.42
+                        }
+                    }
+                ]
+            },
+            "suborganizations": {
+                "apollo": [
+                    {
+                        "id": "67347ba59358b10001b6526a",
+                        "name": "Lidl Voyages",
+                        "domain": "Non renseigné"
+                    }
+                ],
+                "ai": []
+            },
+            "funding_events": {
+                "apollo": [],
+                "ai": []
+            },
+            "competitors": {
+                "apollo": "Non renseigné",
+                "ai": [
+                    "Aldi",
+                    "E.Leclerc",
+                    "Carrefour",
+                    "Intermarché",
+                    "Auchan"
+                ]
+            }
+        }
+    }
+}

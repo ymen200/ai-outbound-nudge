@@ -1,0 +1,282 @@
+[
+    {
+        "id": "6a5abaf9ae5b990018659d5a",
+        "url": "https://lifestyleonwheels.com/the-champions-fuel-has-arrived-aramco-launches-first-premium-station-in-the-ph",
+        "domain": "lifestyleonwheels.com",
+        "title": "The champion's fuel has arrived: Aramco launches first premium station in the ph!",
+        "snippet": "Experience track-to-road performance as global giant Aramco debuts its premium ProForce fuel and Valvoline car care in Sucat.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-07-17T04:00:00.000+00:00",
+        "event_categories": [
+            "launches"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a597d51ac136c00107b1f20",
+        "url": "https://www.albiladpress.com/news/2026/6484/finance/1009364.html",
+        "domain": "albiladpress.com",
+        "title": "'Aramco' awards 'Halliburton' contract to develop unconventional gas in Saudi Arabia",
+        "snippet": "Saudi 'Aramco' has awarded 'Halliburton' a multi-year contract to provide services for the development of unconventional gas in the Kingdom of Saudi Arabia.",
+        "organization_ids": [
+            "5da37ab88be63400016f0d86",
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-07-15T00:00:00.000+00:00",
+        "event_categories": [
+            "signs_new_client"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a59fb4bbc7592000cd11ba8",
+        "url": "https://sensia-solutions.com/news/sensia-formalises-strategic-alliance-with-saudi-aramco-to-advance-industrial-digitalization",
+        "domain": "sensia-solutions.com",
+        "title": "SENSIA formalises strategic alliance with Saudi Aramco to advance industrial digitalization.",
+        "snippet": "SENSIA formalises strategic alliance with Saudi Aramco to advance industrial digitalization.",
+        "organization_ids": [
+            "55f881fff3e5bb48340031cd",
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-07-14T14:47:29.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a541c7e39776c001caa58f8",
+        "url": "https://noqta.tn/en/news/together-ai-800m-series-c-aramco-ventures-2026",
+        "domain": "noqta.tn",
+        "title": "Together AI raises $800M Led by Aramco Ventures at $8.3B valuation.",
+        "snippet": "Saudi Aramco's venture arm led an $800 million Series C into open-source inference provider Together AI, more than doubling its valuation to $8.3 billion as enterprise demand for open models triples.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29",
+            "63883d85e176a800a350e053"
+        ],
+        "published_at": "2026-07-10T00:00:00.000+00:00",
+        "event_categories": [
+            "invests_into"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a51874274d8fa0010246994",
+        "url": "https://bworldonline.com/corporate/2026/07/09/762081/aramco-to-open-first-branded-fuel-station-in-philippines",
+        "domain": "bworldonline.com",
+        "title": "Aramco to open first branded fuel station in Philippines.",
+        "snippet": "Aramco to open first branded fuel station in Philippines.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-07-08T16:05:36.000+00:00",
+        "event_categories": [
+            "opens_new_location"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a4e2324501758001c553984",
+        "url": "https://hydrocarbonprocessing.com/news/2026/07/fluor-signs-long-term-program-management-consultancy-contract-with-saudi-aramco",
+        "domain": "hydrocarbonprocessing.com",
+        "title": "Fluor signs long-term program management consultancy contract with Saudi Aramco.",
+        "snippet": "Fluor signs long-term program management consultancy contract with Saudi Aramco.",
+        "organization_ids": [
+            "54a120a369702d9a8bc3a502",
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-07-07T12:09:37.000+00:00",
+        "event_categories": [
+            "signs_new_client"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a4d8078ceeb6e0020fe1521",
+        "url": "https://politixia.com/2026/07/06/wall-street-just-wont-stop-financing-the-fossil-fuel-industrys-expansion",
+        "domain": "politixia.com",
+        "title": "Wall street just won't stop financing the fossil fuel industry's expansion.",
+        "snippet": "Indeed, in recent years oil majors including ExxonMobil, Shell, and Saudi Aramco have invested heavily in that field by, among other things, acquiring majority stakes in plastics and chemical companies and retrofitting oil refineries to accommodate a shift in production.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-07-06T19:30:16.000+00:00",
+        "event_categories": [
+            "invests_into_assets"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "622d790ee5bb9500dc5c0506",
+        "url": "https://keyfactsenergy.com/news/36200/view",
+        "domain": "keyfactsenergy.com",
+        "title": "Worley awarded agreement for project management consultancy.",
+        "snippet": "Worley has been awarded, as part of a pool of 11 contractors, a long-term agreement by Aramco to support projects within the Kingdom of Saudi Arabia.",
+        "organization_ids": [
+            "5d1bc7b626d612095e04fcc2",
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-07-06T00:00:00.000+00:00",
+        "event_categories": [
+            "signs_new_client"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a5250b654b686000ca8e09d",
+        "url": "https://www.societyforscience.org/blog/estp-isef-2026",
+        "domain": "societyforscience.org",
+        "title": "What three leading scientists told the next generation at Regeneron ISEF 2026.",
+        "snippet": "At Regeneron ISEF 2026, the Excellence in Science and Technology Panel, presented by Aramco, brought together three leading scientists and science journalist Joe Palca to discuss the future of scientific research and the promise and risks of AI.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-06-29T13:44:59.000+00:00",
+        "event_categories": [
+            "attends_event"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a4204b78163f0000ce0af3f",
+        "url": "https://alanbatnews.net/article/479362",
+        "domain": "alanbatnews.net",
+        "title": "14 people killed in Saudi Arabia in crash of helicopter belonging to oil company Aramco",
+        "snippet": "The Saudi Ministry of Energy announced today, Sunday, the crash of a helicopter belonging to Aramco in Ras Tanura governorate, resulting in the death of all 14 passengers on board, all of whom were Saudis.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-06-28T16:04:00.000+00:00",
+        "event_categories": [
+            "has_issues_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a4e2517059d1f00201c10aa",
+        "url": "https://www.woodgroup.com/news/long-term-agreement-with-aramco",
+        "domain": "woodgroup.com",
+        "title": "Wood secures long-term agreement with Aramco for Saudi Arabia capital projects.",
+        "snippet": "Wood secures long-term agreement with Aramco for Saudi Arabia capital projects.",
+        "organization_ids": [
+            "624ef31e658d0300a6cc28d2",
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-06-19T09:52:27.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a354def2a899a001c3dcf52",
+        "url": "https://intlbm.com/2026/06/19/sme-bank-aramco-taleed-and-manafa-launch-funding-solutions-to-support-smes",
+        "domain": "intlbm.com",
+        "title": "SME Bank, Aramco Taleed, and Manafa launch funding solutions to support SMEs.",
+        "snippet": "SME Bank, in collaboration with Aramco Taleed, Aramco's comprehensive small and medium enterprises (SME) development program, and Manafa, a leading fintech company and a portfolio company of Wa'ed Ventures, announced the launch of financing solutions to enhance financing opportunities for SMEs during a ceremony held today in Dhahran.",
+        "organization_ids": [
+            "632f7d6815552a00a3f25c4a",
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-06-19T06:25:30.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2c021a266a6c002050254e",
+        "url": "https://www.middleeastmonitor.com/20260611-china-saudi-aramco-discuss-energy-security-oil-and-gas-cooperation",
+        "domain": "middleeastmonitor.com",
+        "title": "China, Saudi Aramco discuss energy security, oil and gas cooperation.",
+        "snippet": "The meeting comes as Saudi Aramco has been expanding its downstream presence in China, the world's largest crude oil importer, through long-term supply deals and refining and petrochemical investments.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-06-11T13:32:05.000+00:00",
+        "event_categories": [
+            "expands_offices_in"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a2c1d44b1dd230010797f6c",
+        "url": "https://www.enr.com/articles/63144-saipem-wins-1b-aramco-gas-compression-plant-contract-in-saudi-arabia",
+        "domain": "enr.com",
+        "title": "Saipem wins $1B Aramco gas compression plant contract in Saudi Arabia.",
+        "snippet": "Milan-based engineering and construction contractor Saipem said June 10 it has secured a contract worth more than $1 billion for its share of a project to build a new gas compression plant for Saudi Aramco's Uthmaniyah non-associated gas field in eastern Saudi Arabia.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-06-11T00:00:00.000+00:00",
+        "event_categories": [
+            "invests_into_assets"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a29563192d8ce0014fc9a3d",
+        "url": "https://www.carboncapturejournal.com/news/kaust-and-aramco-convert-co2-into-jet-fuel-range-hydrocarbons-at-record-efficiency/7285.aspx?Category=all",
+        "domain": "carboncapturejournal.com",
+        "title": "KAUST and Aramco convert CO2 into jet fuel-range hydrocarbons at record efficiency.",
+        "snippet": "Aramco said it has invested in KAUST to establish a \"Super Center\" to continue advancing research and development and accelerating energy technologies and clean energy innovation.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-06-10T00:00:00.000+00:00",
+        "event_categories": [
+            "invests_into_assets"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a234834d4a3ae00187a9ecc",
+        "url": "https://www.alarabiya.net/aswaq/videos/closing-bell/2026/06/04/%D8%B3%D9%87%D9%85-%D8%AC%D8%A7%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%8A%D9%82%D9%81%D8%B2-%D8%A7%D9%84%D9%89-%D8%A7%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%84%D9%87-%D9%81%D9%8A-%D9%86%D8%AD%D9%88-%D8%B4%D9%87%D8%B1-%D8%A8%D8%AF%D8%B9%D9%85-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D8%B1%D8%A7%D9%85%D9%83%D9%88",
+        "domain": "alarabiya.net",
+        "title": "\"Gulf Gas\" share jumps to highest level in about a month supported by \"Aramco\" agreement",
+        "snippet": "Shares of Gulf Gas Services Company rose strongly during today's trading, supported by the announcement of signing a long-term agreement with Saudi Aramco.",
+        "organization_ids": [
+            "5e5594d392e8ec0001540756",
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-06-04T15:52:00.000+00:00",
+        "event_categories": [
+            "partners_with"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    },
+    {
+        "id": "6a234bc1d75ddf0014380406",
+        "url": "https://neeludan.com/news-details?title=KEPCO%20Wins%20$1.4-Billion%20power%20Project%20for%20$100-Billion%20Saudi%20Jafurah%20Field",
+        "domain": "neeludan.com",
+        "title": "Blog details.",
+        "snippet": "South Korea's state-run utility Korea Electric Power Corp. (KEPCO) has won a $1.4-billion deal with Saudi oil giant Aramco to build and operate Phase 2 of Saudi Arabia's Jafurah cogeneration power plant at the major gas project estimated to need $100 billion of total investments.",
+        "organization_ids": [
+            "60f4011c4bc0400001342a29"
+        ],
+        "published_at": "2026-06-04T14:30:00.000+00:00",
+        "event_categories": [
+            "invests_into_assets"
+        ],
+        "intent_type": "news",
+        "source_origin": "Apollo API"
+    }
+]
